@@ -1,0 +1,47 @@
+{
+  "id": 100,
+  "text": "BW2020",
+  "icon": "https://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+  "emote": [
+    {
+      "text": "BW2020_欢迎",
+      "url": "https://i0.hdslb.com/bfs/emote/ba2b81cdf3118c703c1ad4ef7e424087a33618cf.png"
+    },
+    {
+      "text": "BW2020_请",
+      "url": "https://i0.hdslb.com/bfs/emote/d775ba5c6f6f58ee272c869a58dd7dae1d1e9355.png"
+    },
+    {
+      "text": "BW2020_你币没了",
+      "url": "https://i0.hdslb.com/bfs/emote/b89e1742ac98ecdc37dbe08b3f01459ba83ca116.png"
+    },
+    {
+      "text": "BW2020_你号没了",
+      "url": "https://i0.hdslb.com/bfs/emote/46031209d17352d86821d5eab36e8a82c6e87e1c.png"
+    },
+    {
+      "text": "BW2020_棒棒哦",
+      "url": "https://i0.hdslb.com/bfs/emote/9c88ffb02d2e2904ca682871584f3b3a696c2348.png"
+    },
+    {
+      "text": "BW2020_我全都要",
+      "url": "https://i0.hdslb.com/bfs/emote/36408633cf896e73451b59ea1c87382aedfa1bd6.png"
+    },
+    {
+      "text": "BW2020_贫穷",
+      "url": "https://i0.hdslb.com/bfs/emote/ea42044e11e949ff221c7746db766e75378ac9eb.png"
+    },
+    {
+      "text": "BW2020_期待",
+      "url": "https://i0.hdslb.com/bfs/emote/9ce557b7630660ea80b313f0acfcae8b12c12114.png"
+    },
+    {
+      "text": "BW2020_我太难了",
+      "url": "https://i0.hdslb.com/bfs/emote/efb76d2fa70ee51382f90f239fe65a98cc13c5b5.png"
+    },
+    {
+      "text": "BW2020_震惊",
+      "url": "https://i0.hdslb.com/bfs/emote/8a1eef67bd3ede9bc29fbd76e9a8df091403d108.png"
+    }
+  ]
+}

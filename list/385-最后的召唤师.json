@@ -1,0 +1,87 @@
+{
+  "id": 385,
+  "text": "最后的召唤师",
+  "icon": "https://i0.hdslb.com/bfs/emote/7978e89ee93384d08b13b8555389a563af279e97.png",
+  "emote": [
+    {
+      "text": "最后的召唤师_报警了",
+      "url": "https://i0.hdslb.com/bfs/emote/cb564521e30441b67082dde4e70d145a1508722a.png"
+    },
+    {
+      "text": "最后的召唤师_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/emote/72007fc6e0cbc2b2c13b8c3971e333708024785a.png"
+    },
+    {
+      "text": "最后的召唤师_吃惊",
+      "url": "https://i0.hdslb.com/bfs/emote/374de373ba1e4e3248bddc3cd36148020c19d5da.png"
+    },
+    {
+      "text": "最后的召唤师_冲",
+      "url": "https://i0.hdslb.com/bfs/emote/7bed69fbf87e04482d8eea66f768d6b882e444c6.png"
+    },
+    {
+      "text": "最后的召唤师_打扰了",
+      "url": "https://i0.hdslb.com/bfs/emote/77d4f755412d33e1b61fa3d6430f21d29190a948.png"
+    },
+    {
+      "text": "最后的召唤师_呆滞",
+      "url": "https://i0.hdslb.com/bfs/emote/848110ae69c3eb02a9acfb904619c09de6b140d4.png"
+    },
+    {
+      "text": "最后的召唤师_点赞",
+      "url": "https://i0.hdslb.com/bfs/emote/f227db5f06de09563e1f246ae8664815b3edab81.png"
+    },
+    {
+      "text": "最后的召唤师_盯",
+      "url": "https://i0.hdslb.com/bfs/emote/a311f13a02b4d2e6a013dcd5e36c72989ad7f016.png"
+    },
+    {
+      "text": "最后的召唤师_朵拉嘲笑",
+      "url": "https://i0.hdslb.com/bfs/emote/80aeb3f255c95bbb9eb1beab164966071238955c.png"
+    },
+    {
+      "text": "最后的召唤师_惊",
+      "url": "https://i0.hdslb.com/bfs/emote/75236abe786ddf56a79ad20e136ce2347cdc21a6.png"
+    },
+    {
+      "text": "最后的召唤师_来了",
+      "url": "https://i0.hdslb.com/bfs/emote/be9d6cb75d1c4a7acaf1e14576c6cebe490de503.png"
+    },
+    {
+      "text": "最后的召唤师_摸摸",
+      "url": "https://i0.hdslb.com/bfs/emote/808b65dddecd55c06bde59080823f60030b6be98.png"
+    },
+    {
+      "text": "最后的召唤师_去吧",
+      "url": "https://i0.hdslb.com/bfs/emote/8887938ae63cdb1ba314f7c7b5bc8bf6ec73aa9e.png"
+    },
+    {
+      "text": "最后的召唤师_忍耐",
+      "url": "https://i0.hdslb.com/bfs/emote/07b0a900ece89d1eebe96529b1b72d5ef9143d5a.png"
+    },
+    {
+      "text": "最后的召唤师_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/8c4aeebeac43fb982ee8135ece282be14d78ef0d.png"
+    },
+    {
+      "text": "最后的召唤师_吐",
+      "url": "https://i0.hdslb.com/bfs/emote/232f77dc9ded3fc86381e0924b4f159779cec87a.png"
+    },
+    {
+      "text": "最后的召唤师_问号",
+      "url": "https://i0.hdslb.com/bfs/emote/06e19dcaf0a9e36d4198882528fee68da6ccd8c9.png"
+    },
+    {
+      "text": "最后的召唤师_歇歇",
+      "url": "https://i0.hdslb.com/bfs/emote/63e50835bad0184129e9382df435efbf6b29a3b0.png"
+    },
+    {
+      "text": "最后的召唤师_摇尾巴",
+      "url": "https://i0.hdslb.com/bfs/emote/969dcad234fc6313ba3da64b558a8a7085625502.png"
+    },
+    {
+      "text": "最后的召唤师_一顿操作",
+      "url": "https://i0.hdslb.com/bfs/emote/5d0a563a3083becb9ce2d0c5bccb591edfcc0031.png"
+    }
+  ]
+}

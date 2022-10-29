@@ -1,0 +1,67 @@
+{
+  "id": 526,
+  "text": "PSG.LGD",
+  "icon": "https://i0.hdslb.com/bfs/emote/c4e210ea2d6ae319f7e7590cbd36e47447e6a392.png",
+  "emote": [
+    {
+      "text": "PSG.LGD_标记",
+      "url": "https://i0.hdslb.com/bfs/emote/5d0ab4a37f632a80a26865eb5fb4f6a91124d346.png"
+    },
+    {
+      "text": "PSG.LGD_别急",
+      "url": "https://i0.hdslb.com/bfs/emote/2aadb6aebf15d4b431d3ff6cc5f92b5894c83f76.png"
+    },
+    {
+      "text": "PSG.LGD_钓鱼",
+      "url": "https://i0.hdslb.com/bfs/emote/77a3d4275755ff0ebb344e5862c6cd0b9a495f57.png"
+    },
+    {
+      "text": "PSG.LGD_反了是吧",
+      "url": "https://i0.hdslb.com/bfs/emote/bc0d7b7d6cb174f47e4a29d417209d98495de000.png"
+    },
+    {
+      "text": "PSG.LGD_尴尬",
+      "url": "https://i0.hdslb.com/bfs/emote/9ca249e763f0573722952c29cd9a14fbe61ab44b.png"
+    },
+    {
+      "text": "PSG.LGD_给力",
+      "url": "https://i0.hdslb.com/bfs/emote/c2ff4991313395637b6a9d6484e569ec05f34a06.png"
+    },
+    {
+      "text": "PSG.LGD_咳嗽",
+      "url": "https://i0.hdslb.com/bfs/emote/a7291d0c959e2256a78b2a553b49f0f0cd917d1a.png"
+    },
+    {
+      "text": "PSG.LGD_肯定",
+      "url": "https://i0.hdslb.com/bfs/emote/fdd78fd0793d614912cd074802d5288f20a6e7dd.png"
+    },
+    {
+      "text": "PSG.LGD_令人兴奋",
+      "url": "https://i0.hdslb.com/bfs/emote/23acecbb51de1b0aedd12401a3a74e887d48e052.png"
+    },
+    {
+      "text": "PSG.LGD_妈呀",
+      "url": "https://i0.hdslb.com/bfs/emote/f1e921be83c0e15c5f4946791980875b63fd110f.png"
+    },
+    {
+      "text": "PSG.LGD_猫叫",
+      "url": "https://i0.hdslb.com/bfs/emote/c1a25dde6d125c234f6ad1e4a20d588a5f59e2ee.png"
+    },
+    {
+      "text": "PSG.LGD_问号",
+      "url": "https://i0.hdslb.com/bfs/emote/976cab01d94eedb7890462afe9f31252d1ae7a9d.png"
+    },
+    {
+      "text": "PSG.LGD_休息",
+      "url": "https://i0.hdslb.com/bfs/emote/3a7f19b00785cf15f0d9c453bdd60a3fe4329041.png"
+    },
+    {
+      "text": "PSG.LGD_疑惑",
+      "url": "https://i0.hdslb.com/bfs/emote/165a8bc9d1824c8625867d66e8221d9a7b2e322a.png"
+    },
+    {
+      "text": "PSG.LGD_真的帅",
+      "url": "https://i0.hdslb.com/bfs/emote/c485b246610d373c1253253c7d96bd4a2ae50dee.png"
+    }
+  ]
+}

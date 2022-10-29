@@ -1,0 +1,47 @@
+{
+  "id": 289,
+  "text": "RNG战队",
+  "icon": "https://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+  "emote": [
+    {
+      "text": "RNG_出征",
+      "url": "https://i0.hdslb.com/bfs/emote/e579dfd2c0cdfa32a2caa479c4e1c63d8e906dd0.png"
+    },
+    {
+      "text": "RNG_点点",
+      "url": "https://i0.hdslb.com/bfs/emote/2e5dcb9de9296b3698a79dfdad9acf7c261dcd9a.png"
+    },
+    {
+      "text": "RNG_666",
+      "url": "https://i0.hdslb.com/bfs/emote/fae966b1ddb891e547fac1b19470624f5df35e25.png"
+    },
+    {
+      "text": "RNG_牛",
+      "url": "https://i0.hdslb.com/bfs/emote/0e0c2383854838ef5a564fa77119a86d3e41a7d1.png"
+    },
+    {
+      "text": "RNG_哭哭",
+      "url": "https://i0.hdslb.com/bfs/emote/e0afca8c038b8112a0b453618c07873a6b4fadfb.png"
+    },
+    {
+      "text": "RNG_集合",
+      "url": "https://i0.hdslb.com/bfs/emote/6eaf8084df74ff5bb35eb6f0146a10a46d59095e.png"
+    },
+    {
+      "text": "RNG_荣光加冕",
+      "url": "https://i0.hdslb.com/bfs/emote/ab9d4f327feb1cdbf28a54f9048feab5f28bf05f.png"
+    },
+    {
+      "text": "RNG_庆祝",
+      "url": "https://i0.hdslb.com/bfs/emote/20f79198047a498c97d3980db3b56dc7272e7932.png"
+    },
+    {
+      "text": "RNG_冲",
+      "url": "https://i0.hdslb.com/bfs/emote/fe7f6aef8e95a8407f4a54aeaf50f0547fd42762.png"
+    },
+    {
+      "text": "RNG_RNG",
+      "url": "https://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png"
+    }
+  ]
+}

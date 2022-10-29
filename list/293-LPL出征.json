@@ -1,0 +1,47 @@
+{
+  "id": 293,
+  "text": "LPL出征",
+  "icon": "https://i0.hdslb.com/bfs/emote/6a8a125b695d806613df40c2881dbdc053a0860a.png",
+  "emote": [
+    {
+      "text": "LPL_赞",
+      "url": "https://i0.hdslb.com/bfs/emote/001cea7d90c3c19e96f457088cec5cb2563a10aa.png"
+    },
+    {
+      "text": "LPL_GG",
+      "url": "https://i0.hdslb.com/bfs/emote/c83dd10eaccf93793f11520721259c340cb2f1ab.png"
+    },
+    {
+      "text": "LPL_YYDS",
+      "url": "https://i0.hdslb.com/bfs/emote/9320a087fb758f1dee07e8a967e5a8306a117dec.png"
+    },
+    {
+      "text": "LPL_加油",
+      "url": "https://i0.hdslb.com/bfs/emote/d91a2e00411a33904c82b30171042113c00ab85b.png"
+    },
+    {
+      "text": "LPL_来吧",
+      "url": "https://i0.hdslb.com/bfs/emote/5734b124b09089db828696da54fda27b66da7978.png"
+    },
+    {
+      "text": "LPL_跑",
+      "url": "https://i0.hdslb.com/bfs/emote/07c9d0cf38aac424d66186630b041b67375a521f.png"
+    },
+    {
+      "text": "LPL_鲨",
+      "url": "https://i0.hdslb.com/bfs/emote/e26d96ce431096d6ee1f1fcc813e94286da989f9.png"
+    },
+    {
+      "text": "LPL_冲",
+      "url": "https://i0.hdslb.com/bfs/emote/7f042d52d1fc46da7328f6b1846474c9401ce2fd.png"
+    },
+    {
+      "text": "LPL_五杀",
+      "url": "https://i0.hdslb.com/bfs/emote/ea0f691166f75aeced897d249f15b0069d3781f5.png"
+    },
+    {
+      "text": "LPL_喜欢",
+      "url": "https://i0.hdslb.com/bfs/emote/48645ef8ee7519b242984b1df2107127955d98fb.png"
+    }
+  ]
+}

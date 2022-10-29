@@ -1,0 +1,47 @@
+{
+  "id": 338,
+  "text": "蔬菜精灵",
+  "icon": "https://i0.hdslb.com/bfs/emote/2dc2b2b446c5fda0cf7cd980b6c7f245a09692c3.png",
+  "emote": [
+    {
+      "text": "蔬菜精灵_em",
+      "url": "https://i0.hdslb.com/bfs/emote/d7776a740fb1675c648eecbc46e7cff4b469bddc.png"
+    },
+    {
+      "text": "蔬菜精灵_hello",
+      "url": "https://i0.hdslb.com/bfs/emote/a4f7b98dce77a0d2090b52abb6cd5cdffea98df7.png"
+    },
+    {
+      "text": "蔬菜精灵_啊",
+      "url": "https://i0.hdslb.com/bfs/emote/ff1680e1e1a2c7d3e1d01355c49247749d009edc.png"
+    },
+    {
+      "text": "蔬菜精灵_爱你",
+      "url": "https://i0.hdslb.com/bfs/emote/6555a436cf91898355ee948cac9acbc69f48bd59.png"
+    },
+    {
+      "text": "蔬菜精灵_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/emote/cb2548972fe166f4a7a7f1af5ccfc0fc095b4286.png"
+    },
+    {
+      "text": "蔬菜精灵_大佬",
+      "url": "https://i0.hdslb.com/bfs/emote/7274cbeca20587ed45e89e8c17331cda686bde89.png"
+    },
+    {
+      "text": "蔬菜精灵_好",
+      "url": "https://i0.hdslb.com/bfs/emote/90089ff5773ff3a7c3fab6e2f943ff869efb0209.png"
+    },
+    {
+      "text": "蔬菜精灵_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/4bf186496d146457e8b81c34194fefa4493f0260.png"
+    },
+    {
+      "text": "蔬菜精灵_谢谢",
+      "url": "https://i0.hdslb.com/bfs/emote/64309d749c989ec33b3a96684f4fbbdf6ab3d933.png"
+    },
+    {
+      "text": "蔬菜精灵_有内鬼",
+      "url": "https://i0.hdslb.com/bfs/emote/4d63e5ee6dc3c53b10ed289abd434cce473503ee.png"
+    }
+  ]
+}

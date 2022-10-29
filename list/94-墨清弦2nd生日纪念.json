@@ -1,0 +1,47 @@
+{
+  "id": 94,
+  "text": "墨清弦2nd生日纪念",
+  "icon": "https://i0.hdslb.com/bfs/emote/27c34885d82a16927fcd13704a676d1201d9375a.png",
+  "emote": [
+    {
+      "text": "墨清弦2nd_抱抱",
+      "url": "https://i0.hdslb.com/bfs/emote/f215e60e88a8438ff5dddca3bc92abd22d8d150a.png"
+    },
+    {
+      "text": "墨清弦2nd_点赞",
+      "url": "https://i0.hdslb.com/bfs/emote/4e2638870787e0dd517f90db0b3a6e330f8a938a.png"
+    },
+    {
+      "text": "墨清弦2nd_加载中",
+      "url": "https://i0.hdslb.com/bfs/emote/6e4d53dab5eb1093699023c7c65b11853d84efa6.png"
+    },
+    {
+      "text": "墨清弦2nd_惊讶",
+      "url": "https://i0.hdslb.com/bfs/emote/d6d1a3d87105da8e7dab81c19d7ee7c87e4b841a.png"
+    },
+    {
+      "text": "墨清弦2nd_撒花",
+      "url": "https://i0.hdslb.com/bfs/emote/c48eb34795a62462010a5fceab4b0c5e98c4568c.png"
+    },
+    {
+      "text": "墨清弦2nd_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/4ae1fab6730f31f02de78729e6c598d46a150937.png"
+    },
+    {
+      "text": "墨清弦2nd_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/418411091500eeee0b3739dac811046376523a1f.png"
+    },
+    {
+      "text": "墨清弦2nd_吸猫",
+      "url": "https://i0.hdslb.com/bfs/emote/54d08d99ec7afe5068c459a918744226d203937b.png"
+    },
+    {
+      "text": "墨清弦2nd_小心心",
+      "url": "https://i0.hdslb.com/bfs/emote/0dcc75854514878c77196a9a37e876c30b0096d3.png"
+    },
+    {
+      "text": "墨清弦2nd_蹲墙角",
+      "url": "https://i0.hdslb.com/bfs/emote/57e71776e1b24675302c331f1bf6a3e6e2ab095e.png"
+    }
+  ]
+}
