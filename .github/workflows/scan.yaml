@@ -1,0 +1,35 @@
+name: Scan Bilibili Emoji
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      master
+    paths-ignore:
+      - ".gitignore"
+      - "LICENSE"
+      - "README.md"
+      - "list/**"
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+          cache: "pip"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Scan emoji
+        env:
+          REDIS_URL: ${{ secrets.REDIS_URL }}
+          SCAN_CONFIG: ${{ secrets.SCAN_CONFIG }}
+        run: python main.py
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update emoji list at $(date '+%Y.%m.%d %H:%M:%S')(UTC+8)"
