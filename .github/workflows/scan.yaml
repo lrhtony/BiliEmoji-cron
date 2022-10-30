@@ -9,8 +9,8 @@ on:
       - "LICENSE"
       - "README.md"
       - "list/**"
-    schedule:
-      - cron: "15 4,15 * * *"
+  schedule:
+    - cron: "15 4,15 * * *"
 jobs:
   scan:
     runs-on: ubuntu-latest
