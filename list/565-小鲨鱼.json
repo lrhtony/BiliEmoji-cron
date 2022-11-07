@@ -1,0 +1,87 @@
+{
+  "id": 565,
+  "text": "小鲨鱼",
+  "icon": "https://i0.hdslb.com/bfs/emote/bc2d6a1360a173904ee0dfe401340bcc4f3472f5.png",
+  "emote": [
+    {
+      "text": "小鲨鱼_大哭",
+      "url": "https://i0.hdslb.com/bfs/emote/c29cda051066eb310f830722f64643267246aa47.png"
+    },
+    {
+      "text": "小鲨鱼_点赞",
+      "url": "https://i0.hdslb.com/bfs/emote/3495a9df9a0c50adb9c00979a7ef61e28f026111.png"
+    },
+    {
+      "text": "小鲨鱼_惊慌",
+      "url": "https://i0.hdslb.com/bfs/emote/190e4f8a8470ef56ae784549dab5d345b21a5c3e.png"
+    },
+    {
+      "text": "小鲨鱼_酷",
+      "url": "https://i0.hdslb.com/bfs/emote/86addb01229bf8171f92de43dbb212877ef4071f.png"
+    },
+    {
+      "text": "小鲨鱼_嗯嗯",
+      "url": "https://i0.hdslb.com/bfs/emote/0c98c22392d079b0513b38fe4c130447d4a0b302.png"
+    },
+    {
+      "text": "小鲨鱼_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/a15896f2360cebb79a0352febe674b730d1b80b0.png"
+    },
+    {
+      "text": "小鲨鱼_贴贴",
+      "url": "https://i0.hdslb.com/bfs/emote/809a69678e13577e708b175c6e48131dcd03595e.png"
+    },
+    {
+      "text": "小鲨鱼_投币",
+      "url": "https://i0.hdslb.com/bfs/emote/ce1b4108a16a8ce033d6da162e65e6f2e6f73560.png"
+    },
+    {
+      "text": "小鲨鱼_疑问",
+      "url": "https://i0.hdslb.com/bfs/emote/965e1e4eae3b03fdd94b32cb5f2b980d5192f6da.png"
+    },
+    {
+      "text": "小鲨鱼_震惊",
+      "url": "https://i0.hdslb.com/bfs/emote/d38990bcab56aa0f57ed468c00fa47f0ab73464d.png"
+    },
+    {
+      "text": "小鲨鱼_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/emote/4bedb948f0fd970df260812016802a321e5dc1cf.png"
+    },
+    {
+      "text": "小鲨鱼_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/emote/18376d95fd7c9bed16eefbd92ecbcc44554ca4a9.png"
+    },
+    {
+      "text": "小鲨鱼_吃药",
+      "url": "https://i0.hdslb.com/bfs/emote/c9411fc9a800656dce63570b60b2b176d2915558.png"
+    },
+    {
+      "text": "小鲨鱼_戳中",
+      "url": "https://i0.hdslb.com/bfs/emote/cc65dcd155f7e131bd3f39018e65746567604b85.png"
+    },
+    {
+      "text": "小鲨鱼_打call",
+      "url": "https://i0.hdslb.com/bfs/emote/c5f477d690618493ec0087b22ba0602384341f4c.png"
+    },
+    {
+      "text": "小鲨鱼_害羞",
+      "url": "https://i0.hdslb.com/bfs/emote/542eebb0b0482227a4d3277a0fff5c4e4e6c6f06.png"
+    },
+    {
+      "text": "小鲨鱼_前排",
+      "url": "https://i0.hdslb.com/bfs/emote/19bcee9c58d256e0b14a9d33a37b3c721edcd1ec.png"
+    },
+    {
+      "text": "小鲨鱼_有问题",
+      "url": "https://i0.hdslb.com/bfs/emote/52d8d4f7d45e479af1b873484d52f2a7eb654d73.png"
+    },
+    {
+      "text": "小鲨鱼_晕",
+      "url": "https://i0.hdslb.com/bfs/emote/09194c545593f44b5aaa1793fa5e183d6ce83d40.png"
+    },
+    {
+      "text": "小鲨鱼_真菜",
+      "url": "https://i0.hdslb.com/bfs/emote/87d4ed845870ddc319d09f39e2721523da65af6e.png"
+    }
+  ]
+}
