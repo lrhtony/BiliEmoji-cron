@@ -38,7 +38,8 @@ class BiliEmoji:
         params = {
             'access_key': self.BILI_ACCESS_TOKEN,
             'business': 'reply',
-            'ids': ','.join([str(i) for i in ids])
+            'ids': ','.join([str(i) for i in ids]),
+            'mobi_app': 'android_i'
         }
         response = requests.get('https://api.bilibili.com/x/emote/package', params=params, proxies=self.PROXY)
         response_json = response.json()
