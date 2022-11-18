@@ -1,12 +1,8 @@
 {
   "id": 1,
   "text": "小黄脸",
-  "icon": "https://i0.hdslb.com/bfs/emote/fc7dadaa6986e75b813aa26f3eff3281d5f1a6d1.png",
+  "icon": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
   "emote": [
-    {
-      "text": "三星堆",
-      "url": "https://i0.hdslb.com/bfs/emote/fc7dadaa6986e75b813aa26f3eff3281d5f1a6d1.png"
-    },
     {
       "text": "脱单doge",
       "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png"
@@ -368,6 +364,10 @@
       "url": "https://i0.hdslb.com/bfs/emote/9275275ff1f2659310648221107d20bc4970f106.png"
     },
     {
+      "text": "三星堆",
+      "url": "https://i0.hdslb.com/bfs/emote/fc7dadaa6986e75b813aa26f3eff3281d5f1a6d1.png"
+    },
+    {
       "text": "洛天依",
       "url": "https://i0.hdslb.com/bfs/emote/9fe06f3594d9afaf4ee2b74770f1c3086ae0ba11.png"
     },
@@ -402,6 +402,10 @@
     {
       "text": "来古-注意",
       "url": "https://i0.hdslb.com/bfs/emote/4b671ba32a2581cf40e5cd41c67b111eb8010de0.png"
+    },
+    {
+      "text": "初音未来_大笑",
+      "url": "https://i0.hdslb.com/bfs/emote/8e7f71cda83ce407b0684702983399f8ed982f17.png"
     },
     {
       "text": "原神_哇",
