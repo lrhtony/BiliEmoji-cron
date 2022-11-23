@@ -1,8 +1,12 @@
 {
   "id": 1,
   "text": "小黄脸",
-  "icon": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+  "icon": "https://i0.hdslb.com/bfs/emote/f9157d9fa5ac3b8339cb8a8b7ad70eb40d4113c9.png",
   "emote": [
+    {
+      "text": "足球",
+      "url": "https://i0.hdslb.com/bfs/emote/f9157d9fa5ac3b8339cb8a8b7ad70eb40d4113c9.png"
+    },
     {
       "text": "脱单doge",
       "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png"
