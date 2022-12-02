@@ -1,0 +1,47 @@
+{
+  "id": 615,
+  "text": "天气",
+  "icon": "https://i0.hdslb.com/bfs/emote/e55dca771a247730ccb51945ec80d9dec92d04e4.png",
+  "emote": [
+    {
+      "text": "天气_不想起床",
+      "url": "https://i0.hdslb.com/bfs/emote/1bf116c43b365944f2f71eed89ebb314474a2545.png"
+    },
+    {
+      "text": "天气_吃火锅",
+      "url": "https://i0.hdslb.com/bfs/emote/292deb9a8a1adf0acc847f4b63b74ede448ad2d2.png"
+    },
+    {
+      "text": "天气_冻住",
+      "url": "https://i0.hdslb.com/bfs/emote/d6a13d312dc57789024e193c6d3fa6b46313fbc7.png"
+    },
+    {
+      "text": "天气_堆雪人",
+      "url": "https://i0.hdslb.com/bfs/emote/bf65b5f2b003ea0eba8774e594fd21fd89804dda.png"
+    },
+    {
+      "text": "天气_给你秋裤",
+      "url": "https://i0.hdslb.com/bfs/emote/0e926d554245966c1eafbafe9f8d2216a63f570c.png"
+    },
+    {
+      "text": "天气_滑雪",
+      "url": "https://i0.hdslb.com/bfs/emote/0a67d3d4950ecdc322e1d7d9e79ba24fa8087700.png"
+    },
+    {
+      "text": "天气_奶茶续命",
+      "url": "https://i0.hdslb.com/bfs/emote/c66901177121cab38df35fc7c097c723e5c671f7.png"
+    },
+    {
+      "text": "天气_取暖",
+      "url": "https://i0.hdslb.com/bfs/emote/c42b20518235b0b9af67774261841a6e19526b63.png"
+    },
+    {
+      "text": "天气_晚安",
+      "url": "https://i0.hdslb.com/bfs/emote/e778a1fca5b1fd748c277734137e8e8936860139.png"
+    },
+    {
+      "text": "天气_下雪啦",
+      "url": "https://i0.hdslb.com/bfs/emote/e0c9b6e1aac5521a07aded30ae9b64bbe8948ea9.png"
+    }
+  ]
+}
