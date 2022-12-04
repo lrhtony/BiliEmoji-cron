@@ -1,0 +1,127 @@
+{
+  "id": 652,
+  "text": "汤圆酱",
+  "icon": "https://i0.hdslb.com/bfs/emote/32d30c313fcd188a253ce5d6d1e3f56d6d2b9b58.png",
+  "emote": [
+    {
+      "text": "汤圆酱_NICE",
+      "url": "https://i0.hdslb.com/bfs/emote/d4fd2cc8cbf852592e94497dd42be097d20c09e0.png"
+    },
+    {
+      "text": "汤圆酱_nono",
+      "url": "https://i0.hdslb.com/bfs/emote/1ebbe54e16a3d8640c707ac48628b46ded2c5acd.png"
+    },
+    {
+      "text": "汤圆酱_哼",
+      "url": "https://i0.hdslb.com/bfs/emote/cc23172bcb61cc4090dc848bd72943a887b0f64a.png"
+    },
+    {
+      "text": "汤圆酱_不好意思",
+      "url": "https://i0.hdslb.com/bfs/emote/51d21bd51fba23d01bc0997e374804ffb1bc99f0.png"
+    },
+    {
+      "text": "汤圆酱_不屑",
+      "url": "https://i0.hdslb.com/bfs/emote/bfa56872d8d9af6128dc738c9a490dfe645c8ba3.png"
+    },
+    {
+      "text": "汤圆酱_咦",
+      "url": "https://i0.hdslb.com/bfs/emote/18c177319a01b97a998994d5a5deb8358b92d3d5.png"
+    },
+    {
+      "text": "汤圆酱_搓手",
+      "url": "https://i0.hdslb.com/bfs/emote/f1749f5eee8305ae3a4397d74c68e5f6bb7664ee.png"
+    },
+    {
+      "text": "汤圆酱_打call",
+      "url": "https://i0.hdslb.com/bfs/emote/e4e66c7abeaca2a9ba568884db29a565618203ae.png"
+    },
+    {
+      "text": "汤圆酱_大脑过载",
+      "url": "https://i0.hdslb.com/bfs/emote/bdaa6e27ce014ee15afdd9d683cb002bc1a58694.png"
+    },
+    {
+      "text": "汤圆酱_大笑",
+      "url": "https://i0.hdslb.com/bfs/emote/f90d32956621f07179def14c453bf38f64a1a62c.png"
+    },
+    {
+      "text": "汤圆酱_点赞",
+      "url": "https://i0.hdslb.com/bfs/emote/0417f02c01eef4bf0055f79321ac760fbc1cc71e.png"
+    },
+    {
+      "text": "汤圆酱_懂你",
+      "url": "https://i0.hdslb.com/bfs/emote/151d6af87df72d4b93c1ca839b985b8eb0a1f834.png"
+    },
+    {
+      "text": "汤圆酱_疯狂点赞",
+      "url": "https://i0.hdslb.com/bfs/emote/0818a17279430c41fe4dc04f7e6f4b2002cdaef0.png"
+    },
+    {
+      "text": "汤圆酱_功德+1",
+      "url": "https://i0.hdslb.com/bfs/emote/ad34a18331625832be93125dd3892721d390ba8f.png"
+    },
+    {
+      "text": "汤圆酱_害羞",
+      "url": "https://i0.hdslb.com/bfs/emote/e13381286bff5e3758dfeb0860f5ab260b983ff5.png"
+    },
+    {
+      "text": "汤圆酱_红眼",
+      "url": "https://i0.hdslb.com/bfs/emote/8d737287c1c03aa4c53b7f775af92968564d52a8.png"
+    },
+    {
+      "text": "汤圆酱_惊讶",
+      "url": "https://i0.hdslb.com/bfs/emote/6f31f6cb868ae9a2bba3a8fa22b2d37f9b9fa818.png"
+    },
+    {
+      "text": "汤圆酱_可爱",
+      "url": "https://i0.hdslb.com/bfs/emote/591cb76527dcdbfc3263ffc6ef708e573c40caee.png"
+    },
+    {
+      "text": "汤圆酱_沙雕",
+      "url": "https://i0.hdslb.com/bfs/emote/520d99dbdd24af5ed348153c4543aaf5dee0b6ec.png"
+    },
+    {
+      "text": "汤圆酱_傻笑",
+      "url": "https://i0.hdslb.com/bfs/emote/c5bc04eb2654d78452ea213d7d4c9e115445e59d.png"
+    },
+    {
+      "text": "汤圆酱_耍酷",
+      "url": "https://i0.hdslb.com/bfs/emote/71404428b13aabcb599a4402f333b01aed0d6d0f.png"
+    },
+    {
+      "text": "汤圆酱_说的就是你",
+      "url": "https://i0.hdslb.com/bfs/emote/ac87c3d3713bb45a8fe8a7b341125bc50f7d973b.png"
+    },
+    {
+      "text": "汤圆酱_酸了",
+      "url": "https://i0.hdslb.com/bfs/emote/c10336dac6926d2732fdedd5bb8fbbf77827f755.png"
+    },
+    {
+      "text": "汤圆酱_偷瞄",
+      "url": "https://i0.hdslb.com/bfs/emote/1eacea5d407df750d17af44289c57d2fe3554b28.png"
+    },
+    {
+      "text": "汤圆酱_偷笑",
+      "url": "https://i0.hdslb.com/bfs/emote/d0ef81dfb2c877637cc8a284f9efb645d59a9ea1.png"
+    },
+    {
+      "text": "汤圆酱_投币",
+      "url": "https://i0.hdslb.com/bfs/emote/2c900ae44e5ff9d7713faa7ae41582332b14a6f3.png"
+    },
+    {
+      "text": "汤圆酱_细品",
+      "url": "https://i0.hdslb.com/bfs/emote/8fdd7f649e498de6d223cc443e575a00d8e71f94.png"
+    },
+    {
+      "text": "汤圆酱_星星眼",
+      "url": "https://i0.hdslb.com/bfs/emote/b783f383f46d340e27580aeff11ce5678ac758b8.png"
+    },
+    {
+      "text": "汤圆酱_疑问",
+      "url": "https://i0.hdslb.com/bfs/emote/fe806b1b2f7a51b69a5c9405ecbfb22a6418d05c.png"
+    },
+    {
+      "text": "汤圆酱_装傻",
+      "url": "https://i0.hdslb.com/bfs/emote/62779264c138fea856a7e7abc9991512e73f0511.png"
+    }
+  ]
+}
