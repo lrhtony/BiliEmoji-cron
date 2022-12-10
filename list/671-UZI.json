@@ -1,0 +1,67 @@
+{
+  "id": 671,
+  "text": "UZI",
+  "icon": "https://i0.hdslb.com/bfs/garb/item/4aec55120cf5f439d4c373e69e6eb1c60e89efd6.png",
+  "emote": [
+    {
+      "text": "UZI_洗澡",
+      "url": "https://i0.hdslb.com/bfs/garb/item/9c7950b45f9174bea12db3b45d0b2310b3dbf166.png"
+    },
+    {
+      "text": "UZI_痛苦面具",
+      "url": "https://i0.hdslb.com/bfs/garb/item/ef211724746064ecede3ebe0a93c33748a68a64c.png"
+    },
+    {
+      "text": "UZI_喷水",
+      "url": "https://i0.hdslb.com/bfs/garb/item/2baad182b1320c537713a806a9640820f8f92bcb.png"
+    },
+    {
+      "text": "UZI_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/item/cfd8d13e89fe5291239e9e72b88a32f7cdfd4495.png"
+    },
+    {
+      "text": "UZI_你瞅啥",
+      "url": "https://i0.hdslb.com/bfs/garb/item/f8a26696c64033a77075e1c7adbbbec725c158e6.png"
+    },
+    {
+      "text": "UZI_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/item/a4a4da741733770ed9ea047d04820abac36f6df2.png"
+    },
+    {
+      "text": "UZI_目瞪狗呆",
+      "url": "https://i0.hdslb.com/bfs/garb/item/e0fafc0adde4729f37ca447c28bd903e84f76fcc.png"
+    },
+    {
+      "text": "UZI_脑壳疼",
+      "url": "https://i0.hdslb.com/bfs/garb/item/8e35447607f6764b69b0555a54f4aefc182394f7.png"
+    },
+    {
+      "text": "UZI_散财童子",
+      "url": "https://i0.hdslb.com/bfs/garb/item/fba5e4f088854bc6a50ea345e978a30854338bbc.png"
+    },
+    {
+      "text": "UZI_重拳出击",
+      "url": "https://i0.hdslb.com/bfs/garb/item/6714b4abcc63a1efd04267bd92efdb9a1b0ee7ea.png"
+    },
+    {
+      "text": "UZI_乌理学",
+      "url": "https://i0.hdslb.com/bfs/garb/item/a9094ca031f7d3af495e6d5e6e24670ba98249ab.png"
+    },
+    {
+      "text": "UZI_emmm",
+      "url": "https://i0.hdslb.com/bfs/garb/item/30a6af5db9495d39523d6dbad6d5202e6fe7cd76.png"
+    },
+    {
+      "text": "UZI_木已成舟",
+      "url": "https://i0.hdslb.com/bfs/garb/item/79b386ab3e7c5a66d62c7561a90eddd5a21c1576.png"
+    },
+    {
+      "text": "UZI_不听不听",
+      "url": "https://i0.hdslb.com/bfs/garb/item/44d02595405ab3a6bbe7b4a14e3bd4bddf23f91d.png"
+    },
+    {
+      "text": "UZI_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/item/e18c1a69663bbd7bdb2434d7363be3d4614b20a1.png"
+    }
+  ]
+}
