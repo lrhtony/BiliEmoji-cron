@@ -1,8 +1,12 @@
 {
   "id": 1,
   "text": "小黄脸",
-  "icon": "https://i0.hdslb.com/bfs/emote/f9157d9fa5ac3b8339cb8a8b7ad70eb40d4113c9.png",
+  "icon": "https://i0.hdslb.com/bfs/emote/fa6dda8b876ed38609de38aa604be5ad109b8591.png",
   "emote": [
+    {
+      "text": "2023",
+      "url": "https://i0.hdslb.com/bfs/emote/fa6dda8b876ed38609de38aa604be5ad109b8591.png"
+    },
     {
       "text": "足球",
       "url": "https://i0.hdslb.com/bfs/emote/f9157d9fa5ac3b8339cb8a8b7ad70eb40d4113c9.png"
@@ -342,6 +346,10 @@
     {
       "text": "保佑",
       "url": "https://i0.hdslb.com/bfs/emote/fafe8d3de0dc139ebe995491d2dac458a865fb30.png"
+    },
+    {
+      "text": "福",
+      "url": "https://i0.hdslb.com/bfs/emote/802429a301ac5b35a0480d9526a070ce67cd8097.png"
     },
     {
       "text": "支持",
