@@ -1,0 +1,47 @@
+{
+  "id": 750,
+  "text": "鸽子球",
+  "icon": "https://i0.hdslb.com/bfs/garb/item/c9160a2606a245752480213ff85dcbdf08d8bcd1.png",
+  "emote": [
+    {
+      "text": "鸽子球_思考人生",
+      "url": "https://i0.hdslb.com/bfs/garb/item/dee04484ef6f729eeff4a2cb8f6231a49829d732.png"
+    },
+    {
+      "text": "鸽子球_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/item/42c97b61c82dead4d4c8178405856bde2bb17178.png"
+    },
+    {
+      "text": "鸽子球_好喜欢你",
+      "url": "https://i0.hdslb.com/bfs/garb/item/8e5f3907fb0823fcb0117cb72afa9763d0232c24.png"
+    },
+    {
+      "text": "鸽子球_快乐",
+      "url": "https://i0.hdslb.com/bfs/garb/item/09e4a2e6ed4d10705f673fef5c5eaf877673d197.png"
+    },
+    {
+      "text": "鸽子球_发大财了",
+      "url": "https://i0.hdslb.com/bfs/garb/item/4196df8d5c83f86baa1ae9533bd0568294f28a72.png"
+    },
+    {
+      "text": "鸽子球_我先睡了",
+      "url": "https://i0.hdslb.com/bfs/garb/item/b2c3eecd2bb896734a60aff503ba71a52ada0a28.png"
+    },
+    {
+      "text": "鸽子球_愉悦",
+      "url": "https://i0.hdslb.com/bfs/garb/item/a2254641cd06cf1811407877fcfded6e3ac2567b.png"
+    },
+    {
+      "text": "鸽子球_这有坏人",
+      "url": "https://i0.hdslb.com/bfs/garb/item/f51ab41d41b25a127207083559c6bdca7080ca6f.png"
+    },
+    {
+      "text": "鸽子球_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/item/880ee19ba3ca8c4fcdd37679f72cc4da3f0d2dc1.png"
+    },
+    {
+      "text": "鸽子球_交给我吧",
+      "url": "https://i0.hdslb.com/bfs/garb/item/8ec8f8974c272c27897a73fd367771a4cfd65b2c.png"
+    }
+  ]
+}

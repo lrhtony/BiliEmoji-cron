@@ -5,7 +5,7 @@
   "emote": [
     {
       "text": "qiqi_气急败坏",
-      "url": "https://i0.hdslb.com/bfs/garb/item/dfcbf1a8ed5ba39f9683e88436d91ee02bd3279a.png"
+      "url": "https://i0.hdslb.com/bfs/emote/275240b8083002975f769b71ce48a89052c1f626.png"
     },
     {
       "text": "qiqi_老板大气",
@@ -17,7 +17,7 @@
     },
     {
       "text": "qiqi_晚安",
-      "url": "https://i0.hdslb.com/bfs/garb/item/96b42669ca8753f851c6c869b564da676c7a5626.png"
+      "url": "https://i0.hdslb.com/bfs/emote/43f8b21c43f7c330c7d2592cf88c5b13ca57a1d2.png"
     },
     {
       "text": "qiqi_破防",
@@ -29,7 +29,7 @@
     },
     {
       "text": "qiqi_星星眼",
-      "url": "https://i0.hdslb.com/bfs/garb/item/9975b8f8230137ca4b1128e69d7e4eaa5829c05c.png"
+      "url": "https://i0.hdslb.com/bfs/emote/587fe01bf171564fc025f343a0e23fb5fb75c4c0.png"
     },
     {
       "text": "qiqi_来啦",
@@ -37,7 +37,7 @@
     },
     {
       "text": "qiqi_头大",
-      "url": "https://i0.hdslb.com/bfs/garb/item/a12df7dc4feac1cad2ba544c7f8300fd3cb8ec6a.png"
+      "url": "https://i0.hdslb.com/bfs/emote/f98271f1c5597797a79bebf43931b0861914c741.png"
     },
     {
       "text": "qiqi_憨憨",
@@ -45,7 +45,7 @@
     },
     {
       "text": "qiqi_酸了",
-      "url": "https://i0.hdslb.com/bfs/garb/item/12c4144d52b711c7b76032922e3255dcbbe99e07.png"
+      "url": "https://i0.hdslb.com/bfs/emote/0075a18836dda47064c63b336be64b20161cf499.png"
     },
     {
       "text": "qiqi_神气",
@@ -57,15 +57,15 @@
     },
     {
       "text": "qiqi_嘤嘤嘤",
-      "url": "https://i0.hdslb.com/bfs/garb/item/51f172ed9ba3fc97f8980354ecc9fe3d72a788a0.png"
+      "url": "https://i0.hdslb.com/bfs/emote/efc987201e6f1387b9cf05ea7ecdc72dddc79f48.png"
     },
     {
       "text": "qiqi_赞",
-      "url": "https://i0.hdslb.com/bfs/garb/item/b8591d2044b13c817979d270d005dae6deb2dec1.png"
+      "url": "https://i0.hdslb.com/bfs/emote/b56b288eac97a1f455561cd72738bed6a073c38f.png"
     },
     {
       "text": "qiqi_问号",
-      "url": "https://i0.hdslb.com/bfs/garb/item/2c081a2b5e86c31434ceb278a770cc08628bca53.png"
+      "url": "https://i0.hdslb.com/bfs/emote/738f278080e0785aba3e46544074c22519ba2837.png"
     },
     {
       "text": "qiqi_加油",
@@ -85,7 +85,7 @@
     },
     {
       "text": "qiqi_一键三连",
-      "url": "https://i0.hdslb.com/bfs/garb/item/0f6e7d2a01dfa816f886c60924309b930cc3d767.png"
+      "url": "https://i0.hdslb.com/bfs/emote/0ffd40d55d3f5ac37ec2cce6f46d452b4b4848aa.png"
     },
     {
       "text": "qiqi_好耶",
@@ -102,6 +102,10 @@
     {
       "text": "qiqi_达咩",
       "url": "https://i0.hdslb.com/bfs/garb/item/0c0d2136216e028423aeeef6d0b2fed53bd01b06.png"
+    },
+    {
+      "text": "qiqi_对不qi",
+      "url": "https://i0.hdslb.com/bfs/emote/881c7a1c113b36c62ced1f34de8a73917fa7c94e.png"
     }
   ]
 }
