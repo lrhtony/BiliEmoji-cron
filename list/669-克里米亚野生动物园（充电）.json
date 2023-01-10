@@ -4,10 +4,6 @@
   "icon": "https://i0.hdslb.com/bfs/garb/83c080a047c8d9a10e87e19671e7815f7d9e4771.png",
   "emote": [
     {
-      "text": "UPOWER_590490400_抱抱",
-      "url": "https://i0.hdslb.com/bfs/garb/2394c22f1bba832ca60f68f0cc1203000c50500f.png"
-    },
-    {
       "text": "UPOWER_590490400_卖萌",
       "url": "https://i0.hdslb.com/bfs/garb/34f5eff2451b9895143979a9f8a79c82151499b7.png"
     },
@@ -24,7 +20,7 @@
       "url": "https://i0.hdslb.com/bfs/garb/5e6eb46c2374fb6bbf02623a5bde3557d7263ec7.png"
     },
     {
-      "text": "UPOWER_590490400_来啊",
+      "text": "UPOWER_590490400_来玩",
       "url": "https://i0.hdslb.com/bfs/garb/d39afb2e13b01350f25774311754d109a00854d9.png"
     },
     {
@@ -42,6 +38,34 @@
     {
       "text": "UPOWER_590490400_喵",
       "url": "https://i0.hdslb.com/bfs/garb/edf3282d0bde99baecad9e0df68db1d79370023d.png"
+    },
+    {
+      "text": "UPOWER_590490400_哈喽",
+      "url": "https://i0.hdslb.com/bfs/garb/99c6f804716165668019d11bbf022338ea367a4f.png"
+    },
+    {
+      "text": "UPOWER_590490400_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/cf4e75506a78506675f9af403bb721d9fcc44f8f.png"
+    },
+    {
+      "text": "UPOWER_590490400_啊",
+      "url": "https://i0.hdslb.com/bfs/garb/b433e3b5f24ae7846fda4d831de174447bbce46e.png"
+    },
+    {
+      "text": "UPOWER_590490400_轻蔑",
+      "url": "https://i0.hdslb.com/bfs/garb/51d41a831f91fc1fec733c68d06984080cd56d74.png"
+    },
+    {
+      "text": "UPOWER_590490400_什么",
+      "url": "https://i0.hdslb.com/bfs/garb/558f47e6d95734b555584b5d90a3f9c56daaaabf.png"
+    },
+    {
+      "text": "UPOWER_590490400_躺",
+      "url": "https://i0.hdslb.com/bfs/garb/43d3a30b0955b0ce26fd9fdcc3ec6f765ddf377a.png"
+    },
+    {
+      "text": "UPOWER_590490400_凶",
+      "url": "https://i0.hdslb.com/bfs/garb/7e3ef652e26519bb4ea75a585910989e776663c3.png"
     }
   ]
 }
