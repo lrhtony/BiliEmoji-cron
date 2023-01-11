@@ -1,8 +1,12 @@
 {
   "id": 53,
   "text": "热词系列一",
-  "icon": "https://i0.hdslb.com/bfs/emote/21f15fe11b7a84d2f2121c16dec50a4e4556f865.png",
+  "icon": "https://i0.hdslb.com/bfs/emote/8de880a58fada7e0e668f2f47dabf0c223de4e58.png",
   "emote": [
+    {
+      "text": "念诗之王",
+      "url": "https://i0.hdslb.com/bfs/emote/8de880a58fada7e0e668f2f47dabf0c223de4e58.png"
+    },
     {
       "text": "热词系列_三连",
       "url": "https://i0.hdslb.com/bfs/emote/21f15fe11b7a84d2f2121c16dec50a4e4556f865.png"
@@ -192,6 +196,10 @@
       "url": "https://i0.hdslb.com/bfs/emote/c9b8683827ec6c00fea5327c9bec14f581cef2aa.png"
     },
     {
+      "text": "热词系列_神仙UP",
+      "url": "https://i0.hdslb.com/bfs/emote/a49e0d0db1e7d35a0f7411be13208951ab448f03.png"
+    },
+    {
       "text": "热词系列_问号",
       "url": "https://i0.hdslb.com/bfs/emote/c1d1e76c12180adc8558f47006fe0e7ded4154bb.png"
     },
@@ -214,10 +222,6 @@
     {
       "text": "热词系列_我全都要",
       "url": "https://i0.hdslb.com/bfs/emote/d424d1ad8d14c1c9b8367842bc68c658b9229bc1.png"
-    },
-    {
-      "text": "热词系列_神仙UP",
-      "url": "https://i0.hdslb.com/bfs/emote/a49e0d0db1e7d35a0f7411be13208951ab448f03.png"
     },
     {
       "text": "热词系列_福建舰",
