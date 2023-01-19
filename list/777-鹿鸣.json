@@ -1,0 +1,71 @@
+{
+  "id": 777,
+  "text": "鹿鸣",
+  "icon": "https://i0.hdslb.com/bfs/garb/item/485c94a1c6baff8d483aa69efd7a4f7bee761035.png",
+  "emote": [
+    {
+      "text": "鹿鸣_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/item/abe24df3ccbd90ae91606e34a592f97636c8e43e.png"
+    },
+    {
+      "text": "鹿鸣_嗨",
+      "url": "https://i0.hdslb.com/bfs/garb/item/bb41535974ed6f1f7db529251e0e5a9307c7f509.png"
+    },
+    {
+      "text": "鹿鸣_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/item/575c8c34ae6f0c03a69e8bcb3c3af1785c8f19e7.png"
+    },
+    {
+      "text": "鹿鸣_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/item/67f0c88f51822983dac96877e7a71ed2930b6c73.png"
+    },
+    {
+      "text": "鹿鸣_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/item/60c07cdc1d5d934cc9fcd3d884224e9189f6c1b0.png"
+    },
+    {
+      "text": "鹿鸣_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/item/1f8da2c6b927629985cf04681686f25c0c2940ae.png"
+    },
+    {
+      "text": "鹿鸣_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/item/54ed12f6b64b55efede8398bbdead92893c30027.png"
+    },
+    {
+      "text": "鹿鸣_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/item/23f0e45148bc2f833ca45d3bfbe481846ca958fd.png"
+    },
+    {
+      "text": "鹿鸣_难过",
+      "url": "https://i0.hdslb.com/bfs/garb/item/aa6df4900e447611edad8dc9f710487da9b7b782.png"
+    },
+    {
+      "text": "鹿鸣_不",
+      "url": "https://i0.hdslb.com/bfs/garb/item/904b1c0d37e8a6529b35ac1c89188fd01a8f7f4f.png"
+    },
+    {
+      "text": "鹿鸣_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/item/473bee190b5f78ec01718d47e3eabe2b37f98836.png"
+    },
+    {
+      "text": "鹿鸣_抓狂",
+      "url": "https://i0.hdslb.com/bfs/garb/item/4b36f7d96534be7a5c93e73b528ef7656bad37ad.png"
+    },
+    {
+      "text": "鹿鸣_可怜",
+      "url": "https://i0.hdslb.com/bfs/garb/item/ae273314c40640cc28f6b2bb52f9c133b0cc829f.png"
+    },
+    {
+      "text": "鹿鸣_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/item/d4088e1263db7ed013729e3c21f26b0b372b44d4.png"
+    },
+    {
+      "text": "鹿鸣_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/item/42a01bc0e4243eaa02f12e8ffddbfd5c4a9aa41d.png"
+    },
+    {
+      "text": "鹿鸣_吃",
+      "url": "https://i0.hdslb.com/bfs/garb/item/703c332fe1a36769cf5a42adb57f8f16a7ac6636.png"
+    }
+  ]
+}
