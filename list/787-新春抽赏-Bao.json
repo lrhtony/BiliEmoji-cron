@@ -1,5 +1,27 @@
 {
   "id": 787,
   "text": "新春抽赏-Bao",
-  "icon": "https://i0.hdslb.com/bfs/emote/97693a765ca44597cafaefbf2a06a5dccacdd3f5.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/97693a765ca44597cafaefbf2a06a5dccacdd3f5.png",
+  "emote": [
+    {
+      "text": "新春抽赏-Bao_大吃大喝",
+      "url": "https://i0.hdslb.com/bfs/emote/97693a765ca44597cafaefbf2a06a5dccacdd3f5.png"
+    },
+    {
+      "text": "新春抽赏-Bao_好耶",
+      "url": "https://i0.hdslb.com/bfs/emote/6eef9c2ee72ac2f35e642dd9e5ab6f56bb30876f.png"
+    },
+    {
+      "text": "新春抽赏-Bao_潜水",
+      "url": "https://i0.hdslb.com/bfs/emote/eb14bf9099381400796480fbd92dc3a91f01e77f.png"
+    },
+    {
+      "text": "新春抽赏-Bao_兔年吉祥",
+      "url": "https://i0.hdslb.com/bfs/emote/b98502c0a8a21a88b414dd546a6524e50673ec92.png"
+    },
+    {
+      "text": "新春抽赏-Bao_新年祈愿",
+      "url": "https://i0.hdslb.com/bfs/emote/05c481e125b0329543c85894d6659b52fa6ef1ac.png"
+    }
+  ]
 }

@@ -1,5 +1,27 @@
 {
   "id": 786,
   "text": "新春抽赏-奈奈莉娅",
-  "icon": "https://i0.hdslb.com/bfs/emote/5c4246a1cb8f7c27cf5f48af6b46503b22b209fd.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/5c4246a1cb8f7c27cf5f48af6b46503b22b209fd.png",
+  "emote": [
+    {
+      "text": "新春抽赏-奈奈莉娅_拜年啦",
+      "url": "https://i0.hdslb.com/bfs/emote/5c4246a1cb8f7c27cf5f48af6b46503b22b209fd.png"
+    },
+    {
+      "text": "新春抽赏-奈奈莉娅_给点",
+      "url": "https://i0.hdslb.com/bfs/emote/1a12c0969aa19602cccd6fe88ef0136dc0a53081.png"
+    },
+    {
+      "text": "新春抽赏-奈奈莉娅_红包拿来",
+      "url": "https://i0.hdslb.com/bfs/emote/ee3537865131178aa332d639a1db7b850bbceb2e.png"
+    },
+    {
+      "text": "新春抽赏-奈奈莉娅_亲亲",
+      "url": "https://i0.hdslb.com/bfs/emote/2bfd8f5b6f13f2206e028c46010bd02a7c94bede.png"
+    },
+    {
+      "text": "新春抽赏-奈奈莉娅_新春快乐",
+      "url": "https://i0.hdslb.com/bfs/emote/608e1e05fa73848dfbd29534c2ab54e309bdb1aa.png"
+    }
+  ]
 }
