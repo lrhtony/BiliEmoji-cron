@@ -1,0 +1,67 @@
+{
+  "id": 920,
+  "text": "喵喵漫游",
+  "icon": "https://i0.hdslb.com/bfs/garb/2db1e642a1d84cdc5806d7c07d7df626537fbe14.png",
+  "emote": [
+    {
+      "text": "喵喵漫游_呜呜呜",
+      "url": "https://i0.hdslb.com/bfs/garb/7caa63485e14f0d6d39efce826dc445fc199040c.png"
+    },
+    {
+      "text": "喵喵漫游_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/e6df4d433e73e4612caeba1e6539df277950aa25.png"
+    },
+    {
+      "text": "喵喵漫游_滑稽",
+      "url": "https://i0.hdslb.com/bfs/garb/4acc8b1994ce3d89fa61fb7ba1c2253633735705.png"
+    },
+    {
+      "text": "喵喵漫游_安详",
+      "url": "https://i0.hdslb.com/bfs/garb/39dd76ed3fea64f2a2bf6b80b3ca6fc556eb0efa.png"
+    },
+    {
+      "text": "喵喵漫游_哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/1e047b14f9c684285bb7c8b45d4950426b1aef4b.png"
+    },
+    {
+      "text": "喵喵漫游_窒息",
+      "url": "https://i0.hdslb.com/bfs/garb/97461396179334cde2a2d0e95798e02cf5d7c56e.png"
+    },
+    {
+      "text": "喵喵漫游_面部扭曲",
+      "url": "https://i0.hdslb.com/bfs/garb/0990bf6464dbe098e22c1bf639f346440a482bb2.png"
+    },
+    {
+      "text": "喵喵漫游_你小子",
+      "url": "https://i0.hdslb.com/bfs/garb/933d1eb35618656bec702a2d359314184d4583a2.png"
+    },
+    {
+      "text": "喵喵漫游_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/08d7fa5bca8e1e8865fa52c28a9fb49ae90ef0ac.png"
+    },
+    {
+      "text": "喵喵漫游_润了",
+      "url": "https://i0.hdslb.com/bfs/garb/ce2d45593acc97ed7899ee51a6c4a64edc80ee4c.png"
+    },
+    {
+      "text": "喵喵漫游_哇哦",
+      "url": "https://i0.hdslb.com/bfs/garb/a9f9cdb3074961540e56b67a51eb67b419e02d38.png"
+    },
+    {
+      "text": "喵喵漫游_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/d9170f495cf99ace92596067d85b8d79acfdd844.png"
+    },
+    {
+      "text": "喵喵漫游_咦？",
+      "url": "https://i0.hdslb.com/bfs/garb/ea7e516a2ea97ce9fd2b0f61f6e19fdff523f56e.png"
+    },
+    {
+      "text": "喵喵漫游_怎会如此",
+      "url": "https://i0.hdslb.com/bfs/garb/77ca03693ade180a43a4c933bfa560832ba81e3c.png"
+    },
+    {
+      "text": "喵喵漫游_我要闹了",
+      "url": "https://i0.hdslb.com/bfs/garb/5a2d3cbb12eb68ad7242564eccd41f46b164228e.png"
+    }
+  ]
+}
