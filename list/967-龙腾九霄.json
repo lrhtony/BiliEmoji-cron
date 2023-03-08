@@ -1,0 +1,67 @@
+{
+  "id": 967,
+  "text": "龙腾九霄",
+  "icon": "https://i0.hdslb.com/bfs/garb/2254bd07fa875b0f6d66860200f5dc20634f13eb.png",
+  "emote": [
+    {
+      "text": "龙腾九霄_叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/1e7a6446dc7cdf616af7f41470febf358c55a5fc.png"
+    },
+    {
+      "text": "龙腾九霄_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/cf4939e2a630788e1a817b61fe654094fa86db0f.png"
+    },
+    {
+      "text": "龙腾九霄_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/84560036f59aec6df03bb98fd68aa401bbd55a5d.png"
+    },
+    {
+      "text": "龙腾九霄_失落",
+      "url": "https://i0.hdslb.com/bfs/garb/1cc9023f47872c2ad5a21ceecd9f37bef70b997b.png"
+    },
+    {
+      "text": "龙腾九霄_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/efa54de819945103dc07ec6316b1ab0e3fc87786.png"
+    },
+    {
+      "text": "龙腾九霄_已黑化",
+      "url": "https://i0.hdslb.com/bfs/garb/155bb9768e4e577a502694959e3359ff8ad53c39.png"
+    },
+    {
+      "text": "龙腾九霄_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/16c4a2a2a56ad94314ddb0a43f7b0695220616a4.png"
+    },
+    {
+      "text": "龙腾九霄_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/9a677550f45eeed92e6df8dd8f40d9ae7b08ef2b.png"
+    },
+    {
+      "text": "龙腾九霄_陷入沉思",
+      "url": "https://i0.hdslb.com/bfs/garb/41d78098005853ad1b22612a5c08450ec07481ff.png"
+    },
+    {
+      "text": "龙腾九霄_喷了",
+      "url": "https://i0.hdslb.com/bfs/garb/079fe0b3acafd9b9aaf11bba0658e8e03d2e616c.png"
+    },
+    {
+      "text": "龙腾九霄_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/ea52a04013eee474e2eab30926294a9587f20dc6.png"
+    },
+    {
+      "text": "龙腾九霄_头痛",
+      "url": "https://i0.hdslb.com/bfs/garb/8d1614987de0f9771e7692a160dd70f18e874266.png"
+    },
+    {
+      "text": "龙腾九霄_小丑是我",
+      "url": "https://i0.hdslb.com/bfs/garb/90393b715b7c210c0c2eaeb22116062085db8e8c.png"
+    },
+    {
+      "text": "龙腾九霄_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/35aa2af46747f139f1c3473e51ed15b197c5fad2.png"
+    },
+    {
+      "text": "龙腾九霄_已报警",
+      "url": "https://i0.hdslb.com/bfs/garb/071e900178694a01c154ffac9ae11b3846e6974b.png"
+    }
+  ]
+}
