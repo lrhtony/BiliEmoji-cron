@@ -1,0 +1,67 @@
+{
+  "id": 993,
+  "text": "星月小黑猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/d52f26cf342e89eb0800e0b32b418d71eaecb1cf.png",
+  "emote": [
+    {
+      "text": "星月小黑猫_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/eb31a08df97f064eca09fcf83621b615a4b582a9.png"
+    },
+    {
+      "text": "星月小黑猫_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/15a5c4f43147e70b2213e66ab36cadb439da12b5.png"
+    },
+    {
+      "text": "星月小黑猫_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/d0d49d31e28cecb846826cc5c34c84abfac74b28.png"
+    },
+    {
+      "text": "星月小黑猫_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/f69a25fdb4be1a1bb209b53ed0f0e1639b2572af.png"
+    },
+    {
+      "text": "星月小黑猫_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/66c69398a1ca227a88786de51cc323971754d059.png"
+    },
+    {
+      "text": "星月小黑猫_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/47468d82a8586ac3868f36514f1ac396ee530596.png"
+    },
+    {
+      "text": "星月小黑猫_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/3fbf59c8a675bcb5fccfe2aa8f607b1722cc9cf7.png"
+    },
+    {
+      "text": "星月小黑猫_飞奔.png",
+      "url": "https://i0.hdslb.com/bfs/garb/35b7676a376a07074f278298d95d782e5e118db5.png"
+    },
+    {
+      "text": "星月小黑猫_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/f9af97fad0a10f2e01561e24e78da5ae987ae1a8.png"
+    },
+    {
+      "text": "星月小黑猫_心碎",
+      "url": "https://i0.hdslb.com/bfs/garb/4062c2a98eb800b05874b167a1ff935a0024196e.png"
+    },
+    {
+      "text": "星月小黑猫_怀疑猫生",
+      "url": "https://i0.hdslb.com/bfs/garb/c42f2096c64122bf2fae2d315f904c7a4d84365b.png"
+    },
+    {
+      "text": "星月小黑猫_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/34b3bfb6124d19d9c950a41be4614ea062048e58.png"
+    },
+    {
+      "text": "星月小黑猫_谢谢",
+      "url": "https://i0.hdslb.com/bfs/garb/f1e90aa00f5176244cbc8113450a17e2c8a07beb.png"
+    },
+    {
+      "text": "星月小黑猫_发呆",
+      "url": "https://i0.hdslb.com/bfs/garb/3ebcaa3d67fd9dedd44377a4b821834c17f02e85.png"
+    },
+    {
+      "text": "星月小黑猫_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/40b301c3920690fb743d2a47761e2b29129e4aa5.png"
+    }
+  ]
+}
