@@ -1,0 +1,67 @@
+{
+  "id": 1135,
+  "text": "闪光小偶像",
+  "icon": "https://i0.hdslb.com/bfs/garb/d6fe6021fca2b2d76c85dff4d153d46a40f3b89d.png",
+  "emote": [
+    {
+      "text": "闪光小偶像_偷笑",
+      "url": "https://i0.hdslb.com/bfs/garb/9b04b3d5e46ef5fb749bcab8546ee63b54478621.png"
+    },
+    {
+      "text": "闪光小偶像_唱歌",
+      "url": "https://i0.hdslb.com/bfs/garb/01555808e236b8df304324d9287c057b87654335.png"
+    },
+    {
+      "text": "闪光小偶像_你说什么",
+      "url": "https://i0.hdslb.com/bfs/garb/51e545fde8e10e1ce1fd430e9a41c284cd5d4424.png"
+    },
+    {
+      "text": "闪光小偶像_哇塞",
+      "url": "https://i0.hdslb.com/bfs/garb/ed8ed0021caf66266f892f2cbfd9febb01998248.png"
+    },
+    {
+      "text": "闪光小偶像_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/896d645eb78f5366dd6bcad6ec8e7b7087dfc7ca.png"
+    },
+    {
+      "text": "闪光小偶像_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/cec35b5835f9f74d84e30994913f14cfbf4058bd.png"
+    },
+    {
+      "text": "闪光小偶像_不要说哦",
+      "url": "https://i0.hdslb.com/bfs/garb/d237f8d500e5f3d5ed38deab4487eb4268c8481c.png"
+    },
+    {
+      "text": "闪光小偶像_呃",
+      "url": "https://i0.hdslb.com/bfs/garb/7e0622f857437b5c57b3c14c9d446f9f66e59ada.png"
+    },
+    {
+      "text": "闪光小偶像_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/764570fbab77f07221813ba4246a1036f238112f.png"
+    },
+    {
+      "text": "闪光小偶像_后退",
+      "url": "https://i0.hdslb.com/bfs/garb/3c2e8a1076e31fd9635452c36618a0fac97429d0.png"
+    },
+    {
+      "text": "闪光小偶像_就是你啦",
+      "url": "https://i0.hdslb.com/bfs/garb/409d01f7c3e0dafd855603799dea309e85204988.png"
+    },
+    {
+      "text": "闪光小偶像_不可以哦",
+      "url": "https://i0.hdslb.com/bfs/garb/2c3185b24ab70c275f2184e087778416194422fb.png"
+    },
+    {
+      "text": "闪光小偶像_嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/312042842af24e90c73fbe4d92d7e24bedade9e9.png"
+    },
+    {
+      "text": "闪光小偶像_不要啊",
+      "url": "https://i0.hdslb.com/bfs/garb/e79b7a832fdf8de0bbfc65a02338b116eebcdc34.png"
+    },
+    {
+      "text": "闪光小偶像_哇嗷",
+      "url": "https://i0.hdslb.com/bfs/garb/16dd1202deeeeb777f0f1c164245bfde940f236e.png"
+    }
+  ]
+}

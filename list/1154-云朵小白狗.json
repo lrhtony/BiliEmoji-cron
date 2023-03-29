@@ -1,0 +1,87 @@
+{
+  "id": 1154,
+  "text": "云朵小白狗",
+  "icon": "https://i0.hdslb.com/bfs/garb/ea72e12f20ba265a3adb70e3727adb8a4418b882.png",
+  "emote": [
+    {
+      "text": "云朵小白狗_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/3fb1f6a18e67caa7f9fba3a48950377b84402bb5.png"
+    },
+    {
+      "text": "云朵小白狗_什么",
+      "url": "https://i0.hdslb.com/bfs/garb/03ca84f1d0b644703af713777d8bae9e05b8d10b.png"
+    },
+    {
+      "text": "云朵小白狗_尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/04c8663a00cde745b2da121f5b942d38f3424f2e.png"
+    },
+    {
+      "text": "云朵小白狗_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/bea70df4a77b4d7350769a663e9f8151699a9dec.png"
+    },
+    {
+      "text": "云朵小白狗_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/1b6ba0cc4bfa42354b4028910386099958636984.png"
+    },
+    {
+      "text": "云朵小白狗_这",
+      "url": "https://i0.hdslb.com/bfs/garb/6f40081abb31730d69b7b80a623a45af2222ed8e.png"
+    },
+    {
+      "text": "云朵小白狗_融化",
+      "url": "https://i0.hdslb.com/bfs/garb/d61ff7cec4e75bc1312e5998fda8c418552653f7.png"
+    },
+    {
+      "text": "云朵小白狗_心动",
+      "url": "https://i0.hdslb.com/bfs/garb/a9c4d19d9a1998de79f41208326db4154a23fe5e.png"
+    },
+    {
+      "text": "云朵小白狗_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/827e947b15d1e27f69dc14e24dcffaae89924686.png"
+    },
+    {
+      "text": "云朵小白狗_加载中",
+      "url": "https://i0.hdslb.com/bfs/garb/9e4df1880f2bc98f906d9f9e6cb32654768aa68e.png"
+    },
+    {
+      "text": "云朵小白狗_累了",
+      "url": "https://i0.hdslb.com/bfs/garb/017b29ef6e606fb500b3115bad39e3ad00675894.png"
+    },
+    {
+      "text": "云朵小白狗_啊",
+      "url": "https://i0.hdslb.com/bfs/garb/8ba40930877330f6d2164d03bcff5a0c02935cb5.png"
+    },
+    {
+      "text": "云朵小白狗_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/52a53a0aea84168f3c61018b61749d07169072ed.png"
+    },
+    {
+      "text": "云朵小白狗_嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/7dc819bcb643acfba921467e6616527b8ac30984.png"
+    },
+    {
+      "text": "云朵小白狗_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/f6c80eeaf8b3e6e18ede4203503fd21d04b5b4e4.png"
+    },
+    {
+      "text": "云朵小白狗_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/e51f2aa44a847af8975f29129ef99ab8d35ba18e.png"
+    },
+    {
+      "text": "云朵小白狗_消失",
+      "url": "https://i0.hdslb.com/bfs/garb/59fe7b7393f2c84e5e1d2a8a8f38c22a7d5cecfc.png"
+    },
+    {
+      "text": "云朵小白狗_趴",
+      "url": "https://i0.hdslb.com/bfs/garb/d53ce769d5c3b438c30d4be2ab097e688481c808.png"
+    },
+    {
+      "text": "云朵小白狗_激动",
+      "url": "https://i0.hdslb.com/bfs/garb/ff25aa0491d21dc9bb23a8b99fe6078a4b19df18.png"
+    },
+    {
+      "text": "云朵小白狗_鞠躬",
+      "url": "https://i0.hdslb.com/bfs/garb/fc8f4d5651afb9a1270f380d6c699d42f4039327.png"
+    }
+  ]
+}
