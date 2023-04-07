@@ -1,0 +1,67 @@
+{
+  "id": 1263,
+  "text": "魔法小螈",
+  "icon": "https://i0.hdslb.com/bfs/garb/8efb07f3a4b3fccbf55957ba8b19274921203e6c.png",
+  "emote": [
+    {
+      "text": "魔法小螈_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/2e02dbfa79cad7923218a1dc6373b35c8399a6de.png"
+    },
+    {
+      "text": "魔法小螈_变身",
+      "url": "https://i0.hdslb.com/bfs/garb/42d1fe29f270a23fbef2ec9cda5219e96865c970.png"
+    },
+    {
+      "text": "魔法小螈_唱歌",
+      "url": "https://i0.hdslb.com/bfs/garb/ebdf2227d16350cb475d81bb7bf334e145b05381.png"
+    },
+    {
+      "text": "魔法小螈_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/ee900fb89621b3cb23a598ed34e0daef1d298ce5.png"
+    },
+    {
+      "text": "魔法小螈_好奇",
+      "url": "https://i0.hdslb.com/bfs/garb/698dbb6fca4401d5c5c28311f1d6f46f75ed8eff.png"
+    },
+    {
+      "text": "魔法小螈_好喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/5e6691932e5c290ec75ad400de403069d5d4d513.png"
+    },
+    {
+      "text": "魔法小螈_计划通",
+      "url": "https://i0.hdslb.com/bfs/garb/6997f011e6fd0f62d6547d7a2e4be6fd55aeae2b.png"
+    },
+    {
+      "text": "魔法小螈_哭唧唧",
+      "url": "https://i0.hdslb.com/bfs/garb/23e8b7197ece39141e696ee61ec35134e3aa55c1.png"
+    },
+    {
+      "text": "魔法小螈_略略略",
+      "url": "https://i0.hdslb.com/bfs/garb/33aaa07bb02da6d703c83073f58c23a05de752cf.png"
+    },
+    {
+      "text": "魔法小螈_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/f04837b358b9f5bd5c31b2a0e5d183769b2640d5.png"
+    },
+    {
+      "text": "魔法小螈_伸懒腰",
+      "url": "https://i0.hdslb.com/bfs/garb/fe89e19ef03604d64894a020d7541b619a17b1e4.png"
+    },
+    {
+      "text": "魔法小螈_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/bcb19902cd7ea7691c375b43c162c9651ebc73e6.png"
+    },
+    {
+      "text": "魔法小螈_逃离现场",
+      "url": "https://i0.hdslb.com/bfs/garb/fd9fc841875f122632735edb05860f7ddd621ad3.png"
+    },
+    {
+      "text": "魔法小螈_投降",
+      "url": "https://i0.hdslb.com/bfs/garb/58e34d03d1e2d76a86fb8dd02fd662285f093a5a.png"
+    },
+    {
+      "text": "魔法小螈_装死",
+      "url": "https://i0.hdslb.com/bfs/garb/dd01122e42462378b6d6274c5846357587844a4d.png"
+    }
+  ]
+}
