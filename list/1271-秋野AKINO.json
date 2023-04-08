@@ -1,0 +1,67 @@
+{
+  "id": 1271,
+  "text": "秋野AKINO",
+  "icon": "https://i0.hdslb.com/bfs/garb/3ad437495f4f3c9801590d6d6ec5e27205c93f45.png",
+  "emote": [
+    {
+      "text": "秋野AKINO_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/2fa3726f2d58fddf9cde9758d56f662134d0c9ee.png"
+    },
+    {
+      "text": "秋野AKINO_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/5d0bd6347fa388214da639ec0576128cdc511826.png"
+    },
+    {
+      "text": "秋野AKINO_真不熟",
+      "url": "https://i0.hdslb.com/bfs/garb/727ca54a763b75e66632e7d371abedf8c8c51a3c.png"
+    },
+    {
+      "text": "秋野AKINO_破防了",
+      "url": "https://i0.hdslb.com/bfs/garb/db2228833a0750a5f6946a078440981dd095c907.png"
+    },
+    {
+      "text": "秋野AKINO_眠了",
+      "url": "https://i0.hdslb.com/bfs/garb/b8ae738df3f803ec16c5c3adb1a7578140633221.png"
+    },
+    {
+      "text": "秋野AKINO_前排留影",
+      "url": "https://i0.hdslb.com/bfs/garb/6b79e4a9b9dd36d32b3355052ecc153e4ceaa8f4.png"
+    },
+    {
+      "text": "秋野AKINO_零昏",
+      "url": "https://i0.hdslb.com/bfs/garb/18bab00cea210f6340651e960247d1be6e9541c8.png"
+    },
+    {
+      "text": "秋野AKINO_一百昏",
+      "url": "https://i0.hdslb.com/bfs/garb/036e8c760fb98cff1cb049eaa529362bed3d0fa1.png"
+    },
+    {
+      "text": "秋野AKINO_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/3ec94baa59413b90adee8c48246456614bc9b537.png"
+    },
+    {
+      "text": "秋野AKINO_嘿嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/d2411359139e3c0e33a5a5bb4537cca13f860f4b.png"
+    },
+    {
+      "text": "秋野AKINO_牛哇",
+      "url": "https://i0.hdslb.com/bfs/garb/fe47c6055d0b11ac03e8bbb499a3ba222b706ad8.png"
+    },
+    {
+      "text": "秋野AKINO_诶嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/eddea8111dc9f629566a7aeb55f3d582ece7d25b.png"
+    },
+    {
+      "text": "秋野AKINO_啊哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/87d55152c3e7de0f880924cb10d67e6858db013e.png"
+    },
+    {
+      "text": "秋野AKINO_未响应",
+      "url": "https://i0.hdslb.com/bfs/garb/b8a0d83ca9ab3f9df729852e94809abc94723207.png"
+    },
+    {
+      "text": "秋野AKINO_憔悴",
+      "url": "https://i0.hdslb.com/bfs/garb/5e3e540132c35e06589e01d7c5951296db0283c7.png"
+    }
+  ]
+}
