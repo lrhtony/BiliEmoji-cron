@@ -1,0 +1,67 @@
+{
+  "id": 1323,
+  "text": "绯樱少女",
+  "icon": "https://i0.hdslb.com/bfs/garb/15c6ba2a9b9e39137b083bd67804a806f175c8d2.png",
+  "emote": [
+    {
+      "text": "绯樱少女_剪刀手",
+      "url": "https://i0.hdslb.com/bfs/garb/6ecbac50b17f4d06e9b17c973ec5e79de3091009.png"
+    },
+    {
+      "text": "绯樱少女_迷眼",
+      "url": "https://i0.hdslb.com/bfs/garb/4c7ba118a0bbca2a41438a5ca898e968252499ea.png"
+    },
+    {
+      "text": "绯樱少女_NO",
+      "url": "https://i0.hdslb.com/bfs/garb/2853fcfd2d405d5b8ffa0b96ef096a678731ee86.png"
+    },
+    {
+      "text": "绯樱少女_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/61efcfa1f407a00f08913def8a2925a7f4522c1a.png"
+    },
+    {
+      "text": "绯樱少女_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/c873b557635f16bb3efdec4bca3dc7bc7f2cc8d9.png"
+    },
+    {
+      "text": "绯樱少女_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/bdb85dff31d38d1f460d24abacdb2111c3d877a9.png"
+    },
+    {
+      "text": "绯樱少女_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/7fa40aa3265c0c5eb83c6cd2ae6b43a25d074455.png"
+    },
+    {
+      "text": "绯樱少女_着急",
+      "url": "https://i0.hdslb.com/bfs/garb/341ca439c91f3504196aa3e9486162ec6c6e9148.png"
+    },
+    {
+      "text": "绯樱少女_投币",
+      "url": "https://i0.hdslb.com/bfs/garb/59b868cfff7fcc3c43bb3cda454de6aa28f4cfc0.png"
+    },
+    {
+      "text": "绯樱少女_无聊",
+      "url": "https://i0.hdslb.com/bfs/garb/eeaa606674708d395f4d5d686ee72a0d473e1079.png"
+    },
+    {
+      "text": "绯樱少女_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/cc97245fccfa40de4baceaf688b05040c8caeb5c.png"
+    },
+    {
+      "text": "绯樱少女_哭啼啼",
+      "url": "https://i0.hdslb.com/bfs/garb/8b054c636c9b68d67b5f4197b786af1485efca0e.png"
+    },
+    {
+      "text": "绯樱少女_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/5a63c89f0fa8b65fec2a107646a6171533792a06.png"
+    },
+    {
+      "text": "绯樱少女_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/44e5a10cb78e3db8a1e9e291f1b596ed38e4bc2f.png"
+    },
+    {
+      "text": "绯樱少女_拜托了",
+      "url": "https://i0.hdslb.com/bfs/garb/3656d5b8b8e544e7c5e92c77b2664763cce9b087.png"
+    }
+  ]
+}
