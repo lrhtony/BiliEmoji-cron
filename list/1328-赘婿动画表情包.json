@@ -1,5 +1,87 @@
 {
   "id": 1328,
   "text": "赘婿动画表情包",
-  "icon": "https://i0.hdslb.com/bfs/garb/item/49618e9baa11036c76bf76df0e3795f3539544fc.png"
+  "icon": "https://i0.hdslb.com/bfs/garb/item/49618e9baa11036c76bf76df0e3795f3539544fc.png",
+  "emote": [
+    {
+      "text": "赘婿动画表情包_娘子~",
+      "url": "https://i0.hdslb.com/bfs/garb/item/aa508d1a121e2aee5cbb84569c52ca1dc1bf731e.png"
+    },
+    {
+      "text": "赘婿动画表情包_啊哈~",
+      "url": "https://i0.hdslb.com/bfs/garb/item/309971111b46301858d5391858ac3d5d3480bdcd.png"
+    },
+    {
+      "text": "赘婿动画表情包_这次一定",
+      "url": "https://i0.hdslb.com/bfs/garb/item/d6dcee59cbd745a8159f70dc9d9eb17506843367.png"
+    },
+    {
+      "text": "赘婿动画表情包_一键三连",
+      "url": "https://i0.hdslb.com/bfs/garb/item/948146f71035e5c8dd8a1f6e22189d715bdf7726.png"
+    },
+    {
+      "text": "赘婿动画表情包_受伤",
+      "url": "https://i0.hdslb.com/bfs/garb/item/7bda630fb9ff7437393616f51f4826801373be27.png"
+    },
+    {
+      "text": "赘婿动画表情包_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/item/94336e85093de7850e7d2db0ce140c5ad9dcc5ec.png"
+    },
+    {
+      "text": "赘婿动画表情包_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/item/5a061dc34ae3d0136c17725bdf4db8d6f91f5a4d.png"
+    },
+    {
+      "text": "赘婿动画表情包_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/item/3a603c9b463c392dc9e837e9bbab1d94873ee3d3.png"
+    },
+    {
+      "text": "赘婿动画表情包_乖巧",
+      "url": "https://i0.hdslb.com/bfs/garb/item/0dc87ea0479c5f54c221087b8c6880cb3c3cf549.png"
+    },
+    {
+      "text": "赘婿动画表情包_偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/item/3987a15d06de828783326422e43f939b3f6931c5.png"
+    },
+    {
+      "text": "赘婿动画表情包_算账",
+      "url": "https://i0.hdslb.com/bfs/garb/item/773170d53854d5d1908a0fc239655a0505f862e0.png"
+    },
+    {
+      "text": "赘婿动画表情包_致敬",
+      "url": "https://i0.hdslb.com/bfs/garb/item/53e385b07abca8e60d93de7a449152654a4b0f84.png"
+    },
+    {
+      "text": "赘婿动画表情包_甚好",
+      "url": "https://i0.hdslb.com/bfs/garb/item/360f3b4a33d8d79350c0a631a80d8eb58842bbf6.png"
+    },
+    {
+      "text": "赘婿动画表情包_暖被窝",
+      "url": "https://i0.hdslb.com/bfs/garb/item/25deb785a7f88e57e23a4aa96ef61a7a4b80290a.png"
+    },
+    {
+      "text": "赘婿动画表情包_举个栗子",
+      "url": "https://i0.hdslb.com/bfs/garb/item/de43ab0a39cf74f839288b36bac58e7fd338241a.png"
+    },
+    {
+      "text": "赘婿动画表情包_求投币",
+      "url": "https://i0.hdslb.com/bfs/garb/item/9c3bb632ba3f63dbfabb993c052d75c810fc5a9e.png"
+    },
+    {
+      "text": "赘婿动画表情包_耶",
+      "url": "https://i0.hdslb.com/bfs/garb/item/4d64f6ec4a70664f12b6c6b826dfb7d5ccc9eb1b.png"
+    },
+    {
+      "text": "赘婿动画表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/item/4b224bcf77521d84ca187ed8fb90d173627b191c.png"
+    },
+    {
+      "text": "赘婿动画表情包_自信",
+      "url": "https://i0.hdslb.com/bfs/garb/item/d43faad77abbf0d6e3e26710e4ca9fd6ef2092e2.png"
+    },
+    {
+      "text": "赘婿动画表情包_霸气",
+      "url": "https://i0.hdslb.com/bfs/garb/item/99eb9d7a374b5db7157fdbfd1ba0390f64d6d4f7.png"
+    }
+  ]
 }
