@@ -1,0 +1,67 @@
+{
+  "id": 1610,
+  "text": "蓝色小羊",
+  "icon": "https://i0.hdslb.com/bfs/garb/28f832569b3f40a1674ca45656d123e7e40d2b2f.png",
+  "emote": [
+    {
+      "text": "蓝色小羊_赌气",
+      "url": "https://i0.hdslb.com/bfs/garb/33acdcf2c88ab7a5f15fd951f22277e2f45260cb.png"
+    },
+    {
+      "text": "蓝色小羊_星星眼",
+      "url": "https://i0.hdslb.com/bfs/garb/4b68713e13023c3b0b09a5dac1e46db2081bbe2d.png"
+    },
+    {
+      "text": "蓝色小羊_哦",
+      "url": "https://i0.hdslb.com/bfs/garb/6f4964587f71d7373b557cfe6c6a3c36124c1cb0.png"
+    },
+    {
+      "text": "蓝色小羊_慌乱",
+      "url": "https://i0.hdslb.com/bfs/garb/a61c6a0555adb4668f04a88cbefc963863f69520.png"
+    },
+    {
+      "text": "蓝色小羊_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/b323a800543244f3e55a5a72d189ece1ffa94d3d.png"
+    },
+    {
+      "text": "蓝色小羊_你懂我意思",
+      "url": "https://i0.hdslb.com/bfs/garb/77a3cc8926299df0a40baaafd954c73cb9520717.png"
+    },
+    {
+      "text": "蓝色小羊_达咩",
+      "url": "https://i0.hdslb.com/bfs/garb/3fff3c261e5c3b3b4b032566afea582219638f8e.png"
+    },
+    {
+      "text": "蓝色小羊_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/7ff81d016486f6516d4cbaa471b036ffbc114641.png"
+    },
+    {
+      "text": "蓝色小羊_没问题",
+      "url": "https://i0.hdslb.com/bfs/garb/a06a10c8a66c7985a80470272707676282861282.png"
+    },
+    {
+      "text": "蓝色小羊_您别急",
+      "url": "https://i0.hdslb.com/bfs/garb/53bd5ec64b2c8608fd4ce046caefcd3e6c5a2154.png"
+    },
+    {
+      "text": "蓝色小羊_不熟",
+      "url": "https://i0.hdslb.com/bfs/garb/b689502ab257df2514d45d6ee0bf45d6fba03f0e.png"
+    },
+    {
+      "text": "蓝色小羊_黑脸",
+      "url": "https://i0.hdslb.com/bfs/garb/6ee65356dacc0bda0cd3a37350dc3b3b69314242.png"
+    },
+    {
+      "text": "蓝色小羊_难过",
+      "url": "https://i0.hdslb.com/bfs/garb/1d637ed8cf3975d5d97fdbb7df81b420706f58d0.png"
+    },
+    {
+      "text": "蓝色小羊_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/64d32f0321f36443a921f24ed0c7b9d6d0263d9a.png"
+    },
+    {
+      "text": "蓝色小羊_面无表情",
+      "url": "https://i0.hdslb.com/bfs/garb/2890cac500387e19504fd040504994fe458dec48.png"
+    }
+  ]
+}
