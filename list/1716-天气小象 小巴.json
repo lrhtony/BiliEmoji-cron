@@ -1,0 +1,67 @@
+{
+  "id": 1716,
+  "text": "天气小象 小巴",
+  "icon": "https://i0.hdslb.com/bfs/garb/08ae4c9dd1ac950a50f85cc68f01b8e5b789536d.png",
+  "emote": [
+    {
+      "text": "天气小象 小巴_晴",
+      "url": "https://i0.hdslb.com/bfs/garb/569ef22dc4ad7b4049bd9b3fae9c166f55fd28ad.png"
+    },
+    {
+      "text": "天气小象 小巴_夜",
+      "url": "https://i0.hdslb.com/bfs/garb/b1bf2df2c4b1869fd69654dd9cd583c51134c7cc.png"
+    },
+    {
+      "text": "天气小象 小巴_阴",
+      "url": "https://i0.hdslb.com/bfs/garb/9d89ffa113157b63715b9c437b95f500eb28f835.png"
+    },
+    {
+      "text": "天气小象 小巴_多云",
+      "url": "https://i0.hdslb.com/bfs/garb/a5007e02efc77e69e227eb5fe70fedf59296ec8c.png"
+    },
+    {
+      "text": "天气小象 小巴_雷雨",
+      "url": "https://i0.hdslb.com/bfs/garb/0603e1915961eccb56d4e282fbc1342f5ff081ca.png"
+    },
+    {
+      "text": "天气小象 小巴_雨",
+      "url": "https://i0.hdslb.com/bfs/garb/22e9fbc31fee36d00bbf091235e6762c77fa4875.png"
+    },
+    {
+      "text": "天气小象 小巴_晴夜",
+      "url": "https://i0.hdslb.com/bfs/garb/cc070668946e1a64378182af346a12bcee9599e9.png"
+    },
+    {
+      "text": "天气小象 小巴_彩虹",
+      "url": "https://i0.hdslb.com/bfs/garb/9fdd664228dc93ff35d54ce39bf3d658105b8b21.png"
+    },
+    {
+      "text": "天气小象 小巴_sad",
+      "url": "https://i0.hdslb.com/bfs/garb/c53360293261604ee58158c42dd7670d6923c210.png"
+    },
+    {
+      "text": "天气小象 小巴_堆雪人",
+      "url": "https://i0.hdslb.com/bfs/garb/5b44f898470202c687def65b335faf5ffabe4065.png"
+    },
+    {
+      "text": "天气小象 小巴_大风",
+      "url": "https://i0.hdslb.com/bfs/garb/57cb575f2ddab801e00a7576ce9f5bd8c41b42b0.png"
+    },
+    {
+      "text": "天气小象 小巴_踩水",
+      "url": "https://i0.hdslb.com/bfs/garb/c877341c77a15c3a971242d6c05a1bb5018b976a.png"
+    },
+    {
+      "text": "天气小象 小巴_晒太阳",
+      "url": "https://i0.hdslb.com/bfs/garb/6e9e74254aa66fd09aad52f7a9ded14c5a1d95a7.png"
+    },
+    {
+      "text": "天气小象 小巴_遮雨",
+      "url": "https://i0.hdslb.com/bfs/garb/a8aac61306b6daa9832326c58f75bdd3a2e3b2df.png"
+    },
+    {
+      "text": "天气小象 小巴_流星",
+      "url": "https://i0.hdslb.com/bfs/garb/340bf53c73f5fe87e6c68f82d1eedafc9491c542.png"
+    }
+  ]
+}
