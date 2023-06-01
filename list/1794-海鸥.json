@@ -1,0 +1,47 @@
+{
+  "id": 1794,
+  "text": "海鸥",
+  "icon": "https://i0.hdslb.com/bfs/garb/item/c61c1399b7edfd2322a22db238f26039152cb2a0.png",
+  "emote": [
+    {
+      "text": "海鸥_停留",
+      "url": "https://i0.hdslb.com/bfs/garb/item/47ff66ba87c09cac88e3257f398df39d2a07a34c.png"
+    },
+    {
+      "text": "海鸥_偷吃",
+      "url": "https://i0.hdslb.com/bfs/garb/item/056994e482630ac55acc9d48e87fc02fd753ea3f.png"
+    },
+    {
+      "text": "海鸥_担心",
+      "url": "https://i0.hdslb.com/bfs/garb/item/8241b1944bc509c6d59ade4897dbd46ad4f26404.png"
+    },
+    {
+      "text": "海鸥_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/item/6937a19a55cd5751305db2fcb687dd14d651d127.png"
+    },
+    {
+      "text": "海鸥_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/item/0c83a5b091d61d9fbdf378509597f5176890dddb.png"
+    },
+    {
+      "text": "海鸥_路过",
+      "url": "https://i0.hdslb.com/bfs/garb/item/32a02f27bc6cfabea6bc92af39ad0c28d198da69.png"
+    },
+    {
+      "text": "海鸥_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/item/6d28486f02656831f41dc6bcecfa32f39c4dc976.png"
+    },
+    {
+      "text": "海鸥_睿智",
+      "url": "https://i0.hdslb.com/bfs/garb/item/597973d193be200331efcb3762d167f74f234c61.png"
+    },
+    {
+      "text": "海鸥_来点",
+      "url": "https://i0.hdslb.com/bfs/garb/item/2a338e11b4729ce85b4db8db2436794576bfcfe0.png"
+    },
+    {
+      "text": "海鸥_投币",
+      "url": "https://i0.hdslb.com/bfs/garb/item/171e122fb0eea47cadf7dd5514990762b81d1a15.png"
+    }
+  ]
+}

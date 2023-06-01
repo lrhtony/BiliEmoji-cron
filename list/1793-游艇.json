@@ -1,0 +1,47 @@
+{
+  "id": 1793,
+  "text": "游艇",
+  "icon": "https://i0.hdslb.com/bfs/garb/item/e1aa3589fdf5278f8fd5368561b0560f96c6157b.png",
+  "emote": [
+    {
+      "text": "游艇_挥手",
+      "url": "https://i0.hdslb.com/bfs/garb/item/5ba7c33290b3c8a2ca97a44e4139aee8ec617ef7.png"
+    },
+    {
+      "text": "游艇_冲浪",
+      "url": "https://i0.hdslb.com/bfs/garb/item/3404eff232010557646cc3b1fd7adb3866cadbf1.png"
+    },
+    {
+      "text": "游艇_走好不送",
+      "url": "https://i0.hdslb.com/bfs/garb/item/4cebf2faac97b9a109ed9e575dde23834866bd77.png"
+    },
+    {
+      "text": "游艇_睡着了",
+      "url": "https://i0.hdslb.com/bfs/garb/item/549a7f85ad354db6c3293968e36fcf5e963f6d34.png"
+    },
+    {
+      "text": "游艇_沮丧",
+      "url": "https://i0.hdslb.com/bfs/garb/item/776177dc490515f72a9832e7311955b549867883.png"
+    },
+    {
+      "text": "游艇_启航",
+      "url": "https://i0.hdslb.com/bfs/garb/item/048fe4449ad5765bbc5418662ea5fdae3b29fc1d.png"
+    },
+    {
+      "text": "游艇_歪瑞古德",
+      "url": "https://i0.hdslb.com/bfs/garb/item/74970b512eb6b666c80e649727753bdbad72a954.png"
+    },
+    {
+      "text": "游艇_咻",
+      "url": "https://i0.hdslb.com/bfs/garb/item/6812b76e0d9dc16ef91ecefa512708e6df6d4e8d.png"
+    },
+    {
+      "text": "游艇_度假",
+      "url": "https://i0.hdslb.com/bfs/garb/item/13bb6fa8325d7b0d25123436ca0cb8ca28efffd3.png"
+    },
+    {
+      "text": "游艇_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/item/f436b1bc35b7b22fcbc1c6ada88348f3b7df76c4.png"
+    }
+  ]
+}
