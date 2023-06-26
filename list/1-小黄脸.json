@@ -1,8 +1,12 @@
 {
   "id": 1,
   "text": "小黄脸",
-  "icon": "https://i0.hdslb.com/bfs/emote/fa6dda8b876ed38609de38aa604be5ad109b8591.png",
+  "icon": "https://i0.hdslb.com/bfs/emote/53148f85bb7e2d8bada8cea57ee4b1f36f48237d.png",
   "emote": [
+    {
+      "text": "14周年",
+      "url": "https://i0.hdslb.com/bfs/emote/53148f85bb7e2d8bada8cea57ee4b1f36f48237d.png"
+    },
     {
       "text": "2023",
       "url": "https://i0.hdslb.com/bfs/emote/fa6dda8b876ed38609de38aa604be5ad109b8591.png"
