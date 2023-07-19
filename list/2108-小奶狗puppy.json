@@ -1,0 +1,67 @@
+{
+  "id": 2108,
+  "text": "小奶狗puppy",
+  "icon": "https://i0.hdslb.com/bfs/garb/973a970cfde6e617a1fca22378fe6339b2b0b655.png",
+  "emote": [
+    {
+      "text": "小奶狗puppy_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/76521609f0a7c6b6e355bcc1f93000e0c642ee13.png"
+    },
+    {
+      "text": "小奶狗puppy_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/72826b3d27b2c4be45dcde992fd58c360139d239.png"
+    },
+    {
+      "text": "小奶狗puppy_喝奶茶",
+      "url": "https://i0.hdslb.com/bfs/garb/13a883cbbbc9d10243f13cdc8506ebdc8a73e990.png"
+    },
+    {
+      "text": "小奶狗puppy_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/fdd9a2c41e5c77f20dbf5b7485e5848aaa86b876.png"
+    },
+    {
+      "text": "小奶狗puppy_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/cc79958a35f6147ca5ca78a394ab3e7cdf8047fe.png"
+    },
+    {
+      "text": "小奶狗puppy_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/cd4c4a8563fc0fe298cd15d2bdd3416d28fd17d3.png"
+    },
+    {
+      "text": "小奶狗puppy_叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/1c37d372d3197ab794aecd46866cb1e65958a980.png"
+    },
+    {
+      "text": "小奶狗puppy_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/de282f025871d8dd45120d674f32f2ed9fe5692e.png"
+    },
+    {
+      "text": "小奶狗puppy_脸红",
+      "url": "https://i0.hdslb.com/bfs/garb/931d03be50385ac44c66562be2063af585994e36.png"
+    },
+    {
+      "text": "小奶狗puppy_呜呜",
+      "url": "https://i0.hdslb.com/bfs/garb/30c2a276bbf81bb8adb6a4131e84fe273fbbb0bf.png"
+    },
+    {
+      "text": "小奶狗puppy_可怜",
+      "url": "https://i0.hdslb.com/bfs/garb/93ccae63ba9fecad571a90faf697ae70154f7f06.png"
+    },
+    {
+      "text": "小奶狗puppy_沙发",
+      "url": "https://i0.hdslb.com/bfs/garb/6e207bc6b0b690a0cd3b3b2f11e6f361d6460192.png"
+    },
+    {
+      "text": "小奶狗puppy_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/aac056453ca4ecd9c45ecaac4e5f3e45d3bf4c5f.png"
+    },
+    {
+      "text": "小奶狗puppy_打咩",
+      "url": "https://i0.hdslb.com/bfs/garb/4785b490d8f3c0894cdb75c17020ae18f99cfa52.png"
+    },
+    {
+      "text": "小奶狗puppy_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/fa6571ad9038ec1ebb65d0649e58c314afea85b5.png"
+    }
+  ]
+}
