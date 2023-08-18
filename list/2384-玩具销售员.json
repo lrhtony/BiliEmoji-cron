@@ -1,0 +1,67 @@
+{
+  "id": 2384,
+  "text": "玩具销售员",
+  "icon": "https://i0.hdslb.com/bfs/garb/387787539d5a233a24ca173381b98541433b7fb7.png",
+  "emote": [
+    {
+      "text": "玩具销售员_运行中",
+      "url": "https://i0.hdslb.com/bfs/garb/c0cf8decf8d448c02c6830a2ad05cf793cf99ad4.png"
+    },
+    {
+      "text": "玩具销售员_电量不足",
+      "url": "https://i0.hdslb.com/bfs/garb/63df723e304e67530c092f7d9682ad00bedcef3b.png"
+    },
+    {
+      "text": "玩具销售员_充电中",
+      "url": "https://i0.hdslb.com/bfs/garb/ea2881bd15771b5771d7601fe52c9eed56ac1dfb.png"
+    },
+    {
+      "text": "玩具销售员_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/7f30096bb41c67871857e6d0cd188176622c7c0f.png"
+    },
+    {
+      "text": "玩具销售员_情绪激烈",
+      "url": "https://i0.hdslb.com/bfs/garb/c5cd9be3bb0613b815c7af6d9fcc568f29637c3f.png"
+    },
+    {
+      "text": "玩具销售员_情绪稳定",
+      "url": "https://i0.hdslb.com/bfs/garb/dd8cccbd2e932eba0325a9da449b9aec9a195cd5.png"
+    },
+    {
+      "text": "玩具销售员_中大奖",
+      "url": "https://i0.hdslb.com/bfs/garb/d9a17dbe04b5f4d1b60dfe36d7530a42bfbca4cf.png"
+    },
+    {
+      "text": "玩具销售员_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/428478f796699e98519b1934242a78774405323c.png"
+    },
+    {
+      "text": "玩具销售员_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/cf5b9e806e8c336d5ab94e96179635097e80f7d9.png"
+    },
+    {
+      "text": "玩具销售员_开机",
+      "url": "https://i0.hdslb.com/bfs/garb/ec096b77b08295a4fec63cd0ab1fc8f1b163a65b.png"
+    },
+    {
+      "text": "玩具销售员_概率上升",
+      "url": "https://i0.hdslb.com/bfs/garb/40aa7f88746f39a1e0e47e167b3496d81e00a160.png"
+    },
+    {
+      "text": "玩具销售员_还差一点",
+      "url": "https://i0.hdslb.com/bfs/garb/4a103faa5913239bf365440ce184dfefef118112.png"
+    },
+    {
+      "text": "玩具销售员_错误",
+      "url": "https://i0.hdslb.com/bfs/garb/bbed551420385825f44f77ec10ea2a47590a187a.png"
+    },
+    {
+      "text": "玩具销售员_拒绝",
+      "url": "https://i0.hdslb.com/bfs/garb/d6eece9d3c033ce6b843ff5c7e28515773f8ee12.png"
+    },
+    {
+      "text": "玩具销售员_扫描",
+      "url": "https://i0.hdslb.com/bfs/garb/8b8d77d29769e15f4f62b12cc8aacf1afa6e7b7e.png"
+    }
+  ]
+}
