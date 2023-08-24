@@ -1,8 +1,12 @@
 {
   "id": 53,
   "text": "热词系列一",
-  "icon": "https://i0.hdslb.com/bfs/emote/3cae536616fdd1a3c1399312381b563e54ac3271.png",
+  "icon": "https://i0.hdslb.com/bfs/emote/e8eb4e8ae62d68ad7db176fe163a714379991a18.png",
   "emote": [
+    {
+      "text": "热词系列_美貌惊人",
+      "url": "https://i0.hdslb.com/bfs/emote/e8eb4e8ae62d68ad7db176fe163a714379991a18.png"
+    },
     {
       "text": "热词系列_六到无语",
       "url": "https://i0.hdslb.com/bfs/emote/3cae536616fdd1a3c1399312381b563e54ac3271.png"
