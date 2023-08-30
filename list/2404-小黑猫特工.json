@@ -1,0 +1,67 @@
+{
+  "id": 2404,
+  "text": "小黑猫特工",
+  "icon": "https://i0.hdslb.com/bfs/garb/a1d9475e92e50d7b5ce69143dffb70d781e87ad3.png",
+  "emote": [
+    {
+      "text": "小黑猫特工_这是什么",
+      "url": "https://i0.hdslb.com/bfs/garb/6b01006900c9bed98a1f29239febbefdead90791.png"
+    },
+    {
+      "text": "小黑猫特工_提供工具",
+      "url": "https://i0.hdslb.com/bfs/garb/cab5b91dd605e27a38c981c9db8f406fb5676307.png"
+    },
+    {
+      "text": "小黑猫特工_吃鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/f3e83127975edfc44709c43a5be03df13aae5686.png"
+    },
+    {
+      "text": "小黑猫特工_吃豆",
+      "url": "https://i0.hdslb.com/bfs/garb/bea6b1bc81041521cf6a98136998c92202193893.png"
+    },
+    {
+      "text": "小黑猫特工_不可回收",
+      "url": "https://i0.hdslb.com/bfs/garb/d1ddec57b67af99ca03f533c68585ebfcee96815.png"
+    },
+    {
+      "text": "小黑猫特工_扭曲爬行",
+      "url": "https://i0.hdslb.com/bfs/garb/8a7d124d50f59c6a40a2b06b8fc7d223284592ea.png"
+    },
+    {
+      "text": "小黑猫特工_快跑",
+      "url": "https://i0.hdslb.com/bfs/garb/b8243c8becd77254df94c21b8a621dd9aeabc93b.png"
+    },
+    {
+      "text": "小黑猫特工_进行放空",
+      "url": "https://i0.hdslb.com/bfs/garb/e5e226065f7fdfb8e74299f8e2941cdc2fc86508.png"
+    },
+    {
+      "text": "小黑猫特工_喵喵拳",
+      "url": "https://i0.hdslb.com/bfs/garb/708ccb7f658b602d5f65f2f18454a9d150ddc4ad.png"
+    },
+    {
+      "text": "小黑猫特工_头",
+      "url": "https://i0.hdslb.com/bfs/garb/75e30c824a9614fa9e227bb9d3862e165278783b.png"
+    },
+    {
+      "text": "小黑猫特工_身",
+      "url": "https://i0.hdslb.com/bfs/garb/ee3e1b48a465d0561b93bac78f458ecdca57a971.png"
+    },
+    {
+      "text": "小黑猫特工_柄",
+      "url": "https://i0.hdslb.com/bfs/garb/bd34ea025441d6016ca6a1cd92dde87141eef075.png"
+    },
+    {
+      "text": "小黑猫特工_啊？",
+      "url": "https://i0.hdslb.com/bfs/garb/a027ee0b7a087cc85511b24abc015c3008d54582.png"
+    },
+    {
+      "text": "小黑猫特工_过热",
+      "url": "https://i0.hdslb.com/bfs/garb/c0938b8ba75e6a0f139071302040f37583ebfdfb.png"
+    },
+    {
+      "text": "小黑猫特工_石榴汁",
+      "url": "https://i0.hdslb.com/bfs/garb/905b25369d43831655c2b4375ef8b72f5146e154.png"
+    }
+  ]
+}
