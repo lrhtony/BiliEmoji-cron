@@ -1,0 +1,27 @@
+{
+  "id": 3418,
+  "text": "啊粥粥啊粥（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/b805ff5834ea43abc66e7b62d3dd1be18d16f312.png",
+  "emote": [
+    {
+      "text": "UPOWER_8096990_调皮",
+      "url": "https://i0.hdslb.com/bfs/garb/ea73074824b9fc74e6b015649967b4b065511d7a.png"
+    },
+    {
+      "text": "UPOWER_8096990_伤心",
+      "url": "https://i0.hdslb.com/bfs/garb/3d42f37a1cb1f1e4ad5273f27f851444815520be.png"
+    },
+    {
+      "text": "UPOWER_8096990_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/c8db875b961c1eceeb65ae1e995d394e6ada34ac.png"
+    },
+    {
+      "text": "UPOWER_8096990_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/9b8b58b9db5d54150f4c1cafd0e787f807d087b9.png"
+    },
+    {
+      "text": "UPOWER_8096990_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/c7f07c71cd55d06113cafdce3d2b5cfdbf7a30c2.png"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": 3435,
+  "text": "金鱼记忆",
+  "icon": "https://i0.hdslb.com/bfs/emote/16fee0183da6f39ee4b8cf71e8304753abeafaf0.png",
+  "emote": [
+    {
+      "text": "金鱼记忆_发呆",
+      "url": "https://i0.hdslb.com/bfs/emote/977a579637b47431ebe812cbf0bc21393fe1d8f9.png"
+    },
+    {
+      "text": "金鱼记忆_害羞",
+      "url": "https://i0.hdslb.com/bfs/emote/747d39ac24756e3b48b17adef03de733b433690d.png"
+    },
+    {
+      "text": "金鱼记忆_睡觉",
+      "url": "https://i0.hdslb.com/bfs/emote/66b573e89d50dc5b19bdfd19fc3089b39615f938.jpg"
+    },
+    {
+      "text": "金鱼记忆_乖巧",
+      "url": "https://i0.hdslb.com/bfs/emote/92f037bec577345253726c2dd9ad954f6fda59fb.png"
+    },
+    {
+      "text": "金鱼记忆_喝饮料",
+      "url": "https://i0.hdslb.com/bfs/emote/9936bfd1f0dea67024bce6dbc38540378ba0f8cb.png"
+    },
+    {
+      "text": "金鱼记忆_好棒",
+      "url": "https://i0.hdslb.com/bfs/emote/a054855ae13f5355ce041f0bb3404db9395975c1.png"
+    },
+    {
+      "text": "金鱼记忆_气鼓鼓",
+      "url": "https://i0.hdslb.com/bfs/emote/46c1d96bd3530f3efc4d6818ea166084c2b4c108.png"
+    },
+    {
+      "text": "金鱼记忆_委屈",
+      "url": "https://i0.hdslb.com/bfs/emote/ff0ca35e1ce79880c964f1dd41e569a2f5e9a1b4.png"
+    },
+    {
+      "text": "金鱼记忆_害怕",
+      "url": "https://i0.hdslb.com/bfs/emote/d2a47c628f18e7e85d86db705dee45d68de36c5e.png"
+    },
+    {
+      "text": "金鱼记忆_哇",
+      "url": "https://i0.hdslb.com/bfs/emote/618bc3996f66701937de50248f3800d328a0f72e.png"
+    },
+    {
+      "text": "金鱼记忆_满足",
+      "url": "https://i0.hdslb.com/bfs/emote/5d0b17885d25ba0f731ee27dbd9843619e2086db.png"
+    },
+    {
+      "text": "金鱼记忆_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/emote/fed1244f250dc5ff5e029be9fd9c573bdb629a6b.png"
+    },
+    {
+      "text": "金鱼记忆_疑惑",
+      "url": "https://i0.hdslb.com/bfs/emote/dd66c9e9354f3200dd3ffe325192f260f9a10b04.png"
+    },
+    {
+      "text": "金鱼记忆_哭哭",
+      "url": "https://i0.hdslb.com/bfs/emote/4428a4a7266edc85155a2b3984d8b8eda3fd10ac.png"
+    },
+    {
+      "text": "金鱼记忆_开心",
+      "url": "https://i0.hdslb.com/bfs/emote/315e228797f46dca8119753b1cdc48d897adac6f.png"
+    },
+    {
+      "text": "金鱼记忆_失忆",
+      "url": "https://i0.hdslb.com/bfs/emote/39a30ee3be596cd1581824439505e84e0b775faa.png"
+    },
+    {
+      "text": "金鱼记忆_吐泡泡",
+      "url": "https://i0.hdslb.com/bfs/emote/452c89fc882137a016237c25bceab343364c6390.png"
+    },
+    {
+      "text": "金鱼记忆_喜欢",
+      "url": "https://i0.hdslb.com/bfs/emote/03ab50bd4cad98e307adc49f456b5dc94eab067e.png"
+    },
+    {
+      "text": "金鱼记忆_惊讶",
+      "url": "https://i0.hdslb.com/bfs/emote/4671a8e651bff218554e335b8eec3dca2cc921a0.png"
+    },
+    {
+      "text": "金鱼记忆_好热",
+      "url": "https://i0.hdslb.com/bfs/emote/211ed22a71c480719dbbb6f26c0c53dce274bfb2.png"
+    },
+    {
+      "text": "金鱼记忆_偷笑",
+      "url": "https://i0.hdslb.com/bfs/emote/904c3c170472d4371fdf80e7ca00da8aa34842ec.png"
+    },
+    {
+      "text": "金鱼记忆_眨眼",
+      "url": "https://i0.hdslb.com/bfs/emote/ac7e195ac1ecdf0cf13f54b25147c11a3601a7d3.png"
+    },
+    {
+      "text": "金鱼记忆_没问题",
+      "url": "https://i0.hdslb.com/bfs/emote/6411ddf3a67b3f9fdd2a6cbc21c3b43f30ad21ea.png"
+    },
+    {
+      "text": "金鱼记忆_火大",
+      "url": "https://i0.hdslb.com/bfs/emote/bc0df6552a3cc613bfe6a133568fc6785e976b6b.png"
+    },
+    {
+      "text": "金鱼记忆_灵光一现",
+      "url": "https://i0.hdslb.com/bfs/emote/d5e42d16bd66769297855044f3de957707bad74d.png"
+    }
+  ]
+}
