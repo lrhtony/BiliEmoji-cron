@@ -1,5 +1,11 @@
 {
   "id": 2332,
   "text": "三上烤鸭（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/93caa9990cda91918c79750c74a801276333406f.png"
+  "icon": "https://i0.hdslb.com/bfs/garb/d03e5f17bfa65904bbb8539ee6191db11a234212.png",
+  "emote": [
+    {
+      "text": "UPOWER_679023184_打我呀",
+      "url": "https://i0.hdslb.com/bfs/garb/1048827dd3e2ac7ed7f696ab30afd8e40227c6a7.png"
+    }
+  ]
 }
