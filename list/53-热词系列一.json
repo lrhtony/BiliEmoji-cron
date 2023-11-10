@@ -1,8 +1,16 @@
 {
   "id": 53,
   "text": "热词系列一",
-  "icon": "https://i0.hdslb.com/bfs/emote/1258a3152ef97d020ca5b7a89492ecc7d3abfc58.png",
+  "icon": "https://i0.hdslb.com/bfs/emote/04dbba8080a3d2eeeb2b80f845ff6b4b5232643b.png",
   "emote": [
+    {
+      "text": "热词系列_哇酷哇酷",
+      "url": "https://i0.hdslb.com/bfs/emote/04dbba8080a3d2eeeb2b80f845ff6b4b5232643b.png"
+    },
+    {
+      "text": "热词系列_呵呵",
+      "url": "https://i0.hdslb.com/bfs/emote/2b20ec5940137d61b4172747c349dcb105e94eff.png"
+    },
     {
       "text": "热词系列_课代表",
       "url": "https://i0.hdslb.com/bfs/emote/1258a3152ef97d020ca5b7a89492ecc7d3abfc58.png"
