@@ -1,0 +1,67 @@
+{
+  "id": 3743,
+  "text": "标牌小人",
+  "icon": "https://i0.hdslb.com/bfs/garb/d7a2d97e87932e37aa1be2b687e01c4971af59a4.png",
+  "emote": [
+    {
+      "text": "标牌小人_左",
+      "url": "https://i0.hdslb.com/bfs/garb/7d561221bd286413418e5442e42dc5ed928dbefc.png"
+    },
+    {
+      "text": "标牌小人_右",
+      "url": "https://i0.hdslb.com/bfs/garb/19e28fc7b3c4e0892b6dd6fb9ed0f68de1150bef.png"
+    },
+    {
+      "text": "标牌小人_男女",
+      "url": "https://i0.hdslb.com/bfs/garb/d0b24363b3fe39c0739992d3355980956f957347.png"
+    },
+    {
+      "text": "标牌小人_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/b8e99f583b4ba768f4756b32b261053176ba4ca6.png"
+    },
+    {
+      "text": "标牌小人_安慰",
+      "url": "https://i0.hdslb.com/bfs/garb/e0ee0741a71ad43d166574e4c801ed0bd85d072c.png"
+    },
+    {
+      "text": "标牌小人_投币",
+      "url": "https://i0.hdslb.com/bfs/garb/d8a3bc5dca0519b9549bedad861469cf6f75bae6.png"
+    },
+    {
+      "text": "标牌小人_没硬币了",
+      "url": "https://i0.hdslb.com/bfs/garb/c1d4c06a9ec67e24eb360413d740cc9e42bc8331.png"
+    },
+    {
+      "text": "标牌小人_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/9cf3096dca6671036863af308962bce4dfabd5a7.png"
+    },
+    {
+      "text": "标牌小人_再见",
+      "url": "https://i0.hdslb.com/bfs/garb/cf3210be06657e7bb9335270b546d201f5549f0e.png"
+    },
+    {
+      "text": "标牌小人_丢垃圾",
+      "url": "https://i0.hdslb.com/bfs/garb/1172a7f4a9d9a57cde17cb61fd8a1af84f6cd5ca.png"
+    },
+    {
+      "text": "标牌小人_下楼",
+      "url": "https://i0.hdslb.com/bfs/garb/bbd52217d2317452ef32141ef542fb507d342b63.png"
+    },
+    {
+      "text": "标牌小人_离开",
+      "url": "https://i0.hdslb.com/bfs/garb/c7b61645b2b6f802ef244aa4b47c87c9ac4fa448.png"
+    },
+    {
+      "text": "标牌小人_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/7d43266de5ac37717b14db5fd1151b6c651c688e.png"
+    },
+    {
+      "text": "标牌小人_难过",
+      "url": "https://i0.hdslb.com/bfs/garb/8325485ed9dd765c56d870ef7fd3aa4174c5ac46.png"
+    },
+    {
+      "text": "标牌小人_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/c03137f3fbd7bac5a0ebaf5dbe6b37bfe7707386.png"
+    }
+  ]
+}
