@@ -1,0 +1,27 @@
+{
+  "id": 3825,
+  "text": "UP主发电机（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/39034df495e8234bc3a5faee89333a1923284bad.png",
+  "emote": [
+    {
+      "text": "UPOWER_1453409239_充充充",
+      "url": "https://i0.hdslb.com/bfs/garb/143ccb27fafb4ade3155d8e744bff965137926ef.png"
+    },
+    {
+      "text": "UPOWER_1453409239_充电中",
+      "url": "https://i0.hdslb.com/bfs/garb/8ffd9b21b07394f796e3e786e90a243599805d15.png"
+    },
+    {
+      "text": "UPOWER_1453409239_电量不足",
+      "url": "https://i0.hdslb.com/bfs/garb/5be74a25892f916c7b0f47feb31b755dfca9f9e7.png"
+    },
+    {
+      "text": "UPOWER_1453409239_电你电你",
+      "url": "https://i0.hdslb.com/bfs/garb/1d7b0c494ba40a119c1a8150bcdeedc19547f339.png"
+    },
+    {
+      "text": "UPOWER_1453409239_十万伏特",
+      "url": "https://i0.hdslb.com/bfs/garb/eb8585e0c2a2a710071bd26a4a75cf10e6d39065.png"
+    }
+  ]
+}

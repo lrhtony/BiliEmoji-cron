@@ -1,0 +1,47 @@
+{
+  "id": 3815,
+  "text": "异世士兵",
+  "icon": "https://i0.hdslb.com/bfs/emote/0b11b1139fd331d3e973af13f14f41abfe8719cc.png",
+  "emote": [
+    {
+      "text": "异世士兵_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/emote/cff4f851f0861a6d427d39fad89e68c22eff6a41.png"
+    },
+    {
+      "text": "异世士兵_被揍",
+      "url": "https://i0.hdslb.com/bfs/emote/7e1770c5f28d18f19a65206786560d3687ccd526.png"
+    },
+    {
+      "text": "异世士兵_冲啊",
+      "url": "https://i0.hdslb.com/bfs/emote/9a3760376a67443ca3592f7a131e1a8901570711.png"
+    },
+    {
+      "text": "异世士兵_加油",
+      "url": "https://i0.hdslb.com/bfs/emote/e26a0b36a493834a9cdacd3951c70755394dcfe3.png"
+    },
+    {
+      "text": "异世士兵_警觉",
+      "url": "https://i0.hdslb.com/bfs/emote/18ac703cf11655090f8a9222d6838e13b125bff6.png"
+    },
+    {
+      "text": "异世士兵_拒绝",
+      "url": "https://i0.hdslb.com/bfs/emote/e47f5881c46124d9fad20f78321b9d3d04ffac2a.png"
+    },
+    {
+      "text": "异世士兵_立正",
+      "url": "https://i0.hdslb.com/bfs/emote/481b2032bc0c2138e7eb5117a1d1dc4425825a20.png"
+    },
+    {
+      "text": "异世士兵_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/aa9136ba1e9ecefadde2f8e522370818836cad49.png"
+    },
+    {
+      "text": "异世士兵_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/c641f736919c9a653ff8693bf1844dd3cef52e6d.png"
+    },
+    {
+      "text": "异世士兵_疑惑",
+      "url": "https://i0.hdslb.com/bfs/emote/0123f3674323f35a546d6a5961a887ade371bd34.png"
+    }
+  ]
+}
