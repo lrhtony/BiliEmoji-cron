@@ -1,0 +1,55 @@
+{
+  "id": 3872,
+  "text": "次元电玩",
+  "icon": "https://i0.hdslb.com/bfs/emote/d3c53429a4256f22aedd2d8662ff383c7c33f07b.png",
+  "emote": [
+    {
+      "text": "次元电玩_胜利",
+      "url": "https://i0.hdslb.com/bfs/emote/22bae2566c728ed2d7afd18b007ba9650991c39d.png"
+    },
+    {
+      "text": "次元电玩_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/a87a066afdd0d541436898953aefb20ce77f02cf.png"
+    },
+    {
+      "text": "次元电玩_嘲笑",
+      "url": "https://i0.hdslb.com/bfs/emote/3018593bfd634471709f71958960e557f03862fc.png"
+    },
+    {
+      "text": "次元电玩_debuff",
+      "url": "https://i0.hdslb.com/bfs/emote/f785d7c583f6d5a0eb41f001c329feb93961c4d0.png"
+    },
+    {
+      "text": "次元电玩_加buff",
+      "url": "https://i0.hdslb.com/bfs/emote/e2639aed7b7ddfb0c225e531afc7c6f88e8f6080.png"
+    },
+    {
+      "text": "次元电玩_败北",
+      "url": "https://i0.hdslb.com/bfs/emote/de3c8908e27e730ffe84a7d4fe44f18a194e1a91.png"
+    },
+    {
+      "text": "次元电玩_投降",
+      "url": "https://i0.hdslb.com/bfs/emote/8111bfd36213966a9eec0e7c81ee9ae402cfdb8c.png"
+    },
+    {
+      "text": "次元电玩_欧皇",
+      "url": "https://i0.hdslb.com/bfs/emote/94f395680ffc8bf6cfd6de5c68b4489dba11c6e4.png"
+    },
+    {
+      "text": "次元电玩_加油",
+      "url": "https://i0.hdslb.com/bfs/emote/d8e948aaf606bd4b3901000e91d08a5f4ff1dfd4.png"
+    },
+    {
+      "text": "次元电玩_目瞪口呆",
+      "url": "https://i0.hdslb.com/bfs/emote/d6b46676d24648c8942aaae48b04d8db87408a95.png"
+    },
+    {
+      "text": "次元电玩_开黑",
+      "url": "https://i0.hdslb.com/bfs/emote/e7d08767a1e37f66337e4cc84aa1e20c045c7266.png"
+    },
+    {
+      "text": "次元电玩_上分",
+      "url": "https://i0.hdslb.com/bfs/emote/1a494ef28bd15171a56057ea25e533c7bc70e875.png"
+    }
+  ]
+}
