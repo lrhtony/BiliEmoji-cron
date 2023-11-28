@@ -1,0 +1,107 @@
+{
+  "id": 3888,
+  "text": "琉晶之礼",
+  "icon": "https://i0.hdslb.com/bfs/emote/c7e2221ad79e800614d775c357966957e9af11e1.png",
+  "emote": [
+    {
+      "text": "琉晶之礼_唱歌",
+      "url": "https://i0.hdslb.com/bfs/emote/c58f954930cc73dc4a4799822be29567e451cff2.png"
+    },
+    {
+      "text": "琉晶之礼_好冷",
+      "url": "https://i0.hdslb.com/bfs/emote/4df83ef0e7762edbb05156b76539cdaa5976975a.png"
+    },
+    {
+      "text": "琉晶之礼_下雪了",
+      "url": "https://i0.hdslb.com/bfs/emote/a5293ca14276dcd046acc03df736eb3120260a7a.png"
+    },
+    {
+      "text": "琉晶之礼_晚安",
+      "url": "https://i0.hdslb.com/bfs/emote/197d837f908ed29c9fd4ad5950969adbbeeeea5c.png"
+    },
+    {
+      "text": "琉晶之礼_雪人",
+      "url": "https://i0.hdslb.com/bfs/emote/f385459f9632e05ccce1e48c2a4dbc61e7cedd4b.png"
+    },
+    {
+      "text": "琉晶之礼_舔舔",
+      "url": "https://i0.hdslb.com/bfs/emote/e54de76a2039e45d5c47996568274c7851d40ea8.png"
+    },
+    {
+      "text": "琉晶之礼_被打",
+      "url": "https://i0.hdslb.com/bfs/emote/9ffdd182ba3682defeffa67ef9c069d1c4cad449.png"
+    },
+    {
+      "text": "琉晶之礼_打雪仗",
+      "url": "https://i0.hdslb.com/bfs/emote/f5b4a53c7c099ada5377afc56f249d04bb3648f5.png"
+    },
+    {
+      "text": "琉晶之礼_偷看",
+      "url": "https://i0.hdslb.com/bfs/emote/e1ba99c662b1e23e1aaf7e5eec5f856945187504.png"
+    },
+    {
+      "text": "琉晶之礼_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/f097b07959388704b0af675e65a7e7fd78eb6a05.png"
+    },
+    {
+      "text": "琉晶之礼_委屈",
+      "url": "https://i0.hdslb.com/bfs/emote/d8e23af286666f13dcdc0d12697b5e4f29f0a787.png"
+    },
+    {
+      "text": "琉晶之礼_开心",
+      "url": "https://i0.hdslb.com/bfs/emote/786102ed58024353cbc5f90ce8200f6e85577e1e.png"
+    },
+    {
+      "text": "琉晶之礼_捏",
+      "url": "https://i0.hdslb.com/bfs/emote/666a2a911fa324777dce6f3f25d9cfd3308c75d7.png"
+    },
+    {
+      "text": "琉晶之礼_汗",
+      "url": "https://i0.hdslb.com/bfs/emote/c40f48c8ac91dba4d61dbc7522e64ec98c2a8d36.png"
+    },
+    {
+      "text": "琉晶之礼_嘤嘤",
+      "url": "https://i0.hdslb.com/bfs/emote/df30264384f8712684aea83af65304d5c17aa8df.png"
+    },
+    {
+      "text": "琉晶之礼_送给你",
+      "url": "https://i0.hdslb.com/bfs/emote/e016836ec68c1d9de739ded4d62de9d8205bc1da.png"
+    },
+    {
+      "text": "琉晶之礼_抱抱",
+      "url": "https://i0.hdslb.com/bfs/emote/311a45dcb7de270c46ea34af39a6c4415e2a71cf.png"
+    },
+    {
+      "text": "琉晶之礼_震惊",
+      "url": "https://i0.hdslb.com/bfs/emote/4bb86429978c37641e3dd52f84d0fa180a58996e.png"
+    },
+    {
+      "text": "琉晶之礼_滑倒",
+      "url": "https://i0.hdslb.com/bfs/emote/e650c91f7962f30c9f756d329de6c287fadff716.png"
+    },
+    {
+      "text": "琉晶之礼_打滚",
+      "url": "https://i0.hdslb.com/bfs/emote/76b70a6c9e28dda97cebc31c3a93dc8f682a1ebe.png"
+    },
+    {
+      "text": "琉晶之礼_好耶",
+      "url": "https://i0.hdslb.com/bfs/emote/b2f3167a02b085746bfd734b12637581113f817d.png"
+    },
+    {
+      "text": "琉晶之礼_凉了",
+      "url": "https://i0.hdslb.com/bfs/emote/46d98fec509e9397176d2e07b9b26c8387b844b6.png"
+    },
+    {
+      "text": "琉晶之礼_喝奶茶",
+      "url": "https://i0.hdslb.com/bfs/emote/d1d801da70379a20dd00b852296f208e7f2ddf01.png"
+    },
+    {
+      "text": "琉晶之礼_贴贴",
+      "url": "https://i0.hdslb.com/bfs/emote/e98b9ea6358ccebc9d8d6f9801566e01f1f89abe.png"
+    },
+    {
+      "text": "琉晶之礼_我不好说",
+      "url": "https://i0.hdslb.com/bfs/emote/17724ca711cc898fb6a950898d6e00a3a0df79e9.png"
+    }
+  ]
+}
