@@ -1,0 +1,67 @@
+{
+  "id": 3909,
+  "text": "水豚温泉馆",
+  "icon": "https://i0.hdslb.com/bfs/garb/002ea2b59945655fd69ca2920d2b17fe4b71791f.png",
+  "emote": [
+    {
+      "text": "水豚温泉馆_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/63bbf7e54e84c7fe0ba81c5968c755ac380e4e69.png"
+    },
+    {
+      "text": "水豚温泉馆_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/d9ff04ebce80307fb64bc991f1addd8048743585.png"
+    },
+    {
+      "text": "水豚温泉馆_好方",
+      "url": "https://i0.hdslb.com/bfs/garb/b01a3252d57efd2b37a8ab2d4a483b6d53103b02.png"
+    },
+    {
+      "text": "水豚温泉馆_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/99b0082253d6fef207c131fd4914da90f6fa1451.png"
+    },
+    {
+      "text": "水豚温泉馆_Yes",
+      "url": "https://i0.hdslb.com/bfs/garb/cfaae2a3397000895f8818ce81eb4dc185ba4678.png"
+    },
+    {
+      "text": "水豚温泉馆_NO",
+      "url": "https://i0.hdslb.com/bfs/garb/3e9622a5a1b15a94da2c119c6a556f278fc12559.png"
+    },
+    {
+      "text": "水豚温泉馆_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/393cf395621e4daaf71dcbd7d54235c67b88029a.png"
+    },
+    {
+      "text": "水豚温泉馆_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/43abeda896c44691f58cc48d992457b5e6525516.png"
+    },
+    {
+      "text": "水豚温泉馆_凑近",
+      "url": "https://i0.hdslb.com/bfs/garb/daf04050a76ac5818d3e9068c8b25313bb8f5591.png"
+    },
+    {
+      "text": "水豚温泉馆_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/48576f861bad802fa504c75d6bff3a5a25872175.png"
+    },
+    {
+      "text": "水豚温泉馆_小丑",
+      "url": "https://i0.hdslb.com/bfs/garb/34ab25809d0ce7aef5a271a4c0f3a22daf2723a4.png"
+    },
+    {
+      "text": "水豚温泉馆_乖巧",
+      "url": "https://i0.hdslb.com/bfs/garb/77f87c38573bbd2c4484733af5076583ac336a14.png"
+    },
+    {
+      "text": "水豚温泉馆_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/9a988b9d2bf99ee77a0d3bc0c3df0ed99db5d27e.png"
+    },
+    {
+      "text": "水豚温泉馆_喝水",
+      "url": "https://i0.hdslb.com/bfs/garb/10170d916bdd180ad8dd96fd4f670d84c8b44e8a.png"
+    },
+    {
+      "text": "水豚温泉馆_比耶",
+      "url": "https://i0.hdslb.com/bfs/garb/0f70fddd30f954493f58dfe43a2d97b1f0467838.png"
+    }
+  ]
+}
