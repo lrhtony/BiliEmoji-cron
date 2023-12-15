@@ -1,8 +1,12 @@
 {
   "id": 53,
   "text": "热词系列一",
-  "icon": "https://i0.hdslb.com/bfs/emote/04dbba8080a3d2eeeb2b80f845ff6b4b5232643b.png",
+  "icon": "https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
   "emote": [
+    {
+      "text": "热词系列_啊?",
+      "url": "https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png"
+    },
     {
       "text": "热词系列_哇酷哇酷",
       "url": "https://i0.hdslb.com/bfs/emote/04dbba8080a3d2eeeb2b80f845ff6b4b5232643b.png"
