@@ -1,0 +1,87 @@
+{
+  "id": 4134,
+  "text": "吃货白羊",
+  "icon": "https://i0.hdslb.com/bfs/garb/dd67a8c5188c3aecdd2540f11502866cf3b5fdf4.png",
+  "emote": [
+    {
+      "text": "吃货白羊_下饭",
+      "url": "https://i0.hdslb.com/bfs/garb/2e70eb0d62767e1c3fcede2a61c2c60d5c1d0a08.png"
+    },
+    {
+      "text": "吃货白羊_喷茶",
+      "url": "https://i0.hdslb.com/bfs/garb/ea55eabfa9b4bf759cdd6d2f4d41d10414c8014b.png"
+    },
+    {
+      "text": "吃货白羊_哭泣",
+      "url": "https://i0.hdslb.com/bfs/garb/914525d435db0035cc17ac1cbe9c2f54599fe52f.png"
+    },
+    {
+      "text": "吃货白羊_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/48e7a36fe8759a56d9cc6d279b929e0bfdc95fb0.png"
+    },
+    {
+      "text": "吃货白羊_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/e44e48899af22cc5c3ac6d07bd9179183117efdb.png"
+    },
+    {
+      "text": "吃货白羊_寄",
+      "url": "https://i0.hdslb.com/bfs/garb/9cc56361eb3bf045059cc2ae8aa266afe2687e8c.png"
+    },
+    {
+      "text": "吃货白羊_好甜",
+      "url": "https://i0.hdslb.com/bfs/garb/588dba371996a5d6868c992c5362b97800318113.png"
+    },
+    {
+      "text": "吃货白羊_爬行",
+      "url": "https://i0.hdslb.com/bfs/garb/0e3533eb9488af670c74e51f76516a7d9a262269.png"
+    },
+    {
+      "text": "吃货白羊_铁咩",
+      "url": "https://i0.hdslb.com/bfs/garb/6407ba55036d794c14e2395641e5f8a50a092cff.png"
+    },
+    {
+      "text": "吃货白羊_有害垃圾",
+      "url": "https://i0.hdslb.com/bfs/garb/0fceb8906c0cd97e4d4cc0be67202beb2de4bb5f.png"
+    },
+    {
+      "text": "吃货白羊_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/e7757b8a610fcccb42086f6b6f411d47a486a843.png"
+    },
+    {
+      "text": "吃货白羊_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/d6eea827ff0a4462ba3931c006f767fe0a2c2660.png"
+    },
+    {
+      "text": "吃货白羊_我要闹了",
+      "url": "https://i0.hdslb.com/bfs/garb/198d8b0f5c6740ac959a23d4f3e3069490be72df.png"
+    },
+    {
+      "text": "吃货白羊_趴桌子",
+      "url": "https://i0.hdslb.com/bfs/garb/67d9034fd8bcc62c98e014ffb29a9b0938e550f3.png"
+    },
+    {
+      "text": "吃货白羊_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/814512ab8ce0b27aba6977dae38301f496d24df2.png"
+    },
+    {
+      "text": "吃货白羊_有礼帽",
+      "url": "https://i0.hdslb.com/bfs/garb/571bf4c984c48e4a89c5ab2d6ea746192f5169c5.png"
+    },
+    {
+      "text": "吃货白羊_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/074f7b3f6a9380ac33f2175ef240685be7454e6c.png"
+    },
+    {
+      "text": "吃货白羊_舔",
+      "url": "https://i0.hdslb.com/bfs/garb/47957b60a1e1186be67dbe227e25849ad1c207bf.png"
+    },
+    {
+      "text": "吃货白羊_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/8f81d539c0c3e2443fadbae2a6630a4f3d6b18e8.png"
+    },
+    {
+      "text": "吃货白羊_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/68d93b3e01490a3e2a136e08e12f2eab737bc429.png"
+    }
+  ]
+}
