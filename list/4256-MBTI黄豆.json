@@ -1,0 +1,87 @@
+{
+  "id": 4256,
+  "text": "MBTI黄豆",
+  "icon": "https://i0.hdslb.com/bfs/garb/6225a3c40efde00fe27659938f4ed1540e905eba.png",
+  "emote": [
+    {
+      "text": "MBTI黄豆_INTJ",
+      "url": "https://i0.hdslb.com/bfs/garb/83461ed7d279db405db6d456f4faa25d97fd20b7.png"
+    },
+    {
+      "text": "MBTI黄豆_INFJ",
+      "url": "https://i0.hdslb.com/bfs/garb/51489a5d3a8111e7ed0490487d3ea919ae5a4827.png"
+    },
+    {
+      "text": "MBTI黄豆_ISTJ",
+      "url": "https://i0.hdslb.com/bfs/garb/4d0215df8929e580249461f8993923263ce8586a.png"
+    },
+    {
+      "text": "MBTI黄豆_ISTP",
+      "url": "https://i0.hdslb.com/bfs/garb/97083f7eba21fdf6b6838808f0217ac3ec71f4f5.png"
+    },
+    {
+      "text": "MBTI黄豆_你是什么",
+      "url": "https://i0.hdslb.com/bfs/garb/3d2a9df486eee8704b864e3432197896098beff9.png"
+    },
+    {
+      "text": "MBTI黄豆_INTP",
+      "url": "https://i0.hdslb.com/bfs/garb/ef9cca2e49d17e96260d151a447c74f052b78661.png"
+    },
+    {
+      "text": "MBTI黄豆_INFP",
+      "url": "https://i0.hdslb.com/bfs/garb/081cd6dc2a25707b4b5fa2a089b47b202d144598.png"
+    },
+    {
+      "text": "MBTI黄豆_TSFJ",
+      "url": "https://i0.hdslb.com/bfs/garb/7a017efa43927a76d334749c8077f3da698ff7ba.png"
+    },
+    {
+      "text": "MBTI黄豆_ISFP",
+      "url": "https://i0.hdslb.com/bfs/garb/d2841b6c443f5118177e3e1148ce90bb26e720a7.png"
+    },
+    {
+      "text": "MBTI黄豆_MBTI",
+      "url": "https://i0.hdslb.com/bfs/garb/faa661ca66706f8d973d37f01973b2a2db33b7d5.png"
+    },
+    {
+      "text": "MBTI黄豆_ENTJ",
+      "url": "https://i0.hdslb.com/bfs/garb/8d5760ed586c810876777d9e60e48e139a35f74b.png"
+    },
+    {
+      "text": "MBTI黄豆_ENFJ",
+      "url": "https://i0.hdslb.com/bfs/garb/b3516eb13afafe9b9ff4acbd1c0ec942dd6e5c48.png"
+    },
+    {
+      "text": "MBTI黄豆_ESTJ",
+      "url": "https://i0.hdslb.com/bfs/garb/b090f7993fd6f234e5ffbd4c2ba5f56f5fbe3d50.png"
+    },
+    {
+      "text": "MBTI黄豆_ESTP",
+      "url": "https://i0.hdslb.com/bfs/garb/9b123e95dd5ac2bf9e0549954d8d0b5210fbdd5d.png"
+    },
+    {
+      "text": "MBTI黄豆_我是E人",
+      "url": "https://i0.hdslb.com/bfs/garb/878d9d17fa4e3f68255f845e6d588420cedeb1ad.png"
+    },
+    {
+      "text": "MBTI黄豆_ENTP",
+      "url": "https://i0.hdslb.com/bfs/garb/cb12ef194576ab7cc79e89d29598820f63538ed4.png"
+    },
+    {
+      "text": "MBTI黄豆_ENFP",
+      "url": "https://i0.hdslb.com/bfs/garb/c079a62dc43795d3d2249b308249f4e454fb7891.png"
+    },
+    {
+      "text": "MBTI黄豆_ESFJ",
+      "url": "https://i0.hdslb.com/bfs/garb/bca969a4cb9eb68ee0c7f68eb489f9c086096fc6.png"
+    },
+    {
+      "text": "MBTI黄豆_ESFP",
+      "url": "https://i0.hdslb.com/bfs/garb/430b5d0bc2ef94cfff0a3b8f922f39ee82ffe947.png"
+    },
+    {
+      "text": "MBTI黄豆_我是i人",
+      "url": "https://i0.hdslb.com/bfs/garb/f679f05929defed9117b2ff6062cb79959858466.png"
+    }
+  ]
+}

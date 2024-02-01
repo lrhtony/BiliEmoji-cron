@@ -1,0 +1,87 @@
+{
+  "id": 4379,
+  "text": "Warma（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/8a92d1ee5feca68208a5a8fe03505606f3a59b77.png",
+  "emote": [
+    {
+      "text": "UPOWER_53456_惊恐",
+      "url": "https://i0.hdslb.com/bfs/garb/5bf765c3ae95c5761bca5d568b1b93d1e3ccf83b.png"
+    },
+    {
+      "text": "UPOWER_53456_打烤",
+      "url": "https://i0.hdslb.com/bfs/garb/d3ca8cfbab6ffdda93b8dfc93dca9c2aab5930e4.png"
+    },
+    {
+      "text": "UPOWER_53456_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/34be47ce8219733beea76d5f5f2770c13c48c531.png"
+    },
+    {
+      "text": "UPOWER_53456_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/19998a01f34ddee90e90b5c8df217ee734084e5e.png"
+    },
+    {
+      "text": "UPOWER_53456_酷",
+      "url": "https://i0.hdslb.com/bfs/garb/69bdee447516a2d269f6cdf08b7e23cc2c2399bf.png"
+    },
+    {
+      "text": "UPOWER_53456_恶魔",
+      "url": "https://i0.hdslb.com/bfs/garb/d4d0a0d348bbeb7882204f59f8f59995ddb0cb48.png"
+    },
+    {
+      "text": "UPOWER_53456_感动",
+      "url": "https://i0.hdslb.com/bfs/garb/75ca7312aebf0a44be933039273215376c00edc8.png"
+    },
+    {
+      "text": "UPOWER_53456_好听",
+      "url": "https://i0.hdslb.com/bfs/garb/a52bea2929ebcd97647a43df32f289dc0aebda31.png"
+    },
+    {
+      "text": "UPOWER_53456_店员",
+      "url": "https://i0.hdslb.com/bfs/garb/0625c02e7390e308edbba1f9fdab6c4b3c2dd31a.png"
+    },
+    {
+      "text": "UPOWER_53456_投币",
+      "url": "https://i0.hdslb.com/bfs/garb/1f293310a15481b025da1468647931088abb0e9d.png"
+    },
+    {
+      "text": "UPOWER_53456_融化",
+      "url": "https://i0.hdslb.com/bfs/garb/583b6b4d9bfc710c943baaf30c1ed8d5d96d5acf.png"
+    },
+    {
+      "text": "UPOWER_53456_南半球",
+      "url": "https://i0.hdslb.com/bfs/garb/8b677c8b274c7c811a1618ec40e4717914e9cb74.png"
+    },
+    {
+      "text": "UPOWER_53456_捂脸",
+      "url": "https://i0.hdslb.com/bfs/garb/e87edc0bbccca22970a9bde0c975d9721717ac49.png"
+    },
+    {
+      "text": "UPOWER_53456_毁灭地球",
+      "url": "https://i0.hdslb.com/bfs/garb/81f5a3f4c59dadf5172e4f98aab32683c4f47509.png"
+    },
+    {
+      "text": "UPOWER_53456_茄子",
+      "url": "https://i0.hdslb.com/bfs/garb/71f5c56e5c49866045ef33188910584e61cd457d.png"
+    },
+    {
+      "text": "UPOWER_53456_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/05d8fa79d983a7f4fc11c6873bd54d37b53a4708.png"
+    },
+    {
+      "text": "UPOWER_53456_晕倒",
+      "url": "https://i0.hdslb.com/bfs/garb/6aea027436f874bd2bcad24f77081fb5b5c60824.png"
+    },
+    {
+      "text": "UPOWER_53456_蜘蛛",
+      "url": "https://i0.hdslb.com/bfs/garb/661335c0ab3b29292c91ae4148966edd4cdcd5e7.png"
+    },
+    {
+      "text": "UPOWER_53456_一几一几",
+      "url": "https://i0.hdslb.com/bfs/garb/b9d06e5c8f683aaddcca5a925c8d33d5ab75cc75.png"
+    },
+    {
+      "text": "UPOWER_53456_注视",
+      "url": "https://i0.hdslb.com/bfs/garb/cd35e2bcbdc334ba5ae6313640f30498269e9606.png"
+    }
+  ]
+}
