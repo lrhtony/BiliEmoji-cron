@@ -1,19 +1,11 @@
 name: Scan Bilibili Emoji
 on:
   workflow_dispatch:
-  push:
-    branches:
-      master
-    paths-ignore:
-      - ".gitignore"
-      - "LICENSE"
-      - "README.md"
-      - "list/**"
   schedule:
     - cron: "15 4,15 * * *"
 jobs:
   scan:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: Set Timezone

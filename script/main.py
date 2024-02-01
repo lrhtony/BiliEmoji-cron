@@ -9,7 +9,6 @@ class BiliEmoji:
         self.PROXY = json.loads(os.getenv('PROXY', '{}'))
         self.SCAN_CONFIG = json.loads(os.getenv('SCAN_CONFIG', '[]'))
         # self.PROXY = {'http': 'http://127.0.0.1:6667', 'https': 'http://127.0.0.1:6667'}
-        # self.REDIS_URL = ''
         # self.SCAN_CONFIG = [1, 550, 20, [4, 250]]  # [初始值, 结束值, 步长, 忽略值]
 
     def main(self):
@@ -37,7 +36,7 @@ class BiliEmoji:
             'Referer': 'https://www.bilibili.com/',
             'Origin': 'https://www.bilibili.com',
             'Accept': '*/*',
-            'Accept-Encoding': 'gzip, deflate, br',
+            'Accept-Encoding': 'gzip, deflate',
             'Accept-Language': 'zh-CN,zh;q=0.9'
         }
         response = requests.get('https://api.bilibili.com/x/emote/package', params=params, proxies=self.PROXY, headers=headers)
