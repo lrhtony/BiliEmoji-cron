@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-
 import requests
-import redis
 import json
 import os
 
@@ -8,12 +7,10 @@ import os
 class BiliEmoji:
     def __init__(self):
         self.PROXY = json.loads(os.getenv('PROXY', '{}'))
-        self.REDIS_URL = os.getenv('REDIS_URL')
         self.SCAN_CONFIG = json.loads(os.getenv('SCAN_CONFIG', '[]'))
         # self.PROXY = {'http': 'http://127.0.0.1:6667', 'https': 'http://127.0.0.1:6667'}
         # self.REDIS_URL = ''
         # self.SCAN_CONFIG = [1, 550, 20, [4, 250]]  # [初始值, 结束值, 步长, 忽略值]
-        self.BILI_ACCESS_TOKEN = self.get_bili_access_token()
 
     def main(self):
         ids = list(range(self.SCAN_CONFIG[0], self.SCAN_CONFIG[1]))
@@ -29,14 +26,8 @@ class BiliEmoji:
             for emoji_info in emojis_info:
                 self.save_emoji_info(emoji_info)  # 逐个保存表情包信息
 
-    def get_bili_access_token(self):
-        r = redis.from_url(self.REDIS_URL)
-        bili_access_token = str(r.hget('token', 'bili-access_key'), 'utf-8')
-        return bili_access_token
-
     def get_emoji_info(self, ids: list) -> list:
         params = {
-            'access_key': self.BILI_ACCESS_TOKEN,
             'business': 'reply',
             'ids': ','.join([str(i) for i in ids]),
             'mobi_app': 'android_i'
