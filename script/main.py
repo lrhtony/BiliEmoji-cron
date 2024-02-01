@@ -32,7 +32,15 @@ class BiliEmoji:
             'ids': ','.join([str(i) for i in ids]),
             'mobi_app': 'android_i'
         }
-        response = requests.get('https://api.bilibili.com/x/emote/package', params=params, proxies=self.PROXY)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0',
+            'Referer': 'https://www.bilibili.com/',
+            'Origin': 'https://www.bilibili.com',
+            'Accept': '*/*',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Accept-Language': 'zh-CN,zh;q=0.9'
+        }
+        response = requests.get('https://api.bilibili.com/x/emote/package', params=params, proxies=self.PROXY, headers=headers)
         response_json = response.json()
         if response_json['code'] != 0:  # 乱七八糟的情况
             raise Exception(response_json['message'])
