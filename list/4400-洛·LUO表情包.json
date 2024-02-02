@@ -1,5 +1,87 @@
 {
   "id": 4400,
   "text": "洛·LUO表情包",
-  "icon": "https://i0.hdslb.com/bfs/emote/679cbd54b3866117027649b581e61d5ec5d9af5e.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/679cbd54b3866117027649b581e61d5ec5d9af5e.png",
+  "emote": [
+    {
+      "text": "洛·LUO_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/emote/2d5455d20cc0466b2313b4ac244a3dec180d2eb7.png"
+    },
+    {
+      "text": "洛·LUO_和善眼神",
+      "url": "https://i0.hdslb.com/bfs/emote/0fe405c99fadc5617c74aacc3c4b3bb3398ca091.png"
+    },
+    {
+      "text": "洛·LUO_超凶",
+      "url": "https://i0.hdslb.com/bfs/emote/fd10360a21d1b43943620727e0f130bc64bca9d6.png"
+    },
+    {
+      "text": "洛·LUO_爱了",
+      "url": "https://i0.hdslb.com/bfs/emote/abd42e8708c0cfd6465a6f221717bcc35dbe6943.png"
+    },
+    {
+      "text": "洛·LUO_哼哼",
+      "url": "https://i0.hdslb.com/bfs/emote/b546de8caf433060a77e7c90b19c409571e3603d.png"
+    },
+    {
+      "text": "洛·LUO_嗷呜",
+      "url": "https://i0.hdslb.com/bfs/emote/ed6b1762ba688c80012db1fb819dd3a1b5b01098.png"
+    },
+    {
+      "text": "洛·LUO_神秘",
+      "url": "https://i0.hdslb.com/bfs/emote/c72db1deec4418e6884fc499855215e6b442b91c.png"
+    },
+    {
+      "text": "洛·LUO_笑",
+      "url": "https://i0.hdslb.com/bfs/emote/ef651939174beccf6424e85f027fdaa4353485f2.png"
+    },
+    {
+      "text": "洛·LUO_干饭",
+      "url": "https://i0.hdslb.com/bfs/emote/bb987a116160e2962ecbea2bdf5232ca1c634f85.png"
+    },
+    {
+      "text": "洛·LUO_打call",
+      "url": "https://i0.hdslb.com/bfs/emote/8894fb4cb6b5f297d81320ca4f044feca040dcc1.png"
+    },
+    {
+      "text": "洛·LUO_她好会唱",
+      "url": "https://i0.hdslb.com/bfs/emote/815207997b759911785359c35c4149ed44fcffd5.png"
+    },
+    {
+      "text": "洛·LUO_依门",
+      "url": "https://i0.hdslb.com/bfs/emote/e9ec32660da175835ce954288063cfec3306223b.png"
+    },
+    {
+      "text": "洛·LUO_吃一口吧",
+      "url": "https://i0.hdslb.com/bfs/emote/e1747fa217307e3b49458efd0029091743d64274.png"
+    },
+    {
+      "text": "洛·LUO_让我康康",
+      "url": "https://i0.hdslb.com/bfs/emote/125497e41073863a45bf287f080a1e8ea9431ccf.png"
+    },
+    {
+      "text": "洛·LUO_冲冲冲",
+      "url": "https://i0.hdslb.com/bfs/emote/59a4d0c27be75f6b04da879bf4e2481e737eb749.png"
+    },
+    {
+      "text": "洛·LUO_真香",
+      "url": "https://i0.hdslb.com/bfs/emote/acb2542023ed1194a134b86c14bca9c790ee4f07.png"
+    },
+    {
+      "text": "洛·LUO_惊吓",
+      "url": "https://i0.hdslb.com/bfs/emote/e93011597841cd35583717fee62afa4020853cde.png"
+    },
+    {
+      "text": "洛·LUO_自闭",
+      "url": "https://i0.hdslb.com/bfs/emote/475221e896eeb1cea9038e9817f25c6d52d16eb9.png"
+    },
+    {
+      "text": "洛·LUO_啊？",
+      "url": "https://i0.hdslb.com/bfs/emote/f7acaf9de1fcc90c63bf8ed09fa636b285b115f4.png"
+    },
+    {
+      "text": "洛·LUO_欸嘿",
+      "url": "https://i0.hdslb.com/bfs/emote/987ae243d5fa9bb461d11d037e07b870732e88ed.png"
+    }
+  ]
 }
