@@ -1,5 +1,87 @@
 {
   "id": 4621,
   "text": "大哉乾元表情包",
-  "icon": "https://i0.hdslb.com/bfs/emote/d4aa33316e00cbaa97f333a5607be218895c494d.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/d4aa33316e00cbaa97f333a5607be218895c494d.png",
+  "emote": [
+    {
+      "text": "大哉乾元__干杯",
+      "url": "https://i0.hdslb.com/bfs/emote/5cf1df6ded6282ba5650554bf943ef62fb02ef09.png"
+    },
+    {
+      "text": "大哉乾元__超甜",
+      "url": "https://i0.hdslb.com/bfs/emote/f74596413b084023eaee0aac819bb5b7a240ad63.png"
+    },
+    {
+      "text": "大哉乾元__我来了",
+      "url": "https://i0.hdslb.com/bfs/emote/262410e0a8949d4b916d90738b8fae4f7325f150.png"
+    },
+    {
+      "text": "大哉乾元_贴贴",
+      "url": "https://i0.hdslb.com/bfs/emote/6721534fea203a7c46d0a9b69baf17eb1f515f1c.png"
+    },
+    {
+      "text": "大哉乾元_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/4fd272c4f5546ae9ebcf9a83e92c07da1afffaa5.png"
+    },
+    {
+      "text": "大哉乾元_格局",
+      "url": "https://i0.hdslb.com/bfs/emote/38e9e6b42eccfc24655a8d7686d691b37ae0f0d7.png"
+    },
+    {
+      "text": "大哉乾元_妙啊",
+      "url": "https://i0.hdslb.com/bfs/emote/5e121ec35f81853ead62de08105e71165f16f4fa.png"
+    },
+    {
+      "text": "大哉乾元_焦虑",
+      "url": "https://i0.hdslb.com/bfs/emote/c508c61ea88aeea94e32ec7912bfeab0af3de1f0.png"
+    },
+    {
+      "text": "大哉乾元_感动",
+      "url": "https://i0.hdslb.com/bfs/emote/41bfa9b1e4a0890a55c08f123deadb83062f85be.png"
+    },
+    {
+      "text": "大哉乾元_赫赫",
+      "url": "https://i0.hdslb.com/bfs/emote/7f7b9ced94a3ea9fd829f55471012af7ac2bbb75.png"
+    },
+    {
+      "text": "大哉乾元_源流万世大哉乾元",
+      "url": "https://i0.hdslb.com/bfs/emote/23530ab8ef23161634c2448d1a52156b53c201ab.png"
+    },
+    {
+      "text": "大哉乾元_神龙护体",
+      "url": "https://i0.hdslb.com/bfs/emote/5198248e0ee238468992b8e3680ce138a67e58a3.png"
+    },
+    {
+      "text": "大哉乾元_吃了没",
+      "url": "https://i0.hdslb.com/bfs/emote/3eb6208440605f629b88d00bb3273a8d5c1cbae5.png"
+    },
+    {
+      "text": "大哉乾元_冲",
+      "url": "https://i0.hdslb.com/bfs/emote/67b18cfdf3b5bfb925648ac9c0d076654e10df99.png"
+    },
+    {
+      "text": "大哉乾元_撒花",
+      "url": "https://i0.hdslb.com/bfs/emote/9c0952eed6189a3ddc50dfa2e6f2138a4d7f2990.png"
+    },
+    {
+      "text": "大哉乾元_NICE",
+      "url": "https://i0.hdslb.com/bfs/emote/3bb054046d7d8072924cc45c245d4cb772aa58c0.png"
+    },
+    {
+      "text": "大哉乾元_去玩",
+      "url": "https://i0.hdslb.com/bfs/emote/6d84c79efd4b4997af9a4db0643d32c1c36524b4.png"
+    },
+    {
+      "text": "大哉乾元_打call",
+      "url": "https://i0.hdslb.com/bfs/emote/8a0900e7f2030aab63f19fabbc20b98340f90898.png"
+    },
+    {
+      "text": "大哉乾元_馋",
+      "url": "https://i0.hdslb.com/bfs/emote/9b26671b731c029ac269f9f0bfcb2ae703e57bb4.png"
+    },
+    {
+      "text": "大哉乾元_急",
+      "url": "https://i0.hdslb.com/bfs/emote/1128593ef6d7954bbecba5df9a412ac49766e276.png"
+    }
+  ]
 }
