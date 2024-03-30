@@ -1,0 +1,47 @@
+{
+  "id": 4754,
+  "text": "NOV姐姐（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/a38dbaece6dcab24c13a5f78e52d298bddc15816.png",
+  "emote": [
+    {
+      "text": "UPOWER_9448580_狗头",
+      "url": "https://i0.hdslb.com/bfs/garb/54654bf0cffc37d00551cd4a6300ecd83bd2f0a9.png"
+    },
+    {
+      "text": "UPOWER_9448580_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/45885c2216920f629d75633c9221619dce5d3a66.png"
+    },
+    {
+      "text": "UPOWER_9448580_姐姐",
+      "url": "https://i0.hdslb.com/bfs/garb/31e0a2651c622b70c02635be37436c1164cd4d83.png"
+    },
+    {
+      "text": "UPOWER_9448580_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/8dd32a51e316344f35b091b11c9ae9986e2b5b17.png"
+    },
+    {
+      "text": "UPOWER_9448580_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/075053296cf5ff98dc821db50c28f074d29d7dc1.png"
+    },
+    {
+      "text": "UPOWER_9448580_鬼脸",
+      "url": "https://i0.hdslb.com/bfs/garb/6eab80fdc8e646270ff4eaeb349406a7c8dbbae6.png"
+    },
+    {
+      "text": "UPOWER_9448580_苦涩",
+      "url": "https://i0.hdslb.com/bfs/garb/bc1a2507233a819f4674ac2efe7df9cc413f9733.png"
+    },
+    {
+      "text": "UPOWER_9448580_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/a7b14fb1bb55aae0cc4fb56a946e9b0a8d892379.png"
+    },
+    {
+      "text": "UPOWER_9448580_捂脸",
+      "url": "https://i0.hdslb.com/bfs/garb/32ceeedae417ca43e2d3c9b41b26fc87c37bba3f.png"
+    },
+    {
+      "text": "UPOWER_9448580_拍手",
+      "url": "https://i0.hdslb.com/bfs/garb/8a0a3307765297a1f5d08a80cf84a42a1117cb88.png"
+    }
+  ]
+}
