@@ -1,0 +1,47 @@
+{
+  "id": 4790,
+  "text": "奇闻观察室（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/70769a88673dc63c9103eb3cae3cf079ad1f1e1a.png",
+  "emote": [
+    {
+      "text": "UPOWER_454719565_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/7330d2823081567c88687000d7b3018298d29498.png"
+    },
+    {
+      "text": "UPOWER_454719565_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/c9790c2b6eb6190101d79a67cd99c7d0c5f0be51.png"
+    },
+    {
+      "text": "UPOWER_454719565_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/e9d61290fb1b5ad49ed03fc69e58d48260825cbe.png"
+    },
+    {
+      "text": "UPOWER_454719565_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/4f52bb19f83736fa6d138d1ec7022beb03088741.png"
+    },
+    {
+      "text": "UPOWER_454719565_祈祷",
+      "url": "https://i0.hdslb.com/bfs/garb/fb9f6a6107085f4315ba91dcd0e342d60f4ca94d.png"
+    },
+    {
+      "text": "UPOWER_454719565_笑哭",
+      "url": "https://i0.hdslb.com/bfs/garb/b38e3e798d0b4cdd3f820f82fd28a190b719cc69.png"
+    },
+    {
+      "text": "UPOWER_454719565_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/ae440c290861427233a3a79b47c0b41ea4a122f3.png"
+    },
+    {
+      "text": "UPOWER_454719565_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/1ef890f1d65a23c2886b1b55efecd7de831b76ae.png"
+    },
+    {
+      "text": "UPOWER_454719565_惊呆",
+      "url": "https://i0.hdslb.com/bfs/garb/da95de008abe533e147bc903da6880f76e7d536b.png"
+    },
+    {
+      "text": "UPOWER_454719565_吃惊",
+      "url": "https://i0.hdslb.com/bfs/garb/c99530c34e8a53b82b6a8802eb5a63e546c3c124.png"
+    }
+  ]
+}
