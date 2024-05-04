@@ -1,0 +1,67 @@
+{
+  "id": 4874,
+  "text": "花丛小狐狸",
+  "icon": "https://i0.hdslb.com/bfs/garb/7735abba25b34dd8079b5388c272b2b50e1efd9d.png",
+  "emote": [
+    {
+      "text": "花丛小狐狸_HI",
+      "url": "https://i0.hdslb.com/bfs/garb/f8b21a405819e42c39bd15d0ca1059bc5dba646c.png"
+    },
+    {
+      "text": "花丛小狐狸_不好意思",
+      "url": "https://i0.hdslb.com/bfs/garb/369fe978d17656d7f629fc404c46eb83216a12a0.png"
+    },
+    {
+      "text": "花丛小狐狸_叮",
+      "url": "https://i0.hdslb.com/bfs/garb/9d4e0efe5b83393775783a6cb2e612048951941a.png"
+    },
+    {
+      "text": "花丛小狐狸_点点点",
+      "url": "https://i0.hdslb.com/bfs/garb/78c8c002451518f51e452bcae8b63cbf0c75cbea.png"
+    },
+    {
+      "text": "花丛小狐狸_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/1b166f93a8802ac36e9c34a8e6a4551082d689a0.png"
+    },
+    {
+      "text": "花丛小狐狸_跑",
+      "url": "https://i0.hdslb.com/bfs/garb/4b9cb3b3a94c79e0e330ca5223259bfa7177fda5.png"
+    },
+    {
+      "text": "花丛小狐狸_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/4ce7f2c027737b62bf8f671d9856084bd3f88c33.png"
+    },
+    {
+      "text": "花丛小狐狸_洗澡",
+      "url": "https://i0.hdslb.com/bfs/garb/74070ac17767f096c5794d71ea7f07402fe22ff8.png"
+    },
+    {
+      "text": "花丛小狐狸_残念",
+      "url": "https://i0.hdslb.com/bfs/garb/c48446dbe97badee12151917159908cf392763dc.png"
+    },
+    {
+      "text": "花丛小狐狸_？",
+      "url": "https://i0.hdslb.com/bfs/garb/2958b713b36e1beaa3594ddc1ae049d567b47869.png"
+    },
+    {
+      "text": "花丛小狐狸_来啦",
+      "url": "https://i0.hdslb.com/bfs/garb/b94fa7060fcfb98553399c6bac5e4d500a17c4d2.png"
+    },
+    {
+      "text": "花丛小狐狸_！",
+      "url": "https://i0.hdslb.com/bfs/garb/4649d4e888503634fd0e1f40aa4edeaaf9b0b437.png"
+    },
+    {
+      "text": "花丛小狐狸_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/ccdaaa87b0ed290beea26d7a12a2cad7e0d082de.png"
+    },
+    {
+      "text": "花丛小狐狸_吃面包",
+      "url": "https://i0.hdslb.com/bfs/garb/2b7867c33591db99dbf47e630e2164952402046d.png"
+    },
+    {
+      "text": "花丛小狐狸_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/689fab96f3d4973314014cc1f01a1815b597d64e.png"
+    }
+  ]
+}

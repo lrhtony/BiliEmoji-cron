@@ -1,0 +1,67 @@
+{
+  "id": 4814,
+  "text": "哇咔团打工人",
+  "icon": "https://i0.hdslb.com/bfs/garb/f86d699f45d8b2988738251a82952d0921a26800.png",
+  "emote": [
+    {
+      "text": "哇咔团打工人_交给我",
+      "url": "https://i0.hdslb.com/bfs/garb/c7a5444209b174ca79ca5024e495e7187009495c.png"
+    },
+    {
+      "text": "哇咔团打工人_休息",
+      "url": "https://i0.hdslb.com/bfs/garb/09c45774386638caa3d1dc62342b5de427094a8a.png"
+    },
+    {
+      "text": "哇咔团打工人_不想上班",
+      "url": "https://i0.hdslb.com/bfs/garb/67541d4ba7fc2a65c50a36eeb1a1de6fbef84d56.png"
+    },
+    {
+      "text": "哇咔团打工人_咖啡续命",
+      "url": "https://i0.hdslb.com/bfs/garb/a535d844af8306f3eb02dd04080e39a74d58e673.png"
+    },
+    {
+      "text": "哇咔团打工人_迟到",
+      "url": "https://i0.hdslb.com/bfs/garb/0ee09955231520992d3d76104a6b471c2930c2de.png"
+    },
+    {
+      "text": "哇咔团打工人_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/8c8c90b74705e0fa23afa5b9401e91ff10eec218.png"
+    },
+    {
+      "text": "哇咔团打工人_稍等",
+      "url": "https://i0.hdslb.com/bfs/garb/57a054442358509017cbdec4219239990c7ec00b.png"
+    },
+    {
+      "text": "哇咔团打工人_上钟",
+      "url": "https://i0.hdslb.com/bfs/garb/54a3dea837cc21f94b1a0f77c963667001b7843a.png"
+    },
+    {
+      "text": "哇咔团打工人_得瑟",
+      "url": "https://i0.hdslb.com/bfs/garb/d7c6771b99905d8fdeec166b7fb9fb12593aaa27.png"
+    },
+    {
+      "text": "哇咔团打工人_休假",
+      "url": "https://i0.hdslb.com/bfs/garb/768d47456708800f2744b483f23530e694f8e94e.png"
+    },
+    {
+      "text": "哇咔团打工人_在忙",
+      "url": "https://i0.hdslb.com/bfs/garb/94acf8328783d1e7ae35ac220b134ed57bb249c1.png"
+    },
+    {
+      "text": "哇咔团打工人_干饭",
+      "url": "https://i0.hdslb.com/bfs/garb/4c8667db7846536a24a989829cc59c9f27617743.png"
+    },
+    {
+      "text": "哇咔团打工人_收到",
+      "url": "https://i0.hdslb.com/bfs/garb/e3ff4485a640d89f1217c4aabc7ae8b7b034e596.png"
+    },
+    {
+      "text": "哇咔团打工人_加班",
+      "url": "https://i0.hdslb.com/bfs/garb/48e0db0566c485e7893dc2c045658f5c1450212d.png"
+    },
+    {
+      "text": "哇咔团打工人_开会",
+      "url": "https://i0.hdslb.com/bfs/garb/ec5d808f774204cc852b56b7d06192b111446a24.png"
+    }
+  ]
+}
