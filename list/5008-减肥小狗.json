@@ -1,0 +1,67 @@
+{
+  "id": 5008,
+  "text": "减肥小狗",
+  "icon": "https://i0.hdslb.com/bfs/garb/a42650b63f628bfcc4e2a85ef86d6803f99dc21a.png",
+  "emote": [
+    {
+      "text": "减肥小狗_运动",
+      "url": "https://i0.hdslb.com/bfs/garb/9b9ecc33cbfce740388974610ccd392a59a6b7e1.png"
+    },
+    {
+      "text": "减肥小狗_瘦了",
+      "url": "https://i0.hdslb.com/bfs/garb/6e9622e8d8b53575ab7e5ff6aa4d4c9552e5b831.png"
+    },
+    {
+      "text": "减肥小狗_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/c98b4062c543e5f1941d7b18661a020ccb7095c2.png"
+    },
+    {
+      "text": "减肥小狗_汉堡狗",
+      "url": "https://i0.hdslb.com/bfs/garb/1d878683f61e1a95f93f50b93c9a3c8c566c1763.png"
+    },
+    {
+      "text": "减肥小狗_吃素",
+      "url": "https://i0.hdslb.com/bfs/garb/2321b73aba5fcbd20958d4b0a4188654c37d1800.png"
+    },
+    {
+      "text": "减肥小狗_啃骨头",
+      "url": "https://i0.hdslb.com/bfs/garb/0f9a2bbc143c6eda2f2dbfbba0a97e34eb39a527.png"
+    },
+    {
+      "text": "减肥小狗_肉肉",
+      "url": "https://i0.hdslb.com/bfs/garb/a87d347b618c827e40760b15297d1a6d6440c20b.png"
+    },
+    {
+      "text": "减肥小狗_卡路里",
+      "url": "https://i0.hdslb.com/bfs/garb/255fb9e3c207eceb21b5574f13cdaa36d5382a26.png"
+    },
+    {
+      "text": "减肥小狗_打拳",
+      "url": "https://i0.hdslb.com/bfs/garb/c23df6c5f4791a64cba4c82273695552b35c2403.png"
+    },
+    {
+      "text": "减肥小狗_吃草",
+      "url": "https://i0.hdslb.com/bfs/garb/be6aca2bd050994c57ad315caf2138df233be753.png"
+    },
+    {
+      "text": "减肥小狗_体重",
+      "url": "https://i0.hdslb.com/bfs/garb/4de44d8696cea23aaaabedd42b5352f3c16238dd.png"
+    },
+    {
+      "text": "减肥小狗_打卡",
+      "url": "https://i0.hdslb.com/bfs/garb/d7e4538468342a71914a1e90cb752be03442ee48.png"
+    },
+    {
+      "text": "减肥小狗_牧草",
+      "url": "https://i0.hdslb.com/bfs/garb/0c8dcf3ecec631f1850e8e313cb1fdbaff4f9460.png"
+    },
+    {
+      "text": "减肥小狗_奶酪",
+      "url": "https://i0.hdslb.com/bfs/garb/a5a3bd00071751598d17c54ad12aeaf41d7a8d38.png"
+    },
+    {
+      "text": "减肥小狗_拳击手套",
+      "url": "https://i0.hdslb.com/bfs/garb/466094cfb4b2c9f038d2628f26fe7a0cf18ff09e.png"
+    }
+  ]
+}
