@@ -1,0 +1,47 @@
+{
+  "id": 5107,
+  "text": "吉祥物",
+  "icon": "https://i0.hdslb.com/bfs/emote/782a265160239e963d1f9063bb2a36b7970ac52e.png",
+  "emote": [
+    {
+      "text": "吉祥物_加油",
+      "url": "https://i0.hdslb.com/bfs/emote/89fbbf1d914b3aa349bf7841cd814071c38645ab.png"
+    },
+    {
+      "text": "吉祥物_OK",
+      "url": "https://i0.hdslb.com/bfs/emote/8fa08ac3161f921422d7dabba30182e0f53c0827.png"
+    },
+    {
+      "text": "吉祥物_收到",
+      "url": "https://i0.hdslb.com/bfs/emote/f0dbbadeb51faa0e00b0f8920cea7f35d0491459.png"
+    },
+    {
+      "text": "吉祥物_害羞",
+      "url": "https://i0.hdslb.com/bfs/emote/b45884415e55f90a10a1b010c7ac556d78219634.png"
+    },
+    {
+      "text": "吉祥物_疑惑",
+      "url": "https://i0.hdslb.com/bfs/emote/fbe268fb8bc6c20de8bdd3845c5995937bb01e4f.png"
+    },
+    {
+      "text": "吉祥物_打call",
+      "url": "https://i0.hdslb.com/bfs/emote/b160ed1c68b32906c485892e8f42b274be25a266.png"
+    },
+    {
+      "text": "吉祥物_摸头",
+      "url": "https://i0.hdslb.com/bfs/emote/ebfb4c0106a8b6fdb866d2a94bcde2c2814dc868.png"
+    },
+    {
+      "text": "吉祥物_啊啊啊",
+      "url": "https://i0.hdslb.com/bfs/emote/3a59c2f51ec5a03037dac85c229729b9dcbb864e.png"
+    },
+    {
+      "text": "吉祥物_赞",
+      "url": "https://i0.hdslb.com/bfs/emote/b9b4169995b91f29f679ca0a62158cdf4277a589.png"
+    },
+    {
+      "text": "吉祥物_大人请用",
+      "url": "https://i0.hdslb.com/bfs/emote/23aa2dc5d13a01fc5f0c373ddf77f14b89604e34.png"
+    }
+  ]
+}
