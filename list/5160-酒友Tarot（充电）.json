@@ -1,0 +1,47 @@
+{
+  "id": 5160,
+  "text": "酒友Tarot（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/1b9e5e6c5a282a83b2daee19c4ddf1164abdbeab.png",
+  "emote": [
+    {
+      "text": "UPOWER_61437342_阿这",
+      "url": "https://i0.hdslb.com/bfs/garb/12a5db4e02b0eb10d274dba8217fb72c92e182a4.png"
+    },
+    {
+      "text": "UPOWER_61437342_许愿星",
+      "url": "https://i0.hdslb.com/bfs/garb/cdfa7919ba6b22d6267f330f20287017cd25d67c.png"
+    },
+    {
+      "text": "UPOWER_61437342_写作业",
+      "url": "https://i0.hdslb.com/bfs/garb/9e86c0c6bdf8b42e888991af3d58a2f720f7c644.png"
+    },
+    {
+      "text": "UPOWER_61437342_吃肉",
+      "url": "https://i0.hdslb.com/bfs/garb/40422a635e388f4c2245a97fb7f175aa1140b051.png"
+    },
+    {
+      "text": "UPOWER_61437342_好运",
+      "url": "https://i0.hdslb.com/bfs/garb/c9cf4ab90d66e1c42062298de888619001ddac59.png"
+    },
+    {
+      "text": "UPOWER_61437342_学魔法",
+      "url": "https://i0.hdslb.com/bfs/garb/43e9ca6cb374630a4323818d19fb5954267dcc07.png"
+    },
+    {
+      "text": "UPOWER_61437342_玩尾巴",
+      "url": "https://i0.hdslb.com/bfs/garb/3ead7cf78650104f5b1d8768321621b3e8ee1528.png"
+    },
+    {
+      "text": "UPOWER_61437342_Emo",
+      "url": "https://i0.hdslb.com/bfs/garb/97dccbec706ab65a71e64b433659e4ba2d0aaf22.png"
+    },
+    {
+      "text": "UPOWER_61437342_观察",
+      "url": "https://i0.hdslb.com/bfs/garb/f9adb312c4358978d50550dc9a1f3ca7cf324778.png"
+    },
+    {
+      "text": "UPOWER_61437342_惬意",
+      "url": "https://i0.hdslb.com/bfs/garb/c6ffcff83c61f3573ada8f968d4d14bb87e5ad29.png"
+    }
+  ]
+}
