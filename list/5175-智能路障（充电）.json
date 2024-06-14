@@ -1,0 +1,27 @@
+{
+  "id": 5175,
+  "text": "智能路障（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/d3cb09151f7064491f570e9db1b51f14ac7a4001.png",
+  "emote": [
+    {
+      "text": "UPOWER_79577853_我觉得OK",
+      "url": "https://i0.hdslb.com/bfs/garb/e0ab8a5edfc891891be5e8f1c46eafd1f440d5b8.png"
+    },
+    {
+      "text": "UPOWER_79577853_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/8a0954649f99302bcd0858bbda5f4d8d0a976d86.png"
+    },
+    {
+      "text": "UPOWER_79577853_流泪",
+      "url": "https://i0.hdslb.com/bfs/garb/c25bd67b7d6e3ad59b590ef4da58800068836bca.png"
+    },
+    {
+      "text": "UPOWER_79577853_路障",
+      "url": "https://i0.hdslb.com/bfs/garb/c56e840b6a4c0c70d0340a7f7ef5102c22f95e8b.png"
+    },
+    {
+      "text": "UPOWER_79577853_牛哇",
+      "url": "https://i0.hdslb.com/bfs/garb/740c098e30c73e4349b04ce72e782d66b7946a51.png"
+    }
+  ]
+}

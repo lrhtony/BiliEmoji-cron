@@ -1,35 +1,5 @@
 {
   "id": 4234,
   "text": "夢冬oTo（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/3d87e6d687f7e585eb046137d7bb92633d76368e.png",
-  "emote": [
-    {
-      "text": "UPOWER_353708919_气鼓鼓",
-      "url": "https://i0.hdslb.com/bfs/garb/702606b0a3017d7252b22e412d7da2f20e4417c3.png"
-    },
-    {
-      "text": "UPOWER_353708919_好厉害",
-      "url": "https://i0.hdslb.com/bfs/garb/483f91fc7dff7432ddfc31fc1d344f178af0669f.png"
-    },
-    {
-      "text": "UPOWER_353708919_666",
-      "url": "https://i0.hdslb.com/bfs/garb/771fbc28bec98396a0087b581a90746efdaaeedf.png"
-    },
-    {
-      "text": "UPOWER_353708919_嫌弃",
-      "url": "https://i0.hdslb.com/bfs/garb/cefd6b65ee0ae77126316e8e4f40c4786e47ea54.png"
-    },
-    {
-      "text": "UPOWER_353708919_笨蛋",
-      "url": "https://i0.hdslb.com/bfs/garb/b58b819a8ac7d979d4a4338b9d6aba405ea14406.png"
-    },
-    {
-      "text": "UPOWER_353708919_哇塞",
-      "url": "https://i0.hdslb.com/bfs/garb/a0132339ed73be877d6dc67c965c7788f9a07ad6.png"
-    },
-    {
-      "text": "UPOWER_353708919_摸摸头",
-      "url": "https://i0.hdslb.com/bfs/garb/52b01b057c413fac9380bb218825f59ea943d338.png"
-    }
-  ]
+  "icon": "https://i0.hdslb.com/bfs/garb/3d87e6d687f7e585eb046137d7bb92633d76368e.png"
 }
