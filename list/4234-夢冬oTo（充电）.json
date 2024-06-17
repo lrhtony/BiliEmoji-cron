@@ -1,5 +1,71 @@
 {
   "id": 4234,
   "text": "夢冬oTo（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/3d87e6d687f7e585eb046137d7bb92633d76368e.png"
+  "icon": "https://i0.hdslb.com/bfs/garb/3d87e6d687f7e585eb046137d7bb92633d76368e.png",
+  "emote": [
+    {
+      "text": "UPOWER_353708919_姐姐贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/7f435c8ffa1c37fdac1e8d29c34071a33f96805b.png"
+    },
+    {
+      "text": "UPOWER_353708919_傲娇",
+      "url": "https://i0.hdslb.com/bfs/garb/e9f43b6baf1a59b92797a1731e8bf5d96acc6b77.png"
+    },
+    {
+      "text": "UPOWER_353708919_我爱上班",
+      "url": "https://i0.hdslb.com/bfs/garb/a5580c7160a8b66946c95de5b36fdd59b8d00f9f.png"
+    },
+    {
+      "text": "UPOWER_353708919_屑姐姐",
+      "url": "https://i0.hdslb.com/bfs/garb/52e33a4cfd0fbc4b709dc26137c64dd9553f263c.png"
+    },
+    {
+      "text": "UPOWER_353708919_我是修勾",
+      "url": "https://i0.hdslb.com/bfs/garb/7a895d75f20b4490ccfd5117e84e4eb22935dd0d.png"
+    },
+    {
+      "text": "UPOWER_353708919_姐姐骂我",
+      "url": "https://i0.hdslb.com/bfs/garb/b2827b82bcbb054db4f6869c5168657c38de6fc5.png"
+    },
+    {
+      "text": "UPOWER_353708919_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/006738b05d6f229136948245ddb7654d207416e9.png"
+    },
+    {
+      "text": "UPOWER_353708919_跳船辣",
+      "url": "https://i0.hdslb.com/bfs/garb/b49aa1e36a5785b0c10a87688bd223d6c39b031e.png"
+    },
+    {
+      "text": "UPOWER_353708919_气鼓鼓",
+      "url": "https://i0.hdslb.com/bfs/garb/702606b0a3017d7252b22e412d7da2f20e4417c3.png"
+    },
+    {
+      "text": "UPOWER_353708919_晚安zzz",
+      "url": "https://i0.hdslb.com/bfs/garb/835e417e8f4e1575db70f661d6b9cc710c4c3dfa.png"
+    },
+    {
+      "text": "UPOWER_353708919_好厉害",
+      "url": "https://i0.hdslb.com/bfs/garb/483f91fc7dff7432ddfc31fc1d344f178af0669f.png"
+    },
+    {
+      "text": "UPOWER_353708919_666",
+      "url": "https://i0.hdslb.com/bfs/garb/771fbc28bec98396a0087b581a90746efdaaeedf.png"
+    },
+    {
+      "text": "UPOWER_353708919_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/cefd6b65ee0ae77126316e8e4f40c4786e47ea54.png"
+    },
+    {
+      "text": "UPOWER_353708919_笨蛋",
+      "url": "https://i0.hdslb.com/bfs/garb/b58b819a8ac7d979d4a4338b9d6aba405ea14406.png"
+    },
+    {
+      "text": "UPOWER_353708919_哇塞",
+      "url": "https://i0.hdslb.com/bfs/garb/a0132339ed73be877d6dc67c965c7788f9a07ad6.png"
+    },
+    {
+      "text": "UPOWER_353708919_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/52b01b057c413fac9380bb218825f59ea943d338.png"
+    }
+  ]
 }
