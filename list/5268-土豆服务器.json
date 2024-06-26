@@ -1,0 +1,67 @@
+{
+  "id": 5268,
+  "text": "土豆服务器",
+  "icon": "https://i0.hdslb.com/bfs/garb/9ca54d4965154a4cce7dc3fd55eaaa8b347fcc2d.png",
+  "emote": [
+    {
+      "text": "土豆服务器_网差",
+      "url": "https://i0.hdslb.com/bfs/garb/659a3fa1f8a8a2d34f68b02d13ec9e2c374c6cdc.png"
+    },
+    {
+      "text": "土豆服务器_网好",
+      "url": "https://i0.hdslb.com/bfs/garb/aed37e54a9fa9f2531e3965a96e5f4f6f733bbe8.png"
+    },
+    {
+      "text": "土豆服务器_加载",
+      "url": "https://i0.hdslb.com/bfs/garb/064180b96fd66969a0581b6eebd9fecf7c72d50d.png"
+    },
+    {
+      "text": "土豆服务器_指点",
+      "url": "https://i0.hdslb.com/bfs/garb/42313413d00ab68b381fd8a34d067113a86015cc.png"
+    },
+    {
+      "text": "土豆服务器_土豆发芽",
+      "url": "https://i0.hdslb.com/bfs/garb/e9e7c681285904da195bd51d0a46a6e24274dbaa.png"
+    },
+    {
+      "text": "土豆服务器_BUG",
+      "url": "https://i0.hdslb.com/bfs/garb/52e41397bbdf1bc6e1488dd518f53a2068bcc6e6.png"
+    },
+    {
+      "text": "土豆服务器_土豆电源",
+      "url": "https://i0.hdslb.com/bfs/garb/2d56b90182cf81b3fb5baf06d2b92598e67126a3.png"
+    },
+    {
+      "text": "土豆服务器_土豆串联",
+      "url": "https://i0.hdslb.com/bfs/garb/6061bcad2eda7c90925308e3fd01c081a5428615.png"
+    },
+    {
+      "text": "土豆服务器_服务器",
+      "url": "https://i0.hdslb.com/bfs/garb/8e9b6acd12bf74c926beebe7cf4d41e4e61e4bb6.png"
+    },
+    {
+      "text": "土豆服务器_电脑配件",
+      "url": "https://i0.hdslb.com/bfs/garb/ba818d96ea9ca2739380d0d58583f92449572163.png"
+    },
+    {
+      "text": "土豆服务器_等待加载",
+      "url": "https://i0.hdslb.com/bfs/garb/01042352b43d8318ba5a735f313ea883b566d32f.png"
+    },
+    {
+      "text": "土豆服务器_0帧起手",
+      "url": "https://i0.hdslb.com/bfs/garb/198cfeed1d9c8129980c8fda480586c55500f146.png"
+    },
+    {
+      "text": "土豆服务器_拔网线",
+      "url": "https://i0.hdslb.com/bfs/garb/ea185fe9b7d37657796612d0151ca3efb1b91ac5.png"
+    },
+    {
+      "text": "土豆服务器_ctrl",
+      "url": "https://i0.hdslb.com/bfs/garb/8eca06d688eb82ecfee08ca07577267eed997eac.png"
+    },
+    {
+      "text": "土豆服务器_z",
+      "url": "https://i0.hdslb.com/bfs/garb/da10f29773ceb68ff8584842188429c8b638f1c0.png"
+    }
+  ]
+}
