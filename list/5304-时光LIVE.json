@@ -1,0 +1,43 @@
+{
+  "id": 5304,
+  "text": "时光LIVE",
+  "icon": "https://i0.hdslb.com/bfs/emote/fdc15679977b2d2cf26e3dc5bbd13f4c5e9728d7.png",
+  "emote": [
+    {
+      "text": "时光LIVE_cool",
+      "url": "https://i0.hdslb.com/bfs/emote/1d07df373d8d32d0f95c4bfca255a662b426875d.png"
+    },
+    {
+      "text": "时光LIVE_唱歌",
+      "url": "https://i0.hdslb.com/bfs/emote/4b523bd2ded409fda7e3200960772216b2756609.png"
+    },
+    {
+      "text": "时光LIVE_music",
+      "url": "https://i0.hdslb.com/bfs/emote/e6150d910320a75cf2889cc1ab6576852d4fb152.png"
+    },
+    {
+      "text": "时光LIVE_打鼓",
+      "url": "https://i0.hdslb.com/bfs/emote/01c3e72bd048d0d89d8869ac65b039f63eed5f4b.png"
+    },
+    {
+      "text": "时光LIVE_傻眼",
+      "url": "https://i0.hdslb.com/bfs/emote/ab4f743e6d9dfd27b7e9de0d1e09e86941871f78.png"
+    },
+    {
+      "text": "时光LIVE_打电话",
+      "url": "https://i0.hdslb.com/bfs/emote/fb7edd5e3f069023b5cd972541dd8552ca0749a8.png"
+    },
+    {
+      "text": "时光LIVE_开演",
+      "url": "https://i0.hdslb.com/bfs/emote/45b620d4b00346b8305f63dafcf4cd5c11df39c5.png"
+    },
+    {
+      "text": "时光LIVE_骑摩托",
+      "url": "https://i0.hdslb.com/bfs/emote/fdc15679977b2d2cf26e3dc5bbd13f4c5e9728d7.png"
+    },
+    {
+      "text": "时光LIVE_出发",
+      "url": "https://i0.hdslb.com/bfs/emote/958348c07ca357218c7e17b8c7532d5ca08fb5b6.png"
+    }
+  ]
+}
