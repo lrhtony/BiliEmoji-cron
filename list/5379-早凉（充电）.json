@@ -1,0 +1,47 @@
+{
+  "id": 5379,
+  "text": "早凉（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/a6fe9c03912024545c13004ea7c1ef245fa50e17.png",
+  "emote": [
+    {
+      "text": "UPOWER_518817_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/b556b4376e9f772ea6aa20ace1d9748e02bd46d9.png"
+    },
+    {
+      "text": "UPOWER_518817_吃桃",
+      "url": "https://i0.hdslb.com/bfs/garb/40db5fda3eb243fc9c1ff8e53b76ef9d88bd727e.png"
+    },
+    {
+      "text": "UPOWER_518817_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/e6036e73fdc1cbbdb365abb9243600e23a4287b9.png"
+    },
+    {
+      "text": "UPOWER_518817_屑",
+      "url": "https://i0.hdslb.com/bfs/garb/39b128568a44d13c703b1b17590b59c43bc46534.png"
+    },
+    {
+      "text": "UPOWER_518817_呆",
+      "url": "https://i0.hdslb.com/bfs/garb/660c019ab09d3c7a8df0199614f78c8af7b5cb2d.png"
+    },
+    {
+      "text": "UPOWER_518817_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/9478262cc1bec5e18e25e0cb673f2be78ea2e7c4.png"
+    },
+    {
+      "text": "UPOWER_518817_小激动",
+      "url": "https://i0.hdslb.com/bfs/garb/22f9c02a6d45a1f38e5b70946c48747bb440dd9a.png"
+    },
+    {
+      "text": "UPOWER_518817_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/feec9d638ba97fe0806244d8d4360ea601f9a270.png"
+    },
+    {
+      "text": "UPOWER_518817_呵呵",
+      "url": "https://i0.hdslb.com/bfs/garb/0c714a4b22590737f6db3ec04eeab3d0a6b87d97.png"
+    },
+    {
+      "text": "UPOWER_518817_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/55503930bc51a92a56983026923d3c38cafcfa4a.png"
+    }
+  ]
+}
