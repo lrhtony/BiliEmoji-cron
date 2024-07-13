@@ -1,0 +1,107 @@
+{
+  "id": 5383,
+  "text": "夏日泳装",
+  "icon": "https://i0.hdslb.com/bfs/garb/f7ea5e5c7a49fe142b27b357a1d42d9a28f42d84.png",
+  "emote": [
+    {
+      "text": "夏日泳装_笑",
+      "url": "https://i0.hdslb.com/bfs/garb/183e9541a811e519dfa4146bef58df02489b4e35.png"
+    },
+    {
+      "text": "夏日泳装_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/04f362db7165a19143f9afd0433bcfef39128282.png"
+    },
+    {
+      "text": "夏日泳装_死刑",
+      "url": "https://i0.hdslb.com/bfs/garb/952fde306cacffeecf96ee00948dee060e774d5d.png"
+    },
+    {
+      "text": "夏日泳装_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/4f766a95b8157be15b50fd90e49d012e2240f29e.png"
+    },
+    {
+      "text": "夏日泳装_好耶",
+      "url": "https://i0.hdslb.com/bfs/garb/56e0ad5fdb2ca25e1d1697b0836498b6e6604093.png"
+    },
+    {
+      "text": "夏日泳装_快逃",
+      "url": "https://i0.hdslb.com/bfs/garb/ece1d584ec31e8fca8b1fa30a7bb54f151ea6281.png"
+    },
+    {
+      "text": "夏日泳装_略",
+      "url": "https://i0.hdslb.com/bfs/garb/e2f8b5abaa0f3aff6c7cb009134f32b8f5799b9e.png"
+    },
+    {
+      "text": "夏日泳装_略略",
+      "url": "https://i0.hdslb.com/bfs/garb/01145be9d5acf367af53761ca24a01fa7be4c510.png"
+    },
+    {
+      "text": "夏日泳装_唱歌",
+      "url": "https://i0.hdslb.com/bfs/garb/214268a3535481604a31a99dbc540f3777d14871.png"
+    },
+    {
+      "text": "夏日泳装_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/d3bbcd895d28005e54f6e1b09c265f3bc4c3a76d.png"
+    },
+    {
+      "text": "夏日泳装_老婆",
+      "url": "https://i0.hdslb.com/bfs/garb/45311bff101a4527442d58c1d562feac3f296182.png"
+    },
+    {
+      "text": "夏日泳装_姐是女王",
+      "url": "https://i0.hdslb.com/bfs/garb/df4e1cf60db8279ffef1b2e7a9f7a45654fc18ce.png"
+    },
+    {
+      "text": "夏日泳装_无语了",
+      "url": "https://i0.hdslb.com/bfs/garb/8ca7935f4e17307b937e34d7d767c256975a81d6.png"
+    },
+    {
+      "text": "夏日泳装_嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/586ffb0458d64767f81ae6f0cc3edaeaa8bd7438.png"
+    },
+    {
+      "text": "夏日泳装_宝贝在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/8124e866646cf662e7363b4f7d24d8e5d96e1606.png"
+    },
+    {
+      "text": "夏日泳装_握去",
+      "url": "https://i0.hdslb.com/bfs/garb/602a08ea939b2f4dfda60a01ea1ffb9a619145cc.png"
+    },
+    {
+      "text": "夏日泳装_让我康康",
+      "url": "https://i0.hdslb.com/bfs/garb/46c08f552aa420e1918b867e58c8ef2e1d64f89b.png"
+    },
+    {
+      "text": "夏日泳装_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/fd781a55ce6f9757da7a14eaf866ced0b8eb414f.png"
+    },
+    {
+      "text": "夏日泳装_自爆",
+      "url": "https://i0.hdslb.com/bfs/garb/1676100f0b57ba137bc0e06317041fcdf7a20b32.png"
+    },
+    {
+      "text": "夏日泳装_我最聪明",
+      "url": "https://i0.hdslb.com/bfs/garb/c278043774dde7b3b54b984688bd132ea7e0c4a4.png"
+    },
+    {
+      "text": "夏日泳装_指指点点",
+      "url": "https://i0.hdslb.com/bfs/garb/9e46437eef1c87566a21e5172993c0886e60e3a2.png"
+    },
+    {
+      "text": "夏日泳装_多喝热水",
+      "url": "https://i0.hdslb.com/bfs/garb/27423cbdd33ae1f384f6ba606de1c874398e384d.png"
+    },
+    {
+      "text": "夏日泳装_行行好吧",
+      "url": "https://i0.hdslb.com/bfs/garb/fad6f07fcb9a5a9ba857e02294810fc1a219a8a1.png"
+    },
+    {
+      "text": "夏日泳装_杂鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/3131b241c02d58bd3efe67a22afc4e9dbc6dc88a.png"
+    },
+    {
+      "text": "夏日泳装_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/8c460e23c046628f860411f8615a5bc3c7d4bf9b.png"
+    }
+  ]
+}
