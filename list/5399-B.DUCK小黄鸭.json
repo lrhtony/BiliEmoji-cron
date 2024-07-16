@@ -1,0 +1,107 @@
+{
+  "id": 5399,
+  "text": "B.DUCK小黄鸭",
+  "icon": "https://i0.hdslb.com/bfs/garb/51ac54f0af9cb25bfa1337206055ff1b866f9dfe.png",
+  "emote": [
+    {
+      "text": "B.DUCK小黄鸭_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/2230a8fd5e6a3142e461e337566345e96ea3be57.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_咦",
+      "url": "https://i0.hdslb.com/bfs/garb/ab7f610616d5420402535337b418b5b88d182094.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_优雅",
+      "url": "https://i0.hdslb.com/bfs/garb/83c0a1d342822382dcd6ff7c850e2a059f5f144b.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_坐好",
+      "url": "https://i0.hdslb.com/bfs/garb/12e80f06ba63313e7ce6e0f5b48b017fc2f8b51f.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/968e1e579fbc320c883c0ce5dd2ef75695cac384.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_溜了",
+      "url": "https://i0.hdslb.com/bfs/garb/1af6a75f585b1876e797925e2f197a054fb4382c.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/443f385f3ff6af3f9adf90a5c1d8fcf8462c9c55.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/f0ef145ea8f03d397eb159c3941708b7e630eb98.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/e1c9f4b253d5e26ed0965d8b036e13cc3eb17986.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_趴着看",
+      "url": "https://i0.hdslb.com/bfs/garb/13dc3f0a08d030b19c14b81d26f3b71c60ae81b0.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_吃货",
+      "url": "https://i0.hdslb.com/bfs/garb/192a06d3cc86c36236e4890e1a761005ebb7a2bd.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/2d32179fbefb086db6f4586cd032ec4fc95a1186.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_要抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/eed5f4054431edb548b1d1882772fb02dd386801.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/2157bc3e0b2fada13a4ecced0f77c96dec239a70.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/c740fd1f8a93895f92a231a23f8a7e4eea158554.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_疲惫",
+      "url": "https://i0.hdslb.com/bfs/garb/e95179ef0b897f635608af40c85da3a70c1b9490.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_看戏",
+      "url": "https://i0.hdslb.com/bfs/garb/95a5c158c0a64fb1b9a22450f2e73b8898cf7229.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_看",
+      "url": "https://i0.hdslb.com/bfs/garb/6645da32ac3b7fd8fc3e16938110ff474b21b0a1.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_仰卧起",
+      "url": "https://i0.hdslb.com/bfs/garb/b54b1c3ddd4775f364edd802ef908332d3bd4772.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_我来啦",
+      "url": "https://i0.hdslb.com/bfs/garb/1fa95218708258639aed1c2e0b6506af9f8b711c.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_呆",
+      "url": "https://i0.hdslb.com/bfs/garb/deb9d94572b8e858e2c6eb16a1239b2a30c5dc4f.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_扭",
+      "url": "https://i0.hdslb.com/bfs/garb/bec08aec238eb85230f37781084c045b8770f471.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_乖",
+      "url": "https://i0.hdslb.com/bfs/garb/bd19a2273469dea741826fcb81d830784b47baad.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_好朋友",
+      "url": "https://i0.hdslb.com/bfs/garb/88df151727ea7e57c7bdaf2e3b8d7aa6be60759d.png"
+    },
+    {
+      "text": "B.DUCK小黄鸭_摔倒了",
+      "url": "https://i0.hdslb.com/bfs/garb/6d4ece38174db9ca40231b8979f3989504b5d6ac.png"
+    }
+  ]
+}
