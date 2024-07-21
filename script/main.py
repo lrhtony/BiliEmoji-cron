@@ -62,10 +62,15 @@ class BiliEmoji:
                     for emote in emotes:
                         emote_text = emote['text'].replace('[', '').replace(']', '')
                         emote_url = emote['url'].replace('http://', 'https://')
-                        emote_list.append({
+                        emote_data = {
                             'text': emote_text,
                             'url': emote_url,
-                        })
+                        }
+                        if 'gif_url' in emote:  # 新出的动态表情
+                            emote_data['gif_url'] = emote['gif_url'].replace('http://', 'https://')
+                        if 'webp_url' in emote:
+                            emote_data['webp_url'] = emote['webp_url'].replace('http://', 'https://')
+                        emote_list.append(emote_data)
                     package_dict['emote'] = emote_list
                 result.append(package_dict)
         return result
