@@ -1,0 +1,49 @@
+{
+  "id": 5439,
+  "text": "女法师动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/4bd2a1d98cc00ae4618391159ec796fc9fde1539.png",
+  "emote": [
+    {
+      "text": "女法师动态表情包_输出",
+      "url": "https://i0.hdslb.com/bfs/emote/4bd2a1d98cc00ae4618391159ec796fc9fde1539.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/7ec82f8b4fbe0d4fd683412d066f79f941f821a8.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/9355b37f48f0262735d2e644f1770e07f08b9b99.webp"
+    },
+    {
+      "text": "女法师动态表情包_嘲讽",
+      "url": "https://i0.hdslb.com/bfs/emote/bd70279e6044373264563b11ab292f0ac863647a.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/df0c033b38779fc2e408521036075c7bda84d809.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/b513090a3bb161f5a8d19276e289433d04d67c03.webp"
+    },
+    {
+      "text": "女法师动态表情包_攻击动作",
+      "url": "https://i0.hdslb.com/bfs/emote/f76ce22c42f2bad4c6eeba7454a2ac791d9aa7e2.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/411f525e6ee0953dec95424a2aed86c46f2013e7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/8f42e73b1b9729fc1cc86fd1cd54fcd89d4e4021.webp"
+    },
+    {
+      "text": "女法师动态表情包_攻击特效",
+      "url": "https://i0.hdslb.com/bfs/emote/b2639dcc7a9117024d434bc335f42644c93231a9.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/2a8fb82b629a99224f60f0a72004d04a979e6c5f.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/45190803a22f4b23200de10bd8889118852310f8.webp"
+    },
+    {
+      "text": "女法师动态表情包_护盾",
+      "url": "https://i0.hdslb.com/bfs/emote/3eab7ead993567dcca36a2201da795a26ae8d424.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/e70f7dba7aa51f88011f610525c1ce19a2b1a3bd.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/c0bcd4da2282ec6eb89e41e08421ffb2b03dfd13.webp"
+    },
+    {
+      "text": "女法师动态表情包_跑步",
+      "url": "https://i0.hdslb.com/bfs/emote/d4e2e1ed933d325962414446de69f43ddd33fb68.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/93ab84b759284f5a85d2ebc219aa955e8e92be61.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/07f541cf5c3f2a9172147d6703aad5f57229dd65.webp"
+    },
+    {
+      "text": "女法师动态表情包_闪烁",
+      "url": "https://i0.hdslb.com/bfs/emote/deaebd5b14ed64b9d4c1dc29f5653be718fd5b43.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/a76dcd43fe76ff406dd175d34f2867378cd24390.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/75d9e7cf5774569a313d6671203ac30d850e64ac.webp"
+    }
+  ]
+}

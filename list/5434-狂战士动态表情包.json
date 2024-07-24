@@ -1,0 +1,49 @@
+{
+  "id": 5434,
+  "text": "狂战士动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/6dd3a0582dde322d639517c1bc60278dffdc1871.png",
+  "emote": [
+    {
+      "text": "狂战士动态表情包_登场",
+      "url": "https://i0.hdslb.com/bfs/emote/6dd3a0582dde322d639517c1bc60278dffdc1871.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/09e9e718cb261079dbdf94cbcfa2cf5cc2d80a20.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/d47d407c87c8ac2afa22f85de7511e493b5ed509.webp"
+    },
+    {
+      "text": "狂战士动态表情包_嘲讽",
+      "url": "https://i0.hdslb.com/bfs/emote/822eef894e701bf6d9ab202de0521851effdd0f3.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/bc50a97e81047d15c1e17f356a328f9df6be2b62.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/bbbbd3cb44e974529c689bec4852600188a4d1ed.webp"
+    },
+    {
+      "text": "狂战士动态表情包_格挡",
+      "url": "https://i0.hdslb.com/bfs/emote/49e09011d5b575dc80da5747d09901ece138e442.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/a50d4bae1535bc8cf5fdd3bf980b277f3dc3cbad.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/b868365ac86f62c98728c2f9d5e1db3bad989a3c.webp"
+    },
+    {
+      "text": "狂战士动态表情包_攻击动作",
+      "url": "https://i0.hdslb.com/bfs/emote/830844123b2a5fd1b07f5f9a5b8d8bd646d7cf66.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/cf4b7f39e8b2490c2405190c2eccbf97ef797348.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/236594c80af5f36c389757b087b99ac556707bac.webp"
+    },
+    {
+      "text": "狂战士动态表情包_攻击特效",
+      "url": "https://i0.hdslb.com/bfs/emote/dd62abcdac5d3f209f8262284de57eb0eebe950e.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/c27f6738add6e3a907adfbf6b8689b8ab783f226.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/63092c07df9743f70469dd0e2caa05c614280fb9.webp"
+    },
+    {
+      "text": "狂战士动态表情包_跑步",
+      "url": "https://i0.hdslb.com/bfs/emote/7d58668d1ce368ad0afecd1a58f54514e96e4ec0.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/9062c66974d36ccfd00c9114d65c3aae89a5fb87.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/bfc13b0f7a3dfd439d21618a2288c463936ff945.webp"
+    },
+    {
+      "text": "狂战士动态表情包_闪避",
+      "url": "https://i0.hdslb.com/bfs/emote/69a22619642ca824a5bc17855ed814320803d5fe.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/817903ca6ca99cf7b845e2cb70cefbf24347da87.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/1070de9071662b2a42432bffc13c71468f15e6aa.webp"
+    }
+  ]
+}
