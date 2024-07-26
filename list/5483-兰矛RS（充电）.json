@@ -1,0 +1,47 @@
+{
+  "id": 5483,
+  "text": "兰矛RS（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/018c2ed7ec420c8e5b4e55d4c1a66b2018421891.png",
+  "emote": [
+    {
+      "text": "UPOWER_2196632_内伤",
+      "url": "https://i0.hdslb.com/bfs/garb/e1123dea8c6a9c4943e5495797d5b366c1718327.png"
+    },
+    {
+      "text": "UPOWER_2196632_你过来呀",
+      "url": "https://i0.hdslb.com/bfs/garb/19e045225b238def20822185b3095cb4675da428.png"
+    },
+    {
+      "text": "UPOWER_2196632_不高兴",
+      "url": "https://i0.hdslb.com/bfs/garb/d4e262bf91d44fee8c7d55b607a8a3324b082bac.png"
+    },
+    {
+      "text": "UPOWER_2196632_cing",
+      "url": "https://i0.hdslb.com/bfs/garb/3a68633a3ecc184bb1129bb08082713c05ff4add.png"
+    },
+    {
+      "text": "UPOWER_2196632_打起来",
+      "url": "https://i0.hdslb.com/bfs/garb/a05cc412848aa90f2c3b7daebf3f7eacf8b9f85f.png"
+    },
+    {
+      "text": "UPOWER_2196632_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/efc26e60cc6f0afa49dbb36ef7dccdaef40fcc32.png"
+    },
+    {
+      "text": "UPOWER_2196632_麒麟臂",
+      "url": "https://i0.hdslb.com/bfs/garb/24ac447e1a88b710e73219a540e53a4842ddbd75.png"
+    },
+    {
+      "text": "UPOWER_2196632_噫",
+      "url": "https://i0.hdslb.com/bfs/garb/aebd3e201fe75e1813de6af7492ceef4b5ceed3c.png"
+    },
+    {
+      "text": "UPOWER_2196632_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/acaae8c3e264bd9445fbeff1b52e974973c6f4c8.png"
+    },
+    {
+      "text": "UPOWER_2196632_惊了",
+      "url": "https://i0.hdslb.com/bfs/garb/e99aae70939b46238147402ce65468a82c336482.png"
+    }
+  ]
+}
