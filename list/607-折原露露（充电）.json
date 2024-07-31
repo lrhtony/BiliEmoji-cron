@@ -1,11 +1,99 @@
 {
   "id": 607,
   "text": "折原露露（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/404f76ed991dede7cfc2231ba55b7d38ec35c27e.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/83b5c4047efc4e973c14d3b6960c18cc9219220c.png",
   "emote": [
+    {
+      "text": "UPOWER_631070414_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/cdf5624023e35dbe481975a90fc0969707e3ab84.png"
+    },
+    {
+      "text": "UPOWER_631070414_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/428fb660cc1185656906514e4fb5dabd99babe0b.png"
+    },
+    {
+      "text": "UPOWER_631070414_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/f59f0502301a64a1f4aa0a16c8616a7ccd38cdc6.png"
+    },
+    {
+      "text": "UPOWER_631070414_黑脸",
+      "url": "https://i0.hdslb.com/bfs/garb/cb51c563dc11c706198daf2cd7df2e7996bb21a0.png"
+    },
+    {
+      "text": "UPOWER_631070414_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/e325f7b93506a6be01272f4fb061cc002284d324.png"
+    },
+    {
+      "text": "UPOWER_631070414_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/a10d48407b49e60d0e72bde2350e3315e4710e4e.png"
+    },
+    {
+      "text": "UPOWER_631070414_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/4fd32deb0dfdb20c55574e6904d5d80de85d7d7c.png"
+    },
+    {
+      "text": "UPOWER_631070414_摸脸脸",
+      "url": "https://i0.hdslb.com/bfs/garb/360f06123a9f84dc7e7f7a902a8ebab4fa91e0b2.png"
+    },
+    {
+      "text": "UPOWER_631070414_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/6db94b10d0f9d5cb94fd92013b8249ef7f4b910e.png"
+    },
+    {
+      "text": "UPOWER_631070414_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/59dbbc12e525c6912bd2ed4ec101c7c6f440fa33.png"
+    },
+    {
+      "text": "UPOWER_631070414_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/b07ee79d01384ca448154465a53eee8142bc2ce2.png"
+    },
+    {
+      "text": "UPOWER_631070414_啊好累",
+      "url": "https://i0.hdslb.com/bfs/garb/aa000e6e18796d66b2d5bacaec7d7d512f6f38b1.png"
+    },
+    {
+      "text": "UPOWER_631070414_孤独",
+      "url": "https://i0.hdslb.com/bfs/garb/0652a96195bbdf3337d65dcdf961805179805b2f.png"
+    },
     {
       "text": "UPOWER_631070414_沃草",
       "url": "https://i0.hdslb.com/bfs/garb/059f7e1b68f3524d7614cf8b2ecb9871055ebe07.png"
+    },
+    {
+      "text": "UPOWER_631070414_好烦噢",
+      "url": "https://i0.hdslb.com/bfs/garb/9f81a734dcf730d95820203b5f920668c3614146.png"
+    },
+    {
+      "text": "UPOWER_631070414_嘿嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/5f0c76658205319daa23cbdc07a765bdc714790f.png"
+    },
+    {
+      "text": "UPOWER_631070414_火冒三丈",
+      "url": "https://i0.hdslb.com/bfs/garb/c5097e85bf5928195138474a0333b19caf13d129.png"
+    },
+    {
+      "text": "UPOWER_631070414_苦苦",
+      "url": "https://i0.hdslb.com/bfs/garb/b2f4d1c5af90c13f767d20ed999b3ebdc0f37c40.png"
+    },
+    {
+      "text": "UPOWER_631070414_加班",
+      "url": "https://i0.hdslb.com/bfs/garb/5ee5d4746b6eeea2eedbfd2dbd8495af4adbecfc.png"
+    },
+    {
+      "text": "UPOWER_631070414_拒绝",
+      "url": "https://i0.hdslb.com/bfs/garb/e7b08608f7173af6c88e3af5bc47e19fb35bd965.png"
+    },
+    {
+      "text": "UPOWER_631070414_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/28e7c2592f2b5831ae3643cb70ba47863640aaa1.png"
+    },
+    {
+      "text": "UPOWER_631070414_我摸摸",
+      "url": "https://i0.hdslb.com/bfs/garb/96a6b705095afab3d8f18b35d2302f9b70c7a67e.png"
+    },
+    {
+      "text": "UPOWER_631070414_有了",
+      "url": "https://i0.hdslb.com/bfs/garb/53f293b165603514425ef091c3291d108ca95690.png"
     }
   ]
 }
