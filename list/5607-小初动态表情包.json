@@ -1,0 +1,49 @@
+{
+  "id": 5607,
+  "text": "小初动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/50fdcb404a1c52608c6e4418e7eaf4ac262eaaad.png",
+  "emote": [
+    {
+      "text": "小初动态表情包_爱你",
+      "url": "https://i0.hdslb.com/bfs/emote/ec69f7117f22fe4fdc78e46dc44c6c3c87470f73.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/0a2a25750ab404a2f9eb4dd85c857568c3b744b6.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/80a59487d66745d1f4a9fd313ba76dd05d18cc56.webp"
+    },
+    {
+      "text": "小初动态表情包_拜拜",
+      "url": "https://i0.hdslb.com/bfs/emote/f9e208379379eaf82a600aaa816b1c48f4034040.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/aacad6f6a3c75373acc4f35c3aff3ea9c198ea17.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/fd7326eec7f07360cc7773f4bb525d93982ae748.webp"
+    },
+    {
+      "text": "小初动态表情包_比心",
+      "url": "https://i0.hdslb.com/bfs/emote/97299951bb824968580720dce2f11b10d1705655.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/51820b9e85e367e78bec1a82b8f4d40f17de22a5.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/0cf93c236db09d388a5c7272d590a914289c735f.webp"
+    },
+    {
+      "text": "小初动态表情包_不行",
+      "url": "https://i0.hdslb.com/bfs/emote/ec30f9af51c22da9a9c1b34c57820bab39435cc0.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/397c3f3645c3ff3c8ffe8d81982b970e0a2fa303.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/efbfb3f24df51c424cd681b726147cf8b418e6ec.webp"
+    },
+    {
+      "text": "小初动态表情包_大哭",
+      "url": "https://i0.hdslb.com/bfs/emote/b590a18cce6c635d2d2a6f68b05f18a680aedef6.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/f9b0a6d69ae98c5d7be129b6effbcb6ceeeda90d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/ae69e397245a33a6808d0a7b502b0386be67c97a.webp"
+    },
+    {
+      "text": "小初动态表情包_飞踢",
+      "url": "https://i0.hdslb.com/bfs/emote/fa0909f0f6f1031c2790de67fd7f1d252f8500e4.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/f71d072c8a276278480925b50b84709a17aef282.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/94f97a055ea450381c49d0031c494ca42cd2847c.webp"
+    },
+    {
+      "text": "小初动态表情包_鼓掌",
+      "url": "https://i0.hdslb.com/bfs/emote/4f079ee2a45d558a2aa56dd67760a01f2460cf94.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/a3be93c6bd453730bc9c408c20c524d2db4beb50.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/5e164f2c2dbf97014b0c66984a77af56c5644350.webp"
+    }
+  ]
+}
