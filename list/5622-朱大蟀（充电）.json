@@ -1,5 +1,31 @@
 {
   "id": 5622,
   "text": "朱大蟀（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/3d47aa4e46174cec5fea025f4fa83d0b6b99a519.png"
+  "icon": "https://i0.hdslb.com/bfs/garb/3d47aa4e46174cec5fea025f4fa83d0b6b99a519.png",
+  "emote": [
+    {
+      "text": "UPOWER_1495135714_我错了",
+      "url": "https://i0.hdslb.com/bfs/garb/49686ea65affa59508b205a3864e5746a205fe29.png"
+    },
+    {
+      "text": "UPOWER_1495135714_不爽",
+      "url": "https://i0.hdslb.com/bfs/garb/dc6455093c03c6a01e0672700682a90936d5cf86.png"
+    },
+    {
+      "text": "UPOWER_1495135714_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/7b3ad292c4716cb3a2bf13ea76db4b7c4a13b4b1.png"
+    },
+    {
+      "text": "UPOWER_1495135714_发现宝藏",
+      "url": "https://i0.hdslb.com/bfs/garb/5d4c94fcb69ec6724f1ad1be3009fd40c9689690.png"
+    },
+    {
+      "text": "UPOWER_1495135714_崩溃惊恐",
+      "url": "https://i0.hdslb.com/bfs/garb/2f0d6288d3e9f4a2059167de648955bc3e4966a9.png"
+    },
+    {
+      "text": "UPOWER_1495135714_幻想",
+      "url": "https://i0.hdslb.com/bfs/garb/f6c46fcd11a785007a1a4e7f6ccf7f708041a4b1.png"
+    }
+  ]
 }
