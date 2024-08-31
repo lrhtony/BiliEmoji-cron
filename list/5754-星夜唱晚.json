@@ -1,0 +1,67 @@
+{
+  "id": 5754,
+  "text": "星夜唱晚",
+  "icon": "https://i0.hdslb.com/bfs/garb/3cd9008553bdc4600a29f2ced9979655d18925b3.png",
+  "emote": [
+    {
+      "text": "星夜唱晚_hi",
+      "url": "https://i0.hdslb.com/bfs/garb/2ca5fce053986c36a4ed023fe08c27453c35df3a.png"
+    },
+    {
+      "text": "星夜唱晚_阿巴",
+      "url": "https://i0.hdslb.com/bfs/garb/1d3d86a7414142dbbcd68d165a24717461c6f1ab.png"
+    },
+    {
+      "text": "星夜唱晚_星星",
+      "url": "https://i0.hdslb.com/bfs/garb/ca41dd2e9312a6da82ce97a37cc951d628c99bed.png"
+    },
+    {
+      "text": "星夜唱晚_汗",
+      "url": "https://i0.hdslb.com/bfs/garb/6a313114b582472823f6da6628f77daae539bc3d.png"
+    },
+    {
+      "text": "星夜唱晚_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/f9f19a3a9acd8def888aacac90420083860400a4.png"
+    },
+    {
+      "text": "星夜唱晚_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/9c9816a7703489aa51c46e87f4cb66a61cc618d1.png"
+    },
+    {
+      "text": "星夜唱晚_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/8beeb0745075e53b2f2b999d2aa163c53eee0fbe.png"
+    },
+    {
+      "text": "星夜唱晚_晕晕",
+      "url": "https://i0.hdslb.com/bfs/garb/adae6e17ec3a54089cbbab8d1cb4de60e6236a6e.png"
+    },
+    {
+      "text": "星夜唱晚_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/3c75c7c334ffef3efd48e5282bb0b1cf22484d34.png"
+    },
+    {
+      "text": "星夜唱晚_叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/5f9ae2c9c70c83b64fd1e9aa3ee5f3d1d4bf9747.png"
+    },
+    {
+      "text": "星夜唱晚_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/d03dd2ec49827fb21be5494a2c7dfa9b5d34b8fa.png"
+    },
+    {
+      "text": "星夜唱晚_心心",
+      "url": "https://i0.hdslb.com/bfs/garb/4e46e11616053959ba985e4066fc806bfa596fc5.png"
+    },
+    {
+      "text": "星夜唱晚_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/96a06e10ba58de36d70088d743fcd2491f0b3214.png"
+    },
+    {
+      "text": "星夜唱晚_肯定",
+      "url": "https://i0.hdslb.com/bfs/garb/c91c37d4381491266990c8e9e925df70f54ff687.png"
+    },
+    {
+      "text": "星夜唱晚_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/e9886280e1a1caea2287a451a31fe16d1ec69508.png"
+    }
+  ]
+}
