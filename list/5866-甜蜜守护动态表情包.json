@@ -1,5 +1,49 @@
 {
   "id": 5866,
   "text": "甜蜜守护动态表情包",
-  "icon": "https://i0.hdslb.com/bfs/emote/a347f1ccf3b230dd0641d19671454b5e3e07e711.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/a347f1ccf3b230dd0641d19671454b5e3e07e711.png",
+  "emote": [
+    {
+      "text": "甜蜜守护_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/a347f1ccf3b230dd0641d19671454b5e3e07e711.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/edb4773b02fa117bfd89a52b3680d00a4f852dc6.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/edc858c6e5737445c61f8d85609141f591ac4676.webp"
+    },
+    {
+      "text": "甜蜜守护_甜美微笑",
+      "url": "https://i0.hdslb.com/bfs/emote/86f00f224b3e790f9ab88e954892435041445f32.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/199e73a9b5f2e28ca9b21c8c870f583274f74f13.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/1a7341761818bb3f78ae97ab182c92c5f6ab96cb.webp"
+    },
+    {
+      "text": "甜蜜守护_爱心发射",
+      "url": "https://i0.hdslb.com/bfs/emote/7029d6a29d3e49653d5e8cd406360bb47f142974.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/86817b2d84bb89c496a24e06a27a506b802da6a3.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/d4ca971fae7265547da65b55f71f60581bd74ea9.webp"
+    },
+    {
+      "text": "甜蜜守护_爱心传递",
+      "url": "https://i0.hdslb.com/bfs/emote/7df538cc6d3ace86e340b86bc4e5fa5d5ca3ae75.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/aa4e12a535ea377bd63807de2637a5637ab01554.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/28936611840bc226c1593148903d6f845ca62980.webp"
+    },
+    {
+      "text": "甜蜜守护_故障模式",
+      "url": "https://i0.hdslb.com/bfs/emote/be964d0429b4c5842546813874a5a599bc857d9c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/6b2eb0a57ec3f76bd650f81f522476265c973cac.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/5b149db2ccdeb8295d98ecb2acc118ff6da60bdc.webp"
+    },
+    {
+      "text": "甜蜜守护_电量补给",
+      "url": "https://i0.hdslb.com/bfs/emote/27f8a2c7bf3c752f3cfaadc8ed99bf001d777998.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/34aa6da65e557b33e5730ce6435a335e535e52e8.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/541f723ce49c36e934cff78a21de696543995664.webp"
+    },
+    {
+      "text": "甜蜜守护_能量满格",
+      "url": "https://i0.hdslb.com/bfs/emote/f517c4b088eef305e0970ba730e1266f2b5a6e8c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/34dea68fcac49133cad5cb79f6a319bc22859dc0.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/9a4ff541f8805e15ac0aecf9d94d2ccfbd8f947e.webp"
+    }
+  ]
 }

@@ -1,5 +1,49 @@
 {
   "id": 5867,
   "text": "寒冰战士动态表情包",
-  "icon": "https://i0.hdslb.com/bfs/emote/f29a410d2cfc69f9babd24f3551f065622b24a71.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/f29a410d2cfc69f9babd24f3551f065622b24a71.png",
+  "emote": [
+    {
+      "text": "寒冰战士_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/f29a410d2cfc69f9babd24f3551f065622b24a71.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/0afc68045f5fb12ac9606033dca21d6314c711ee.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/18d65e6a45d4597a5b34a27c438e6dd45f3be754.webp"
+    },
+    {
+      "text": "寒冰战士_战斗准备",
+      "url": "https://i0.hdslb.com/bfs/emote/c0c8fd1ed63716d3218c120bfb08b23b0c52e8fc.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/be22a104e528b80f73888b76c96dab7a51622368.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/b6ffeeaee9c661dd56ef3494c1bd41ae8a36dfd1.webp"
+    },
+    {
+      "text": "寒冰战士_激光发射",
+      "url": "https://i0.hdslb.com/bfs/emote/b6a8057470ebfb3b135cdde1e4eb03485fefee0e.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/5ce1eba70d1d371c153edb5a4e3396e21c30d700.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/83fc3fd1fb6245c43222c0b1cb6b303fc52729ad.webp"
+    },
+    {
+      "text": "寒冰战士_战术思考",
+      "url": "https://i0.hdslb.com/bfs/emote/05d951bb207c5bd3c2ceeb0b8fccf8a5c2546236.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/b8b6428c115f951ad085f8c9125e13c33b89d6ad.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/540a491ac0b99a3d47435c4794176bacc46007ca.webp"
+    },
+    {
+      "text": "寒冰战士_紧急撤退",
+      "url": "https://i0.hdslb.com/bfs/emote/c9f8a717840cdfda33a4b99eedbded0ee6c19ba7.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/37057557555dee573474215e29d4119fe11aaf98.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/60f229c03d1963744bf8939b4a6ba9c80779d881.webp"
+    },
+    {
+      "text": "寒冰战士_冷静指挥",
+      "url": "https://i0.hdslb.com/bfs/emote/741597e2367f4b6e27e8e86c7bd6bdff89dc7333.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/5ee0bb87c6f2b178bd1707248dcb7fd8d5bcc457.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/6973ae3b86fc2579e8e0bf014e3efd1046a658d1.webp"
+    },
+    {
+      "text": "寒冰战士_胜利欢呼",
+      "url": "https://i0.hdslb.com/bfs/emote/4affbba75cbf59676c38f622aea6bd8872dc1bf6.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/45630ba9ba74692a21377a21b27c32e7b7e5f982.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/ed8d1ec4011fbc000fe2b87032984e9749a70096.webp"
+    }
+  ]
 }
