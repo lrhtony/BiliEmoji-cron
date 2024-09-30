@@ -1,0 +1,87 @@
+{
+  "id": 5927,
+  "text": "铠甲勇士",
+  "icon": "https://i0.hdslb.com/bfs/garb/222a216080cb8e76a35277fc87af000f9169a7b3.png",
+  "emote": [
+    {
+      "text": "铠甲勇士_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/14799480da3049a8c86bfb84b383be0b496af68c.png"
+    },
+    {
+      "text": "铠甲勇士_搞定",
+      "url": "https://i0.hdslb.com/bfs/garb/4d57ba9002f69307a1fdc7f3999496d9f021db8d.png"
+    },
+    {
+      "text": "铠甲勇士_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/aace1acdc9e6a64dfcba6b08bb79cd8072481766.png"
+    },
+    {
+      "text": "铠甲勇士_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/fd7088cfa6bafdb811d4416a1ef6f21f22adb413.png"
+    },
+    {
+      "text": "铠甲勇士_...",
+      "url": "https://i0.hdslb.com/bfs/garb/74c7e3a8002da687fb50c025963040a323b2a2af.png"
+    },
+    {
+      "text": "铠甲勇士_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/75ccd25507c80722670393d38a2f83ff14efac17.png"
+    },
+    {
+      "text": "铠甲勇士_交给我吧！",
+      "url": "https://i0.hdslb.com/bfs/garb/e55cd964272927b8234bd6a1ad15c259e58bd241.png"
+    },
+    {
+      "text": "铠甲勇士_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/cc8c7bab3a4249296a7676155923e07431596fb4.png"
+    },
+    {
+      "text": "铠甲勇士_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/04804d06c65454ce95c9e22fad5251620baccb7b.png"
+    },
+    {
+      "text": "铠甲勇士_登场",
+      "url": "https://i0.hdslb.com/bfs/garb/c30a37721a86d5291615b00e3d9ea4ce92fa1150.png"
+    },
+    {
+      "text": "铠甲勇士_冲！",
+      "url": "https://i0.hdslb.com/bfs/garb/7f4ccf4f1a18e792acd1c5d29e0c5b9fbb7d18ca.png"
+    },
+    {
+      "text": "铠甲勇士_看我表演",
+      "url": "https://i0.hdslb.com/bfs/garb/82b65bcbc61bfa6b7ca8ad2a8e1689e876086747.png"
+    },
+    {
+      "text": "铠甲勇士_摊手",
+      "url": "https://i0.hdslb.com/bfs/garb/dcd72951915d3251da14cbdd1a057791f33b08b2.png"
+    },
+    {
+      "text": "铠甲勇士_起杀心",
+      "url": "https://i0.hdslb.com/bfs/garb/ab07260721dc1a3fddc242eaa3adc66d8c4e5075.png"
+    },
+    {
+      "text": "铠甲勇士_看招",
+      "url": "https://i0.hdslb.com/bfs/garb/850e1ffafceae46594148a6dc64b095c54e36271.png"
+    },
+    {
+      "text": "铠甲勇士_哒咩",
+      "url": "https://i0.hdslb.com/bfs/garb/753d765d3c808b2f0ec01606d160a44859ced347.png"
+    },
+    {
+      "text": "铠甲勇士_Hi~",
+      "url": "https://i0.hdslb.com/bfs/garb/c8d20f7cb905e326146368852d4ace5527b5e78b.png"
+    },
+    {
+      "text": "铠甲勇士_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/716b2beeec8652e4b9e4e01d3ad5cc42113eeb10.png"
+    },
+    {
+      "text": "铠甲勇士_战斗",
+      "url": "https://i0.hdslb.com/bfs/garb/85efaf1f716e9ecfa283a8defbd7d30accf3b2b5.png"
+    },
+    {
+      "text": "铠甲勇士_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/dc0f77b5b0a2efbbb0edc1f571416861c41ac894.png"
+    }
+  ]
+}
