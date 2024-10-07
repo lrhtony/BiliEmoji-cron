@@ -1,7 +1,7 @@
 {
   "id": 5185,
   "text": "aki秋水（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/f4164c1e0f0a212d89a165b41601637605f94cb4.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/65469db2a826377aa06afe1d8bb5c6e35650e0f7.png",
   "emote": [
     {
       "text": "UPOWER_4989974_邪魅一笑",
@@ -12,8 +12,8 @@
       "url": "https://i0.hdslb.com/bfs/garb/c8689b0e10533dd5ad4522d241e3b7588418207a.png"
     },
     {
-      "text": "UPOWER_4989974_OK",
-      "url": "https://i0.hdslb.com/bfs/garb/5e09e4cf68f04aa2057dc8455578ec29b0291958.png"
+      "text": "UPOWER_4989974_ok",
+      "url": "https://i0.hdslb.com/bfs/garb/f170338b9d727e4909681dd38e5b559ea369062d.png"
     },
     {
       "text": "UPOWER_4989974_发财",
@@ -30,6 +30,78 @@
     {
       "text": "UPOWER_4989974_新年好",
       "url": "https://i0.hdslb.com/bfs/garb/273bd3b4f799ab91ec2cba17caa44128b4acaba4.png"
+    },
+    {
+      "text": "UPOWER_4989974_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/4c5bd096a9a97099fce28d5a084ca3a9b41ae39f.png"
+    },
+    {
+      "text": "UPOWER_4989974_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/90394c36a860f559da49f801519f46bfb86715aa.png"
+    },
+    {
+      "text": "UPOWER_4989974_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/422f35995c46530a91390a06a2897ff43074bf53.png"
+    },
+    {
+      "text": "UPOWER_4989974_困困",
+      "url": "https://i0.hdslb.com/bfs/garb/f054e6b0fdf8497fb57ceed5fb9e655df15f6381.png"
+    },
+    {
+      "text": "UPOWER_4989974_急急国王",
+      "url": "https://i0.hdslb.com/bfs/garb/755c6f757a116e82854b0666e5603487276c87d3.png"
+    },
+    {
+      "text": "UPOWER_4989974_干饭",
+      "url": "https://i0.hdslb.com/bfs/garb/dc20d7604dce8f515d00309cc2fd064850f4c0d2.png"
+    },
+    {
+      "text": "UPOWER_4989974_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/d10825c1578ab2ba047c4105260c8fc9351ab9e6.png"
+    },
+    {
+      "text": "UPOWER_4989974_让我看看",
+      "url": "https://i0.hdslb.com/bfs/garb/2fc0e8c7fc3116c87c026064ab7bfe93f785c723.png"
+    },
+    {
+      "text": "UPOWER_4989974_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/ad1157af5d2a57d0cb0e588985aa9ad55158d573.png"
+    },
+    {
+      "text": "UPOWER_4989974_晚安喵",
+      "url": "https://i0.hdslb.com/bfs/garb/19adb3fbf18e92a3bb22aae60ff87733fcb3c36d.png"
+    },
+    {
+      "text": "UPOWER_4989974_血压",
+      "url": "https://i0.hdslb.com/bfs/garb/a231cde469446534843f9015aff32cd24081ad0c.png"
+    },
+    {
+      "text": "UPOWER_4989974_一键三连",
+      "url": "https://i0.hdslb.com/bfs/garb/4840a0242fd9040e5fd17b40c92069065bf7ed94.png"
+    },
+    {
+      "text": "UPOWER_4989974_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/caebdda8ecdce9da2163a590b13cf4c38ebfdc1d.png"
+    },
+    {
+      "text": "UPOWER_4989974_no",
+      "url": "https://i0.hdslb.com/bfs/garb/e18a02504a926f1ef5676a2a7d87675c69d9836c.png"
+    },
+    {
+      "text": "UPOWER_4989974_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/5072ab3a39b4f269425562bd8d370cefdba991d9.png"
+    },
+    {
+      "text": "UPOWER_4989974_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/9026472d364badad2b306b798aea361f64296703.png"
+    },
+    {
+      "text": "UPOWER_4989974_拜托拜托",
+      "url": "https://i0.hdslb.com/bfs/garb/d41739851328da75f8c84f6fd3111d19a000ff5c.png"
+    },
+    {
+      "text": "UPOWER_4989974_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/8117a39b65b88b3821c77ff36c053679c32571e7.png"
     }
   ]
 }
