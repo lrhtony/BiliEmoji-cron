@@ -1,0 +1,67 @@
+{
+  "id": 7001,
+  "text": "雪地小狗团",
+  "icon": "https://i0.hdslb.com/bfs/garb/1aab2f85c228661e7605ba448b36e60070b31884.png",
+  "emote": [
+    {
+      "text": "雪地小狗团_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/ee972290319be0df4072561de767cf04b70a2e00.png"
+    },
+    {
+      "text": "雪地小狗团_Bye",
+      "url": "https://i0.hdslb.com/bfs/garb/fe4d044da47255e34ad25acca6b8eecd0f4d71ae.png"
+    },
+    {
+      "text": "雪地小狗团_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/8e2a10d1a7a9548d254a7a9393ec9a2a67f56cda.png"
+    },
+    {
+      "text": "雪地小狗团_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/84e08e694abc87189570cc8aa95b4daa5b36a427.png"
+    },
+    {
+      "text": "雪地小狗团_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/d40478243b1613a725d4590e79b29c5fb2050a98.png"
+    },
+    {
+      "text": "雪地小狗团_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/1f8c7e4102fa112a6dc66df5c7187c1873569f96.png"
+    },
+    {
+      "text": "雪地小狗团_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/9cdf8a57f3cffd45ef9c1e413185fa9dc867657f.png"
+    },
+    {
+      "text": "雪地小狗团_可怜",
+      "url": "https://i0.hdslb.com/bfs/garb/7d5dd42a1aeb27c6d5e26413eea5a78cfcabb3a4.png"
+    },
+    {
+      "text": "雪地小狗团_搞怪",
+      "url": "https://i0.hdslb.com/bfs/garb/89855ef2fe54d29dbd5701b577109760878ec9a7.png"
+    },
+    {
+      "text": "雪地小狗团_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/22f32e514ab1b5fd4855574b083f3ed6c67a61b2.png"
+    },
+    {
+      "text": "雪地小狗团_酷",
+      "url": "https://i0.hdslb.com/bfs/garb/1674058aa1bc2738a20c4b5fd2eab45670b8c700.png"
+    },
+    {
+      "text": "雪地小狗团_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/29f65a16a1b01ce84031183935168ccd69069ed9.png"
+    },
+    {
+      "text": "雪地小狗团_自闭",
+      "url": "https://i0.hdslb.com/bfs/garb/02f513356f0b7251eb7e098d91350b8a0c677fa1.png"
+    },
+    {
+      "text": "雪地小狗团_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/c4cbfc902ed31d3e9093eb4f18d8e4ad8adf5f47.png"
+    },
+    {
+      "text": "雪地小狗团_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/4599fff8a0206bfa92627d0768917c1522ff76e9.png"
+    }
+  ]
+}
