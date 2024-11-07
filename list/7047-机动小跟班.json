@@ -1,0 +1,43 @@
+{
+  "id": 7047,
+  "text": "机动小跟班",
+  "icon": "https://i0.hdslb.com/bfs/emote/419de77dc766326548b20e9a2c61fa8ce362b415.png",
+  "emote": [
+    {
+      "text": "机动小跟班_加载",
+      "url": "https://i0.hdslb.com/bfs/emote/419de77dc766326548b20e9a2c61fa8ce362b415.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/f922ffc140bc19e0f8fbb7f7cf78b6038f7d1675.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/e9139d5ebe7dff2e911d5cd845164b1984356748.webp"
+    },
+    {
+      "text": "机动小跟班_死机",
+      "url": "https://i0.hdslb.com/bfs/emote/d24d3cc1340e5e847e2274d7a329da0681b0a2ae.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/3389458a687a6ad9d5b63517ff0d87ed35b0b409.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/c24ef48d0dd8b4adea7e0dea4815961a91e21d21.webp"
+    },
+    {
+      "text": "机动小跟班_遵命",
+      "url": "https://i0.hdslb.com/bfs/emote/d46080f92ac621f683bc94ec4fc9a966d2d98e81.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/d1d6a1318af870a4933f6da2221fefe513dc9de1.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/6d6a333d3a8d81865a359a4db78ecf3ce57bfe7f.webp"
+    },
+    {
+      "text": "机动小跟班_皱眉",
+      "url": "https://i0.hdslb.com/bfs/emote/0d6424331b1d7f9a805c591fa20038acb06ec0f9.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/23c04ceb6f5475a4d44d2e509dfcd40a6a15b8b0.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/eab34ef0bf0cc05e8475d536a4ef0049412d96fd.webp"
+    },
+    {
+      "text": "机动小跟班_调皮",
+      "url": "https://i0.hdslb.com/bfs/emote/3c09f92b5cb07bb36e2d060e51369766be2f4c3a.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/ce64fdac82e3fb356580d02541cbb45c3eb10976.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/be7bf11954cc8ed55c3cb3e56e09f456e3da998d.webp"
+    },
+    {
+      "text": "机动小跟班_救命",
+      "url": "https://i0.hdslb.com/bfs/emote/6579e27f09ba60d2d9d8067c587ff3831367dde6.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/2729308c68d1a449368569a5cbe852511e6f95af.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/b09f02c3da720e308cd72e9cc8c5cfc8b0010d2f.webp"
+    }
+  ]
+}
