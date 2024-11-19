@@ -1,0 +1,47 @@
+{
+  "id": 7119,
+  "text": "暖言猫猫（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/0b461b585ae0a99848d9eac295cbff586fee484e.png",
+  "emote": [
+    {
+      "text": "UPOWER_166478127_玉玉猫猫",
+      "url": "https://i0.hdslb.com/bfs/garb/cd6a4588b0aeb1458abf4b7a41208fba5743b595.png"
+    },
+    {
+      "text": "UPOWER_166478127_干饭",
+      "url": "https://i0.hdslb.com/bfs/garb/885460b28e017680b4d14a98cebf8c285ccacc3d.png"
+    },
+    {
+      "text": "UPOWER_166478127_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/b6adddd0d01a27c6339ae3552bf7e7cbfe86aefe.png"
+    },
+    {
+      "text": "UPOWER_166478127_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/87f80c4b6855cab574e45d1bcd9a75410567ec41.png"
+    },
+    {
+      "text": "UPOWER_166478127_生气气",
+      "url": "https://i0.hdslb.com/bfs/garb/35ea44715bfa5385f7847cdf7145023e71fbdb00.png"
+    },
+    {
+      "text": "UPOWER_166478127_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/b44f7d7fd5f013bba9986eb0312368b6f38084cc.png"
+    },
+    {
+      "text": "UPOWER_166478127_让我康康",
+      "url": "https://i0.hdslb.com/bfs/garb/0ac936d206c66763c16b21551e53474b701604cb.png"
+    },
+    {
+      "text": "UPOWER_166478127_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/f532bd9aefd7525cf59c9fa6e6470be6ba2426d8.png"
+    },
+    {
+      "text": "UPOWER_166478127_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/21c76826715dbbbd80c598f84296b9866259156d.png"
+    },
+    {
+      "text": "UPOWER_166478127_我最聪明",
+      "url": "https://i0.hdslb.com/bfs/garb/637ea66b879c3c04f9b3c976119af0a47a1d4a21.png"
+    }
+  ]
+}
