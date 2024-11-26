@@ -1,0 +1,67 @@
+{
+  "id": 7155,
+  "text": "奖狸型人格",
+  "icon": "https://i0.hdslb.com/bfs/garb/cf721d2e111797e70e2e7a10c078de73038109e7.png",
+  "emote": [
+    {
+      "text": "奖狸型人格_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/c1569fe0fefb9cbc387c3c20f185fe9d89ae4810.png"
+    },
+    {
+      "text": "奖狸型人格_大叫",
+      "url": "https://i0.hdslb.com/bfs/garb/434eb80f27bfe76f3244cde050e2d0257a84064c.png"
+    },
+    {
+      "text": "奖狸型人格_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/e9d75d2dad1a0df05f97aa4cdd1aa69da08c5c89.png"
+    },
+    {
+      "text": "奖狸型人格_看手机",
+      "url": "https://i0.hdslb.com/bfs/garb/f46a593ba3518d1d0534b1fc0b4da8dbdbbd71c0.png"
+    },
+    {
+      "text": "奖狸型人格_吃",
+      "url": "https://i0.hdslb.com/bfs/garb/d5c54c2ad593535f1dde8f7476c918eb29752b3d.png"
+    },
+    {
+      "text": "奖狸型人格_吃饱了",
+      "url": "https://i0.hdslb.com/bfs/garb/c97dc9b922971c9bf0bf5b84346755dce6cedbf4.png"
+    },
+    {
+      "text": "奖狸型人格_发红包",
+      "url": "https://i0.hdslb.com/bfs/garb/cf3e67fb5d94b4cd5aea2d557c7ec7516fef32f6.png"
+    },
+    {
+      "text": "奖狸型人格_佛",
+      "url": "https://i0.hdslb.com/bfs/garb/92f9f6f0cb051be4ef2262be2cf32bed8e59de57.png"
+    },
+    {
+      "text": "奖狸型人格_求求了",
+      "url": "https://i0.hdslb.com/bfs/garb/e9a300095aa36d9af0c9b95588afa8d7a458bb83.png"
+    },
+    {
+      "text": "奖狸型人格_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/e46a972a169afdc96d60d390789caae62c4a4aa3.png"
+    },
+    {
+      "text": "奖狸型人格_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/9a74956421c060877fc13d43025bc22c78cc7427.png"
+    },
+    {
+      "text": "奖狸型人格_工作",
+      "url": "https://i0.hdslb.com/bfs/garb/932bbddc495a555fc68de107a4a64e5d38580df5.png"
+    },
+    {
+      "text": "奖狸型人格_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/a480b67661bf290bb699b371e7448b28ce876177.png"
+    },
+    {
+      "text": "奖狸型人格_抱大腿",
+      "url": "https://i0.hdslb.com/bfs/garb/9957d901ee82713023410fda8439a57dc504c115.png"
+    },
+    {
+      "text": "奖狸型人格_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/bea906b38e8e03ad9e392020c9c5fd4f8bd9ba1b.png"
+    }
+  ]
+}
