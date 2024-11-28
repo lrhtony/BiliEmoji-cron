@@ -1,7 +1,7 @@
 {
   "id": 4665,
   "text": "苏恒台湾（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/9dbcea363fea319fe7d94c57c689f1334004e0eb.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/55ceb1b329aef106ff343ece0d517253847385a7.png",
   "emote": [
     {
       "text": "UPOWER_102311232_what",
@@ -14,6 +14,38 @@
     {
       "text": "UPOWER_102311232_look",
       "url": "https://i0.hdslb.com/bfs/garb/a671fb5329e6f3ae6995ba053eef115c3135e31f.png"
+    },
+    {
+      "text": "UPOWER_102311232_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/187739bb7fa281e293814bf08543333fbd61e6d3.png"
+    },
+    {
+      "text": "UPOWER_102311232_抱大腿",
+      "url": "https://i0.hdslb.com/bfs/garb/9f45083cd791fcff9a35d2d4d130c5f8f11f05e1.png"
+    },
+    {
+      "text": "UPOWER_102311232_機車",
+      "url": "https://i0.hdslb.com/bfs/garb/9db204eca368debf8e35300a5fa4ddd6e15da286.png"
+    },
+    {
+      "text": "UPOWER_102311232_啾咪",
+      "url": "https://i0.hdslb.com/bfs/garb/c5e1fdefa1e955d0607600ebdc54e209f3a13b52.png"
+    },
+    {
+      "text": "UPOWER_102311232_你人真好",
+      "url": "https://i0.hdslb.com/bfs/garb/e1ccc19617d52bc71527ff0b29847eadc6b646d9.png"
+    },
+    {
+      "text": "UPOWER_102311232_你很煩",
+      "url": "https://i0.hdslb.com/bfs/garb/ec2149976be3432ecea741773361c22023bee6f5.png"
+    },
+    {
+      "text": "UPOWER_102311232_我可以",
+      "url": "https://i0.hdslb.com/bfs/garb/7fdfd03828054ec2c303e5cbe4983e495784a1c7.png"
+    },
+    {
+      "text": "UPOWER_102311232_不然咧",
+      "url": "https://i0.hdslb.com/bfs/garb/36560a1ed8a7b5b42ce74ad58915d592b850a592.png"
     }
   ]
 }
