@@ -1,7 +1,7 @@
 {
   "id": 5331,
   "text": "林鸽不是鸽（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/48647ba8039de2c99ce07dca4e167ecb79324219.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/b30ef886590bb41fa6e62b44aa1f053de532f9fc.png",
   "emote": [
     {
       "text": "UPOWER_3546597658987119_让我听听",
@@ -12,8 +12,8 @@
       "url": "https://i0.hdslb.com/bfs/garb/f777c8bece69b92f9930ea2df26884d6d22cc368.png"
     },
     {
-      "text": "UPOWER_3546597658987119_叫我司令",
-      "url": "https://i0.hdslb.com/bfs/garb/c381f4017b6e51f3680eb3528801fa3f27e03106.png"
+      "text": "UPOWER_3546597658987119_何意啊",
+      "url": "https://i0.hdslb.com/bfs/garb/55495da112d5da7a26697f595992b32eace9c94c.png"
     },
     {
       "text": "UPOWER_3546597658987119_鸽们儿",
@@ -42,6 +42,46 @@
     {
       "text": "UPOWER_3546597658987119_震惊",
       "url": "https://i0.hdslb.com/bfs/garb/5152ad169228fc09ea448fea9bcecac071053da2.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/372a99a65359f6e6bb619a1a5755263307a5df3d.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_workout",
+      "url": "https://i0.hdslb.com/bfs/garb/892dd33f5c5da48db563de5fe1de580bad23120c.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/e24743e2cb04031aec0994df566f123c2ea4cda6.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_不是鸽们",
+      "url": "https://i0.hdslb.com/bfs/garb/a47bb761d22cf436aca8f06bc80e5f112b66418b.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_流口水",
+      "url": "https://i0.hdslb.com/bfs/garb/9c5ce6a987624092aa55f9a8ae185e3eb221ace8.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_私交不错",
+      "url": "https://i0.hdslb.com/bfs/garb/0a4dc2accd6eec391eedac8f4032ad7e50e72665.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_我可以学",
+      "url": "https://i0.hdslb.com/bfs/garb/520511a65a299682cec6e79b78c2d0b68cd0717d.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_想你了",
+      "url": "https://i0.hdslb.com/bfs/garb/140002f5731ba033cb9d04a65dd5cf34a67f778e.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_袂",
+      "url": "https://i0.hdslb.com/bfs/garb/d93afd28d0538280c190c9f8b09f38b478538b71.png"
+    },
+    {
+      "text": "UPOWER_3546597658987119_晕晕",
+      "url": "https://i0.hdslb.com/bfs/garb/4536eb400aed74df4779a23ab770bf78d8bec595.png"
     }
   ]
 }
