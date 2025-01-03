@@ -1,5 +1,47 @@
 {
   "id": 7379,
   "text": "吉祥物表情包",
-  "icon": "https://i0.hdslb.com/bfs/emote/a97bb91c3ab41b17fe8b20ff14105f61c2c53d44.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/a97bb91c3ab41b17fe8b20ff14105f61c2c53d44.png",
+  "emote": [
+    {
+      "text": "吉祥物表情包_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/a97bb91c3ab41b17fe8b20ff14105f61c2c53d44.png"
+    },
+    {
+      "text": "吉祥物表情包_开心",
+      "url": "https://i0.hdslb.com/bfs/emote/9a23452ba8917f1539f9e132ea81f7a9ac814e90.png"
+    },
+    {
+      "text": "吉祥物表情包_好奇",
+      "url": "https://i0.hdslb.com/bfs/emote/d1a5837f276a10dac42f843ec0e487224ca70855.png"
+    },
+    {
+      "text": "吉祥物表情包_捏",
+      "url": "https://i0.hdslb.com/bfs/emote/6fbfb70202a06efddbee2039aa84066fc11f0d0d.png"
+    },
+    {
+      "text": "吉祥物表情包_害羞",
+      "url": "https://i0.hdslb.com/bfs/emote/3ec5e13e4305ec018e60c55594b11d622da4e1d9.png"
+    },
+    {
+      "text": "吉祥物表情包_乱跳",
+      "url": "https://i0.hdslb.com/bfs/emote/4acb3474f2927ab425f3a6a9e19fbbb50c3f9d86.png"
+    },
+    {
+      "text": "吉祥物表情包_祝福",
+      "url": "https://i0.hdslb.com/bfs/emote/5b1a2542ac106f22d3008b189dc7884f0b2d40b1.png"
+    },
+    {
+      "text": "吉祥物表情包_OK",
+      "url": "https://i0.hdslb.com/bfs/emote/dd72b1a7ad3e7fda2f33a50701aef72fb1205408.png"
+    },
+    {
+      "text": "吉祥物表情包_收到",
+      "url": "https://i0.hdslb.com/bfs/emote/80970959f8b058a39f982fa11b7d23644abe5a03.png"
+    },
+    {
+      "text": "吉祥物表情包_庆祝",
+      "url": "https://i0.hdslb.com/bfs/emote/e59f54c7ff5b2d59a71663d0b5c9a2b729cb0156.png"
+    }
+  ]
 }

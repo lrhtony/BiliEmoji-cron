@@ -1,5 +1,47 @@
 {
   "id": 7381,
   "text": "森林精灵表情包",
-  "icon": "https://i0.hdslb.com/bfs/emote/dbd4b4d8d5db4f3520c69973ec0059278b380796.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/dbd4b4d8d5db4f3520c69973ec0059278b380796.png",
+  "emote": [
+    {
+      "text": "森林精灵表情包_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/dbd4b4d8d5db4f3520c69973ec0059278b380796.png"
+    },
+    {
+      "text": "森林精灵表情包_飞翔",
+      "url": "https://i0.hdslb.com/bfs/emote/751e2801c876102745adc9be30de23340bcbf0af.png"
+    },
+    {
+      "text": "森林精灵表情包_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/emote/d702e813c7510b8a057cd9733eeb2bd6be8555bf.png"
+    },
+    {
+      "text": "森林精灵表情包_难过",
+      "url": "https://i0.hdslb.com/bfs/emote/d45d7a1473692628a54e5b8b7f7d319514609ad9.png"
+    },
+    {
+      "text": "森林精灵表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/a9d70ea1a76e4fafb2cb267f3e4a947c8f7b1b33.png"
+    },
+    {
+      "text": "森林精灵表情包_变魔法",
+      "url": "https://i0.hdslb.com/bfs/emote/0d40771bec44f89f7af5aa1a1659928cb28996e0.png"
+    },
+    {
+      "text": "森林精灵表情包_跳舞",
+      "url": "https://i0.hdslb.com/bfs/emote/cd0730c15d28bb8cbaab776a913635188fbf39b5.png"
+    },
+    {
+      "text": "森林精灵表情包_开花",
+      "url": "https://i0.hdslb.com/bfs/emote/b37e1068058dbc79d5d99fce41356fcf638ff78f.png"
+    },
+    {
+      "text": "森林精灵表情包_好运up",
+      "url": "https://i0.hdslb.com/bfs/emote/86959a1a92b44018acc430bba77258a1b820ef9e.png"
+    },
+    {
+      "text": "森林精灵表情包_庆祝",
+      "url": "https://i0.hdslb.com/bfs/emote/ee3c7bbd2433899645d5064786e1a46bfd98f6b4.png"
+    }
+  ]
 }

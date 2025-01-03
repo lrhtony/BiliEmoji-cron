@@ -1,5 +1,47 @@
 {
   "id": 7383,
   "text": "小蛋糕表情包",
-  "icon": "https://i0.hdslb.com/bfs/emote/6daf47db7405573d9a983e13b71c730822debfa6.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/6daf47db7405573d9a983e13b71c730822debfa6.png",
+  "emote": [
+    {
+      "text": "小蛋糕表情包_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/6daf47db7405573d9a983e13b71c730822debfa6.png"
+    },
+    {
+      "text": "小蛋糕表情包_咬",
+      "url": "https://i0.hdslb.com/bfs/emote/e7875c7c49e572b6db965c9e0262828c86fad8fd.png"
+    },
+    {
+      "text": "小蛋糕表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/eddc1f64740caf0cba04708599c729a56ce86fcc.png"
+    },
+    {
+      "text": "小蛋糕表情包_害羞",
+      "url": "https://i0.hdslb.com/bfs/emote/fa294f82b0eb5d328f15aebd13d70295f18673dc.png"
+    },
+    {
+      "text": "小蛋糕表情包_疑惑",
+      "url": "https://i0.hdslb.com/bfs/emote/a192542a2a10d3a440b6fb30658d523ddde71e69.png"
+    },
+    {
+      "text": "小蛋糕表情包_害怕",
+      "url": "https://i0.hdslb.com/bfs/emote/d5660a9c7a2316d6b9ead25ff1ab2fdc9733f04f.png"
+    },
+    {
+      "text": "小蛋糕表情包_兴奋",
+      "url": "https://i0.hdslb.com/bfs/emote/eeca33b7ba07307f99021e7be12a807990c23c20.png"
+    },
+    {
+      "text": "小蛋糕表情包_石化",
+      "url": "https://i0.hdslb.com/bfs/emote/205eb10b0dcce17e801af4221d18b508f270a38b.png"
+    },
+    {
+      "text": "小蛋糕表情包_流汗",
+      "url": "https://i0.hdslb.com/bfs/emote/11f7c67650a0cba41feb09fb25fea48d69d4a8ec.png"
+    },
+    {
+      "text": "小蛋糕表情包_庆祝",
+      "url": "https://i0.hdslb.com/bfs/emote/b187b76543ff6c671e6f20f8bd630599039d03d8.png"
+    }
+  ]
 }

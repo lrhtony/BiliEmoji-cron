@@ -1,5 +1,107 @@
 {
   "id": 7377,
   "text": "魅魔护士表情包",
-  "icon": "https://i0.hdslb.com/bfs/emote/b2058408a5f47b846a64bc9957f91bd01ea1680d.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/b2058408a5f47b846a64bc9957f91bd01ea1680d.png",
+  "emote": [
+    {
+      "text": "魅魔护士_该打针了",
+      "url": "https://i0.hdslb.com/bfs/emote/b2058408a5f47b846a64bc9957f91bd01ea1680d.png"
+    },
+    {
+      "text": "魅魔护士_害羞",
+      "url": "https://i0.hdslb.com/bfs/emote/8947605139b60488994280f4fd82776ae6b30ff0.png"
+    },
+    {
+      "text": "魅魔护士_我晕",
+      "url": "https://i0.hdslb.com/bfs/emote/a38097bc7e17e36b681597db3cea11b6324b379d.png"
+    },
+    {
+      "text": "魅魔护士_飞吻",
+      "url": "https://i0.hdslb.com/bfs/emote/69c39b295d957476aefba2cdfb6a88d268919f13.png"
+    },
+    {
+      "text": "魅魔护士_苦恼",
+      "url": "https://i0.hdslb.com/bfs/emote/1495a4c713bcebb5de0241b6a71b46847095b499.png"
+    },
+    {
+      "text": "魅魔护士_听话哦",
+      "url": "https://i0.hdslb.com/bfs/emote/bc4f76ba42db017f8334441e215382eb9383e343.png"
+    },
+    {
+      "text": "魅魔护士_委屈",
+      "url": "https://i0.hdslb.com/bfs/emote/abd9e90014ce88980a38b7d9d58d6260b2807bee.png"
+    },
+    {
+      "text": "魅魔护士_药丸",
+      "url": "https://i0.hdslb.com/bfs/emote/a1f36751ee8bace11ba31bdeb7a011b102d8c176.png"
+    },
+    {
+      "text": "魅魔护士_看戏",
+      "url": "https://i0.hdslb.com/bfs/emote/359dd34aa8a030c4c263faf6baf50ff58fe58a06.png"
+    },
+    {
+      "text": "魅魔护士_救命",
+      "url": "https://i0.hdslb.com/bfs/emote/16e5e959e2db420db936ecb7b5e863f1cd6149e2.png"
+    },
+    {
+      "text": "魅魔护士_心动",
+      "url": "https://i0.hdslb.com/bfs/emote/db5df71a75bcb6c81b634f82086e671bf389c310.png"
+    },
+    {
+      "text": "魅魔护士_让我想想",
+      "url": "https://i0.hdslb.com/bfs/emote/79c30cdd8ac33168fd7a46660936dbad1bf1be1e.png"
+    },
+    {
+      "text": "魅魔护士_我来也",
+      "url": "https://i0.hdslb.com/bfs/emote/b102cd39ed14a55a2ce108e46ae60d4185722c5b.png"
+    },
+    {
+      "text": "魅魔护士_略略略",
+      "url": "https://i0.hdslb.com/bfs/emote/912ff8dc932c433e2e1d7800d55183bc5b50464c.png"
+    },
+    {
+      "text": "魅魔护士_亲亲",
+      "url": "https://i0.hdslb.com/bfs/emote/a389ca182adb9b18e0fa2568b69289a5af36ebd0.png"
+    },
+    {
+      "text": "魅魔护士_多喝热水",
+      "url": "https://i0.hdslb.com/bfs/emote/f5d82a6e079ffe985d4fb028d4e0f1d0cd3791b8.png"
+    },
+    {
+      "text": "魅魔护士_收到",
+      "url": "https://i0.hdslb.com/bfs/emote/f95fe536f18581344c1ed9d3cb2253ba79a20e92.png"
+    },
+    {
+      "text": "魅魔护士_点你",
+      "url": "https://i0.hdslb.com/bfs/emote/171638e46753b736902e8ee35f823d5c4c0c07e9.png"
+    },
+    {
+      "text": "魅魔护士_汗",
+      "url": "https://i0.hdslb.com/bfs/emote/51682d5940966f7065e01b89dee60485ef862641.png"
+    },
+    {
+      "text": "魅魔护士_血压高了",
+      "url": "https://i0.hdslb.com/bfs/emote/36e4a7c9d8363b049854e90af4a639ededf81bcc.png"
+    },
+    {
+      "text": "魅魔护士_不是哥们",
+      "url": "https://i0.hdslb.com/bfs/emote/d007e85c92b9650b97f4830d0c06ecea7d3fba7f.png"
+    },
+    {
+      "text": "魅魔护士_害怕",
+      "url": "https://i0.hdslb.com/bfs/emote/e22f4279fe01a90254f20adb7c67dada63ce4d5a.png"
+    },
+    {
+      "text": "魅魔护士_贴贴",
+      "url": "https://i0.hdslb.com/bfs/emote/8d731568cf3d0f5d9f65b4c5ae9aa258ac4452aa.png"
+    },
+    {
+      "text": "魅魔护士_呜哇啊啊",
+      "url": "https://i0.hdslb.com/bfs/emote/8b97ab1b6012712a0b2983ef86ae3d541193f4ef.png"
+    },
+    {
+      "text": "魅魔护士_降临",
+      "url": "https://i0.hdslb.com/bfs/emote/f09f2ac16b2037522f69cfc421322a241cf97ebb.png"
+    }
+  ]
 }

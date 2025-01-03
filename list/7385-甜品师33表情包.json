@@ -1,5 +1,47 @@
 {
   "id": 7385,
   "text": "甜品师33表情包",
-  "icon": "https://i0.hdslb.com/bfs/emote/2811f1a53ab93304399c27f3e571356a9f33e71d.png"
+  "icon": "https://i0.hdslb.com/bfs/emote/2811f1a53ab93304399c27f3e571356a9f33e71d.png",
+  "emote": [
+    {
+      "text": "甜品师33表情包_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/2811f1a53ab93304399c27f3e571356a9f33e71d.png"
+    },
+    {
+      "text": "甜品师33表情包_挤奶油",
+      "url": "https://i0.hdslb.com/bfs/emote/501ce4f5d82027f15ad6a58a58fd9751f9ca793b.png"
+    },
+    {
+      "text": "甜品师33表情包_努力打工",
+      "url": "https://i0.hdslb.com/bfs/emote/4df3aa3f1435243f0c217e4071d6f55475ed2395.png"
+    },
+    {
+      "text": "甜品师33表情包_宕机",
+      "url": "https://i0.hdslb.com/bfs/emote/967067953f3c51efbbe22d28703264549f779040.png"
+    },
+    {
+      "text": "甜品师33表情包_收到",
+      "url": "https://i0.hdslb.com/bfs/emote/6b2dc9ae50661c0cc38276bae12ace31de143cf5.png"
+    },
+    {
+      "text": "甜品师33表情包_好吃",
+      "url": "https://i0.hdslb.com/bfs/emote/f3c19aff6a0ecd6502084b4901b74cc79dbad44b.png"
+    },
+    {
+      "text": "甜品师33表情包_加油",
+      "url": "https://i0.hdslb.com/bfs/emote/07cfd5747612539bbfb922b3b8841aecce43dbfa.png"
+    },
+    {
+      "text": "甜品师33表情包_下班",
+      "url": "https://i0.hdslb.com/bfs/emote/d860751ca4766b0982bb8ab38dde347e239a6567.png"
+    },
+    {
+      "text": "甜品师33表情包_晚安",
+      "url": "https://i0.hdslb.com/bfs/emote/868e060b3b0fa20e45beb440f3cbcbf53e50a437.png"
+    },
+    {
+      "text": "甜品师33表情包_庆祝",
+      "url": "https://i0.hdslb.com/bfs/emote/451b753ffa5550b7491dd5bb2d1b621ae01aa4d3.png"
+    }
+  ]
 }
