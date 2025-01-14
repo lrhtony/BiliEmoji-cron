@@ -1,0 +1,67 @@
+{
+  "id": 7485,
+  "text": "啃一口面包基",
+  "icon": "https://i0.hdslb.com/bfs/garb/174557ac18929f83dbfefd0de28cacba238dd749.png",
+  "emote": [
+    {
+      "text": "啃一口面包基_骨头",
+      "url": "https://i0.hdslb.com/bfs/garb/bdcb82acd17bd895844e6ae1363de395b3f52995.png"
+    },
+    {
+      "text": "啃一口面包基_狗爪",
+      "url": "https://i0.hdslb.com/bfs/garb/19d479972419ae034ddf04c66093391e4bb2d2ee.png"
+    },
+    {
+      "text": "啃一口面包基_吃",
+      "url": "https://i0.hdslb.com/bfs/garb/79b3ccb2e049eea26a68beb0cc3d9cb598b8c220.png"
+    },
+    {
+      "text": "啃一口面包基_探头",
+      "url": "https://i0.hdslb.com/bfs/garb/e8634dbb29a4a800a4966d0456475814fb6c6f68.png"
+    },
+    {
+      "text": "啃一口面包基_裂开",
+      "url": "https://i0.hdslb.com/bfs/garb/874f5f0ae4d8e5a1512c5c0fa530e35e4caa8693.png"
+    },
+    {
+      "text": "啃一口面包基_裂裂裂开",
+      "url": "https://i0.hdslb.com/bfs/garb/8d8c229071ab8c4345621593ca30daac09db0844.png"
+    },
+    {
+      "text": "啃一口面包基_紧急情况",
+      "url": "https://i0.hdslb.com/bfs/garb/8581190c5065d3cd9de02173419df5bdc5686bc4.png"
+    },
+    {
+      "text": "啃一口面包基_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/938ff42d45b4c8a6b7d1c77a5e9972f4ef06241d.png"
+    },
+    {
+      "text": "啃一口面包基_糊了",
+      "url": "https://i0.hdslb.com/bfs/garb/f39fbbe7681658517be6c2643f413b0f67882b0b.png"
+    },
+    {
+      "text": "啃一口面包基_加热",
+      "url": "https://i0.hdslb.com/bfs/garb/b2252b77ff50d761942c12a54702cfacde805e43.png"
+    },
+    {
+      "text": "啃一口面包基_嗨",
+      "url": "https://i0.hdslb.com/bfs/garb/af8ab3a2f5da93f6b4b16949b9d5917d3ad5ae78.png"
+    },
+    {
+      "text": "啃一口面包基_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/54a5404b242f389816e939e821316e33b99dbd40.png"
+    },
+    {
+      "text": "啃一口面包基_噫",
+      "url": "https://i0.hdslb.com/bfs/garb/6773dc1718793238d64b0b03df4ad4f88f9e0176.png"
+    },
+    {
+      "text": "啃一口面包基_卖萌",
+      "url": "https://i0.hdslb.com/bfs/garb/b7c0c5a35650728c4c378a62b7cc5d2fddce0f7e.png"
+    },
+    {
+      "text": "啃一口面包基_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/338c6f013eba11956ee9a1a08dd12ecd5230a095.png"
+    }
+  ]
+}
