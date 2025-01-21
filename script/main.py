@@ -36,7 +36,7 @@ class BiliEmoji:
             'Referer': 'https://www.bilibili.com/',
             'Origin': 'https://www.bilibili.com',
             'Accept': '*/*',
-            'Accept-Encoding': 'gzip, deflate',
+            'Accept-Encoding': 'gzip, deflate, br',
             'Accept-Language': 'zh-CN,zh;q=0.9'
         }
         response = requests.get('https://api.bilibili.com/x/emote/package', params=params, proxies=self.PROXY, headers=headers)
@@ -51,10 +51,12 @@ class BiliEmoji:
                 package_id = package['id']
                 package_text = package['text']
                 package_icon = package['url'].replace('http://', 'https://')
+                package_resource_type = package['resource_type']
                 package_dict = {
                     'id': package_id,
                     'text': package_text,
                     'icon': package_icon,
+                    'resource_type': package_resource_type,
                 }
                 if 'emote' in package:
                     emote_list = []
