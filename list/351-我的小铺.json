@@ -2,6 +2,7 @@
   "id": 351,
   "text": "我的小铺",
   "icon": "https://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "我的小铺_OK",

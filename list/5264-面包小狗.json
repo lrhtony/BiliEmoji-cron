@@ -2,6 +2,7 @@
   "id": 5264,
   "text": "面包小狗",
   "icon": "https://i0.hdslb.com/bfs/garb/9c6642659c07376c4aba8648ba1d1ce96031bb5f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "面包小狗_冒个泡",

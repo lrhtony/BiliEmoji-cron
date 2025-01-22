@@ -2,6 +2,7 @@
   "id": 3652,
   "text": "Fulgur表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/item/d000b1070565ef585a65823f8ab6b9ec0afe3065.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Fulgur_bonk",

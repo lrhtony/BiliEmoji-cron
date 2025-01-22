@@ -2,6 +2,7 @@
   "id": 1512,
   "text": "星蚀_Finsternis",
   "icon": "https://i0.hdslb.com/bfs/garb/e5248a9c08268fa3e513c392ba62a9c93876484e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "星蚀_Finsternis_打call",

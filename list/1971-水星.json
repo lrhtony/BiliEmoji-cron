@@ -2,6 +2,7 @@
   "id": 1971,
   "text": "水星",
   "icon": "https://i0.hdslb.com/bfs/garb/2dfe437efdff36be17cfb9d5af16a588a4e57419.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "水星_虚假称赞",

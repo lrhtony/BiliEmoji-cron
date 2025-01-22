@@ -2,6 +2,7 @@
   "id": 5764,
   "text": "第三方表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/351820155cb98f32b816e4b55c8b731b04afcf8d.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "第三方表情包_我吗？",

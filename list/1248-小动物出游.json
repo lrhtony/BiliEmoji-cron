@@ -2,6 +2,7 @@
   "id": 1248,
   "text": "小动物出游",
   "icon": "https://i0.hdslb.com/bfs/garb/7c83cc5cd63c3af60f0287843fca49bf039a87b6.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小动物出游_喝茶",

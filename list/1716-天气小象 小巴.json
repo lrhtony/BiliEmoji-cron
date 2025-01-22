@@ -2,6 +2,7 @@
   "id": 1716,
   "text": "天气小象 小巴",
   "icon": "https://i0.hdslb.com/bfs/garb/08ae4c9dd1ac950a50f85cc68f01b8e5b789536d.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "天气小象 小巴_晴",

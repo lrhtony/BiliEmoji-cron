@@ -2,6 +2,7 @@
   "id": 7116,
   "text": "随一动态表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/97a1a664b7ecb84fafa77736899ebb8969a183db.png",
+  "resource_type": 1,
   "emote": [
     {
       "text": "随一动态表情包_打call",

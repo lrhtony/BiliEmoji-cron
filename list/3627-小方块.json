@@ -2,6 +2,7 @@
   "id": 3627,
   "text": "小方块",
   "icon": "https://i0.hdslb.com/bfs/garb/8cdc00163218e6537f178bb782dbf08cc94b2c66.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小方块_...",

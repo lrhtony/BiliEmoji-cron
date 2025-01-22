@@ -2,6 +2,7 @@
   "id": 83,
   "text": "大王不高兴",
   "icon": "https://i0.hdslb.com/bfs/emote/ee290cddedeed86475d64dbe4c3687b47b6e836e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "大王不高兴_开心",

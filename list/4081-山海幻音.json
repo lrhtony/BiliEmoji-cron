@@ -2,6 +2,7 @@
   "id": 4081,
   "text": "山海幻音",
   "icon": "https://i0.hdslb.com/bfs/garb/item/1e2b9af73298fb78e1bb223d784d6d97d6ef8e3f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "山海幻音_安逸",

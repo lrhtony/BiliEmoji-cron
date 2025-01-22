@@ -2,6 +2,7 @@
   "id": 4436,
   "text": "yami-表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/962c6960b73b676bae36a5a85659b0ec10afa697.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "yami-表情包_大家好",

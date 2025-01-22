@@ -2,6 +2,7 @@
   "id": 3915,
   "text": "EMO表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/d8a45256c52bb5e315d48c2eef6969402b8f50e0.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "EMO表情包_唔",

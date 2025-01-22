@@ -2,6 +2,7 @@
   "id": 316,
   "text": "圣诞",
   "icon": "https://i0.hdslb.com/bfs/emote/f941d53b641c4680d0500261baf5e4a4f462ab3a.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "圣诞_放礼花",

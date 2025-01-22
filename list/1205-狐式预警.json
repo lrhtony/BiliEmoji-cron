@@ -2,6 +2,7 @@
   "id": 1205,
   "text": "狐式预警",
   "icon": "https://i0.hdslb.com/bfs/garb/26b907ed524d0057f91cfe6af121ccedf5b3eb9f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "狐式预警_鄙视",

@@ -2,6 +2,7 @@
   "id": 756,
   "text": "星律动",
   "icon": "https://i0.hdslb.com/bfs/garb/item/a9d8d0750444d3c95895d060edf73c0509fba5b7.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "星律动_小心点",

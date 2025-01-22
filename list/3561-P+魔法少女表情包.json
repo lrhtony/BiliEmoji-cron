@@ -2,6 +2,7 @@
   "id": 3561,
   "text": "P+魔法少女表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/item/d0b985bccd52ecc13bea4891be877f4c12b2547a.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "P+魔法少女表情包_打call",

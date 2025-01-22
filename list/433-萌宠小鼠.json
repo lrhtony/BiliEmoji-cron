@@ -2,6 +2,7 @@
   "id": 433,
   "text": "萌宠小鼠",
   "icon": "https://i0.hdslb.com/bfs/emote/f7d44dd837c7b8e15f64a157d8747ee7433c97f2.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "萌宠小鼠_抱抱",

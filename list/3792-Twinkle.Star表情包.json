@@ -2,6 +2,7 @@
   "id": 3792,
   "text": "Twinkle.Star表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/item/f5c0c082775caf27305d0970e0f316f1d209a539.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Twinkle.Star_暗中观察",

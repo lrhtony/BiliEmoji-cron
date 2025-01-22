@@ -2,6 +2,7 @@
   "id": 735,
   "text": "奇魔猪",
   "icon": "https://i0.hdslb.com/bfs/garb/item/846fbca2c51b56d305cc3900fd10ed3a7644de37.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "奇魔猪_你蜂啦",

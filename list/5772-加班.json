@@ -2,6 +2,7 @@
   "id": 5772,
   "text": "加班",
   "icon": "https://i0.hdslb.com/bfs/garb/199df7b68d18721421cb7caa6bdffc3ced05ad27.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "加班_下班喽",

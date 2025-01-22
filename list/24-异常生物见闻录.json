@@ -2,6 +2,7 @@
   "id": 24,
   "text": "异常生物见闻录",
   "icon": "https://i0.hdslb.com/bfs/emote/545b7740869d2f9bd04fb45de751d6aff99c3924.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "异常生物见闻录_good",

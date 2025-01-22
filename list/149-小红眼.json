@@ -2,6 +2,7 @@
   "id": 149,
   "text": "小红眼",
   "icon": "https://i0.hdslb.com/bfs/emote/1f80c6475ccf88db4067a810a6628fd7e5130f33.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小红眼_生气",

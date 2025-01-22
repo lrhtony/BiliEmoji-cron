@@ -2,6 +2,7 @@
   "id": 5446,
   "text": "动物动态表情包",
   "icon": "https://i0.hdslb.com/bfs/emote/fef8f7957937092c25d4f7bbcdcbeef42ae39313.png",
+  "resource_type": 1,
   "emote": [
     {
       "text": "动物动态表情包_小黑狼",

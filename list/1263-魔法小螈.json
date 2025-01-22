@@ -2,6 +2,7 @@
   "id": 1263,
   "text": "魔法小螈",
   "icon": "https://i0.hdslb.com/bfs/garb/8efb07f3a4b3fccbf55957ba8b19274921203e6c.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "魔法小螈_你好",

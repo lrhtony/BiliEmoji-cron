@@ -2,6 +2,7 @@
   "id": 625,
   "text": "小怪兽",
   "icon": "https://i0.hdslb.com/bfs/emote/1b69d04dc57acee2e13d9460568fb3f0ec6fcd3d.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小怪兽_一键三连",

@@ -2,6 +2,7 @@
   "id": 7208,
   "text": "唱首歌给你听",
   "icon": "https://i0.hdslb.com/bfs/garb/2d696201263928fda8334996e9093baa733c5626.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "唱首歌给你听_开心",

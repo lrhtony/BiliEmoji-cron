@@ -2,6 +2,7 @@
   "id": 2060,
   "text": "生日派对",
   "icon": "https://i0.hdslb.com/bfs/garb/7a00f21699097fb362b60281dc7bfeb6e37d8d41.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "生日派对_左天使",

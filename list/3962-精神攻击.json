@@ -2,6 +2,7 @@
   "id": 3962,
   "text": "精神攻击",
   "icon": "https://i0.hdslb.com/bfs/garb/8750145445b266759231750e7e077577534e8a18.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "精神攻击_平淡",

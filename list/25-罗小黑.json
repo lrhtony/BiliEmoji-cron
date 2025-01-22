@@ -2,6 +2,7 @@
   "id": 25,
   "text": "罗小黑",
   "icon": "https://i0.hdslb.com/bfs/emote/bcdfa28cd019333cdb243c3a8d73374236924585.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "罗小黑_鼓掌",

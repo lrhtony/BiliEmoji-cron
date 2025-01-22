@@ -2,6 +2,7 @@
   "id": 7001,
   "text": "雪地小狗团",
   "icon": "https://i0.hdslb.com/bfs/garb/1aab2f85c228661e7605ba448b36e60070b31884.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "雪地小狗团_暗中观察",

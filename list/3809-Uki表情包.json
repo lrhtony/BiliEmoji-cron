@@ -2,6 +2,7 @@
   "id": 3809,
   "text": "Uki表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/item/ff3dfc78e2c8bd1bdedf42ac8497a3503cbfc04c.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Uki_思考",

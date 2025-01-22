@@ -2,6 +2,7 @@
   "id": 2245,
   "text": "樱桃小丸子猫咪系列",
   "icon": "https://i0.hdslb.com/bfs/emote/b676f940c8dc6b52d3e0c9fda89eddc4a902dd46.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "樱桃小丸子_down",

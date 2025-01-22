@@ -2,6 +2,7 @@
   "id": 197,
   "text": "萌宠派对",
   "icon": "https://i0.hdslb.com/bfs/emote/ee292adf29084dd451932605550498f4ded41831.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "萌宠派对_拜拜",

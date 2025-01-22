@@ -2,6 +2,7 @@
   "id": 5275,
   "text": "动物派对",
   "icon": "https://i0.hdslb.com/bfs/garb/17ed70d300b44240c465ded7613511efa1263306.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "动物派对_摘星星",

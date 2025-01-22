@@ -2,6 +2,7 @@
   "id": 262,
   "text": "PinoQ",
   "icon": "https://i0.hdslb.com/bfs/emote/c0782e3c7169bfaf0fe59fb14917161bae4af73e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "PinoQ_OK",

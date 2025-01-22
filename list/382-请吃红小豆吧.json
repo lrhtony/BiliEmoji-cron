@@ -2,6 +2,7 @@
   "id": 382,
   "text": "请吃红小豆吧",
   "icon": "https://i0.hdslb.com/bfs/emote/e53a872c3cd8ac9e6fd1d91fcf6cff4e228d5920.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "请吃红小豆吧_吃薯片",

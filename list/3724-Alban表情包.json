@@ -2,6 +2,7 @@
   "id": 3724,
   "text": "Alban表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/item/fa9106a099dc7b90e2431b3cc749ed0a7a8c25a5.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Alban_晚安",

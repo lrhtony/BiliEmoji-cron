@@ -2,6 +2,7 @@
   "id": 5418,
   "text": "虫娘表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/988ec8ab33a891abe6c8f5d90959d10deb9bf5e5.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "虫娘表情包_ok",

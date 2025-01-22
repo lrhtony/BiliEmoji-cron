@@ -2,6 +2,7 @@
   "id": 966,
   "text": "balance garden",
   "icon": "https://i0.hdslb.com/bfs/garb/0e046c2a98d377e22777b57b79ae3b3cf2ee17b4.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "balance garden_买买买",

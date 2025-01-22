@@ -2,6 +2,7 @@
   "id": 4363,
   "text": "Vsinger",
   "icon": "https://i0.hdslb.com/bfs/emote/4e098afbf1a7204b2672f63c5e227140513ead1f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Vsinger_打call",

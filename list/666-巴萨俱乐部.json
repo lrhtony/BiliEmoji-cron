@@ -2,6 +2,7 @@
   "id": 666,
   "text": "巴萨俱乐部",
   "icon": "https://i0.hdslb.com/bfs/garb/item/c516f3286147c82587e2c1997fb40bdfd6794bdd.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "巴萨俱乐部_很慌",

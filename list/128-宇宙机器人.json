@@ -2,6 +2,7 @@
   "id": 128,
   "text": "宇宙机器人",
   "icon": "https://i0.hdslb.com/bfs/emote/056b9a862fcdbd623525412ef7bc391c719454bc.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "宇宙机器人_萌",

@@ -2,6 +2,7 @@
   "id": 2283,
   "text": "食物语",
   "icon": "https://i0.hdslb.com/bfs/garb/4f11782cc0573efc3d67bb9ade8939c8f5d5b669.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "食物语_谢谢",

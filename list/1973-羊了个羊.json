@@ -2,6 +2,7 @@
   "id": 1973,
   "text": "羊了个羊",
   "icon": "https://i0.hdslb.com/bfs/garb/701ae564e4573f1c25970f9e57f57cb840d1f1ad.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "羊了个羊_bug羊",

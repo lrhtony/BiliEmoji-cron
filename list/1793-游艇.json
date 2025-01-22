@@ -2,6 +2,7 @@
   "id": 1793,
   "text": "游艇",
   "icon": "https://i0.hdslb.com/bfs/garb/item/e1aa3589fdf5278f8fd5368561b0560f96c6157b.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "游艇_挥手",

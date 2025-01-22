@@ -2,6 +2,7 @@
   "id": 1496,
   "text": "蝶舞",
   "icon": "https://i0.hdslb.com/bfs/garb/item/42c18a99564a7bc07a46727119e35c0ec83b6433.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "蝶舞_跳舞",

@@ -2,6 +2,7 @@
   "id": 3702,
   "text": "小猫",
   "icon": "https://i0.hdslb.com/bfs/garb/b96962788abdb7643282beb3b35d4eaacde72506.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小猫_自律",

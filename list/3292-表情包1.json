@@ -2,6 +2,7 @@
   "id": 3292,
   "text": "表情包1",
   "icon": "https://i0.hdslb.com/bfs/garb/9cc400b16c3bb853c450175eec6d158c70647809.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "表情包1_点赞",

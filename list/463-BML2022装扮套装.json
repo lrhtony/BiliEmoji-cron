@@ -2,6 +2,7 @@
   "id": 463,
   "text": "BML2022装扮套装",
   "icon": "https://i0.hdslb.com/bfs/emote/ee30da4fb073a246142c5fbc09d33e0249dacc22.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "BML2022_oh",

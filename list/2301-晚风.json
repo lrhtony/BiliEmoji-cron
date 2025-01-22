@@ -2,6 +2,7 @@
   "id": 2301,
   "text": "晚风",
   "icon": "https://i0.hdslb.com/bfs/garb/e35732d3cddcbb5fea0a538398b9c2253ca6e4f4.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "晚风_打call",

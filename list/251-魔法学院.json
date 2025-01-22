@@ -2,6 +2,7 @@
   "id": 251,
   "text": "魔法学院",
   "icon": "https://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "魔法学院_bye",

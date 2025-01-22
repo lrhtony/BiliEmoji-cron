@@ -2,6 +2,7 @@
   "id": 3905,
   "text": "Cat!",
   "icon": "https://i0.hdslb.com/bfs/emote/7d1d19c9308a1494c1658f04329a731bcbde31ad.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Cat!_agree",

@@ -2,6 +2,7 @@
   "id": 646,
   "text": "三体",
   "icon": "https://i0.hdslb.com/bfs/garb/item/24753d283046d54c68501c08786a0d3f9d5eb973.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "三体_再等一会",

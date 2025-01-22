@@ -2,6 +2,7 @@
   "id": 5144,
   "text": "美味中华",
   "icon": "https://i0.hdslb.com/bfs/garb/b51893b3f389ba8a60cc3783832e30f3b139c2c9.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "美味中华_打call",

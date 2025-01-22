@@ -2,6 +2,7 @@
   "id": 58,
   "text": "hello咕咕",
   "icon": "https://i0.hdslb.com/bfs/emote/a285dab259b71ccd561b7c3a75bad0219633ffc4.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "咕咕_吃饱了",

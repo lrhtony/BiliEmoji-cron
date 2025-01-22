@@ -2,6 +2,7 @@
   "id": 1406,
   "text": "葵花林下",
   "icon": "https://i0.hdslb.com/bfs/garb/b04d8ac103816db8c2e4091d7a33645ed832db41.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "葵花林下_恋爱",

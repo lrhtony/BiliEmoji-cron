@@ -2,6 +2,7 @@
   "id": 2129,
   "text": "秦国小卖部",
   "icon": "https://i0.hdslb.com/bfs/garb/b2402a29f98b40c7df49c93f168db49242ae6c85.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "秦国小卖部_探头",

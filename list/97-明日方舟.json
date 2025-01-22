@@ -2,6 +2,7 @@
   "id": 97,
   "text": "明日方舟",
   "icon": "https://i0.hdslb.com/bfs/emote/3d98cb5220a0dbecb6a75f4f94b1d1371e97cf84.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "明日方舟_喷喷",

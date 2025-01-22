@@ -2,6 +2,7 @@
   "id": 804,
   "text": "咖喱饭",
   "icon": "https://i0.hdslb.com/bfs/emote/cf61db0f5f488a12236ca1d69bd7f93a23385d99.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "咖喱饭_？",

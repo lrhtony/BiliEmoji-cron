@@ -2,6 +2,7 @@
   "id": 7376,
   "text": "给你一瓶魔法药水",
   "icon": "https://i0.hdslb.com/bfs/garb/d955d6c8523476225b6343fe18d3e0e1a09935b5.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "给你一瓶魔法药水_施展魔法",

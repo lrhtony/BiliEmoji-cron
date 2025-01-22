@@ -2,6 +2,7 @@
   "id": 1169,
   "text": "星球旅行者",
   "icon": "https://i0.hdslb.com/bfs/garb/07935a9e566ee30c37c6f163df63ba69e74f504f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "星球旅行者_喝饮料",

@@ -2,6 +2,7 @@
   "id": 5107,
   "text": "吉祥物",
   "icon": "https://i0.hdslb.com/bfs/emote/782a265160239e963d1f9063bb2a36b7970ac52e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "吉祥物_加油",

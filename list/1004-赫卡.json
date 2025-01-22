@@ -2,6 +2,7 @@
   "id": 1004,
   "text": "赫卡",
   "icon": "https://i0.hdslb.com/bfs/garb/9959e2d710b59cf48999bd73a79345b7a865fd37.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "赫卡_流汗",

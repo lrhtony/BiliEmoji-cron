@@ -1,0 +1,48 @@
+{
+  "id": 7524,
+  "text": "巳蛇静态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/f93b15af4e02f0c5b96d6618553fecfd96a74f42.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "巳蛇_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/f93b15af4e02f0c5b96d6618553fecfd96a74f42.png"
+    },
+    {
+      "text": "巳蛇_蛇恐i人",
+      "url": "https://i0.hdslb.com/bfs/emote/fa0242bf28062019206b739e7b3f4599801a68d7.png"
+    },
+    {
+      "text": "巳蛇_蛇不得你",
+      "url": "https://i0.hdslb.com/bfs/emote/0f81e5214b60653bc793c852f76ee6d62532679e.png"
+    },
+    {
+      "text": "巳蛇_蛇拿九稳",
+      "url": "https://i0.hdslb.com/bfs/emote/389215c43df4523597944afbf3ff79e567268894.png"
+    },
+    {
+      "text": "巳蛇_蛇来运转",
+      "url": "https://i0.hdslb.com/bfs/emote/2fbb0718face9d5ad3b5f55f3e4cb2e493261d22.png"
+    },
+    {
+      "text": "巳蛇_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/3c78359d652b34f7b5edcedadb890ebf20605489.png"
+    },
+    {
+      "text": "巳蛇_开心",
+      "url": "https://i0.hdslb.com/bfs/emote/fbaea078c0a6d5b5e0f4d3ce789c5d9d81ca4b30.png"
+    },
+    {
+      "text": "巳蛇_蜷缩",
+      "url": "https://i0.hdslb.com/bfs/emote/c308d9ff8b483694b406c29875497197a3588180.png"
+    },
+    {
+      "text": "巳蛇_摆",
+      "url": "https://i0.hdslb.com/bfs/emote/2c12401241bb01daff05d4d72d69cb2f47ca50da.png"
+    },
+    {
+      "text": "巳蛇_耍帅",
+      "url": "https://i0.hdslb.com/bfs/emote/bfa61117b5d6a923d07b433b5d19ab613cbf8c16.png"
+    }
+  ]
+}

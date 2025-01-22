@@ -2,6 +2,7 @@
   "id": 2384,
   "text": "玩具销售员",
   "icon": "https://i0.hdslb.com/bfs/garb/387787539d5a233a24ca173381b98541433b7fb7.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "玩具销售员_运行中",

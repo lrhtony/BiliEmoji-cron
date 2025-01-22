@@ -2,6 +2,7 @@
   "id": 7100,
   "text": "猫咪乐园",
   "icon": "https://i0.hdslb.com/bfs/garb/25ffc8eb161137e36f1fd6a831f4b6fec70b0e5b.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "猫咪乐园_啥也不想干",

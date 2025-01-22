@@ -2,6 +2,7 @@
   "id": 1141,
   "text": "猫耳咖啡厅",
   "icon": "https://i0.hdslb.com/bfs/garb/0a6fd9b8ab878c8ab4376cb40d7de15aaf26fb39.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "猫耳咖啡厅_笑",

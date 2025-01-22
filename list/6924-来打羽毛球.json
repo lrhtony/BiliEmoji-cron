@@ -2,6 +2,7 @@
   "id": 6924,
   "text": "来打羽毛球",
   "icon": "https://i0.hdslb.com/bfs/garb/228b1deef3eddef35a1f42f16f4d7839ccd3f03f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "来打羽毛球_扣杀",

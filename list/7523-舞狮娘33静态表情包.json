@@ -1,0 +1,48 @@
+{
+  "id": 7523,
+  "text": "舞狮娘33静态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/aba7ec88794e92e42facfce4e38c892b8fa4620c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "舞狮娘33_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/aba7ec88794e92e42facfce4e38c892b8fa4620c.png"
+    },
+    {
+      "text": "舞狮娘33_期待",
+      "url": "https://i0.hdslb.com/bfs/emote/290be0daefadead62fd816c0b6b5f8386685df56.png"
+    },
+    {
+      "text": "舞狮娘33_谢谢",
+      "url": "https://i0.hdslb.com/bfs/emote/b364e52c6f48f5c565159f795fb5d54adc1afb8a.png"
+    },
+    {
+      "text": "舞狮娘33_乖巧",
+      "url": "https://i0.hdslb.com/bfs/emote/a38ed87f8d5655d989a4f886fd929d3bfa255b07.png"
+    },
+    {
+      "text": "舞狮娘33_惊讶",
+      "url": "https://i0.hdslb.com/bfs/emote/7203cd473dc9e120e9366b02aae8506a53b63827.png"
+    },
+    {
+      "text": "舞狮娘33_冲鸭",
+      "url": "https://i0.hdslb.com/bfs/emote/97ba76b20dcb28292bede8ab92580cfebbd870d5.png"
+    },
+    {
+      "text": "舞狮娘33_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/193cc6a972aa887ef9ca7779a487812486cab3ce.png"
+    },
+    {
+      "text": "舞狮娘33_困",
+      "url": "https://i0.hdslb.com/bfs/emote/b3f150f11eff53e07f16f548ef3ac0d16377c42f.png"
+    },
+    {
+      "text": "舞狮娘33_步步高升",
+      "url": "https://i0.hdslb.com/bfs/emote/438d54c1fd874ebd6bfd732d81b810068641486a.png"
+    },
+    {
+      "text": "舞狮娘33_狮狮如意",
+      "url": "https://i0.hdslb.com/bfs/emote/ebb4cd597bd526c4223e207771246f8cf5869d8b.png"
+    }
+  ]
+}

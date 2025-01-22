@@ -2,6 +2,7 @@
   "id": 3864,
   "text": "旅-梦",
   "icon": "https://i0.hdslb.com/bfs/garb/54fcdb2e9b010b4c9e7d8b2842e9b1c20006db91.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "旅-梦_打call",

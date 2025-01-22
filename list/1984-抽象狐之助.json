@@ -2,6 +2,7 @@
   "id": 1984,
   "text": "抽象狐之助",
   "icon": "https://i0.hdslb.com/bfs/garb/853f793b516ece43a531ec37565def14cd458bdd.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "抽象狐之助_赢",

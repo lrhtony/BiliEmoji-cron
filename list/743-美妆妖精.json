@@ -2,6 +2,7 @@
   "id": 743,
   "text": "美妆妖精",
   "icon": "https://i0.hdslb.com/bfs/garb/item/e44a398b4eb7471a922d4586896ebfede173752c.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "美妆妖精_得意",

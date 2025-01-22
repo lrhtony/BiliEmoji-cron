@@ -2,6 +2,7 @@
   "id": 60,
   "text": "炎炎消防队",
   "icon": "https://i0.hdslb.com/bfs/emote/46006cd810c851cfc6f2e2d94e0701fe6cb73860.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "炎炎消防队_点点点",

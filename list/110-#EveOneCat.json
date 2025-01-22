@@ -2,6 +2,7 @@
   "id": 110,
   "text": "#EveOneCat",
   "icon": "https://i0.hdslb.com/bfs/emote/147d9159a99c97bd4fbcb35bb47ef0a69d7f5346.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Cat_escort",

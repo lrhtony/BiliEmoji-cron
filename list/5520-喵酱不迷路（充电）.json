@@ -1,11 +1,12 @@
 {
   "id": 5520,
   "text": "喵酱不迷路（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/7e9babe36c9fc7e37559f55d030781f48d7042d0.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/8f27599ffd558969297a5b47fd00793893ed21fc.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "UPOWER_21196139_嘻嘻",
-      "url": "https://i0.hdslb.com/bfs/garb/4c46ae38d6301a6a731b7f35283ce434a5fd7547.png"
+      "url": "https://i0.hdslb.com/bfs/garb/5c140efc0d172590fe3139df9070a55061b90ed9.png"
     },
     {
       "text": "UPOWER_21196139_阿嚏",
@@ -26,6 +27,26 @@
     {
       "text": "UPOWER_21196139_冲冲冲",
       "url": "https://i0.hdslb.com/bfs/garb/4a1648696fbd8e8e0d6fd592463bc5e883f21947.png"
+    },
+    {
+      "text": "UPOWER_21196139_不忍直视",
+      "url": "https://i0.hdslb.com/bfs/garb/cd46f6237ce9df982224d1532066b4cad6dc01f0.png"
+    },
+    {
+      "text": "UPOWER_21196139_聪明之喵",
+      "url": "https://i0.hdslb.com/bfs/garb/f31aadb2ce27e3e6702e129afa89c6e1c9f32734.png"
+    },
+    {
+      "text": "UPOWER_21196139_憨厚",
+      "url": "https://i0.hdslb.com/bfs/garb/eb44416da217c2a5bf8e18b8fb145d86685ff641.png"
+    },
+    {
+      "text": "UPOWER_21196139_吐舌",
+      "url": "https://i0.hdslb.com/bfs/garb/0b6b9137e753c4894f6bd367297d7a792a45f7f5.png"
+    },
+    {
+      "text": "UPOWER_21196139_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/d0f15f47c075376a220ed215f80c3168c88af959.png"
     }
   ]
 }

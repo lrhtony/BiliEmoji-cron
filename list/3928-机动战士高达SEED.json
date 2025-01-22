@@ -2,6 +2,7 @@
   "id": 3928,
   "text": "机动战士高达SEED",
   "icon": "https://i0.hdslb.com/bfs/emote/6cc1a1bd5984db5e207ae7ded242f27506d2fbcd.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "SEED_思考",

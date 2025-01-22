@@ -2,6 +2,7 @@
   "id": 215,
   "text": "舰长",
   "icon": "https://i0.hdslb.com/bfs/emote/5c6f78d9a1db8207e20b85d1efd7aecc4e71bd6c.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "舰长_暗中观察",

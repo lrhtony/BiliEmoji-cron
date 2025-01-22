@@ -2,6 +2,7 @@
   "id": 1314,
   "text": "爆蛋-表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/e298613b7e81bb2c173f2a26a60719575c2ef6dd.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "爆蛋-表情包_收到",

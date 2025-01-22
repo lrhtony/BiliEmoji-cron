@@ -2,6 +2,7 @@
   "id": 4994,
   "text": "猫猫便利店",
   "icon": "https://i0.hdslb.com/bfs/garb/0e01926cb2b64c041b683f9f42ffe8dc66c77e5e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "猫猫便利店_突击查岗",

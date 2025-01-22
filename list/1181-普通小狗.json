@@ -2,6 +2,7 @@
   "id": 1181,
   "text": "普通小狗",
   "icon": "https://i0.hdslb.com/bfs/garb/75af4317ef6560ff17969e5a5428b9224c34eb11.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "普通小狗_伤心",

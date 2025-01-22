@@ -2,6 +2,7 @@
   "id": 4805,
   "text": "小草",
   "icon": "https://i0.hdslb.com/bfs/garb/7d82cb56c706b8f4b07e0a5a22f32e43ef7a79fc.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小草_好！",

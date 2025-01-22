@@ -2,6 +2,7 @@
   "id": 1024,
   "text": "糯糯鸭",
   "icon": "https://i0.hdslb.com/bfs/garb/2d460e80264b4040ba1db8fe9a6c93afb888ea84.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "糯糯鸭_来了",

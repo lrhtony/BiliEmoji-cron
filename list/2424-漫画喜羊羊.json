@@ -2,6 +2,7 @@
   "id": 2424,
   "text": "漫画喜羊羊",
   "icon": "https://i0.hdslb.com/bfs/garb/4fa82f5ec7115fcb2d32a115ae6fa65cd13763a4.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "漫画喜羊羊_叉腰",

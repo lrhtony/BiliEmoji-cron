@@ -1,0 +1,50 @@
+{
+  "id": 7521,
+  "text": "财迷小姐姐动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/f7ecd45c99cc32b4e20614c54159baee220ef59e.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "财迷小姐姐_亲亲",
+      "url": "https://i0.hdslb.com/bfs/emote/b96029aed26c009d07eb6e92ac443293d2d092f4.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/99e8a6c9609846e1d42962e238942a2338d73b2d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/739176f40888fe7ac7f09f2b12fde66c64f62447.webp"
+    },
+    {
+      "text": "财迷小姐姐_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/f7ecd45c99cc32b4e20614c54159baee220ef59e.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/5106b31a1dc6f1c3a1f65424e3f990778bd019d1.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/d0a251cfbe67a902bbfa3ace5f6bee71ce1691bf.webp"
+    },
+    {
+      "text": "财迷小姐姐_新年快乐",
+      "url": "https://i0.hdslb.com/bfs/emote/c30bd4bee9aa0dd3e665b397a83708913477c8da.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/9fbbc8962d18755eaad296fc40af310ddf991caf.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/1a8d95671024db29990b3f8a85a5ac535da1d108.webp"
+    },
+    {
+      "text": "财迷小姐姐_一起发财",
+      "url": "https://i0.hdslb.com/bfs/emote/a9d971c287b572a1e01178c2eb3d5949a2483a63.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/2d8102b2b800a378de6a8fde3a24c5e6ad20eac9.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/0a14cc000c6dd143894ff8b5b0ca5f32bfa0fb5e.webp"
+    },
+    {
+      "text": "财迷小姐姐_指定加薪",
+      "url": "https://i0.hdslb.com/bfs/emote/fbfa92cdbc0ac995094ff7f5f39d8fe40b683c47.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/00ddeff7f70cdb28708a1a7dd5da98de7a990e03.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/e9a93dbac284452089847319758f838edad82524.webp"
+    },
+    {
+      "text": "财迷小姐姐_天天开心",
+      "url": "https://i0.hdslb.com/bfs/emote/6a3244f300f94fae47a1f216e6f9843ac380b800.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/d06090d785cfa8ef3a272f63c67c127a7e97009d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/3391ff5087a4b40a7a7b8a1d5e853e109026c49f.webp"
+    },
+    {
+      "text": "财迷小姐姐_蛇年大吉",
+      "url": "https://i0.hdslb.com/bfs/emote/88164a453aeaaf7918f7cf9cb9de1f5898c96621.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/63609e845ed7de524af255bd34d5061fe6bc8393.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/273f52a313a26f9607cb50830042762885b90c75.webp"
+    }
+  ]
+}

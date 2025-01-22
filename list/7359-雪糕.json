@@ -2,6 +2,7 @@
   "id": 7359,
   "text": "雪糕",
   "icon": "https://i0.hdslb.com/bfs/garb/8dacb2f019ba76697d8427982030724968889eff.png",
+  "resource_type": 1,
   "emote": [
     {
       "text": "雪糕_mvp",

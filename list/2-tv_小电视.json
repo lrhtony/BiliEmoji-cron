@@ -2,6 +2,7 @@
   "id": 2,
   "text": "tv_小电视",
   "icon": "https://i0.hdslb.com/bfs/emote/f3517fc58c71236da5f0355b688ba302ae90c074.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "tv_白眼",

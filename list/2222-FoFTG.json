@@ -2,6 +2,7 @@
   "id": 2222,
   "text": "FoFTG",
   "icon": "https://i0.hdslb.com/bfs/garb/845a81f4b8e84110bd0aaa776009e8220829eace.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "FoFTG_缺硬币了",

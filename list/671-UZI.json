@@ -2,6 +2,7 @@
   "id": 671,
   "text": "UZI",
   "icon": "https://i0.hdslb.com/bfs/garb/item/4aec55120cf5f439d4c373e69e6eb1c60e89efd6.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "UZI_洗澡",

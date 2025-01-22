@@ -2,6 +2,7 @@
   "id": 111,
   "text": "约战：精灵再临",
   "icon": "https://i0.hdslb.com/bfs/emote/0d59fffd4e1ae5eacbcb716bc551a6ae64e61976.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "约战_咕咕咕",

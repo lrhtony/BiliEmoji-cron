@@ -2,6 +2,7 @@
   "id": 4194,
   "text": "地雷系",
   "icon": "https://i0.hdslb.com/bfs/garb/50b86209a56acbb42110d1add105cb9386df64fc.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "地雷系_坏笑",

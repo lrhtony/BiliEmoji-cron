@@ -2,6 +2,7 @@
   "id": 3807,
   "text": "无限实验室表情包",
   "icon": "https://i0.hdslb.com/bfs/emote/eedd9eca4e09e9f5d7cbb44a2ac59e4cabec46ad.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "无限实验室_ok",

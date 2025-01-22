@@ -2,6 +2,7 @@
   "id": 2009,
   "text": "夏日海滩猫",
   "icon": "https://i0.hdslb.com/bfs/garb/f7bd075e8f3cf5f6d0556f4ac71cca630ebc0cf9.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "夏日海滩猫_睡觉",

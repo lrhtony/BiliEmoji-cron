@@ -2,6 +2,7 @@
   "id": 725,
   "text": "双生幻想",
   "icon": "https://i0.hdslb.com/bfs/garb/item/1cbbf4e16ccff8cfdb57376960e5710d54c9b2af.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "双生幻想_动次打次",

@@ -2,6 +2,7 @@
   "id": 729,
   "text": "粉红兔子",
   "icon": "https://i0.hdslb.com/bfs/garb/item/662d51dde78e7577201f74f3074339a5a4c7858c.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "粉红兔子_安慰",

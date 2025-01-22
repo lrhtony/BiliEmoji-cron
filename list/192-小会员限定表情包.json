@@ -2,6 +2,7 @@
   "id": 192,
   "text": "小会员限定表情包",
   "icon": "https://i0.hdslb.com/bfs/emote/c6d63a09ac12e1f35d344278d6347ef481980241.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小会员限定_GGMM",

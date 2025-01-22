@@ -2,6 +2,7 @@
   "id": 491,
   "text": "黑门",
   "icon": "https://i0.hdslb.com/bfs/emote/242288fdbc951ba109c440e40968a8f324eaf9e9.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "黑门_OK",

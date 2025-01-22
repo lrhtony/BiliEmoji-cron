@@ -2,6 +2,7 @@
   "id": 432,
   "text": "黑之召唤士",
   "icon": "https://i0.hdslb.com/bfs/emote/882b4ede8c629ab16892cc911e49e3353cbd0a88.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "黑之召唤士_yes",

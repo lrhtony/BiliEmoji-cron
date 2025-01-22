@@ -2,6 +2,7 @@
   "id": 1178,
   "text": "表情涂鸦",
   "icon": "https://i0.hdslb.com/bfs/garb/bea754ea4e8d6f4df703f00c9ba640a88842e762.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "表情涂鸦_开心",

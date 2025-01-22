@@ -2,6 +2,7 @@
   "id": 777,
   "text": "鹿鸣",
   "icon": "https://i0.hdslb.com/bfs/garb/item/485c94a1c6baff8d483aa69efd7a4f7bee761035.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "鹿鸣_疑问",

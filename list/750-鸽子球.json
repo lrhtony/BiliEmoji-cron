@@ -2,6 +2,7 @@
   "id": 750,
   "text": "鸽子球",
   "icon": "https://i0.hdslb.com/bfs/garb/item/c9160a2606a245752480213ff85dcbdf08d8bcd1.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "鸽子球_思考人生",

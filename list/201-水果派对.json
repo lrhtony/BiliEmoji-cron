@@ -2,6 +2,7 @@
   "id": 201,
   "text": "水果派对",
   "icon": "https://i0.hdslb.com/bfs/emote/0b9e0453129be7116fa11a8dc33fcb2350a694a0.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "水果派对_春困",

@@ -2,6 +2,7 @@
   "id": 1617,
   "text": "KAKAO FRIENDS",
   "icon": "https://i0.hdslb.com/bfs/emote/1300d62f6c1edc761f20c0bfee8555a5ff60f4c3.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "KAKAO FRIENDS_点赞",

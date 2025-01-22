@@ -2,6 +2,7 @@
   "id": 5826,
   "text": "动态表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/dd8c2d9bbff78412b1a9abbf507065fcafce738a.png",
+  "resource_type": 1,
   "emote": [
     {
       "text": "动态表情包_溜了溜了",

@@ -2,6 +2,7 @@
   "id": 7051,
   "text": "猫咪小灵通",
   "icon": "https://i0.hdslb.com/bfs/garb/9b04ebc22ab72ed3c438db90de21299798e3bbb5.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "猫咪小灵通_浇水",

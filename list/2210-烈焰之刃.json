@@ -2,6 +2,7 @@
   "id": 2210,
   "text": "烈焰之刃",
   "icon": "https://i0.hdslb.com/bfs/emote/5b706f89234001f13f6cb3f42e2dcfdba25b3bfa.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "烈焰之刃_拔刀",

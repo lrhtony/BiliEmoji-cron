@@ -2,6 +2,7 @@
   "id": 294,
   "text": "萌宠小兔",
   "icon": "https://i0.hdslb.com/bfs/emote/fb941477ab82f4efa2e0ee52b147948cdec76495.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "萌宠小兔_怎能吃兔兔",

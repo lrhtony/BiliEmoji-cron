@@ -2,6 +2,7 @@
   "id": 123,
   "text": "约战·狂三",
   "icon": "https://i0.hdslb.com/bfs/emote/e8bc7f9b6a9aa88ee2e7b0be7de2c6b94d7525e7.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "狂三_哒哒哒",

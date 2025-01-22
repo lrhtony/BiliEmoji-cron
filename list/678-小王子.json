@@ -2,6 +2,7 @@
   "id": 678,
   "text": "小王子",
   "icon": "https://i0.hdslb.com/bfs/garb/item/b0f920f5c1e435de5307ff7e9b26aa9949bb0db7.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小王子_思考",

@@ -2,6 +2,7 @@
   "id": 1,
   "text": "小黄脸",
   "icon": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "doge_金箍",

@@ -2,6 +2,7 @@
   "id": 10,
   "text": "小A和小B",
   "icon": "https://i0.hdslb.com/bfs/emote/1dfe73e00f40ca42789602e8ee53b58c4f75a838.jpg",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小A和小B_喝茶",

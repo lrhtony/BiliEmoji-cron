@@ -2,6 +2,7 @@
   "id": 3896,
   "text": "小狗警官",
   "icon": "https://i0.hdslb.com/bfs/garb/e3ae9c5fab66ffd61f58f38d5556708cf82e9c3e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小狗警官_HI",

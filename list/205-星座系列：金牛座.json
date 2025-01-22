@@ -2,6 +2,7 @@
   "id": 205,
   "text": "星座系列：金牛座",
   "icon": "https://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "金牛座_按住",

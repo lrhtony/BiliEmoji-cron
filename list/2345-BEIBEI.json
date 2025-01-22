@@ -2,6 +2,7 @@
   "id": 2345,
   "text": "BEIBEI",
   "icon": "https://i0.hdslb.com/bfs/garb/26db445ff3c7f06baa7463b231b85b316b47ce11.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "BEIBEI_冰熊之子",

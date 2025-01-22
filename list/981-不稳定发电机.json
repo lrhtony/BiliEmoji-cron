@@ -2,6 +2,7 @@
   "id": 981,
   "text": "不稳定发电机",
   "icon": "https://i0.hdslb.com/bfs/garb/5be7308876ee7a521c361150682716908169da99.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "不稳定发电机_起床啦",

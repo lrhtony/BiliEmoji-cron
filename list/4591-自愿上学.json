@@ -2,6 +2,7 @@
   "id": 4591,
   "text": "自愿上学",
   "icon": "https://i0.hdslb.com/bfs/garb/25e1ca89f363ec6a5cce24e7541cbe56ff2be8e7.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "自愿上学_回学校",

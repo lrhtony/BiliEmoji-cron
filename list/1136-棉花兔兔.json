@@ -2,6 +2,7 @@
   "id": 1136,
   "text": "棉花兔兔",
   "icon": "https://i0.hdslb.com/bfs/garb/f34aa76f5c9608539b5280185bf8ac6f6c5dcc1c.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "棉花兔兔_向前冲",

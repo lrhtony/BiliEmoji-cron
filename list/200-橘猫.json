@@ -2,6 +2,7 @@
   "id": 200,
   "text": "橘猫",
   "icon": "https://i0.hdslb.com/bfs/emote/811abf7c09abb1113bfe3fc00eb41e9630f0e100.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "橘猫_打call",

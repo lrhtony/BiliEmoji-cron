@@ -2,6 +2,7 @@
   "id": 1785,
   "text": "厨房小猫",
   "icon": "https://i0.hdslb.com/bfs/garb/e3267fef5e4cc5c3dc487c873b0a693fc33f8ec6.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "厨房小猫_Hi",

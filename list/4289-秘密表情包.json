@@ -2,6 +2,7 @@
   "id": 4289,
   "text": "秘密表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/7adeafaf69a8ab15d0cb36f2ee8c8a9339fd8d6e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "秘密表情包_sorry",

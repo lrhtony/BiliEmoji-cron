@@ -2,6 +2,7 @@
   "id": 2341,
   "text": "生日邀约·表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/item/2d4624ae036cae56f08b7d0661ec65cfbdc2b2d9.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "生日邀约_比心",

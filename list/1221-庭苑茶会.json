@@ -2,6 +2,7 @@
   "id": 1221,
   "text": "庭苑茶会",
   "icon": "https://i0.hdslb.com/bfs/garb/d3863f6ce0a589506620336bdb158a79de26ac52.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "庭苑茶会_吃鱼",

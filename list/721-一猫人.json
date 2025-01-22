@@ -2,6 +2,7 @@
   "id": 721,
   "text": "一猫人",
   "icon": "https://i0.hdslb.com/bfs/garb/item/512bbca06589ce255e72c7fe97c7a09919601893.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "一猫人_哭泣",

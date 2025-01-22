@@ -2,6 +2,7 @@
   "id": 5451,
   "text": "水面动态表情包",
   "icon": "https://i0.hdslb.com/bfs/emote/d545278c170e40116f9588a63bb6660df49e0edb.png",
+  "resource_type": 1,
   "emote": [
     {
       "text": "场景水面动态表情包_白水面",

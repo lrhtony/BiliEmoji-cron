@@ -2,6 +2,7 @@
   "id": 1896,
   "text": "黑鸦诊疗院",
   "icon": "https://i0.hdslb.com/bfs/garb/dbb74c5f8208f94c352f8a527c0dbc280e5d264f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "黑鸦诊疗院_吃药",

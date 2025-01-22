@@ -2,6 +2,7 @@
   "id": 605,
   "text": "团团猫",
   "icon": "https://i0.hdslb.com/bfs/emote/cd74fb2c142ebffbfc1ff782ec4d3be3494fb6be.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "团团猫_AWSL",

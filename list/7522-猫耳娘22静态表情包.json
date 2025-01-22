@@ -1,0 +1,48 @@
+{
+  "id": 7522,
+  "text": "猫耳娘22静态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/22aff4f4541eb908828dff2fcd1ad2b8d5a31c5c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "猫耳娘22_正面",
+      "url": "https://i0.hdslb.com/bfs/emote/22aff4f4541eb908828dff2fcd1ad2b8d5a31c5c.png"
+    },
+    {
+      "text": "猫耳娘22_好冷",
+      "url": "https://i0.hdslb.com/bfs/emote/0960d3e8b8ffec58c2f854c8704e0672f4013e21.png"
+    },
+    {
+      "text": "猫耳娘22_取暖",
+      "url": "https://i0.hdslb.com/bfs/emote/75d56d07cc6fd093338684cf1c3d325716d93c5b.png"
+    },
+    {
+      "text": "猫耳娘22_抱抱",
+      "url": "https://i0.hdslb.com/bfs/emote/635b99f40733a17974f5492106555722bfdb003d.png"
+    },
+    {
+      "text": "猫耳娘22_傻笑",
+      "url": "https://i0.hdslb.com/bfs/emote/5a8cea024cd6979b804d294cf0c0cf241e64552a.png"
+    },
+    {
+      "text": "猫耳娘22_宕机",
+      "url": "https://i0.hdslb.com/bfs/emote/9d4897a797226a4b05f1544654e078d1d93a3da5.png"
+    },
+    {
+      "text": "猫耳娘22_开心",
+      "url": "https://i0.hdslb.com/bfs/emote/dd00d2d69a854abc448a5d4066a2cfc6b3282c50.png"
+    },
+    {
+      "text": "猫耳娘22_哭泣",
+      "url": "https://i0.hdslb.com/bfs/emote/c5a918c7da451c6269a9e01a077e1422adeaa1ec.png"
+    },
+    {
+      "text": "猫耳娘22_福来了",
+      "url": "https://i0.hdslb.com/bfs/emote/78900c2e43b2da315b073ad3ae12ce450663db11.png"
+    },
+    {
+      "text": "猫耳娘22_放鞭炮",
+      "url": "https://i0.hdslb.com/bfs/emote/8be8e76a3a391039cbd570481e36e03793503c6b.png"
+    }
+  ]
+}

@@ -2,6 +2,7 @@
   "id": 3946,
   "text": "圣诞小狗",
   "icon": "https://i0.hdslb.com/bfs/garb/5d5e77c359731b76e5d38f0bce8ef1bd80b0f875.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "圣诞小狗_打招呼",

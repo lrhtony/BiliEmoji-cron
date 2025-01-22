@@ -2,6 +2,7 @@
   "id": 1796,
   "text": "漂流瓶",
   "icon": "https://i0.hdslb.com/bfs/garb/item/cf98011f507f66e774d6247b1d901e9d60574977.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "漂流瓶_哭了",

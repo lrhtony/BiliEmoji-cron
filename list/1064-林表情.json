@@ -2,6 +2,7 @@
   "id": 1064,
   "text": "林表情",
   "icon": "https://i0.hdslb.com/bfs/garb/28e1bbd9f27668ee53fa68eac2c545d211f0a121.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "林表情_哈哈",

@@ -2,6 +2,7 @@
   "id": 6976,
   "text": "猫猫便当",
   "icon": "https://i0.hdslb.com/bfs/garb/99e4f4ad121e155f8a0e1970f2b19ee4ecb45a32.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "猫猫便当_猫猫探头",

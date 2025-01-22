@@ -2,6 +2,7 @@
   "id": 3810,
   "text": "小白狗",
   "icon": "https://i0.hdslb.com/bfs/garb/c87fac25c8588a1ef16bd05e82f3bbdcd7a5ddf7.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小白狗_嗨",

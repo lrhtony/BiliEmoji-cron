@@ -2,6 +2,7 @@
   "id": 1433,
   "text": "小黑猫",
   "icon": "https://i0.hdslb.com/bfs/garb/97406b7388ea34c35f3cec348bc2ff976b185230.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小黑猫_不行",

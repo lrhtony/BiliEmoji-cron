@@ -2,6 +2,7 @@
   "id": 5115,
   "text": "轮回之息",
   "icon": "https://i0.hdslb.com/bfs/emote/5318699d8db516e89b72b1cbcadef502bcb40f56.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "轮回之息_时光倒流",

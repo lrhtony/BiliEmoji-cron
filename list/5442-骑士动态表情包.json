@@ -2,6 +2,7 @@
   "id": 5442,
   "text": "骑士动态表情包",
   "icon": "https://i0.hdslb.com/bfs/emote/b703ffa49e10ff08cf25c1567444eb71e5c63461.png",
+  "resource_type": 1,
   "emote": [
     {
       "text": "骑士动态表情包_输出",

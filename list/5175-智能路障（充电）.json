@@ -2,6 +2,7 @@
   "id": 5175,
   "text": "智能路障（充电）",
   "icon": "https://i0.hdslb.com/bfs/garb/d3cb09151f7064491f570e9db1b51f14ac7a4001.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "UPOWER_79577853_我觉得OK",

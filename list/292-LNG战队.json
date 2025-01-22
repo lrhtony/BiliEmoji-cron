@@ -2,6 +2,7 @@
   "id": 292,
   "text": "LNG战队",
   "icon": "https://i0.hdslb.com/bfs/emote/bbd4913f9b01b0f612b927e157598cbff6dd460f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "LNG_666",

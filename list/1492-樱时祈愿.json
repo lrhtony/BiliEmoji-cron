@@ -2,6 +2,7 @@
   "id": 1492,
   "text": "樱时祈愿",
   "icon": "https://i0.hdslb.com/bfs/garb/item/0279770e5ebd41b0dd56e625d8b91f58bd43b802.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "樱时祈愿_半遮面",

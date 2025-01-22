@@ -2,6 +2,7 @@
   "id": 14,
   "text": "冷兔",
   "icon": "https://i0.hdslb.com/bfs/emote/d6a7bfcb2d74601f27ff90e4ee6cfaaebd6be186.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "冷兔_吃瓜",

@@ -2,6 +2,7 @@
   "id": 3500,
   "text": "啤酒鸦",
   "icon": "https://i0.hdslb.com/bfs/garb/414eba2b9d0a38fa83bdf419b89b8355bb32bcf2.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "啤酒鸦_喝茶",

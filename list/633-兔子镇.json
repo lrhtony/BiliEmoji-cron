@@ -2,6 +2,7 @@
   "id": 633,
   "text": "兔子镇",
   "icon": "https://i0.hdslb.com/bfs/garb/item/93b691b6607d2c34a5abe44ce7efd90ca28a5e43.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "兔子镇_哈喽",

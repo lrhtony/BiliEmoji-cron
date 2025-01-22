@@ -2,6 +2,7 @@
   "id": 1200,
   "text": "元気鲨鱼少女",
   "icon": "https://i0.hdslb.com/bfs/garb/cc6cca2da8b4c6c1b1972d2ad786d132b6cdd53d.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "元気鲨鱼少女_报警",

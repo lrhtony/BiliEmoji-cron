@@ -2,6 +2,7 @@
   "id": 2044,
   "text": "小猫乐园",
   "icon": "https://i0.hdslb.com/bfs/garb/0a8e936e42c9a67fecc89255ea3baa1d2570d1cd.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小猫乐园_晕晕",

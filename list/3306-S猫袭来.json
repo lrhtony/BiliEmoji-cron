@@ -2,6 +2,7 @@
   "id": 3306,
   "text": "S猫袭来",
   "icon": "https://i0.hdslb.com/bfs/garb/24e7d55b790c4a0cba9e79dff58ad00ef6888b63.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "S猫袭来_灵魂猫头",

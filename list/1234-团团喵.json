@@ -2,6 +2,7 @@
   "id": 1234,
   "text": "团团喵",
   "icon": "https://i0.hdslb.com/bfs/garb/242e56d208868bed6940b8f6e52bc610197b3489.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "团团喵_比心",

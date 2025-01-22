@@ -2,6 +2,7 @@
   "id": 331,
   "text": "花花雪精灵",
   "icon": "https://i0.hdslb.com/bfs/emote/1b15f8201c6a787c90ba04fbb2841660c903f515.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "花花雪精灵_被击中",

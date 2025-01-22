@@ -2,6 +2,7 @@
   "id": 1142,
   "text": "兔克-表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/f76b3cb4ca41a8c223922d4dfbada1aeb3164f37.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "兔克-表情包_走鸭",

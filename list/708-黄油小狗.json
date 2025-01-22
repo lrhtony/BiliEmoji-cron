@@ -2,6 +2,7 @@
   "id": 708,
   "text": "黄油小狗",
   "icon": "https://i0.hdslb.com/bfs/garb/item/e01c6b5deda86221db06eb85c05cb62323979955.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "黄油小狗_禁止",

@@ -2,6 +2,7 @@
   "id": 4776,
   "text": "汉堡便当",
   "icon": "https://i0.hdslb.com/bfs/garb/670f34e645790acee837592dd0a6af791d4b5d76.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "汉堡便当_开心",

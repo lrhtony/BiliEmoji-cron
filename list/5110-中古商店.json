@@ -2,6 +2,7 @@
   "id": 5110,
   "text": "中古商店",
   "icon": "https://i0.hdslb.com/bfs/emote/1aee9c2af415390597860a4c98f392f0701f90d3.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "中古商店_好东西",

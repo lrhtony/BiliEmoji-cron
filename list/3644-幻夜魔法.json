@@ -2,6 +2,7 @@
   "id": 3644,
   "text": "幻夜魔法",
   "icon": "https://i0.hdslb.com/bfs/garb/item/4341492f623cc1c05495381dfbfbbeff46b28937.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "幻夜魔法_月隐空夜干杯",

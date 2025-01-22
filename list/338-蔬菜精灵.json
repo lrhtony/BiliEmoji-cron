@@ -2,6 +2,7 @@
   "id": 338,
   "text": "蔬菜精灵",
   "icon": "https://i0.hdslb.com/bfs/emote/2dc2b2b446c5fda0cf7cd980b6c7f245a09692c3.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "蔬菜精灵_em",

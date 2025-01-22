@@ -2,6 +2,7 @@
   "id": 4017,
   "text": "恩骨",
   "icon": "https://i0.hdslb.com/bfs/garb/43dc04d60313fe68572b9dd3367d1b34c4d8067f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "恩骨_run了！",

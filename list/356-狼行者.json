@@ -2,6 +2,7 @@
   "id": 356,
   "text": "狼行者",
   "icon": "https://i0.hdslb.com/bfs/emote/7af75e4aa5e8a9920310d5fd0ce92c507808fca0.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "狼行者_暗中观察",

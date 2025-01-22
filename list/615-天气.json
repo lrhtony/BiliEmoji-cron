@@ -2,6 +2,7 @@
   "id": 615,
   "text": "天气",
   "icon": "https://i0.hdslb.com/bfs/emote/e55dca771a247730ccb51945ec80d9dec92d04e4.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "天气_不想起床",

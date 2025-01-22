@@ -2,6 +2,7 @@
   "id": 5447,
   "text": "血量动态表情包",
   "icon": "https://i0.hdslb.com/bfs/emote/454cda4e14ee3fa97279b2f7742f7adc9a5b773c.png",
+  "resource_type": 1,
   "emote": [
     {
       "text": "血量动态表情包_10血",

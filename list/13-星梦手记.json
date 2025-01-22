@@ -2,6 +2,7 @@
   "id": 13,
   "text": "星梦手记",
   "icon": "https://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "星梦手记_吃瓜",

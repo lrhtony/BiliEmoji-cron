@@ -2,6 +2,7 @@
   "id": 802,
   "text": "Tingus",
   "icon": "https://i0.hdslb.com/bfs/garb/item/5969280910ffa16e7b5c9fc26c2bfcd8fad07219.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Tingus_Victoria",

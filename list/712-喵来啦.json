@@ -2,6 +2,7 @@
   "id": 712,
   "text": "喵来啦",
   "icon": "https://i0.hdslb.com/bfs/garb/item/00c6e709bbe4b22d64cf24cc593aa29ec2c85b0a.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "喵来啦_害羞羞",

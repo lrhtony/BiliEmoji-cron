@@ -2,6 +2,7 @@
   "id": 284,
   "text": "星座特典",
   "icon": "https://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "星座特典_惩罚",

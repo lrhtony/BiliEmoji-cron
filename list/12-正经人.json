@@ -2,6 +2,7 @@
   "id": 12,
   "text": "正经人",
   "icon": "https://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "正经人_欢呼",

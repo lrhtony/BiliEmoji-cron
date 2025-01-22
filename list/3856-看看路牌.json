@@ -2,6 +2,7 @@
   "id": 3856,
   "text": "看看路牌",
   "icon": "https://i0.hdslb.com/bfs/garb/a5431e1f3cc68e8dd3dee8b74067ff8b63a1a957.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "看看路牌_点了",

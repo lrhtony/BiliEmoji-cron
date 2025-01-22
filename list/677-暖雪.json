@@ -2,6 +2,7 @@
   "id": 677,
   "text": "暖雪",
   "icon": "https://i0.hdslb.com/bfs/garb/item/00b234db96c925f7d1cc98f3ff9eca78bc3d6d28.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "暖雪_出手",

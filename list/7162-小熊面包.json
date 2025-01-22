@@ -2,6 +2,7 @@
   "id": 7162,
   "text": "小熊面包",
   "icon": "https://i0.hdslb.com/bfs/garb/b2dc8cc80ac200feb7c4ef9554d792d97a3e23b7.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小熊面包_熊熊举杯",

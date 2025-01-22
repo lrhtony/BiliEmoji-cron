@@ -2,6 +2,7 @@
   "id": 6973,
   "text": "阿伟优创动画（充电）",
   "icon": "https://i0.hdslb.com/bfs/garb/d4bb471d04113bb873ca35e28d40fd5c9fc8fdd2.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "UPOWER_51903809_保持微笑",
@@ -48,20 +49,12 @@
       "url": "https://i0.hdslb.com/bfs/garb/a016ba4dbe67a86c696e61b63d63520ebedb38b4.png"
     },
     {
-      "text": "UPOWER_51903809_嘻嘻",
-      "url": "https://i0.hdslb.com/bfs/garb/c66db5af39e5f8bf3f1e6cb91c2926efcc48d6fb.png"
-    },
-    {
       "text": "UPOWER_51903809_啊",
       "url": "https://i0.hdslb.com/bfs/garb/707049c8f79984d7775a378ccce4cd5898a93d5f.png"
     },
     {
       "text": "UPOWER_51903809_难受",
       "url": "https://i0.hdslb.com/bfs/garb/9d2f4255f2cc4aaa48c24f0e9d102a84fed9ce95.png"
-    },
-    {
-      "text": "UPOWER_51903809_爱了",
-      "url": "https://i0.hdslb.com/bfs/garb/6a25a9d696c993e33bb786e19c6ea4e5c1914cb2.png"
     },
     {
       "text": "UPOWER_51903809_来",

@@ -2,6 +2,7 @@
   "id": 271,
   "text": "星座系列：处女座",
   "icon": "https://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "处女座_nice",

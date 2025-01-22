@@ -2,6 +2,7 @@
   "id": 1110,
   "text": "怂木猫舍",
   "icon": "https://i0.hdslb.com/bfs/garb/6e293488bc93b9b2c61a2a6aa93b31466555b473.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "怂木猫舍_Hi",

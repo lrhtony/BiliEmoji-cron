@@ -2,6 +2,7 @@
   "id": 2183,
   "text": "茂之森",
   "icon": "https://i0.hdslb.com/bfs/garb/7000dcff426c9cd3ead816b2fba102d73c51542b.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "茂之森_大拇指",

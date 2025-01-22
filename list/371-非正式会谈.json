@@ -2,6 +2,7 @@
   "id": 371,
   "text": "非正式会谈",
   "icon": "https://i0.hdslb.com/bfs/emote/b7e890acc0811ee7422b62ee374d087083b2cbf4.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "非正式会谈_nice",

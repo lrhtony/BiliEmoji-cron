@@ -2,6 +2,7 @@
   "id": 1710,
   "text": "狮子王",
   "icon": "https://i0.hdslb.com/bfs/emote/d00c8ee04e51d3e788bb7cb3fda8ed09b1820409.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "狮子王_趴",

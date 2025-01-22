@@ -2,6 +2,7 @@
   "id": 705,
   "text": "扇宝",
   "icon": "https://i0.hdslb.com/bfs/garb/item/d8749425c2f24ba162441522112309a7dc580b83.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "扇宝_圣诞卡祖笛",

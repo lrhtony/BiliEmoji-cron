@@ -2,6 +2,7 @@
   "id": 7106,
   "text": "猫猫今日菜单",
   "icon": "https://i0.hdslb.com/bfs/garb/4b54d257cfe923daefd5f04b0403bbfc31d5429f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "猫猫今日菜单_料理鼠王",

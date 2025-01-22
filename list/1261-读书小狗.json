@@ -2,6 +2,7 @@
   "id": 1261,
   "text": "读书小狗",
   "icon": "https://i0.hdslb.com/bfs/garb/d629f96e97ea42ea431010194438c69ce5f1977a.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "读书小狗_警告",

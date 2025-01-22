@@ -2,6 +2,7 @@
   "id": 198,
   "text": "春游",
   "icon": "https://i0.hdslb.com/bfs/emote/71f3a9d016561ad60e4230f5032d4953f5b48816.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "春游_春眠",

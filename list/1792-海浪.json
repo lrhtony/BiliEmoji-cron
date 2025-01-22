@@ -2,6 +2,7 @@
   "id": 1792,
   "text": "海浪",
   "icon": "https://i0.hdslb.com/bfs/garb/item/9161da74a355c7b171a4034cba3ae31350996a0a.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "海浪_走啦",

@@ -2,6 +2,7 @@
   "id": 1645,
   "text": "猫猫日记",
   "icon": "https://i0.hdslb.com/bfs/garb/66d747d871d2270bd787f4173265b7fe94a21d7c.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "猫猫日记_疑惑",

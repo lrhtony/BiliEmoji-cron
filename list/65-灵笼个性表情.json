@@ -2,6 +2,7 @@
   "id": 65,
   "text": "灵笼个性表情",
   "icon": "https://i0.hdslb.com/bfs/emote/715b2887c53040e32debca29bc30b0db27c86730.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "个性灵笼_暗中观察",

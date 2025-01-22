@@ -2,6 +2,7 @@
   "id": 283,
   "text": "EveOneCat2",
   "icon": "https://i0.hdslb.com/bfs/emote/c3c09c8129af271e87323329827a993e8a8ec9eb.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Cat2_FallInto!",

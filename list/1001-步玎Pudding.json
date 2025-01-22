@@ -2,6 +2,7 @@
   "id": 1001,
   "text": "步玎Pudding",
   "icon": "https://i0.hdslb.com/bfs/garb/019d2d6171099731fd4c467ab08bffcc8a1aae4c.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "步玎Pudding_赞",

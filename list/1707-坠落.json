@@ -2,6 +2,7 @@
   "id": 1707,
   "text": "坠落",
   "icon": "https://i0.hdslb.com/bfs/garb/5d89bd254dc22e7e266e19b5b8302ac22389ace7.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "坠落_athlete",

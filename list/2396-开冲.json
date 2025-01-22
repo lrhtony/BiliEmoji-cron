@@ -2,6 +2,7 @@
   "id": 2396,
   "text": "开冲",
   "icon": "https://i0.hdslb.com/bfs/garb/d3045c766153f829ce2e4db9481080b18c471f5f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "开冲_下方向键",

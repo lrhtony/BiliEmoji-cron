@@ -2,6 +2,7 @@
   "id": 7127,
   "text": "魔法庆典",
   "icon": "https://i0.hdslb.com/bfs/garb/66cdb1d70d378db0f589c74adcae3e31150e2a34.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "魔法庆典_虾头",

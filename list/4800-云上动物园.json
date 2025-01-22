@@ -2,6 +2,7 @@
   "id": 4800,
   "text": "云上动物园",
   "icon": "https://i0.hdslb.com/bfs/garb/bb09718fe70d7fb42201348cdce07564b1465d18.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "云上动物园_大熊猫",

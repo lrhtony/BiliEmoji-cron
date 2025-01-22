@@ -2,6 +2,7 @@
   "id": 301,
   "text": "仙王",
   "icon": "https://i0.hdslb.com/bfs/emote/c336278c8df84a5574fe02a526e8548a91fe61e3.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "仙王_salute",

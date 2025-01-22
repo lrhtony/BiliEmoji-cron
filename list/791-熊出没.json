@@ -2,6 +2,7 @@
   "id": 791,
   "text": "熊出没",
   "icon": "https://i0.hdslb.com/bfs/garb/item/00ba1a3665b51ecb68fb0ce93015bc0a9f0634ff.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "熊出没_团聚",

@@ -2,6 +2,7 @@
   "id": 703,
   "text": "小矛动物园",
   "icon": "https://i0.hdslb.com/bfs/emote/95a069de2180e121bd64fcd1c7a3f4b5db14426a.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小矛动物园_no",

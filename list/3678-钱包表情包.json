@@ -2,6 +2,7 @@
   "id": 3678,
   "text": "钱包表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/5c1de4558d3e9339ef777aa96af971332d4c157b.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "钱包表情包_钱包",

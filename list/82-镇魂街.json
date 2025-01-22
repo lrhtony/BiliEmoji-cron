@@ -2,6 +2,7 @@
   "id": 82,
   "text": "镇魂街",
   "icon": "https://i0.hdslb.com/bfs/emote/a64e071a235a1b70e8345c0da6f343c0ab1b7f18.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "镇魂街_给我康康",

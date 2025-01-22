@@ -2,6 +2,7 @@
   "id": 726,
   "text": "面具古墓",
   "icon": "https://i0.hdslb.com/bfs/emote/cb4e3289ff203d99ac309c17a3443f90c0a5fab0.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "面具古墓_大笑",

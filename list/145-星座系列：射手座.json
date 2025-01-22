@@ -2,6 +2,7 @@
   "id": 145,
   "text": "星座系列：射手座",
   "icon": "https://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "射手座_好家伙",

@@ -2,6 +2,7 @@
   "id": 5701,
   "text": "地球online",
   "icon": "https://i0.hdslb.com/bfs/garb/aab5b28213f493259a95ffb43f51fdc825398094.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "地球online_逃离地球",

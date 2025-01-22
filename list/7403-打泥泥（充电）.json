@@ -2,6 +2,7 @@
   "id": 7403,
   "text": "打泥泥（充电）",
   "icon": "https://i0.hdslb.com/bfs/garb/f4759e319a67293b5ebacec1072d1a74b72556b1.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "UPOWER_357229416_成功",

@@ -2,6 +2,7 @@
   "id": 1198,
   "text": "领结猫",
   "icon": "https://i0.hdslb.com/bfs/garb/669658a891ff4aa9f93b3ffb6814bd9bbc3482b5.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "领结猫_先辈大叫",

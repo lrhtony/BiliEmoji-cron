@@ -2,6 +2,7 @@
   "id": 3847,
   "text": "Sonny表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/item/031552b715de14184d308785aec36518480d7ec2.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Sonny_GN",

@@ -2,6 +2,7 @@
   "id": 289,
   "text": "RNG战队",
   "icon": "https://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "RNG_出征",

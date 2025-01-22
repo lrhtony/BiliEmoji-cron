@@ -2,6 +2,7 @@
   "id": 20,
   "text": "狐妖",
   "icon": "https://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "狐妖_不服憋着",

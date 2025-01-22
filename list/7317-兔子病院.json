@@ -2,6 +2,7 @@
   "id": 7317,
   "text": "兔子病院",
   "icon": "https://i0.hdslb.com/bfs/garb/625359b5ec4d4fa3e352915527311dcb62a7f205.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "兔子病院_护士天使",

@@ -2,6 +2,7 @@
   "id": 2247,
   "text": "水果动物园",
   "icon": "https://i0.hdslb.com/bfs/garb/item/443f26e030b8c80e61f995daed72534c24a5daaf.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "水果动物园_尴尬",

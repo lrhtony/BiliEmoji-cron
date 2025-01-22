@@ -2,6 +2,7 @@
   "id": 1735,
   "text": "花园茶会",
   "icon": "https://i0.hdslb.com/bfs/garb/c69e8c013ead44633387637f0a3576a500e597c0.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "花园茶会_开动啦",

@@ -2,6 +2,7 @@
   "id": 3815,
   "text": "异世士兵",
   "icon": "https://i0.hdslb.com/bfs/emote/0b11b1139fd331d3e973af13f14f41abfe8719cc.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "异世士兵_暗中观察",

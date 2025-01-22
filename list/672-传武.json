@@ -2,6 +2,7 @@
   "id": 672,
   "text": "传武",
   "icon": "https://i0.hdslb.com/bfs/garb/item/949741966e2415db7631e01bb5a8eceb3c2e5b6d.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "传武_切～",

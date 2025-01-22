@@ -2,6 +2,7 @@
   "id": 1794,
   "text": "海鸥",
   "icon": "https://i0.hdslb.com/bfs/garb/item/c61c1399b7edfd2322a22db238f26039152cb2a0.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "海鸥_停留",

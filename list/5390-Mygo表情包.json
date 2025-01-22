@@ -2,6 +2,7 @@
   "id": 5390,
   "text": "Mygo表情包",
   "icon": "https://i0.hdslb.com/bfs/garb/item/418ef6dc860aad096331b15e57b0c3ba1514e242.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "Mygo表情包_害羞",

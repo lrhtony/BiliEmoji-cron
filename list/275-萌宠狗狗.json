@@ -2,6 +2,7 @@
   "id": 275,
   "text": "萌宠狗狗",
   "icon": "https://i0.hdslb.com/bfs/emote/0adacd44811aa3f1b23c012e37b6f86ee85e045a.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "萌宠狗狗_666",

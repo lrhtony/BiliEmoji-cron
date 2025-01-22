@@ -2,6 +2,7 @@
   "id": 1618,
   "text": "唐老鸭",
   "icon": "https://i0.hdslb.com/bfs/emote/4dce79be5e7bdd33005afcaae5417965541c3ed5.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "唐老鸭_走咯",

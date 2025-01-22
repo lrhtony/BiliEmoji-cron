@@ -2,6 +2,7 @@
   "id": 700,
   "text": "阿狸",
   "icon": "https://i0.hdslb.com/bfs/emote/d495a0f65e4f9540022d7c7a1675dcf8cc46a379.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "阿狸_啊",

@@ -2,6 +2,7 @@
   "id": 565,
   "text": "小鲨鱼",
   "icon": "https://i0.hdslb.com/bfs/emote/bc2d6a1360a173904ee0dfe401340bcc4f3472f5.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "小鲨鱼_大哭",

@@ -2,6 +2,7 @@
   "id": 5277,
   "text": "该用户已注销",
   "icon": "https://i0.hdslb.com/bfs/garb/33fab1e6b1530702576c16974447f439bfbbe12e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "该用户已注销_离线状态",

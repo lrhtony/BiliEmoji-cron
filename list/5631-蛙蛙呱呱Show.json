@@ -2,6 +2,7 @@
   "id": 5631,
   "text": "蛙蛙呱呱Show",
   "icon": "https://i0.hdslb.com/bfs/garb/3255ccc700a4f9584b0bed53cc08d40a43ad0c17.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "蛙蛙呱呱Show_打Call",

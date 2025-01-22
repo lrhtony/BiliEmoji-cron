@@ -2,6 +2,7 @@
   "id": 4134,
   "text": "吃货白羊",
   "icon": "https://i0.hdslb.com/bfs/garb/dd67a8c5188c3aecdd2540f11502866cf3b5fdf4.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "吃货白羊_下饭",

@@ -2,6 +2,7 @@
   "id": 103,
   "text": "BML云LIVE",
   "icon": "https://i0.hdslb.com/bfs/emote/4013bff38f25ae7eb4f715f910661131bd956abb.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "BML云live_打call",

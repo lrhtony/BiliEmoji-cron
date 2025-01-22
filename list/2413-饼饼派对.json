@@ -2,6 +2,7 @@
   "id": 2413,
   "text": "饼饼派对",
   "icon": "https://i0.hdslb.com/bfs/garb/7ba7e92580cb7baebff250ca152010d1f73c2048.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "饼饼派对_SOS",

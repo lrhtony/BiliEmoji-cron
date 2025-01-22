@@ -2,6 +2,7 @@
   "id": 1610,
   "text": "蓝色小羊",
   "icon": "https://i0.hdslb.com/bfs/garb/28f832569b3f40a1674ca45656d123e7e40d2b2f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "蓝色小羊_赌气",

@@ -2,6 +2,7 @@
   "id": 1936,
   "text": "面包房小狗",
   "icon": "https://i0.hdslb.com/bfs/garb/774bf0c7cfedb6d998945b542224980b2ead8995.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "面包房小狗_打call",

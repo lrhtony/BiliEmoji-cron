@@ -2,6 +2,7 @@
   "id": 1745,
   "text": "又一充电中",
   "icon": "https://i0.hdslb.com/bfs/garb/0b5404947716cfb58f9d438f3a857e8388ec87a7.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "又一充电中_知道了",

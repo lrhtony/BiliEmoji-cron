@@ -2,6 +2,7 @@
   "id": 641,
   "text": "猫咪公寓",
   "icon": "https://i0.hdslb.com/bfs/garb/item/18080247d1620f5953a628b7b51e1745a4e9d2eb.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "猫咪公寓_我太难了",

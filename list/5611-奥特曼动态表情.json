@@ -2,6 +2,7 @@
   "id": 5611,
   "text": "奥特曼动态表情",
   "icon": "https://i0.hdslb.com/bfs/emote/1564bbed4c2f2a37c2d8aaad99cc4304e257cc83.png",
+  "resource_type": 1,
   "emote": [
     {
       "text": "奥特曼动态表情_smile",

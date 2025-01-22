@@ -2,6 +2,7 @@
   "id": 7475,
   "text": "森林商店",
   "icon": "https://i0.hdslb.com/bfs/garb/5e6b7105162a9e4b1ff9c52c05245f57c29a3c61.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "森林商店_送花",

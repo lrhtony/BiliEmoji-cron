@@ -2,6 +2,7 @@
   "id": 4555,
   "text": "旅行日记1",
   "icon": "https://i0.hdslb.com/bfs/garb/7d082b553eaf06d181764dd0822aa3ef165f3925.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "旅行日记1_启动",

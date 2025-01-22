@@ -2,6 +2,7 @@
   "id": 989,
   "text": "红晓音",
   "icon": "https://i0.hdslb.com/bfs/garb/2afcf64bc1a745d7280c02ef4cafe770f41b4aa9.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "红晓音_call",

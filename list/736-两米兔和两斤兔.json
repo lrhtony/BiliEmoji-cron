@@ -2,6 +2,7 @@
   "id": 736,
   "text": "两米兔和两斤兔",
   "icon": "https://i0.hdslb.com/bfs/garb/item/7110159962339ca255bd52d7c6bc250258809546.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "两米兔和两斤兔_走了",

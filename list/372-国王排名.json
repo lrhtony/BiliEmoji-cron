@@ -2,6 +2,7 @@
   "id": 372,
   "text": "国王排名",
   "icon": "https://i0.hdslb.com/bfs/emote/173d133ca6629c85a425e12b48109fa0108db5d2.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "国王排名_告辞",

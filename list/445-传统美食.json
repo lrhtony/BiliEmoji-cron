@@ -2,6 +2,7 @@
   "id": 445,
   "text": "传统美食",
   "icon": "https://i0.hdslb.com/bfs/emote/3504558c81a77272668563cce37a9bcc992d7c07.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "传统美食_八宝饭",

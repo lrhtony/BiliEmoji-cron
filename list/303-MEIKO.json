@@ -2,6 +2,7 @@
   "id": 303,
   "text": "MEIKO",
   "icon": "https://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "MEIKO_Hi",

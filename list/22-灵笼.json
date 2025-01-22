@@ -2,6 +2,7 @@
   "id": 22,
   "text": "灵笼",
   "icon": "https://i0.hdslb.com/bfs/emote/d70f80c8a0af74726d8e08dca88849cd259eb61a.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "灵笼_鄙视",

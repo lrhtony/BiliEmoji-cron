@@ -2,6 +2,7 @@
   "id": 2028,
   "text": "行星物语·地球",
   "icon": "https://i0.hdslb.com/bfs/garb/9cc79d93ab00977e6fd2e416cd9db853b7eee13b.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "行星物语·地球_自转",

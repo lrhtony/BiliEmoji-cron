@@ -2,6 +2,7 @@
   "id": 156,
   "text": "魔兽世界·暗影国度",
   "icon": "https://i0.hdslb.com/bfs/emote/85d1dad50d8b818ba37f6b5570f4da70f8398f1f.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "暗影国度_成功入水",

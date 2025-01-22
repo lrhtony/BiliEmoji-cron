@@ -2,6 +2,7 @@
   "id": 100,
   "text": "BW2020",
   "icon": "https://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "BW2020_欢迎",

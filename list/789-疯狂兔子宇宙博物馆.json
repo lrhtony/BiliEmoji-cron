@@ -2,6 +2,7 @@
   "id": 789,
   "text": "疯狂兔子宇宙博物馆",
   "icon": "https://i0.hdslb.com/bfs/emote/ad7f22da1d1b6a8e4f35cf2f8248f5f9b3b8a816.png",
+  "resource_type": 0,
   "emote": [
     {
       "text": "疯狂兔子宇宙博物馆_快跑",
