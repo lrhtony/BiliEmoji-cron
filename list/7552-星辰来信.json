@@ -1,0 +1,68 @@
+{
+  "id": 7552,
+  "text": "星辰来信",
+  "icon": "https://i0.hdslb.com/bfs/garb/d9c7ffbbe8722d2edf29b6b83cccb7643806ab08.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "星辰来信_魔法镜",
+      "url": "https://i0.hdslb.com/bfs/garb/db1a9d641877528813027e5b710bb658a7549bf0.png"
+    },
+    {
+      "text": "星辰来信_魔法鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/ca566251e8c8081c811a9239316b204a3fe066cf.png"
+    },
+    {
+      "text": "星辰来信_蛋糕",
+      "url": "https://i0.hdslb.com/bfs/garb/aee60b87062ac415e3e55a276ca2ca26a07e4a6b.png"
+    },
+    {
+      "text": "星辰来信_烟花",
+      "url": "https://i0.hdslb.com/bfs/garb/fe6bcc1ff0f23d2d0c6abb98143673191b7d3925.png"
+    },
+    {
+      "text": "星辰来信_便签",
+      "url": "https://i0.hdslb.com/bfs/garb/0d43ab057ebea367ce4c934c72255c021524ec69.png"
+    },
+    {
+      "text": "星辰来信_许愿瓶",
+      "url": "https://i0.hdslb.com/bfs/garb/ba915922306d24c6f25e9fb31e0ab4e1dc0ab6aa.png"
+    },
+    {
+      "text": "星辰来信_俏皮",
+      "url": "https://i0.hdslb.com/bfs/garb/4c8520428b4a2893493fbb815cf52a0acf6011a9.png"
+    },
+    {
+      "text": "星辰来信_小熊",
+      "url": "https://i0.hdslb.com/bfs/garb/3f0ab1f9ff02f05b0efda0d5512fbe352e5512be.png"
+    },
+    {
+      "text": "星辰来信_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/a1906821420cbc86385707ea5cff921598ee0ab3.png"
+    },
+    {
+      "text": "星辰来信_信封",
+      "url": "https://i0.hdslb.com/bfs/garb/eda976b3fdda4f1cf4b96a737f7158b8252cf974.png"
+    },
+    {
+      "text": "星辰来信_梦幻",
+      "url": "https://i0.hdslb.com/bfs/garb/39d75df438623387dc48c2da9d7855a5b323769a.png"
+    },
+    {
+      "text": "星辰来信_祝你好梦",
+      "url": "https://i0.hdslb.com/bfs/garb/a2d63e855d3c1d344f687734a43cc733b4438037.png"
+    },
+    {
+      "text": "星辰来信_露营",
+      "url": "https://i0.hdslb.com/bfs/garb/87aed45910f8733beba79e85617babc28ba2bcbb.png"
+    },
+    {
+      "text": "星辰来信_可爱小熊",
+      "url": "https://i0.hdslb.com/bfs/garb/057cc2a889e634d9aee5413fb0aa34e3973a37d7.png"
+    },
+    {
+      "text": "星辰来信_贴纸",
+      "url": "https://i0.hdslb.com/bfs/garb/a52679f0644f6e78299862089872ae9a79f2f6e4.png"
+    }
+  ]
+}
