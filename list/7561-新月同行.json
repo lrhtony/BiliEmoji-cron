@@ -1,0 +1,88 @@
+{
+  "id": 7561,
+  "text": "新月同行",
+  "icon": "https://i0.hdslb.com/bfs/garb/c9f41bd06c701340049847601d17a02e699ec413.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "新月同行_沉默",
+      "url": "https://i0.hdslb.com/bfs/garb/c799eb5c614f024fd88021ae4b6b2d36d30882cf.png"
+    },
+    {
+      "text": "新月同行_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/1077368121bc291ea92b80deeda0b965163eca68.png"
+    },
+    {
+      "text": "新月同行_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/03663468302254f47d42ef506380d98a79aba36b.png"
+    },
+    {
+      "text": "新月同行_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/a9086830719d706ebcf535dd42f2c7b40ddb4ad6.png"
+    },
+    {
+      "text": "新月同行_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/ceeff113ae619e039c4e08666b980e3e8477d9b7.png"
+    },
+    {
+      "text": "新月同行_测量",
+      "url": "https://i0.hdslb.com/bfs/garb/7e7a77718b7b52f61eb618e0c44e6fbae7b7d31e.png"
+    },
+    {
+      "text": "新月同行_工作",
+      "url": "https://i0.hdslb.com/bfs/garb/105bd026c82afec5c2e16a0ffe83eb74176ed07a.png"
+    },
+    {
+      "text": "新月同行_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/b0778bad0e89795eab0c2510627edf65ebb1b7ea.png"
+    },
+    {
+      "text": "新月同行_崩溃",
+      "url": "https://i0.hdslb.com/bfs/garb/2179147f19ec262ea1ff962428a30f6e2fbaa867.png"
+    },
+    {
+      "text": "新月同行_趁手",
+      "url": "https://i0.hdslb.com/bfs/garb/d0570e4794096f47ab830a3c7fe8ea94603a18c9.png"
+    },
+    {
+      "text": "新月同行_饭",
+      "url": "https://i0.hdslb.com/bfs/garb/a205fd8c5db24ca85dd056997fbc17a87be4c169.png"
+    },
+    {
+      "text": "新月同行_穷",
+      "url": "https://i0.hdslb.com/bfs/garb/b15aed73e27365fd4f9b9f11b83d496e51bef828.png"
+    },
+    {
+      "text": "新月同行_咖啡",
+      "url": "https://i0.hdslb.com/bfs/garb/8284b29f0a73fbcb21d4be68cd11b66161804182.png"
+    },
+    {
+      "text": "新月同行_困",
+      "url": "https://i0.hdslb.com/bfs/garb/025b0656bfefd97298d178b8ff3b872671053d27.png"
+    },
+    {
+      "text": "新月同行_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/e19abab12e68ab4f37a411bfbc11ab0ef9ebdcbf.png"
+    },
+    {
+      "text": "新月同行_微笑",
+      "url": "https://i0.hdslb.com/bfs/garb/24da5cd334a80e88803eff0371673bde9042045b.png"
+    },
+    {
+      "text": "新月同行_富",
+      "url": "https://i0.hdslb.com/bfs/garb/6cbf89d26f96a47dfeefaf74a5034b4d098222bb.png"
+    },
+    {
+      "text": "新月同行_慌张",
+      "url": "https://i0.hdslb.com/bfs/garb/c510643b54e60b4597bd9f938ba03bbee23f09c9.png"
+    },
+    {
+      "text": "新月同行_羞涩",
+      "url": "https://i0.hdslb.com/bfs/garb/78068b29e42e0aa22da8d2756fa4ad6df0b8236e.png"
+    },
+    {
+      "text": "新月同行_让我看看",
+      "url": "https://i0.hdslb.com/bfs/garb/3372ece297bf056121bff401e8a2062d95a3b2b5.png"
+    }
+  ]
+}
