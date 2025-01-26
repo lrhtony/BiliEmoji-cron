@@ -1,0 +1,68 @@
+{
+  "id": 7594,
+  "text": "云朵耶小兔",
+  "icon": "https://i0.hdslb.com/bfs/garb/b8505a579ad7e55236abdf183a4844ab448f05a7.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "云朵耶小兔_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/d9db0967a290dd1ce94e99c482bfb9c002708f80.png"
+    },
+    {
+      "text": "云朵耶小兔_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/cd25832092ba734da0ccc8e60a852f846da8b481.png"
+    },
+    {
+      "text": "云朵耶小兔_好嘟",
+      "url": "https://i0.hdslb.com/bfs/garb/dbea83a267ac27bd1820b8ec05db1734d7104149.png"
+    },
+    {
+      "text": "云朵耶小兔_再见",
+      "url": "https://i0.hdslb.com/bfs/garb/99c446917dae7b0c174512e0b195254caeeba8a0.png"
+    },
+    {
+      "text": "云朵耶小兔_我不",
+      "url": "https://i0.hdslb.com/bfs/garb/0d4811aa25d27356b10c9728129e1f856f8eaa66.png"
+    },
+    {
+      "text": "云朵耶小兔_来咯",
+      "url": "https://i0.hdslb.com/bfs/garb/259ff169de85089c51851fa0d71f8e510bec60dc.png"
+    },
+    {
+      "text": "云朵耶小兔_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/6b297724c2406726797a9f8f34dd3da993437a82.png"
+    },
+    {
+      "text": "云朵耶小兔_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/fd10620716a581bcfa5f6b7b989d7f80e4db67c9.png"
+    },
+    {
+      "text": "云朵耶小兔_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/3352de5f99db97b801c773241c185876f7a95f61.png"
+    },
+    {
+      "text": "云朵耶小兔_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/e38ef69b533773bee8d2b49ecdffd42532a1f0f7.png"
+    },
+    {
+      "text": "云朵耶小兔_谢谢",
+      "url": "https://i0.hdslb.com/bfs/garb/e6f98ce4b1799d435e726b9fa01e0e58250666f6.png"
+    },
+    {
+      "text": "云朵耶小兔_叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/b5c899fa8a64299208a3a491f351ac454994254d.png"
+    },
+    {
+      "text": "云朵耶小兔_对不起",
+      "url": "https://i0.hdslb.com/bfs/garb/6365fac4f555e8032fb21de3ce170f4ad31f94bf.png"
+    },
+    {
+      "text": "云朵耶小兔_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/d2341adca61650d35391fb6b67f31d3b5ef93cbd.png"
+    },
+    {
+      "text": "云朵耶小兔_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/ed5fe80183f0367b74acaabede1e017829fbe8a4.png"
+    }
+  ]
+}
