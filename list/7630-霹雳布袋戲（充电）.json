@@ -1,0 +1,64 @@
+{
+  "id": 7630,
+  "text": "霹雳布袋戲（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/fb1569ce94aeff1613a0f815f839b91e7c0c461b.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_2799412_呼叫封禅",
+      "url": "https://i0.hdslb.com/bfs/garb/6543990258439002517d3e5b17a8510c63a93944.png"
+    },
+    {
+      "text": "UPOWER_2799412_呵呵",
+      "url": "https://i0.hdslb.com/bfs/garb/f394065e8d09e05df25f46ccf1685f826948ed30.png"
+    },
+    {
+      "text": "UPOWER_2799412_威生魔",
+      "url": "https://i0.hdslb.com/bfs/garb/d99c554fe1de4b98725042e438fbf206c65a0beb.png"
+    },
+    {
+      "text": "UPOWER_2799412_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/73288fe4b935ef217f2e10e3317fc5d4a5bf2600.png"
+    },
+    {
+      "text": "UPOWER_2799412_离家出走",
+      "url": "https://i0.hdslb.com/bfs/garb/a1da8b0154ea6d1b9237d165841cb9b2832871f3.png"
+    },
+    {
+      "text": "UPOWER_2799412_哥哥不准",
+      "url": "https://i0.hdslb.com/bfs/garb/3480df25f90aff8d3e6218896f1bf374e103b933.png"
+    },
+    {
+      "text": "UPOWER_2799412_爱困",
+      "url": "https://i0.hdslb.com/bfs/garb/db0c1b1019671741cbd8158ab2351e8ad934a020.png"
+    },
+    {
+      "text": "UPOWER_2799412_吃起来",
+      "url": "https://i0.hdslb.com/bfs/garb/34d82c089863dd7f247a56707d4814b78ca774e9.png"
+    },
+    {
+      "text": "UPOWER_2799412_我全都要",
+      "url": "https://i0.hdslb.com/bfs/garb/308ec13b01be0f2a750028a8c14c8e06cf65db4e.png"
+    },
+    {
+      "text": "UPOWER_2799412_不可吃素",
+      "url": "https://i0.hdslb.com/bfs/garb/3a0a452abc5927becefbe4963a0d250918bd0856.png"
+    },
+    {
+      "text": "UPOWER_2799412_做得很好",
+      "url": "https://i0.hdslb.com/bfs/garb/1dc5be0ded9b334ba6b3485389bb3789ab1a2062.png"
+    },
+    {
+      "text": "UPOWER_2799412_原来如此",
+      "url": "https://i0.hdslb.com/bfs/garb/6c91ef4256127654c61155da0da1e81bf1dcb517.png"
+    },
+    {
+      "text": "UPOWER_2799412_罗罗心闷",
+      "url": "https://i0.hdslb.com/bfs/garb/0a45e9c93f460723c5cfd2e681670989f9fa571d.png"
+    },
+    {
+      "text": "UPOWER_2799412_哼唧",
+      "url": "https://i0.hdslb.com/bfs/garb/3e6f806fef60948bfcf7f5a5373b4c0ea53f0fdc.png"
+    }
+  ]
+}
