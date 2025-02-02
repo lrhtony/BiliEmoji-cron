@@ -1,0 +1,88 @@
+{
+  "id": 7641,
+  "text": "战舰少女R",
+  "icon": "https://i0.hdslb.com/bfs/garb/2f7f39da2d220030b43b2a0747d2fe6af5ff74e5.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "战舰少女R_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/a8b27c34dd112770cc03258fe329ea30ff8664f1.png"
+    },
+    {
+      "text": "战舰少女R_捏脸",
+      "url": "https://i0.hdslb.com/bfs/garb/5afa4e47b3fcb0763abfeeb96ba6cd8cb242d9c1.png"
+    },
+    {
+      "text": "战舰少女R_累倒",
+      "url": "https://i0.hdslb.com/bfs/garb/043d890e258b9edb6ced0ce475cee90e88cc6ddd.png"
+    },
+    {
+      "text": "战舰少女R_记笔记",
+      "url": "https://i0.hdslb.com/bfs/garb/eda031b6fa3edbc8b123466211b9b4ee128161f9.png"
+    },
+    {
+      "text": "战舰少女R_吃辣椒",
+      "url": "https://i0.hdslb.com/bfs/garb/f6289e8e40b18043e2308019ff204c2259563f65.png"
+    },
+    {
+      "text": "战舰少女R_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/bcd467d53cdffb3d54dde9f17a53b956d58e1eab.png"
+    },
+    {
+      "text": "战舰少女R_探头",
+      "url": "https://i0.hdslb.com/bfs/garb/d27c25d9ca5b6bfa35631a517f68f2b0d4a08540.png"
+    },
+    {
+      "text": "战舰少女R_远离",
+      "url": "https://i0.hdslb.com/bfs/garb/b28edb8e6bb620af0ca7fb2cfce8ff8ef0108c38.png"
+    },
+    {
+      "text": "战舰少女R_诶嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/438a56396d813bf4ac8dc595f732e2fb12ff5242.png"
+    },
+    {
+      "text": "战舰少女R_火力全开",
+      "url": "https://i0.hdslb.com/bfs/garb/45162505edf8044260036f9d0e784739d26e6cc6.png"
+    },
+    {
+      "text": "战舰少女R_什么",
+      "url": "https://i0.hdslb.com/bfs/garb/cd3233bc45bf70ae4b2142f7f33c693ce6945b61.png"
+    },
+    {
+      "text": "战舰少女R_进攻",
+      "url": "https://i0.hdslb.com/bfs/garb/60fa87dd628ce13fa164c72c861a44fbd5b0ad32.png"
+    },
+    {
+      "text": "战舰少女R_哦耶",
+      "url": "https://i0.hdslb.com/bfs/garb/d220db9ac1fd6e8ffaf1121cbfaf0a543671d371.png"
+    },
+    {
+      "text": "战舰少女R_优雅",
+      "url": "https://i0.hdslb.com/bfs/garb/0e5201e8a8dd0712643a165926e1358701740563.png"
+    },
+    {
+      "text": "战舰少女R_猫咪之力",
+      "url": "https://i0.hdslb.com/bfs/garb/e03846f06de312417a504999629f0ff783590bd9.png"
+    },
+    {
+      "text": "战舰少女R_007",
+      "url": "https://i0.hdslb.com/bfs/garb/eaf4cfff2fdebc58ed1b0123aa8303ffcc2884d8.png"
+    },
+    {
+      "text": "战舰少女R_你在怕什么",
+      "url": "https://i0.hdslb.com/bfs/garb/459d94c213694714f8fce39f2f352954c5169f59.png"
+    },
+    {
+      "text": "战舰少女R_？？？",
+      "url": "https://i0.hdslb.com/bfs/garb/95c18a936f2f833af760bdd3fde14c296b7c3d0f.png"
+    },
+    {
+      "text": "战舰少女R_食我咸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/dd7b362846352f076b97c40a964b370fe8ab6782.png"
+    },
+    {
+      "text": "战舰少女R_喊我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/af65c542f252adaefcbbf73bc7b163229152f97d.png"
+    }
+  ]
+}
