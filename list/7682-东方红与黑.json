@@ -1,0 +1,108 @@
+{
+  "id": 7682,
+  "text": "东方红与黑",
+  "icon": "https://i0.hdslb.com/bfs/garb/a3c1d73ee27bd979209eaa5639acdcbeb716928a.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "东方红与黑_doge",
+      "url": "https://i0.hdslb.com/bfs/garb/a79a21a279c68341bdb60fc1b9749fd6a886ca8c.png"
+    },
+    {
+      "text": "东方红与黑_冲刺冲刺",
+      "url": "https://i0.hdslb.com/bfs/garb/d40d261454c96402fa68298a4490b4cc09f4c1b6.png"
+    },
+    {
+      "text": "东方红与黑_zzz",
+      "url": "https://i0.hdslb.com/bfs/garb/91ac3d6347747c8ab62658a98d0f3c0b5e44a31a.png"
+    },
+    {
+      "text": "东方红与黑_呆",
+      "url": "https://i0.hdslb.com/bfs/garb/4676607da859ed27dcfeca3ce9c71f56c536ecd9.png"
+    },
+    {
+      "text": "东方红与黑_嘲笑",
+      "url": "https://i0.hdslb.com/bfs/garb/e150d18b8862ad17aae14226ae5cf00dc49fe9c2.png"
+    },
+    {
+      "text": "东方红与黑_来了来了",
+      "url": "https://i0.hdslb.com/bfs/garb/df4cb12dd30077ad0f22d554fcbf00d02798fc4d.png"
+    },
+    {
+      "text": "东方红与黑_你是说...",
+      "url": "https://i0.hdslb.com/bfs/garb/03dbaa9fd4ab92fc6efdd8a3c063bedd0f35e8cb.png"
+    },
+    {
+      "text": "东方红与黑_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/7661d11e79c6a1784c99a034fb00f20e22e5da15.png"
+    },
+    {
+      "text": "东方红与黑_微妙",
+      "url": "https://i0.hdslb.com/bfs/garb/80c0fd5fe53caf802b7ac8a9592926980c507174.png"
+    },
+    {
+      "text": "东方红与黑_不干了",
+      "url": "https://i0.hdslb.com/bfs/garb/64987edcc9409bff38b38bee28c3e383e3830c6f.png"
+    },
+    {
+      "text": "东方红与黑_赢！",
+      "url": "https://i0.hdslb.com/bfs/garb/2dd5b0fadaf863c4bee7bfa6f7d58aeb2d9da09e.png"
+    },
+    {
+      "text": "东方红与黑_穷醒",
+      "url": "https://i0.hdslb.com/bfs/garb/13115e4155a1d09437ab9d35d4596849ec08d2ba.png"
+    },
+    {
+      "text": "东方红与黑_犀利",
+      "url": "https://i0.hdslb.com/bfs/garb/bd512361990b0993147c73dca5d03622992cf304.png"
+    },
+    {
+      "text": "东方红与黑_噔噔咚",
+      "url": "https://i0.hdslb.com/bfs/garb/57cf3cca6f65c901c9fc93c37692e00c627db4e1.png"
+    },
+    {
+      "text": "东方红与黑_看戏",
+      "url": "https://i0.hdslb.com/bfs/garb/0259e03a012f6a7f7d088e2d5802469e575ebd33.png"
+    },
+    {
+      "text": "东方红与黑_阿巴阿巴",
+      "url": "https://i0.hdslb.com/bfs/garb/314778916bd5797e6259db812351b1cec8302d6c.png"
+    },
+    {
+      "text": "东方红与黑_键帽",
+      "url": "https://i0.hdslb.com/bfs/garb/44b84b9742be41a25cdbaaa80178c8e583e46ae5.png"
+    },
+    {
+      "text": "东方红与黑_好机会！",
+      "url": "https://i0.hdslb.com/bfs/garb/b48d0cc9697d35d6f7f6f7f6bb59a6335317f346.png"
+    },
+    {
+      "text": "东方红与黑_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/73e5fc32e7f7d994ece3b837f8fa91e733482b4b.png"
+    },
+    {
+      "text": "东方红与黑_战！",
+      "url": "https://i0.hdslb.com/bfs/garb/0bdb57a48523800a5c44a4080ef4d6bb5b17d0a2.png"
+    },
+    {
+      "text": "东方红与黑_拿捏",
+      "url": "https://i0.hdslb.com/bfs/garb/c30222113d13ba775e08cdf041d2dad59693fe03.png"
+    },
+    {
+      "text": "东方红与黑_稳了",
+      "url": "https://i0.hdslb.com/bfs/garb/0ac3dabf89afe52525251e43cb4de83b7bebffc7.png"
+    },
+    {
+      "text": "东方红与黑_摇滚！",
+      "url": "https://i0.hdslb.com/bfs/garb/404d76375be7c668f338a0a96e372139515bbeee.png"
+    },
+    {
+      "text": "东方红与黑_看看",
+      "url": "https://i0.hdslb.com/bfs/garb/4beadddb3215fc03015c6954cab648ca24017632.png"
+    },
+    {
+      "text": "东方红与黑_爆破拳",
+      "url": "https://i0.hdslb.com/bfs/garb/fa0913dc95eeaa8633ca09cf7c761a469171dd35.png"
+    }
+  ]
+}
