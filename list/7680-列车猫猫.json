@@ -1,0 +1,68 @@
+{
+  "id": 7680,
+  "text": "列车猫猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/2bb12ec285c04889250c8a6cb4e0395de44f46b9.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "列车猫猫_吹泡泡",
+      "url": "https://i0.hdslb.com/bfs/garb/8297166d3d37b3ebe37416a10912fe7c97763271.png"
+    },
+    {
+      "text": "列车猫猫_戳泡泡",
+      "url": "https://i0.hdslb.com/bfs/garb/866392c93cdb0bc1889ff84f1a4f1cc8631077c5.png"
+    },
+    {
+      "text": "列车猫猫_求原谅",
+      "url": "https://i0.hdslb.com/bfs/garb/f8b30a46b2414eafd7cc05bb56eb72b7b3f055cd.png"
+    },
+    {
+      "text": "列车猫猫_流泪",
+      "url": "https://i0.hdslb.com/bfs/garb/1365fafc6d0b0df6c06a8900f98bcaead9ae1776.png"
+    },
+    {
+      "text": "列车猫猫_应援",
+      "url": "https://i0.hdslb.com/bfs/garb/c9065fafc844c27ce5a030e765cfa4fe4a63e151.png"
+    },
+    {
+      "text": "列车猫猫_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/56f23130bef24b0534182670fddbdbca62922d22.png"
+    },
+    {
+      "text": "列车猫猫_别走",
+      "url": "https://i0.hdslb.com/bfs/garb/dc653d22fcbd32cfb8cde85da1ce0e03ebb58346.png"
+    },
+    {
+      "text": "列车猫猫_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/97b5f1e8518682b28818d34fd00d9c20ba735c76.png"
+    },
+    {
+      "text": "列车猫猫_开心扭捏",
+      "url": "https://i0.hdslb.com/bfs/garb/f660c3e9d9f8dcf1d6a26767a2e03b4746165252.png"
+    },
+    {
+      "text": "列车猫猫_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/481be01a9a2c108cbb8ccbc71a5695c1e558580b.png"
+    },
+    {
+      "text": "列车猫猫_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/276694a1372311e7a0a0a0b94d16675a2835ff03.png"
+    },
+    {
+      "text": "列车猫猫_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/690c257deb111da4bd36aa092bf5b1f02378b7f1.png"
+    },
+    {
+      "text": "列车猫猫_爆炸按钮",
+      "url": "https://i0.hdslb.com/bfs/garb/edfba4799669610e11901b5e37282ad61fb3d893.png"
+    },
+    {
+      "text": "列车猫猫_扭捏倒地",
+      "url": "https://i0.hdslb.com/bfs/garb/31be9038665048f7ce2f4fd057ad9a811e920faa.png"
+    },
+    {
+      "text": "列车猫猫_呼呼大睡",
+      "url": "https://i0.hdslb.com/bfs/garb/92df0eff6b256025afe5a25c27b8e2256be2356c.png"
+    }
+  ]
+}
