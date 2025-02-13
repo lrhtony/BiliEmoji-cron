@@ -1,0 +1,88 @@
+{
+  "id": 7692,
+  "text": "幼金表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/86c0daad8a0efad6ce3284ec9ed8f1cd1a2ca57f.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "幼金表情包_mua",
+      "url": "https://i0.hdslb.com/bfs/garb/695ee219e05ef1e582087d8cf55855dded690c6e.png"
+    },
+    {
+      "text": "幼金表情包_兴奋",
+      "url": "https://i0.hdslb.com/bfs/garb/6d5ad44c39ad9fc9f1e381adfb6cbd6db7c86428.png"
+    },
+    {
+      "text": "幼金表情包_卖萌",
+      "url": "https://i0.hdslb.com/bfs/garb/7df9407a64e14cf6a602e5ab5b07b9827fd2f333.png"
+    },
+    {
+      "text": "幼金表情包_嘿嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/291c9fae4221c68dd9bb7fb43ad4b7aed45a954b.png"
+    },
+    {
+      "text": "幼金表情包_嘘",
+      "url": "https://i0.hdslb.com/bfs/garb/a19cd469ec305501a347c70d00a974ba567b2f4c.png"
+    },
+    {
+      "text": "幼金表情包_喵喵",
+      "url": "https://i0.hdslb.com/bfs/garb/543913036992e3d0174296d09080490b0139c3cc.png"
+    },
+    {
+      "text": "幼金表情包_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/25da17d14ceaf2e718cd7f3b5fb7d23a6e705eca.png"
+    },
+    {
+      "text": "幼金表情包_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/6d8a91f5a68e322581ee4f8111108a46ee84b960.png"
+    },
+    {
+      "text": "幼金表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/19e7ace8cc2e6a6e003fb138e46529747ffaa66d.png"
+    },
+    {
+      "text": "幼金表情包_小拳拳出击",
+      "url": "https://i0.hdslb.com/bfs/garb/c89ab59052fde70965ea12b4c6e093b71676ae1b.png"
+    },
+    {
+      "text": "幼金表情包_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/eb6f76f30ec8f145e01d26d61ae66471cc01e737.png"
+    },
+    {
+      "text": "幼金表情包_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/eff2772bc4af57b99651bbac9039b0218a5b4b3e.png"
+    },
+    {
+      "text": "幼金表情包_撒娇",
+      "url": "https://i0.hdslb.com/bfs/garb/acb60118d27d0f75983ea66aae444e35efe4f01b.png"
+    },
+    {
+      "text": "幼金表情包_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/9d74d306391d822171ba068088655748bb50fb74.png"
+    },
+    {
+      "text": "幼金表情包_送给你",
+      "url": "https://i0.hdslb.com/bfs/garb/149ce0dd4c3c0ffbf4b3efd74e7dbc676cd1c719.png"
+    },
+    {
+      "text": "幼金表情包_指",
+      "url": "https://i0.hdslb.com/bfs/garb/e385faf3adef60048b9a6cde41cd4648b3bbbf40.png"
+    },
+    {
+      "text": "幼金表情包_小猫",
+      "url": "https://i0.hdslb.com/bfs/garb/3678cd62fe3f7425df535a8c72c7cdddeeaff937.png"
+    },
+    {
+      "text": "幼金表情包_木马",
+      "url": "https://i0.hdslb.com/bfs/garb/a81c954e1053e8cb588dec9ddc45d1bab134ed29.png"
+    },
+    {
+      "text": "幼金表情包_牛",
+      "url": "https://i0.hdslb.com/bfs/garb/fca2bb6acd38af0212d468f9598e6f0a4dbaffad.png"
+    },
+    {
+      "text": "幼金表情包_拜托",
+      "url": "https://i0.hdslb.com/bfs/garb/9f5d4f704c48c8fe1d0d091675ffa4721d85273c.png"
+    }
+  ]
+}
