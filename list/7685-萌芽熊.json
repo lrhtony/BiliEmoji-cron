@@ -1,0 +1,68 @@
+{
+  "id": 7685,
+  "text": "萌芽熊",
+  "icon": "https://i0.hdslb.com/bfs/garb/bb71caaa0645dce677610b7cb5a2546ecd6f7e83.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "萌芽熊_趴趴",
+      "url": "https://i0.hdslb.com/bfs/garb/4178b442f209e88d7f2effc74a53dd66a937b4c3.png"
+    },
+    {
+      "text": "萌芽熊_扑蝴蝶",
+      "url": "https://i0.hdslb.com/bfs/garb/d8339d2a598f6e881ad577264a53473f414118cf.png"
+    },
+    {
+      "text": "萌芽熊_左抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/84a8f90d2e4f3fd1771ed9c75f9234026be27a02.png"
+    },
+    {
+      "text": "萌芽熊_右抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/922125d43aaeb2c7def2a19e2e43e91e13362ab9.png"
+    },
+    {
+      "text": "萌芽熊_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/bead25bc58926ba42f14c9bb039487cd8f4b69e6.png"
+    },
+    {
+      "text": "萌芽熊_两只小兔",
+      "url": "https://i0.hdslb.com/bfs/garb/66a707e076543bc488b1fe233fe75e1a9aed51d5.png"
+    },
+    {
+      "text": "萌芽熊_蹦",
+      "url": "https://i0.hdslb.com/bfs/garb/8e2ca05a0cdf48bec264ea916b4e0f65f76048af.png"
+    },
+    {
+      "text": "萌芽熊_吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/7d99db82b7781584555f9e7718d3a512a4f5e8fc.png"
+    },
+    {
+      "text": "萌芽熊_举花花",
+      "url": "https://i0.hdslb.com/bfs/garb/64ddf48e8d9428609e46335cf9d4f7fe858dcedb.png"
+    },
+    {
+      "text": "萌芽熊_激动",
+      "url": "https://i0.hdslb.com/bfs/garb/c2331ffddbf676e87324f97b28b17f94b43aa43f.png"
+    },
+    {
+      "text": "萌芽熊_挥挥爪",
+      "url": "https://i0.hdslb.com/bfs/garb/4ace8372bfcb130734d1228dcd37c8cb29463a1e.png"
+    },
+    {
+      "text": "萌芽熊_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/321cde25bca42c5d4cadf8569ee948ec7b10a9f9.png"
+    },
+    {
+      "text": "萌芽熊_小粉兔",
+      "url": "https://i0.hdslb.com/bfs/garb/2369531dc1490b8debfa760b46858d09aa57d4e0.png"
+    },
+    {
+      "text": "萌芽熊_装酷",
+      "url": "https://i0.hdslb.com/bfs/garb/f11e4ff7c7473a00cd49b9d92aa2aac000fabeb5.png"
+    },
+    {
+      "text": "萌芽熊_举叶子",
+      "url": "https://i0.hdslb.com/bfs/garb/3b23344a3e3a2f5842a940de0ee273308ad68e1c.png"
+    }
+  ]
+}
