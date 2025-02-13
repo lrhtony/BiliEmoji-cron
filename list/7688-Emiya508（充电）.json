@@ -1,0 +1,28 @@
+{
+  "id": 7688,
+  "text": "Emiya508（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/a9d516fed0d119ddef4b6c6bfe66d22f58abee23.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_7981885_我喜欢你",
+      "url": "https://i0.hdslb.com/bfs/garb/39358aeb0166a8131ba8056cc4437a89688c1bf5.png"
+    },
+    {
+      "text": "UPOWER_7981885_我没生气",
+      "url": "https://i0.hdslb.com/bfs/garb/24b5681464b38d399bd180d09fe9caefa81c6749.png"
+    },
+    {
+      "text": "UPOWER_7981885_就这",
+      "url": "https://i0.hdslb.com/bfs/garb/803acd9e22c9108e662f6ba538fbfc14a7afc06c.png"
+    },
+    {
+      "text": "UPOWER_7981885_搞砸了",
+      "url": "https://i0.hdslb.com/bfs/garb/3188e4c3ced0aac004e467aeb1a188e04ce3b114.png"
+    },
+    {
+      "text": "UPOWER_7981885_喵",
+      "url": "https://i0.hdslb.com/bfs/garb/20aa565fb7602912a971fe4bd98e7dcc29b09b27.png"
+    }
+  ]
+}
