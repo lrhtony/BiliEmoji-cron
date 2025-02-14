@@ -1,7 +1,7 @@
 {
   "id": 4391,
   "text": "圆桌动漫（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/8c16a78df68248206fc4f13f0c4e7b3e562fd93e.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/ef6364b5f7e2dcf7caf97b640a841ab792c05632.png",
   "resource_type": 0,
   "emote": [
     {
@@ -43,6 +43,38 @@
     {
       "text": "UPOWER_654552_痛太痛了",
       "url": "https://i0.hdslb.com/bfs/garb/49df4e2180145b0622d808e2eff27b2b20ad23bb.png"
+    },
+    {
+      "text": "UPOWER_654552_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/9b8d428489f7369237ea05c958779d5f12aa2545.png"
+    },
+    {
+      "text": "UPOWER_654552_蛐蛐",
+      "url": "https://i0.hdslb.com/bfs/garb/3cbfecce5a5f0edfc327bc7485fdef968fce9aac.png"
+    },
+    {
+      "text": "UPOWER_654552_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/999df704e0cec62af088398facc00b0020c2cc10.png"
+    },
+    {
+      "text": "UPOWER_654552_愤怒",
+      "url": "https://i0.hdslb.com/bfs/garb/ad97b6c90ec266f4c1020f91065d241c821f8c2a.png"
+    },
+    {
+      "text": "UPOWER_654552_哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/52011e835994d4f84e614d5aa4cbacc916f737dd.png"
+    },
+    {
+      "text": "UPOWER_654552_好耶2",
+      "url": "https://i0.hdslb.com/bfs/garb/7ef781820f8ee9ae1fa341fed931a4a540373534.png"
+    },
+    {
+      "text": "UPOWER_654552_尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/d48291356fc0385a8c5dfced053e2e00b6a3a778.png"
+    },
+    {
+      "text": "UPOWER_654552_懵逼",
+      "url": "https://i0.hdslb.com/bfs/garb/8446c287381c7bd01ef8ab97ecabd612d032435e.png"
     }
   ]
 }
