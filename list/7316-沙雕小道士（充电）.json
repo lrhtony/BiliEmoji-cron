@@ -1,0 +1,28 @@
+{
+  "id": 7316,
+  "text": "沙雕小道士（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/8e1da78c85c4613733d6503d60d3414301812abe.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_2090258213_切",
+      "url": "https://i0.hdslb.com/bfs/garb/3c92e7458f18427ff37c7f2fe1aac933027a4a8f.png"
+    },
+    {
+      "text": "UPOWER_2090258213_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/ec8977cfa0c2297cabac74a7921bd55104c8f545.png"
+    },
+    {
+      "text": "UPOWER_2090258213_愤怒",
+      "url": "https://i0.hdslb.com/bfs/garb/a21588ea0243498aad103d508f541ec30b4a0eb3.png"
+    },
+    {
+      "text": "UPOWER_2090258213_噗",
+      "url": "https://i0.hdslb.com/bfs/garb/66f40f75781f6f5130e11846bcecd366446e71da.png"
+    },
+    {
+      "text": "UPOWER_2090258213_害怕",
+      "url": "https://i0.hdslb.com/bfs/garb/bddb24d5e052b18a6020028a377ea566406c4c8a.png"
+    }
+  ]
+}
