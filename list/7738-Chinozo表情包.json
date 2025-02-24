@@ -1,0 +1,88 @@
+{
+  "id": 7738,
+  "text": "Chinozo表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/0e98fdaca0d5dd47be298212f3ad5acc171e7934.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "Chinozo表情包_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/e61010fa7f4cf463c9f26546ef79969f04edde9f.png"
+    },
+    {
+      "text": "Chinozo表情包_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/86e78f4c545478548d866c08de3c52a58731791f.png"
+    },
+    {
+      "text": "Chinozo表情包_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/772c3cae3a1b076ed14c39b84f1067e05830d225.png"
+    },
+    {
+      "text": "Chinozo表情包_再见宣言",
+      "url": "https://i0.hdslb.com/bfs/garb/0786c7c9bc2ce0bda27495a2f4807290a81ec5ac.png"
+    },
+    {
+      "text": "Chinozo表情包_探头",
+      "url": "https://i0.hdslb.com/bfs/garb/8d1c95c5e0a21acb6b5ee5ce6d750aa05bd06e4a.png"
+    },
+    {
+      "text": "Chinozo表情包_好听",
+      "url": "https://i0.hdslb.com/bfs/garb/27d8dfd34ebed2a40b866f6236a1476c7c09ba53.png"
+    },
+    {
+      "text": "Chinozo表情包_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/5b6d75525a763dfb96d54b1615291f37659aa829.png"
+    },
+    {
+      "text": "Chinozo表情包_诶嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/18ca596c943f297dd1efdc95c58affce8d582847.png"
+    },
+    {
+      "text": "Chinozo表情包_亲亲",
+      "url": "https://i0.hdslb.com/bfs/garb/7b5ec0439fe90b0f223bca1dbce549628baa323e.png"
+    },
+    {
+      "text": "Chinozo表情包_拜托",
+      "url": "https://i0.hdslb.com/bfs/garb/58fb1052e46dee86ca6cb3d6e46a700abcf3b70c.png"
+    },
+    {
+      "text": "Chinozo表情包_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/99f516356391bd9ad8b6f8baab460066ecae09cc.png"
+    },
+    {
+      "text": "Chinozo表情包_感动",
+      "url": "https://i0.hdslb.com/bfs/garb/df4ea1173a9eb6551da4552566d52c98ce1231a9.png"
+    },
+    {
+      "text": "Chinozo表情包_递花",
+      "url": "https://i0.hdslb.com/bfs/garb/555151a97b4fa3522b894ffb31c7f60146b11afa.png"
+    },
+    {
+      "text": "Chinozo表情包_no",
+      "url": "https://i0.hdslb.com/bfs/garb/0a4bedfddcabf05a5f94c430d1e53586a1062371.png"
+    },
+    {
+      "text": "Chinozo表情包_祈祷中",
+      "url": "https://i0.hdslb.com/bfs/garb/401098f9c750f91338d72a4eb9ab90db553a9a9c.png"
+    },
+    {
+      "text": "Chinozo表情包_TAMAYA",
+      "url": "https://i0.hdslb.com/bfs/garb/5fc30ad86ca79195fd663ced579bfa410076630a.png"
+    },
+    {
+      "text": "Chinozo表情包_Peta",
+      "url": "https://i0.hdslb.com/bfs/garb/0825adc114abecbc276250e12c192f9ac799e131.png"
+    },
+    {
+      "text": "Chinozo表情包_嘘",
+      "url": "https://i0.hdslb.com/bfs/garb/a2d12d8e26ddbe3f12ca262f7e879d7c5459f9c5.png"
+    },
+    {
+      "text": "Chinozo表情包_闇",
+      "url": "https://i0.hdslb.com/bfs/garb/c321dcc31b85e193803061edc98a698398c440c5.png"
+    },
+    {
+      "text": "Chinozo表情包_嫌",
+      "url": "https://i0.hdslb.com/bfs/garb/725ba9e3cb278d3d3e18e7390e0b92ae4614608c.png"
+    }
+  ]
+}
