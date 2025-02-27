@@ -1,0 +1,108 @@
+{
+  "id": 7749,
+  "text": "T1 表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/bed174e05e8b89ebd00e2ddfa6d3494979dc9d8f.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "T1 表情包_摔倒",
+      "url": "https://i0.hdslb.com/bfs/garb/0b575aa97c06c29a8709bc9e2d76410dfb27c410.png"
+    },
+    {
+      "text": "T1 表情包_唱歌",
+      "url": "https://i0.hdslb.com/bfs/garb/99efb65713e41044ebb2e1e367a2f2dd4a5c3398.png"
+    },
+    {
+      "text": "T1 表情包_星星D",
+      "url": "https://i0.hdslb.com/bfs/garb/64d5dd86a72e133bcba4f7e5d8b35c9921b8967b.png"
+    },
+    {
+      "text": "T1 表情包_指队服",
+      "url": "https://i0.hdslb.com/bfs/garb/cc6a5a759a96bd218507476385a4040aea2580fb.png"
+    },
+    {
+      "text": "T1 表情包_脸红",
+      "url": "https://i0.hdslb.com/bfs/garb/077746797f74fe4b64da25dd97b25ac2470610f5.png"
+    },
+    {
+      "text": "T1 表情包_翅膀",
+      "url": "https://i0.hdslb.com/bfs/garb/eb8d1bd81b9589c0c998f7882a773914eb775b1b.png"
+    },
+    {
+      "text": "T1 表情包_拳头",
+      "url": "https://i0.hdslb.com/bfs/garb/7bb7e487c7a2e9b4b9d0f49e56e0d263afcf64b7.png"
+    },
+    {
+      "text": "T1 表情包_星星O",
+      "url": "https://i0.hdslb.com/bfs/garb/9d581a7650a1c30df4029345911bf5608a22faf3.png"
+    },
+    {
+      "text": "T1 表情包_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/32e80c84f3c04a6b5a7df670273d9ca697f236c3.png"
+    },
+    {
+      "text": "T1 表情包_帅",
+      "url": "https://i0.hdslb.com/bfs/garb/5f4eacdca78d2384ef3f5a6a0c9c396a68443e2a.png"
+    },
+    {
+      "text": "T1 表情包_玫瑰",
+      "url": "https://i0.hdslb.com/bfs/garb/d7a85421c269c69b7597dd961663edffa9fc720e.png"
+    },
+    {
+      "text": "T1 表情包_切屏",
+      "url": "https://i0.hdslb.com/bfs/garb/76ed9fc005906fb2ee06a754c9e10b11b616594b.png"
+    },
+    {
+      "text": "T1 表情包_星星F",
+      "url": "https://i0.hdslb.com/bfs/garb/9600e21e16f3a18395d7f0b8e7ede495fd1653cb.png"
+    },
+    {
+      "text": "T1 表情包_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/88d87470e1395a652b2de2da5d158a5381a871a7.png"
+    },
+    {
+      "text": "T1 表情包_嘘",
+      "url": "https://i0.hdslb.com/bfs/garb/9be43a853014b543381772254b3bd9711b13149a.png"
+    },
+    {
+      "text": "T1 表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/c333a0131dbf1531381186bea2b7e7698cbbbdf3.png"
+    },
+    {
+      "text": "T1 表情包_V",
+      "url": "https://i0.hdslb.com/bfs/garb/5849a0df74f1cb9472961e8c26cc115102ac5eae.png"
+    },
+    {
+      "text": "T1 表情包_星星G",
+      "url": "https://i0.hdslb.com/bfs/garb/391e0250364ded60f98c0dde3e71df84746cd8b8.png"
+    },
+    {
+      "text": "T1 表情包_大小姐",
+      "url": "https://i0.hdslb.com/bfs/garb/a4e374207ae3dde484e87466dcc4eb97e932f699.png"
+    },
+    {
+      "text": "T1 表情包_投币",
+      "url": "https://i0.hdslb.com/bfs/garb/78786d3cd89463b91cae5cd7a98dd35cf255bad0.png"
+    },
+    {
+      "text": "T1 表情包_狗狗祟祟",
+      "url": "https://i0.hdslb.com/bfs/garb/36de5481238df41170d5fcdf0435390eef5bd357.png"
+    },
+    {
+      "text": "T1 表情包_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/558765c52231754c11b7fca4d6eb8d56b9fc713b.png"
+    },
+    {
+      "text": "T1 表情包_星星K",
+      "url": "https://i0.hdslb.com/bfs/garb/10c0620380f33f053bc6195e71101d551d726f29.png"
+    },
+    {
+      "text": "T1 表情包_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/f3e4a252ff76d4a7e948600c482b24cf64476295.png"
+    },
+    {
+      "text": "T1 表情包_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/ca46aef1a7ec88d8671f706c98f1f7c364177645.png"
+    }
+  ]
+}
