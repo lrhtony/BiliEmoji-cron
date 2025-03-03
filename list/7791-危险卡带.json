@@ -1,0 +1,68 @@
+{
+  "id": 7791,
+  "text": "危险卡带",
+  "icon": "https://i0.hdslb.com/bfs/garb/99c65df7ec2bcb214ceb328997b49a581720c8ca.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "危险卡带_卡带",
+      "url": "https://i0.hdslb.com/bfs/garb/d1ae6ca78cb4cda11cb311b99bde0073ce2bb145.png"
+    },
+    {
+      "text": "危险卡带_紫色麦克风",
+      "url": "https://i0.hdslb.com/bfs/garb/8be0884c9f097abe0093afc343be685f6c1dd68a.png"
+    },
+    {
+      "text": "危险卡带_打游戏",
+      "url": "https://i0.hdslb.com/bfs/garb/39efb96006e796eb6ec87a0a1f13a22808e55903.png"
+    },
+    {
+      "text": "危险卡带_将将",
+      "url": "https://i0.hdslb.com/bfs/garb/51a541f29be0ba74b0ca7cf92a79647a37f979e7.png"
+    },
+    {
+      "text": "危险卡带_烦恼",
+      "url": "https://i0.hdslb.com/bfs/garb/959832251d5cce939a6e53a55a9b68b0a871f31e.png"
+    },
+    {
+      "text": "危险卡带_偷乐",
+      "url": "https://i0.hdslb.com/bfs/garb/1d50e9b04fabd37dd3cb1155216cafb03fe66a6c.png"
+    },
+    {
+      "text": "危险卡带_不屑",
+      "url": "https://i0.hdslb.com/bfs/garb/94ca57fa31e21006932362a24b30c152d0e2f20e.png"
+    },
+    {
+      "text": "危险卡带_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/eae1114f7f9e84e4a5f5ee9023d79178d481986e.png"
+    },
+    {
+      "text": "危险卡带_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/ab37f322e65fc38e3afeb69a8454ae36f9f9484a.png"
+    },
+    {
+      "text": "危险卡带_阴沉",
+      "url": "https://i0.hdslb.com/bfs/garb/bd97ab10a84005569a8f219cdf5d2a02c1a500e6.png"
+    },
+    {
+      "text": "危险卡带_伸脖子",
+      "url": "https://i0.hdslb.com/bfs/garb/ce3a50be6cd64185da62768c7f484b034ffb9eaf.png"
+    },
+    {
+      "text": "危险卡带_邪笑",
+      "url": "https://i0.hdslb.com/bfs/garb/9b5136a6f51098e6e5f02940575f7cfa52ce4826.png"
+    },
+    {
+      "text": "危险卡带_给你一锤",
+      "url": "https://i0.hdslb.com/bfs/garb/21b7433b969e7dce932c9e628fb23e55e7a05a94.png"
+    },
+    {
+      "text": "危险卡带_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/0de8d94c74eb83ac09229e8f54fe9402d3353d68.png"
+    },
+    {
+      "text": "危险卡带_摸不着头脑",
+      "url": "https://i0.hdslb.com/bfs/garb/fb663979d8e4aaba76d9a8e3ff0cff870a046209.png"
+    }
+  ]
+}
