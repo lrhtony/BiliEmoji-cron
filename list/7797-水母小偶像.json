@@ -1,0 +1,88 @@
+{
+  "id": 7797,
+  "text": "水母小偶像",
+  "icon": "https://i0.hdslb.com/bfs/garb/0de44048868c5f211cdaeb7e80ce9edb83151ae6.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "水母小偶像_正经",
+      "url": "https://i0.hdslb.com/bfs/garb/2f91b60daa627c40f84ff825c93867ccb21e444c.png"
+    },
+    {
+      "text": "水母小偶像_嘲笑",
+      "url": "https://i0.hdslb.com/bfs/garb/5919ec39006275ee6eba262462ba0e17e83008f6.png"
+    },
+    {
+      "text": "水母小偶像_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/8c1683c4cafc38752c07cf0ff218cb254fc77321.png"
+    },
+    {
+      "text": "水母小偶像_晕",
+      "url": "https://i0.hdslb.com/bfs/garb/92874f5a8616a40a7de90116c07c3689923c0081.png"
+    },
+    {
+      "text": "水母小偶像_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/e5d202c3e30af397b7350e9ecb71bf1de62db5f6.png"
+    },
+    {
+      "text": "水母小偶像_骄傲",
+      "url": "https://i0.hdslb.com/bfs/garb/207f23eb4d65e2cc58848de7d3f73553344028c7.png"
+    },
+    {
+      "text": "水母小偶像_好吃",
+      "url": "https://i0.hdslb.com/bfs/garb/3b74cd327fc56ec6c0faa08671bffc26f79a3d61.png"
+    },
+    {
+      "text": "水母小偶像_呲牙",
+      "url": "https://i0.hdslb.com/bfs/garb/3005b3f5dae160765d57bb5653073fca706298f3.png"
+    },
+    {
+      "text": "水母小偶像_心动",
+      "url": "https://i0.hdslb.com/bfs/garb/3691f134aadfc55884cf70a58774b4d92af73382.png"
+    },
+    {
+      "text": "水母小偶像_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/94fd8a8affcc9261189b7181898c677cc05de0fb.png"
+    },
+    {
+      "text": "水母小偶像_好奇",
+      "url": "https://i0.hdslb.com/bfs/garb/a5fa1a5c336b4e1d5c10a81ca55aaeb9bf283076.png"
+    },
+    {
+      "text": "水母小偶像_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/be1a00d70381a043419ee0e383221390dbbc197e.png"
+    },
+    {
+      "text": "水母小偶像_尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/a74d43c818fe11777333d6003e4f72c623c47faa.png"
+    },
+    {
+      "text": "水母小偶像_惊呆",
+      "url": "https://i0.hdslb.com/bfs/garb/5e6dac63629289284ace57131306c0e93bbc249a.png"
+    },
+    {
+      "text": "水母小偶像_悲伤",
+      "url": "https://i0.hdslb.com/bfs/garb/b78b66f2c282b2af1a3c7df3ee377ece5f2f2ab6.png"
+    },
+    {
+      "text": "水母小偶像_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/654e6c758a946526454b6795b8e9a7551abd9d62.png"
+    },
+    {
+      "text": "水母小偶像_痴呆",
+      "url": "https://i0.hdslb.com/bfs/garb/1cfd1de1f4dd60734ac194983a0ef4028bebebad.png"
+    },
+    {
+      "text": "水母小偶像_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/8d64a5198a88b693a10b80e13158944f3a5c4f0a.png"
+    },
+    {
+      "text": "水母小偶像_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/be350264ef091010468027ece198f0f2c394fd1a.png"
+    },
+    {
+      "text": "水母小偶像_耶",
+      "url": "https://i0.hdslb.com/bfs/garb/8bfa9ce82902aa6cd108023ce98ca960a80fbec6.png"
+    }
+  ]
+}
