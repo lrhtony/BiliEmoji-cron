@@ -1,0 +1,44 @@
+{
+  "id": 7810,
+  "text": "AIChannel中国绊爱（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/24e83cd5620cd316326dad3764f2c51873c0f092.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_484322035_666",
+      "url": "https://i0.hdslb.com/bfs/garb/c2267b5f6af0f8198246aa9a980ca142cdb11d86.png"
+    },
+    {
+      "text": "UPOWER_484322035_AI过载",
+      "url": "https://i0.hdslb.com/bfs/garb/ff904db0f008d89a1da39decd8764efb9cd77658.png"
+    },
+    {
+      "text": "UPOWER_484322035_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/8ac780e2a39d49a00520dab684c663d751e73a8c.png"
+    },
+    {
+      "text": "UPOWER_484322035_潮霸",
+      "url": "https://i0.hdslb.com/bfs/garb/952d745a6acf25bda50254833221b1eeb1ad0dda.png"
+    },
+    {
+      "text": "UPOWER_484322035_聪明绝顶",
+      "url": "https://i0.hdslb.com/bfs/garb/4e0d3812d5da0f7fd8180cb366b65db2eb25c460.png"
+    },
+    {
+      "text": "UPOWER_484322035_两眼一黑",
+      "url": "https://i0.hdslb.com/bfs/garb/ee5da1c03233f7ee0d8fc4bb6a88398201aecf9c.png"
+    },
+    {
+      "text": "UPOWER_484322035_没眼看",
+      "url": "https://i0.hdslb.com/bfs/garb/9e974c0a75227818b73c538f5388c4be420b2911.png"
+    },
+    {
+      "text": "UPOWER_484322035_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/bc3b94ee13ff0acfe2407ffc7e5bd450cd6133cd.png"
+    },
+    {
+      "text": "UPOWER_484322035_小丑",
+      "url": "https://i0.hdslb.com/bfs/garb/b17168cbbbe94bd9eb0e8c2404be56bdcb9bedca.png"
+    }
+  ]
+}
