@@ -1,0 +1,68 @@
+{
+  "id": 7829,
+  "text": "春日画框少女",
+  "icon": "https://i0.hdslb.com/bfs/garb/53b8049964426171c39475580d5548c3024af524.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "春日画框少女_我亲",
+      "url": "https://i0.hdslb.com/bfs/garb/3ed0e8a2927b67ec1d5393116b33404c0396f6ae.png"
+    },
+    {
+      "text": "春日画框少女_嘲笑",
+      "url": "https://i0.hdslb.com/bfs/garb/d5a726cf6d103c5d209a51b3dac11e914bd7e96e.png"
+    },
+    {
+      "text": "春日画框少女_机智",
+      "url": "https://i0.hdslb.com/bfs/garb/63c991d78f291c1a62f920a50c98d9034bf2706d.png"
+    },
+    {
+      "text": "春日画框少女_祈祷",
+      "url": "https://i0.hdslb.com/bfs/garb/4585ceee202b0cd1e5978c5941ed694772f4c899.png"
+    },
+    {
+      "text": "春日画框少女_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/ec2aea19e7a1a1fd53a530061334e645a9f24711.png"
+    },
+    {
+      "text": "春日画框少女_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/ea59cf50fb6fe75a0cc485d614c3b12dfc5bc6c5.png"
+    },
+    {
+      "text": "春日画框少女_给你花",
+      "url": "https://i0.hdslb.com/bfs/garb/71240c8573e80e428eb4acf11069c9abf20fbfce.png"
+    },
+    {
+      "text": "春日画框少女_给你奶茶",
+      "url": "https://i0.hdslb.com/bfs/garb/9114b1544480c9ba2bb6ae20737bbe32c7cd2b43.png"
+    },
+    {
+      "text": "春日画框少女_给你星星",
+      "url": "https://i0.hdslb.com/bfs/garb/c8723d29d3d9dc0de054a47e63261046b5595f81.png"
+    },
+    {
+      "text": "春日画框少女_不屑",
+      "url": "https://i0.hdslb.com/bfs/garb/171bf6ba6426669256f429251ca9d22841ac310e.png"
+    },
+    {
+      "text": "春日画框少女_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/8b9ff2cf483b2d892c8c52318a12e25402b79d1c.png"
+    },
+    {
+      "text": "春日画框少女_不要",
+      "url": "https://i0.hdslb.com/bfs/garb/83dcd57bf9c9990cd2204c09ccc69ab3debf8087.png"
+    },
+    {
+      "text": "春日画框少女_星星眼",
+      "url": "https://i0.hdslb.com/bfs/garb/dde13ca01a25adcd194d8f8a2cf36deb7f108451.png"
+    },
+    {
+      "text": "春日画框少女_装瓶",
+      "url": "https://i0.hdslb.com/bfs/garb/29e38811b36b8a52c60af74683dd0753539c5dfc.png"
+    },
+    {
+      "text": "春日画框少女_我吃一口",
+      "url": "https://i0.hdslb.com/bfs/garb/5ae194ce2fc5fd4fd555c20f8a849cfa170b599f.png"
+    }
+  ]
+}
