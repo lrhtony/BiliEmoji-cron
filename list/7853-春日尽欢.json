@@ -1,0 +1,68 @@
+{
+  "id": 7853,
+  "text": "春日尽欢",
+  "icon": "https://i0.hdslb.com/bfs/garb/21e89bbab67afcb135b5a5c23bb0b7ddfe978930.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "春日尽欢_Ciallo",
+      "url": "https://i0.hdslb.com/bfs/garb/d5d9406e3332989cfef599b056614901c37de228.png"
+    },
+    {
+      "text": "春日尽欢_亲亲",
+      "url": "https://i0.hdslb.com/bfs/garb/7b17ba9052932f83328e5567846606aaff766630.png"
+    },
+    {
+      "text": "春日尽欢_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/107b68b55f6abb867cef154a7142ce5480f02d68.png"
+    },
+    {
+      "text": "春日尽欢_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/243cd2183ed016f2bc1d0f5276e4d3d86ee3ada2.png"
+    },
+    {
+      "text": "春日尽欢_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/99254c9d57a31d8a037743d7bd002d252dcb7a1b.png"
+    },
+    {
+      "text": "春日尽欢_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/2135ae2a239be653d95d3ad674f3b4b395b0ca9c.png"
+    },
+    {
+      "text": "春日尽欢_吃桃",
+      "url": "https://i0.hdslb.com/bfs/garb/5a295da9b638e3dc3bf866e524b157d2bac042ad.png"
+    },
+    {
+      "text": "春日尽欢_妈",
+      "url": "https://i0.hdslb.com/bfs/garb/ae58f278a40758e0227b3019a9f27528c6bb4a51.png"
+    },
+    {
+      "text": "春日尽欢_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/39f20b858153f2c570ede19424013bdb1aca5f77.png"
+    },
+    {
+      "text": "春日尽欢_植物",
+      "url": "https://i0.hdslb.com/bfs/garb/8d7c19cbf0aa428196e64beb4f12fb3c4458858d.png"
+    },
+    {
+      "text": "春日尽欢_那咋了",
+      "url": "https://i0.hdslb.com/bfs/garb/59ba9cac6680e4b069822782fa021f7ce2227ee3.png"
+    },
+    {
+      "text": "春日尽欢_那我问你",
+      "url": "https://i0.hdslb.com/bfs/garb/9506f397b097b1fd3260310fdf88074b645093cf.png"
+    },
+    {
+      "text": "春日尽欢_Oi~",
+      "url": "https://i0.hdslb.com/bfs/garb/52da4c4c258268b483fa95b822bb41e1d2e097d9.png"
+    },
+    {
+      "text": "春日尽欢_心如止水",
+      "url": "https://i0.hdslb.com/bfs/garb/d7f7f108041e2d3b0094f9fd76de65d2a98c6fad.png"
+    },
+    {
+      "text": "春日尽欢_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/f1bf0f11fcc9dada4cda649a444e37c586cdaef4.png"
+    }
+  ]
+}
