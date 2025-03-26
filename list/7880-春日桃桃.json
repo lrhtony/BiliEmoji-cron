@@ -1,0 +1,68 @@
+{
+  "id": 7880,
+  "text": "春日桃桃",
+  "icon": "https://i0.hdslb.com/bfs/garb/9a379e99a3fc97a117bfeae7c66a723c5025ab49.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "春日桃桃_嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/4f602c995003c5cff286a8ef2d77448215ccbc11.png"
+    },
+    {
+      "text": "春日桃桃_偷吃",
+      "url": "https://i0.hdslb.com/bfs/garb/d0c5d399578005658dca343dff25d806d6cc3cba.png"
+    },
+    {
+      "text": "春日桃桃_洗眼",
+      "url": "https://i0.hdslb.com/bfs/garb/6eb0fbd14b8a3a3908114f42d0af0a5f1bc1c2c6.png"
+    },
+    {
+      "text": "春日桃桃_啊",
+      "url": "https://i0.hdslb.com/bfs/garb/556597e9bf5249ab424077268a27dab22c054b29.png"
+    },
+    {
+      "text": "春日桃桃_尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/d0017f9483e76ef40242f33e99735141bcedd972.png"
+    },
+    {
+      "text": "春日桃桃_带走",
+      "url": "https://i0.hdslb.com/bfs/garb/d3f12c0bf3af1fa082d0d6652004030a5c71c597.png"
+    },
+    {
+      "text": "春日桃桃_我的了",
+      "url": "https://i0.hdslb.com/bfs/garb/78eeee7ff45b3dcda8d25813fa938bc11e4ebf2a.png"
+    },
+    {
+      "text": "春日桃桃_我还能熬",
+      "url": "https://i0.hdslb.com/bfs/garb/dcefd1f68dae67e2de0d12c48be16a3a0d7d450a.png"
+    },
+    {
+      "text": "春日桃桃_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/9bc945e3dd932a0362313f72244774db0e1f1daa.png"
+    },
+    {
+      "text": "春日桃桃_真哭啦",
+      "url": "https://i0.hdslb.com/bfs/garb/de0628a2643f768a2ed7725b65e27aadb5da73b9.png"
+    },
+    {
+      "text": "春日桃桃_等会儿",
+      "url": "https://i0.hdslb.com/bfs/garb/4570a94f633b9784c8340f34345efc0cd988b18f.png"
+    },
+    {
+      "text": "春日桃桃_结婚",
+      "url": "https://i0.hdslb.com/bfs/garb/15cb57728c991d20eaa3a42ba0010d597b29a210.png"
+    },
+    {
+      "text": "春日桃桃_空空",
+      "url": "https://i0.hdslb.com/bfs/garb/c3c4f7ef5573c8c205a7d3d93ee2e70d0074c39f.png"
+    },
+    {
+      "text": "春日桃桃_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/ec31847565f1716748d28466289422ec1994745a.png"
+    },
+    {
+      "text": "春日桃桃_退网",
+      "url": "https://i0.hdslb.com/bfs/garb/1f201c4c1b74744c979af97b106632de90f9d1aa.png"
+    }
+  ]
+}
