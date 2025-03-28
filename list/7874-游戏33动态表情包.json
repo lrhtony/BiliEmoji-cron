@@ -1,0 +1,44 @@
+{
+  "id": 7874,
+  "text": "游戏33动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/6762f1ec89c76d8e3ae8a0b3b79b6bd65af49763.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "游戏33动态表情包_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/271fe6a70d2cf03e9dc2367ff031783dae80d5fa.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/4d97be2fd35a2210d6c36c8da7ff8cc2156d87dd.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/3260c8ffc5b0b368296a0206ef046920cbc16ea1.webp"
+    },
+    {
+      "text": "游戏33动态表情包_竖大拇指",
+      "url": "https://i0.hdslb.com/bfs/emote/af8f988415b4806f92b4aa0d9d96effa22cb4c24.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/da334ba7b8b5fb8e86f51d96b81b411249026262.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/74c2e67b8141b635a7e9aded68678a3fdba861a9.webp"
+    },
+    {
+      "text": "游戏33动态表情包_开心游戏",
+      "url": "https://i0.hdslb.com/bfs/emote/6762f1ec89c76d8e3ae8a0b3b79b6bd65af49763.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/1a93a6d669d135d4f1cf736d759cb6216b931b29.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/cd80a0fce394881edc14322b6a86ac24245ad947.webp"
+    },
+    {
+      "text": "游戏33动态表情包_不是哥们",
+      "url": "https://i0.hdslb.com/bfs/emote/e007cdb8ce9a8a9ec2ff7dfd931d49157ea46a48.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/54857995edcda84a097f9ab9ac39eac2d41eaf78.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/6ee217b345883e2c098c4ff3394824c4bd73a402.webp"
+    },
+    {
+      "text": "游戏33动态表情包_摔手柄",
+      "url": "https://i0.hdslb.com/bfs/emote/25f7968a8520e46435a844ce2d9d42c643f17198.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/a8623d19351453bcbca730b8d6ca57df03c3e246.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/36d2d7709fa192e6a5b3bafe244415c79aa9f125.webp"
+    },
+    {
+      "text": "游戏33动态表情包_获胜",
+      "url": "https://i0.hdslb.com/bfs/emote/7d61ac7cf7f92125e84b3ab97a805d8cceecaec4.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/806b6ded0e77f4cdaf457c3c7425a5ff584c2f68.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/c52edfbff6450b7f12b5c72ce335b1ca6fb6ef00.webp"
+    }
+  ]
+}

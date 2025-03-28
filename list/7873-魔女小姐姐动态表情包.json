@@ -1,0 +1,44 @@
+{
+  "id": 7873,
+  "text": "魔女小姐姐动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/0c8393dc9d3096dbd072097e2979d082e7ab359c.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "魔女小姐姐动态表情包_惊喜",
+      "url": "https://i0.hdslb.com/bfs/emote/0c8393dc9d3096dbd072097e2979d082e7ab359c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/09dfcf125253784a0fd14d662bf890fb09fcc4a7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/ba3327939de317c7dba8409eda18f86120828864.webp"
+    },
+    {
+      "text": "魔女小姐姐动态表情包_翻书",
+      "url": "https://i0.hdslb.com/bfs/emote/a198dad0e220721aaf2275455cc74f388abbe517.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/bfaa43cc763259d7bf348d1b179d5a77a8f9d2f0.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/a59e892b4bdca522926a22ce11efc955505f0c4f.webp"
+    },
+    {
+      "text": "魔女小姐姐动态表情包_疑惑",
+      "url": "https://i0.hdslb.com/bfs/emote/cffce713290c49b7192bc0e0692b86d65452c6b8.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/9474b9eadd7aef6eb72ccbcc09a5ed10604d185d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/17b1ac4d58953549a6ec543a4c0d97bd72870751.webp"
+    },
+    {
+      "text": "魔女小姐姐动态表情包_煮药",
+      "url": "https://i0.hdslb.com/bfs/emote/2a3331bbd57ed5397b04f641adfc34b7d851dba2.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/a931409aadb1e08f6b5e474198f360746c0ecca7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/cd252f5860afd00437d049f7788fcf6c25b72c43.webp"
+    },
+    {
+      "text": "魔女小姐姐动态表情包_睡觉",
+      "url": "https://i0.hdslb.com/bfs/emote/3759a6260fe083621a831044fafc8566a61b9683.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/5ff53ee67e3f35c7cc884ec5756ee0fdc5c20ab3.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/ab750651b9d278448bd77d15bba15caa309403b9.webp"
+    },
+    {
+      "text": "魔女小姐姐动态表情包_大哭",
+      "url": "https://i0.hdslb.com/bfs/emote/52bc768d7cb04e9f8b5a36e5b9a4f5f4f32a1446.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/2cae3f1223a9154ab9c9eca0083b579116cc3969.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/e5c054395bf62c191c06b57f0c518ab77b88f087.webp"
+    }
+  ]
+}
