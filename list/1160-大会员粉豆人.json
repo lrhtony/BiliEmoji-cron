@@ -1,7 +1,7 @@
 {
   "id": 1160,
   "text": "大会员粉豆人",
-  "icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230402/b259b7b0f2bb7794ccabec8d9a08f89f/PLY5JnWKgx.png",
+  "icon": "https://i0.hdslb.com/bfs/emote/19cb75f84e819fbdb3d54b951aa3ae6f430d0d17.png",
   "resource_type": 0,
   "emote": [
     {
@@ -145,10 +145,6 @@
       "url": "https://i0.hdslb.com/bfs/emote/46219479a6a70cb9a0664ffdb0f6b68027475d34.png"
     },
     {
-      "text": "大会员粉豆人_咩酱加油",
-      "url": "https://i0.hdslb.com/bfs/emote/aedf728ad230c1caf367865e3d4ae1d31d5bf7fd.png"
-    },
-    {
       "text": "小会员绿豆人_右击掌",
       "url": "https://i0.hdslb.com/bfs/emote/351e21c233710ee688d7a174d6eef42334504850.png"
     },
@@ -163,10 +159,6 @@
     {
       "text": "小会员绿豆人_无奈",
       "url": "https://i0.hdslb.com/bfs/emote/31733da170a62b51669d558428f0d2369c9464a7.png"
-    },
-    {
-      "text": "大会员粉豆人_毕了个耶",
-      "url": "https://i0.hdslb.com/bfs/emote/8f8cbd3df781546e5266ab87dfb13276026c1338.png"
     },
     {
       "text": "小会员绿豆人_无所谓",
