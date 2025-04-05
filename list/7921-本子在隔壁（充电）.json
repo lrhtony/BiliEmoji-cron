@@ -1,0 +1,72 @@
+{
+  "id": 7921,
+  "text": "本子在隔壁（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/76bd417feab5227a49d6b5a377c3982d74f7244e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_593251783_烦",
+      "url": "https://i0.hdslb.com/bfs/garb/c5787e29e92e746383cd4c378202da4511805047.png"
+    },
+    {
+      "text": "UPOWER_593251783_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/6b9720989ff66857b04fcbab3786d84c6a5d47ea.png"
+    },
+    {
+      "text": "UPOWER_593251783_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/252aae190c4a638b0dddd0e4d3f833b39f565151.png"
+    },
+    {
+      "text": "UPOWER_593251783_对不起",
+      "url": "https://i0.hdslb.com/bfs/garb/1eb550db6f423869f680a8d0caef4fc4fe7900cb.png"
+    },
+    {
+      "text": "UPOWER_593251783_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/31b4dd4c71d1721afec88425c004fffcd540b9cb.png"
+    },
+    {
+      "text": "UPOWER_593251783_好棒",
+      "url": "https://i0.hdslb.com/bfs/garb/1bcc2d33b1ca3a9623ee3477424868ed5de4d281.png"
+    },
+    {
+      "text": "UPOWER_593251783_略",
+      "url": "https://i0.hdslb.com/bfs/garb/92246d19a265d1ea80a0708b94b2894f514e3208.png"
+    },
+    {
+      "text": "UPOWER_593251783_Hi",
+      "url": "https://i0.hdslb.com/bfs/garb/51c575909d76e7753e60939d209f7fc5afcaa1f4.png"
+    },
+    {
+      "text": "UPOWER_593251783_厉害",
+      "url": "https://i0.hdslb.com/bfs/garb/5912e401be9d4cb2ebf3d90bd942095ed381505f.png"
+    },
+    {
+      "text": "UPOWER_593251783_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/a235aa74bea6369542d403a3b7edd14166a13636.png"
+    },
+    {
+      "text": "UPOWER_593251783_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/611f9133c62ecafa0da3cbef3937ca9e32d72de0.png"
+    },
+    {
+      "text": "UPOWER_593251783_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/3905f33e2d4986d3c88e55808f366c81cdd49960.png"
+    },
+    {
+      "text": "UPOWER_593251783_ok",
+      "url": "https://i0.hdslb.com/bfs/garb/58867b8cc36b3d0fbe1f6524024b426b5f950f73.png"
+    },
+    {
+      "text": "UPOWER_593251783_emmm",
+      "url": "https://i0.hdslb.com/bfs/garb/38701eadf511acaf2a2cc628f3b155d9d9cc2298.png"
+    },
+    {
+      "text": "UPOWER_593251783_自豪",
+      "url": "https://i0.hdslb.com/bfs/garb/3a69bd781e84ee2c7626e6fac33d8c6d1d5cd658.png"
+    },
+    {
+      "text": "UPOWER_593251783_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/4607adc30836e1d759ccf802113f889edfe09aad.png"
+    }
+  ]
+}
