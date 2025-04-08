@@ -1,0 +1,40 @@
+{
+  "id": 7938,
+  "text": "患病人偶SickDoll（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/981176a5cd385ea34f10ca68dfb3121558395602.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_350793395_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/576e36e89974cae941e68ba4a62d892b4598d962.png"
+    },
+    {
+      "text": "UPOWER_350793395_食油饼",
+      "url": "https://i0.hdslb.com/bfs/garb/c6f811c6a09e8ce2bb212199a2d23020e7bc01f8.png"
+    },
+    {
+      "text": "UPOWER_350793395_喔喔喔",
+      "url": "https://i0.hdslb.com/bfs/garb/2948bf12fbf8f17c76f456335e190f96aa78d7b0.png"
+    },
+    {
+      "text": "UPOWER_350793395_你干嘛",
+      "url": "https://i0.hdslb.com/bfs/garb/300c05be3874be21b6081b758461a6fcccd19fcf.png"
+    },
+    {
+      "text": "UPOWER_350793395_唱",
+      "url": "https://i0.hdslb.com/bfs/garb/94e9aef75ab20c28f2c9fabdb503e104bf212935.png"
+    },
+    {
+      "text": "UPOWER_350793395_跳",
+      "url": "https://i0.hdslb.com/bfs/garb/f2e998cde359bc5a5878baa4ce6fd75198693d42.png"
+    },
+    {
+      "text": "UPOWER_350793395_rap",
+      "url": "https://i0.hdslb.com/bfs/garb/0c16fb1cb136f9e83364f74b839afedfb76d6164.png"
+    },
+    {
+      "text": "UPOWER_350793395_篮球",
+      "url": "https://i0.hdslb.com/bfs/garb/13216db5a782422a4268fd505d44f2f933dbe592.png"
+    }
+  ]
+}

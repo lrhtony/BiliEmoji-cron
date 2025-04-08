@@ -1,0 +1,88 @@
+{
+  "id": 7940,
+  "text": "电子少女DLC",
+  "icon": "https://i0.hdslb.com/bfs/garb/03253491c9c4de569e943651e4fbfe857a8e8489.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "电子少女DLC_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/0107134b7fe6df6b9de3f49d73382d8b2215faa1.png"
+    },
+    {
+      "text": "电子少女DLC_听音乐",
+      "url": "https://i0.hdslb.com/bfs/garb/1cc3dd19bfe35c0de2f68b2b203986ca72c68355.png"
+    },
+    {
+      "text": "电子少女DLC_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/c2461d0d3031638de3dd050185006b476964b989.png"
+    },
+    {
+      "text": "电子少女DLC_啾咪",
+      "url": "https://i0.hdslb.com/bfs/garb/ce8693cb7b8f7c0e1c1c9ad75b84cd99623f1ed3.png"
+    },
+    {
+      "text": "电子少女DLC_call",
+      "url": "https://i0.hdslb.com/bfs/garb/1a5cec7f7d16ce6b0b82ec9dc194d17d04855ed9.png"
+    },
+    {
+      "text": "电子少女DLC_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/f57a71f6e2c9a86142d74d45f67b55846055520b.png"
+    },
+    {
+      "text": "电子少女DLC_biu",
+      "url": "https://i0.hdslb.com/bfs/garb/302828338d14d180a9ec3c20a24b4d941f94b421.png"
+    },
+    {
+      "text": "电子少女DLC_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/8ee4a72236ccf936b3640f517a19350d4c846a3c.png"
+    },
+    {
+      "text": "电子少女DLC_石化",
+      "url": "https://i0.hdslb.com/bfs/garb/568df21498e740eb2d53f0e4c657b6d1637ecf70.png"
+    },
+    {
+      "text": "电子少女DLC_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/5624961330a3a69c71e5bdc36ebe662e4114babc.png"
+    },
+    {
+      "text": "电子少女DLC_腿部挂件",
+      "url": "https://i0.hdslb.com/bfs/garb/ee54d3be9625aca2a9d179fc0e48ffbb641bc607.png"
+    },
+    {
+      "text": "电子少女DLC_元气满满",
+      "url": "https://i0.hdslb.com/bfs/garb/4b962925666d7cf72e6169b91a3b3a2d87463b16.png"
+    },
+    {
+      "text": "电子少女DLC_喵",
+      "url": "https://i0.hdslb.com/bfs/garb/f88be84131bd80b30b7cc2aa6ed7338368ccd17b.png"
+    },
+    {
+      "text": "电子少女DLC_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/855ef87e3d0d96de842ed9724fff36ec89a36110.png"
+    },
+    {
+      "text": "电子少女DLC_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/d482a7e39aedbcdd44fb538460b91a37d5ee39a1.png"
+    },
+    {
+      "text": "电子少女DLC_汗",
+      "url": "https://i0.hdslb.com/bfs/garb/60f71b613c2e155d200613dab4f3a9ef42119dfe.png"
+    },
+    {
+      "text": "电子少女DLC_运行错误",
+      "url": "https://i0.hdslb.com/bfs/garb/f0af2db6a5221d9e505621855786ef7267f2d7b2.png"
+    },
+    {
+      "text": "电子少女DLC_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/f4a508dee5ed6cfe4425c3a7c538e03a315d46e7.png"
+    },
+    {
+      "text": "电子少女DLC_奈斯",
+      "url": "https://i0.hdslb.com/bfs/garb/0e234f897649e7f1345c94ad582ba12098f93f64.png"
+    },
+    {
+      "text": "电子少女DLC_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/75da0185fc67dc49b0998eb5430089c62ada1017.png"
+    }
+  ]
+}
