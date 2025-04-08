@@ -1,0 +1,68 @@
+{
+  "id": 7943,
+  "text": "少女与雪人",
+  "icon": "https://i0.hdslb.com/bfs/garb/d2e5b40ad1844b6240dc9c2ade7cb7c6b64a508a.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "少女与雪人_好耶",
+      "url": "https://i0.hdslb.com/bfs/garb/dc99e0c0e7e496f330dde4d0591071b0fb243c2e.png"
+    },
+    {
+      "text": "少女与雪人_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/94c2258784a12b74e20c98fd741bd7d7a9eae384.png"
+    },
+    {
+      "text": "少女与雪人_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/27e98eadf3a01cb83e801d12db7a86e2e39d5f09.png"
+    },
+    {
+      "text": "少女与雪人_偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/79972715828c77f8fb1280f0915b33ee79482750.png"
+    },
+    {
+      "text": "少女与雪人_装傻",
+      "url": "https://i0.hdslb.com/bfs/garb/b612cee85843294585e54d9d4b9ce71ef07b2850.png"
+    },
+    {
+      "text": "少女与雪人_真棒",
+      "url": "https://i0.hdslb.com/bfs/garb/d2e146b1e286ca18dae5a0fbf4fb03c3f34a935b.png"
+    },
+    {
+      "text": "少女与雪人_真菜",
+      "url": "https://i0.hdslb.com/bfs/garb/932843e715fa519237a002d05d9ae3e2e9395b1a.png"
+    },
+    {
+      "text": "少女与雪人_指责",
+      "url": "https://i0.hdslb.com/bfs/garb/e014e41d8ab429a1d617d6e59111721fe4fd0ef4.png"
+    },
+    {
+      "text": "少女与雪人_唱歌",
+      "url": "https://i0.hdslb.com/bfs/garb/5b6f94062d148961616f3a60201d21e085d4a715.png"
+    },
+    {
+      "text": "少女与雪人_冲浪",
+      "url": "https://i0.hdslb.com/bfs/garb/fd62f9f261d2f82a00fa75c575711580726b22f4.png"
+    },
+    {
+      "text": "少女与雪人_分身",
+      "url": "https://i0.hdslb.com/bfs/garb/2a056f07b289e2a3481e4efa9297b2eadfc5a693.png"
+    },
+    {
+      "text": "少女与雪人_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/90aea0922dcbd6fbf5975c590e722092dc4e88ca.png"
+    },
+    {
+      "text": "少女与雪人_咔嚓",
+      "url": "https://i0.hdslb.com/bfs/garb/e1b15027549feef58daceabf7e99bb85f138fac3.png"
+    },
+    {
+      "text": "少女与雪人_好热",
+      "url": "https://i0.hdslb.com/bfs/garb/2ff69ecd5d1267d757d0b632aa126e7e643baa04.png"
+    },
+    {
+      "text": "少女与雪人_照镜子",
+      "url": "https://i0.hdslb.com/bfs/garb/0d6b109e87f036a957225b62edaf797e8c0198af.png"
+    }
+  ]
+}
