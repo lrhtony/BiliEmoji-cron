@@ -1,7 +1,7 @@
 {
   "id": 7079,
   "text": "清水芽衣（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/68ffdee115c75697d13d12633671ced656527619.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/5659c6c34ce2a24451b9ac98dc91c26f7ef656b0.png",
   "resource_type": 0,
   "emote": [
     {
@@ -45,16 +45,8 @@
       "url": "https://i0.hdslb.com/bfs/garb/a3bfa3f4f0788a4574964aeff6d8da6ff8ed00fc.png"
     },
     {
-      "text": "UPOWER_670363050_叹气",
-      "url": "https://i0.hdslb.com/bfs/garb/b8fe2f5c96eae5589b1f8d6077f414b641241670.png"
-    },
-    {
       "text": "UPOWER_670363050_阴险",
       "url": "https://i0.hdslb.com/bfs/garb/a35083138295ea1daff102059de5e08d054d0469.png"
-    },
-    {
-      "text": "UPOWER_670363050_生气",
-      "url": "https://i0.hdslb.com/bfs/garb/685a0de5dcb0fa75efb0ac7e8ea0448250358da5.png"
     },
     {
       "text": "UPOWER_670363050_嘤嘤嘤",
@@ -69,10 +61,6 @@
       "url": "https://i0.hdslb.com/bfs/garb/aa728fc90367d05df3a20c7ad389aa328c13333d.png"
     },
     {
-      "text": "UPOWER_670363050_无语",
-      "url": "https://i0.hdslb.com/bfs/garb/698cfa3b0582dead74af988e926d805138941b1c.png"
-    },
-    {
       "text": "UPOWER_670363050_冷汗",
       "url": "https://i0.hdslb.com/bfs/garb/0eef553a8f042279da84704cc141bea17f1079e9.png"
     },
@@ -81,72 +69,16 @@
       "url": "https://i0.hdslb.com/bfs/garb/06e91782429045ec68a9b01a4a0ccf7aba1ebe74.png"
     },
     {
-      "text": "UPOWER_670363050_好欸",
-      "url": "https://i0.hdslb.com/bfs/garb/5abfaea160705ddd3e394f7bf73fac7adcf8a13a.png"
+      "text": "UPOWER_670363050_啾咪",
+      "url": "https://i0.hdslb.com/bfs/garb/4e52a37e61d4d2b8f2973e39c06fb9bd20b1c4c1.png"
     },
     {
-      "text": "UPOWER_670363050_星星眼",
-      "url": "https://i0.hdslb.com/bfs/garb/93d8d5a2a9d0724a2dea2bcf47364f8bc5427da9.png"
+      "text": "UPOWER_670363050_哇库",
+      "url": "https://i0.hdslb.com/bfs/garb/45844a9f3a9e3113a918ca86c4526876c8c96bcb.png"
     },
     {
-      "text": "UPOWER_670363050_老板大气",
-      "url": "https://i0.hdslb.com/bfs/garb/20ae8efb6b887700403f65c4934ba450756a987e.png"
-    },
-    {
-      "text": "UPOWER_670363050_吃瓜",
-      "url": "https://i0.hdslb.com/bfs/garb/bfe42295592e95b5e8d861244a6a0455842f7b54.png"
-    },
-    {
-      "text": "UPOWER_670363050_吐魂",
-      "url": "https://i0.hdslb.com/bfs/garb/2fd7f26d8731abdb2d9a0d40980c3aa791005c2f.png"
-    },
-    {
-      "text": "UPOWER_670363050_比心",
-      "url": "https://i0.hdslb.com/bfs/garb/fb0b4918550c5f5fba4c8ad86adf8be785555f18.png"
-    },
-    {
-      "text": "UPOWER_670363050_委屈",
-      "url": "https://i0.hdslb.com/bfs/garb/111bc03e7e8ffd653105da49ed371b42192da854.png"
-    },
-    {
-      "text": "UPOWER_670363050_晚安",
-      "url": "https://i0.hdslb.com/bfs/garb/8b57677cdaff711239d374967b4de38463f60bca.png"
-    },
-    {
-      "text": "UPOWER_670363050_鲜花",
-      "url": "https://i0.hdslb.com/bfs/garb/6fb2014d65b46b95b397fecfeee11a09ef8830f2.png"
-    },
-    {
-      "text": "UPOWER_670363050_打call",
-      "url": "https://i0.hdslb.com/bfs/garb/80f62349d552f52ee4a4041f180491d168b11eb7.png"
-    },
-    {
-      "text": "UPOWER_670363050_开心",
-      "url": "https://i0.hdslb.com/bfs/garb/e9f28931c49838858b58731aa07d7b5e4a564a92.png"
-    },
-    {
-      "text": "UPOWER_670363050_花痴",
-      "url": "https://i0.hdslb.com/bfs/garb/b9d9ada142e4d562b0e7303e4d002ee9a4213dab.png"
-    },
-    {
-      "text": "UPOWER_670363050_摸鱼",
-      "url": "https://i0.hdslb.com/bfs/garb/75cec6bf5c2335b17960d3b553ef6f9b200cbd88.png"
-    },
-    {
-      "text": "UPOWER_670363050_捂嘴",
-      "url": "https://i0.hdslb.com/bfs/garb/1ccc9b59916213e2f3b8d676fd1e3a1fc5849e78.png"
-    },
-    {
-      "text": "UPOWER_670363050_饿饿饭饭",
-      "url": "https://i0.hdslb.com/bfs/garb/4e2614326fe59cb42ac0ef7b2cfaff4668df1251.png"
-    },
-    {
-      "text": "UPOWER_670363050_疑问",
-      "url": "https://i0.hdslb.com/bfs/garb/fcc66d29c02f4050aa2caef616c89c2d7db99eb5.png"
-    },
-    {
-      "text": "UPOWER_670363050_惊讶",
-      "url": "https://i0.hdslb.com/bfs/garb/70f697c8cc89d659685d03581647c587c5585f00.png"
+      "text": "UPOWER_670363050_永",
+      "url": "https://i0.hdslb.com/bfs/garb/7d31b47458bec5a804f82ff669800c8b78fcd3c0.png"
     }
   ]
 }
