@@ -1,0 +1,108 @@
+{
+  "id": 7972,
+  "text": "菇菇醒",
+  "icon": "https://i0.hdslb.com/bfs/garb/3149b5fbcd9e3cf740c3ae777ce00b042fe057cb.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "菇菇醒_看戏",
+      "url": "https://i0.hdslb.com/bfs/garb/0f745af5fbee119c8769cbe948a46b7aff10001c.png"
+    },
+    {
+      "text": "菇菇醒_一巴掌",
+      "url": "https://i0.hdslb.com/bfs/garb/c021b75013382ccc46bc5eaab80e61d621bb5fe9.png"
+    },
+    {
+      "text": "菇菇醒_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/c04b91e0df2dfe5a663d87ca19bddba603273f12.png"
+    },
+    {
+      "text": "菇菇醒_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/2e34c108d8500b31b3cca52d4c50c0ae3cfeb39c.png"
+    },
+    {
+      "text": "菇菇醒_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/6451f7884a706a82ebe1b59eff9b056c4912d6eb.png"
+    },
+    {
+      "text": "菇菇醒_酷",
+      "url": "https://i0.hdslb.com/bfs/garb/c0f5459f287a76934bdd0c8bc9e94eb122ce8812.png"
+    },
+    {
+      "text": "菇菇醒_剪头",
+      "url": "https://i0.hdslb.com/bfs/garb/20e801d3036f5eac9096aba2b116f4107ccef187.png"
+    },
+    {
+      "text": "菇菇醒_抓",
+      "url": "https://i0.hdslb.com/bfs/garb/30122eed6262f4d607a6906f6f50f84501a5a144.png"
+    },
+    {
+      "text": "菇菇醒_稿呢",
+      "url": "https://i0.hdslb.com/bfs/garb/211af5389ddb8e1ef9d7c7955c75c3e98699c100.png"
+    },
+    {
+      "text": "菇菇醒_下厨",
+      "url": "https://i0.hdslb.com/bfs/garb/e4ca5c27e75e505935e0e3d749936d3062663ded.png"
+    },
+    {
+      "text": "菇菇醒_瞅啥",
+      "url": "https://i0.hdslb.com/bfs/garb/2cf0bdad2c03fcad42008c467cea4bcda9996d3e.png"
+    },
+    {
+      "text": "菇菇醒_落水",
+      "url": "https://i0.hdslb.com/bfs/garb/40ac97d81820908835b37afef01a5d63e34de7d5.png"
+    },
+    {
+      "text": "菇菇醒_累累",
+      "url": "https://i0.hdslb.com/bfs/garb/10a539bf1cec34c04cb9e600158a7b4ce7afd23b.png"
+    },
+    {
+      "text": "菇菇醒_喝药",
+      "url": "https://i0.hdslb.com/bfs/garb/94d7d3db11638d8ea69cc429a3225c2b60ca75c7.png"
+    },
+    {
+      "text": "菇菇醒_浅尝",
+      "url": "https://i0.hdslb.com/bfs/garb/e111c27c4e043f733548d5c5d35ce616cb7e5fcb.png"
+    },
+    {
+      "text": "菇菇醒_倒地",
+      "url": "https://i0.hdslb.com/bfs/garb/06b6363eda16788f14cc73ee8f192c31203c8c5b.png"
+    },
+    {
+      "text": "菇菇醒_鲜花",
+      "url": "https://i0.hdslb.com/bfs/garb/4641de5a55ce7cb8678ab907e6b43308a2c50e6d.png"
+    },
+    {
+      "text": "菇菇醒_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/b7f5384bae85c20a9976884ceec3679ea4f852fb.png"
+    },
+    {
+      "text": "菇菇醒_开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/a4323045d66af65cac5375de6b6055e31b45871c.png"
+    },
+    {
+      "text": "菇菇醒_肝稿",
+      "url": "https://i0.hdslb.com/bfs/garb/d7b37f6763de2c7147a1a260e058789e0f70429a.png"
+    },
+    {
+      "text": "菇菇醒_钓鱼去",
+      "url": "https://i0.hdslb.com/bfs/garb/84f06d04b1a24f6c0cc2b66dfd22a01c92bcac91.png"
+    },
+    {
+      "text": "菇菇醒_蜀道山",
+      "url": "https://i0.hdslb.com/bfs/garb/e03c17b34b710cbe426ec588540b176aa2e791f3.png"
+    },
+    {
+      "text": "菇菇醒_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/f39cbb179e5d603fca5abe09e255566569d0a9d8.png"
+    },
+    {
+      "text": "菇菇醒_星星眼",
+      "url": "https://i0.hdslb.com/bfs/garb/8a85d49d03507b2653d7efa9ebaf6a52348ed47e.png"
+    },
+    {
+      "text": "菇菇醒_烧烤",
+      "url": "https://i0.hdslb.com/bfs/garb/9b0054ddcf1132a1c9065ea11dbd523e37d0033f.png"
+    }
+  ]
+}
