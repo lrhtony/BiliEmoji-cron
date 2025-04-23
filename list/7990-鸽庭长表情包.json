@@ -1,0 +1,32 @@
+{
+  "id": 7990,
+  "text": "鸽庭长表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/f956c9c5844baacc612505b615c3f8f1e6dcf4bf.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "鸽庭长表情包_理直气壮",
+      "url": "https://i0.hdslb.com/bfs/emote/7fb963a63f301583cc529cafd261fffe817fa7d3.png"
+    },
+    {
+      "text": "鸽庭长表情包_开心",
+      "url": "https://i0.hdslb.com/bfs/emote/6a641a6d0d6e7e5a728d8961f0e1d1f6d20ab918.png"
+    },
+    {
+      "text": "鸽庭长表情包_鸽了",
+      "url": "https://i0.hdslb.com/bfs/emote/f84d7b602d0503f1c0bc9cc1b4fdd3a8d02fa595.png"
+    },
+    {
+      "text": "鸽庭长表情包_对不起",
+      "url": "https://i0.hdslb.com/bfs/emote/9b98cc68d19757a22bd64f672a526c8c1e4e871f.png"
+    },
+    {
+      "text": "鸽庭长表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/888a2bd559df28ddc9846c5ba6cdc35c21525fdb.png"
+    },
+    {
+      "text": "鸽庭长表情包_有罪宣判",
+      "url": "https://i0.hdslb.com/bfs/emote/5916674e2a4c6bd1a4fbe9c7cdcdc2eecb968db8.png"
+    }
+  ]
+}
