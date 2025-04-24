@@ -1,0 +1,48 @@
+{
+  "id": 8004,
+  "text": "花铭__（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/dc339a2f1ce354d819fa9b7232f009a239097b1d.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_19916355_云兮疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/fe8f69f6ca3ba9b7821393415429646f9bd45fdb.png"
+    },
+    {
+      "text": "UPOWER_19916355_云兮微笑",
+      "url": "https://i0.hdslb.com/bfs/garb/a09c78d9c5a2e35144645d7bbf300145bcfdbab2.png"
+    },
+    {
+      "text": "UPOWER_19916355_云兮保佑",
+      "url": "https://i0.hdslb.com/bfs/garb/868f8e70ad5006d001dd1325c74835de663f81b3.png"
+    },
+    {
+      "text": "UPOWER_19916355_云兮偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/2bc52a0d9de3b58410aeffc0640203b05ddf6cf2.png"
+    },
+    {
+      "text": "UPOWER_19916355_云兮害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/3aa98f13d3288911cba718855b851197f628b542.png"
+    },
+    {
+      "text": "UPOWER_19916355_云兮吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/a8777442ce5480f166d496aa0929ccf048db20c4.png"
+    },
+    {
+      "text": "UPOWER_19916355_云兮生气",
+      "url": "https://i0.hdslb.com/bfs/garb/fb62ca9ab1790b75a9167ea95ad3f33d782d441f.png"
+    },
+    {
+      "text": "UPOWER_19916355_云兮喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/4fd9a084fd02b6aaba9a70504ce759dd568a372f.png"
+    },
+    {
+      "text": "UPOWER_19916355_云兮哇库",
+      "url": "https://i0.hdslb.com/bfs/garb/9422520fa43fd98c2325c3b1af19c693f09f4cf9.png"
+    },
+    {
+      "text": "UPOWER_19916355_云兮哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/77c0224ebd648e0d5cc305d73c97ca7fbe7e418e.png"
+    }
+  ]
+}
