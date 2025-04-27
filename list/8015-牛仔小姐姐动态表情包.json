@@ -1,0 +1,44 @@
+{
+  "id": 8015,
+  "text": "牛仔小姐姐动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/de884b79161a13d1706488de1143c9f3f224afc6.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "牛仔小姐姐动态表情包_瞄准",
+      "url": "https://i0.hdslb.com/bfs/emote/de884b79161a13d1706488de1143c9f3f224afc6.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/380b269589279b1159407e408d54dd558dc44fc4.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/7daff329ad443e6d5b9c564b8aa7742b6ec5c3fa.webp"
+    },
+    {
+      "text": "牛仔小姐姐动态表情包_喝茶",
+      "url": "https://i0.hdslb.com/bfs/emote/b320cee687ffedcf476504b093019ecce8f41b28.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/14b30b90b75c9717ba611f723559b8a86f5a5cad.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/6c36cc87ecaae879e0e1bc46257d1a0ea0827f22.webp"
+    },
+    {
+      "text": "牛仔小姐姐动态表情包_耍帅",
+      "url": "https://i0.hdslb.com/bfs/emote/28d1d9ebe7630aa7b1e946c1eff70bbcc5508b26.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/9044f03205a53fae00158769cd279afdc3330dcd.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/bae8d0f60407bccae5f75af3a6063f161a42419b.webp"
+    },
+    {
+      "text": "牛仔小姐姐动态表情包_心虚",
+      "url": "https://i0.hdslb.com/bfs/emote/616d0b0bb1ac79ea456b2660516e440710089d82.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/478caa16e396b80af215683f0590f9220745a97d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/aa52825d4a32bd32d4881d6b94a51c8b13d1a348.webp"
+    },
+    {
+      "text": "牛仔小姐姐动态表情包_来咯",
+      "url": "https://i0.hdslb.com/bfs/emote/21331dc8c84fdbe2d822061e474f23aca20605f9.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/a7a6f30316984a4b1cc135cc7bf91c64d6f6956d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/e6aca7f4427fe46c00c5169c4e7e7bc88c525a50.webp"
+    },
+    {
+      "text": "牛仔小姐姐动态表情包_好累",
+      "url": "https://i0.hdslb.com/bfs/emote/52c7253cac648a9aa616508de58c2f81cf319663.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/c2404b622300674137f4ccdff28907f27693f90f.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/248b9a7098745177ec515b8d59793ceeb47206a0.webp"
+    }
+  ]
+}
