@@ -1,0 +1,68 @@
+{
+  "id": 8027,
+  "text": "温馨午后",
+  "icon": "https://i0.hdslb.com/bfs/garb/26cfd51e6dfbb2c9782208ad85dc5bca73a324f4.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "温馨午后_电量耗光",
+      "url": "https://i0.hdslb.com/bfs/garb/7b5300da87f5805aec3095a8022a8e645aee8906.png"
+    },
+    {
+      "text": "温馨午后_探头",
+      "url": "https://i0.hdslb.com/bfs/garb/a02c959dfb4a500a82d4ec0751ee58c5cf536d45.png"
+    },
+    {
+      "text": "温馨午后_崇拜",
+      "url": "https://i0.hdslb.com/bfs/garb/ba49addfadd050b549436525a8d4f0b1b709cb19.png"
+    },
+    {
+      "text": "温馨午后_鸡皇",
+      "url": "https://i0.hdslb.com/bfs/garb/388c98ae1ed39bcc809cee48ea13f021050de157.png"
+    },
+    {
+      "text": "温馨午后_突然出现",
+      "url": "https://i0.hdslb.com/bfs/garb/63d5807958f7e6e6b48811282d0410340ff380b0.png"
+    },
+    {
+      "text": "温馨午后_小鸡甜筒",
+      "url": "https://i0.hdslb.com/bfs/garb/9ae6853848c12827506ac4ef32992edb62800594.png"
+    },
+    {
+      "text": "温馨午后_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/51bd34ed7df0aad70096c1d6769ac8e8a5a80bea.png"
+    },
+    {
+      "text": "温馨午后_左心心",
+      "url": "https://i0.hdslb.com/bfs/garb/0be2f34e668a6d733d059da44542f56e28b5ed26.png"
+    },
+    {
+      "text": "温馨午后_右心心",
+      "url": "https://i0.hdslb.com/bfs/garb/0a86b569aaa3b94b92c63d789087b6f77e22caf8.png"
+    },
+    {
+      "text": "温馨午后_没睡醒",
+      "url": "https://i0.hdslb.com/bfs/garb/9ece6db95118c5c26353b086d211e63501ca229c.png"
+    },
+    {
+      "text": "温馨午后_快看",
+      "url": "https://i0.hdslb.com/bfs/garb/7b8f21a15365313646917b8c3c9bca234b362df8.png"
+    },
+    {
+      "text": "温馨午后_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/38680c215fee4dd3c3799e07e9534670dab6fb58.png"
+    },
+    {
+      "text": "温馨午后_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/c83a78bd3981f07ad4b6e1981fe457edddf50ae0.png"
+    },
+    {
+      "text": "温馨午后_来财",
+      "url": "https://i0.hdslb.com/bfs/garb/d3a8113122028df2ab718bf2bd8947112957b10f.png"
+    },
+    {
+      "text": "温馨午后_小鸡登场",
+      "url": "https://i0.hdslb.com/bfs/garb/78a0a402617d224558b4b49f2fd7cc8236b88bd6.png"
+    }
+  ]
+}
