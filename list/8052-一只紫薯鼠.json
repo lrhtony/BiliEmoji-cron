@@ -1,0 +1,68 @@
+{
+  "id": 8052,
+  "text": "一只紫薯鼠",
+  "icon": "https://i0.hdslb.com/bfs/garb/39175ed68716609dce6e3e398fd2e953fb6126a4.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "一只紫薯鼠_扁鼠",
+      "url": "https://i0.hdslb.com/bfs/garb/8b1a95cd837d9adead4c059fc53c3e304c9650e4.png"
+    },
+    {
+      "text": "一只紫薯鼠_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/e6bd2031e5153a14b2502e323c8f03df70c782e0.png"
+    },
+    {
+      "text": "一只紫薯鼠_没电了",
+      "url": "https://i0.hdslb.com/bfs/garb/152be0bf950a583efc8130ca0f500af2e8438479.png"
+    },
+    {
+      "text": "一只紫薯鼠_大叫",
+      "url": "https://i0.hdslb.com/bfs/garb/f36b756fac5a2d9683fd419f111404f466285682.png"
+    },
+    {
+      "text": "一只紫薯鼠_抓鼠",
+      "url": "https://i0.hdslb.com/bfs/garb/1011c19392f08b499878b1031d7039b00a8d1c2f.png"
+    },
+    {
+      "text": "一只紫薯鼠_冷静",
+      "url": "https://i0.hdslb.com/bfs/garb/971d1daaa31d7e0ab15b6d703829b1481d898698.png"
+    },
+    {
+      "text": "一只紫薯鼠_萎靡",
+      "url": "https://i0.hdslb.com/bfs/garb/30931ebb48e8e8c0090f12b0c2cf543c84864cd9.png"
+    },
+    {
+      "text": "一只紫薯鼠_指",
+      "url": "https://i0.hdslb.com/bfs/garb/d1634f21e509e43f5b0ebd4b2c04ca251f6f9e62.png"
+    },
+    {
+      "text": "一只紫薯鼠_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/053c20593c365fee7ba81501d807f7cec9eb44c9.png"
+    },
+    {
+      "text": "一只紫薯鼠_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/11789257ee62f507e722f560a677188032cb351f.png"
+    },
+    {
+      "text": "一只紫薯鼠_泪眼汪汪",
+      "url": "https://i0.hdslb.com/bfs/garb/18ca6817eb782c243c7a28aecaaecff9243f1104.png"
+    },
+    {
+      "text": "一只紫薯鼠_外星鼠",
+      "url": "https://i0.hdslb.com/bfs/garb/dc0acd2c1cab2b968cfc1c24dfb0f7b34238c99e.png"
+    },
+    {
+      "text": "一只紫薯鼠_准备吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/f5e5295c3f144b26abc01357549822600b15a6f4.png"
+    },
+    {
+      "text": "一只紫薯鼠_呆滞",
+      "url": "https://i0.hdslb.com/bfs/garb/abae7e1d33592c1e3b1f9ffcb8bd66856c4ffbd0.png"
+    },
+    {
+      "text": "一只紫薯鼠_厌倦",
+      "url": "https://i0.hdslb.com/bfs/garb/a33baef5f50d4629676dd7ff0e38fa06f6048f4c.png"
+    }
+  ]
+}
