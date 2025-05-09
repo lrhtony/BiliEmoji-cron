@@ -18,7 +18,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Scan emoji
         env:
-          REDIS_URL: ${{ secrets.REDIS_URL }}
+          ACCOUNT: ${{ secrets.ACCOUNT }}
+          ACCOUNT_DB_URI: ${{ secrets.ACCOUNT_DB_URI }}
           SCAN_CONFIG: ${{ secrets.SCAN_CONFIG }}
         run: python script/main.py
       - name: Commit changes

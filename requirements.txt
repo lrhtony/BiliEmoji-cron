@@ -1,2 +1,4 @@
 requests
 Brotli
+pymongo[srv]
+certifi
