@@ -1,0 +1,40 @@
+{
+  "id": 8090,
+  "text": "油管小王子Terry（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/bfce3e7e53b008306073bbf57a109b368c335c97.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_397180707_三星评级",
+      "url": "https://i0.hdslb.com/bfs/garb/251048afca634609f7682161ec2874019ddaa7c4.png"
+    },
+    {
+      "text": "UPOWER_397180707_四星评级",
+      "url": "https://i0.hdslb.com/bfs/garb/af0fe5fcd7b2e3071e8f0d2887bf66190123b2fd.png"
+    },
+    {
+      "text": "UPOWER_397180707_五星评级",
+      "url": "https://i0.hdslb.com/bfs/garb/20b12758e5925fd30d5df646b3186fcb8d81033e.png"
+    },
+    {
+      "text": "UPOWER_397180707_King",
+      "url": "https://i0.hdslb.com/bfs/garb/b8ba239709c558c5f5ed929330afb731c6383a73.png"
+    },
+    {
+      "text": "UPOWER_397180707_状元",
+      "url": "https://i0.hdslb.com/bfs/garb/fc42a12e02ef1ca14e68ea846cbb88a310220dec.png"
+    },
+    {
+      "text": "UPOWER_397180707_榜眼",
+      "url": "https://i0.hdslb.com/bfs/garb/044487bcb39d39de1e4fd0fde38ca3c9e8d8bce4.png"
+    },
+    {
+      "text": "UPOWER_397180707_探花",
+      "url": "https://i0.hdslb.com/bfs/garb/9633f168e836296ea7318c54519fb75c5ededaec.png"
+    },
+    {
+      "text": "UPOWER_397180707_吸引眼球",
+      "url": "https://i0.hdslb.com/bfs/garb/512f13ae911e101f179bc2a7da939f6ac4795c45.png"
+    }
+  ]
+}
