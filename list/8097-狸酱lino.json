@@ -1,0 +1,88 @@
+{
+  "id": 8097,
+  "text": "狸酱lino",
+  "icon": "https://i0.hdslb.com/bfs/garb/3158dec1ae03c253240ea57111e34bcdbf787722.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "狸酱lino_prpr",
+      "url": "https://i0.hdslb.com/bfs/garb/945193399bf1c91eb276da1183de45b98827a572.png"
+    },
+    {
+      "text": "狸酱lino_吃草",
+      "url": "https://i0.hdslb.com/bfs/garb/dc209cc95252ed15e5b66aa0f821189e3f2cacfd.png"
+    },
+    {
+      "text": "狸酱lino_别走好吗",
+      "url": "https://i0.hdslb.com/bfs/garb/de768de341935d585e63c6ed52c76c4a10a3cb9c.png"
+    },
+    {
+      "text": "狸酱lino_哈",
+      "url": "https://i0.hdslb.com/bfs/garb/9cac56afdc0b43ed6dfeed30d73ac90b3f13decb.png"
+    },
+    {
+      "text": "狸酱lino_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/3c663e53b96d91a8171d5e6043410cba5cc31c5d.png"
+    },
+    {
+      "text": "狸酱lino_嘻嘻喵",
+      "url": "https://i0.hdslb.com/bfs/garb/052470b43d77f1891be5982b9fa409300c381196.png"
+    },
+    {
+      "text": "狸酱lino_好的主人",
+      "url": "https://i0.hdslb.com/bfs/garb/e37380ea56307ffb18c14a6c7cbd805b9d744792.png"
+    },
+    {
+      "text": "狸酱lino_尴尬喵",
+      "url": "https://i0.hdslb.com/bfs/garb/282df7a35a510c94c2fcbf2970f655568ad29480.png"
+    },
+    {
+      "text": "狸酱lino_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/5c1ff513bb71efaaf91a09efee2f013fe14f69b5.png"
+    },
+    {
+      "text": "狸酱lino_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/93195086ec698c8eeb55eb2a51bba2a01554d513.png"
+    },
+    {
+      "text": "狸酱lino_想你",
+      "url": "https://i0.hdslb.com/bfs/garb/eee08da15926652f44d9abbfab20f52304ddbd80.png"
+    },
+    {
+      "text": "狸酱lino_摸摸",
+      "url": "https://i0.hdslb.com/bfs/garb/7864961da0d286de427b223b217882c8720811e2.png"
+    },
+    {
+      "text": "狸酱lino_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/f8ac90f4cc358b5520313c5be2f576ee1e999704.png"
+    },
+    {
+      "text": "狸酱lino_杂鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/a6f926dbb76f4eca59b8daab4106d2a948c76e31.png"
+    },
+    {
+      "text": "狸酱lino_永远爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/70818d91933ee96c6af94b91090a4232f6408670.png"
+    },
+    {
+      "text": "狸酱lino_燃尽",
+      "url": "https://i0.hdslb.com/bfs/garb/9e2cdac6c0f0d533e9a0a041bd349e1f0ad5c818.png"
+    },
+    {
+      "text": "狸酱lino_愤怒喵",
+      "url": "https://i0.hdslb.com/bfs/garb/963ea9b5b62081e3a3b59d5cdfddb9b18a4844d9.png"
+    },
+    {
+      "text": "狸酱lino_结婚喵",
+      "url": "https://i0.hdslb.com/bfs/garb/351885c9b1ba819fb8f084b2e1fd40f51f03ae3a.png"
+    },
+    {
+      "text": "狸酱lino_绝赞",
+      "url": "https://i0.hdslb.com/bfs/garb/38362443fef920be6a9a5b7c79c1d8cc692b56c9.png"
+    },
+    {
+      "text": "狸酱lino_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/04cb672d1e6188cd232e4d59590e174290444942.png"
+    }
+  ]
+}
