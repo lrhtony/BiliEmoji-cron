@@ -1,0 +1,68 @@
+{
+  "id": 8098,
+  "text": "宅家犬",
+  "icon": "https://i0.hdslb.com/bfs/garb/33a946282e3069b57edd49563abe19b992e5d864.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "宅家犬_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/074ffc1c8ef46937f79f1f322e786893d2696d1d.png"
+    },
+    {
+      "text": "宅家犬_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/23508dd344a10ab2bf3002a79a03466ee2bffcb1.png"
+    },
+    {
+      "text": "宅家犬_那路或多",
+      "url": "https://i0.hdslb.com/bfs/garb/2e5080396b7e6cb1ae6bc258a13e487a510c84a6.png"
+    },
+    {
+      "text": "宅家犬_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/cf62d80339b49ba5fbb6dc3295734e7339066414.png"
+    },
+    {
+      "text": "宅家犬_跪",
+      "url": "https://i0.hdslb.com/bfs/garb/d90cad863ce6d4e57c263a1153ffea0d4a833ee8.png"
+    },
+    {
+      "text": "宅家犬_平身",
+      "url": "https://i0.hdslb.com/bfs/garb/1dcdbd3a75dbdc198ed2a59236164f03e3ffb68c.png"
+    },
+    {
+      "text": "宅家犬_朕乏了",
+      "url": "https://i0.hdslb.com/bfs/garb/a1555939227340cd55254dc2a5c2becc06a33e1b.png"
+    },
+    {
+      "text": "宅家犬_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/35dded26f4c6b7157d20dc85087d39ab4381b8dd.png"
+    },
+    {
+      "text": "宅家犬_Kimo",
+      "url": "https://i0.hdslb.com/bfs/garb/cf9db000f91066429694feb8594ea37ad1828068.png"
+    },
+    {
+      "text": "宅家犬_Kowa",
+      "url": "https://i0.hdslb.com/bfs/garb/36f23900912475087beded6fe96ae1451b3ad82d.png"
+    },
+    {
+      "text": "宅家犬_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/557dc090426aca2cbcf5659fa98ad49a54517fee.png"
+    },
+    {
+      "text": "宅家犬_哈？",
+      "url": "https://i0.hdslb.com/bfs/garb/71d0983ac6986f45b2754f1ae3fa63dd9c39c18d.png"
+    },
+    {
+      "text": "宅家犬_犯困",
+      "url": "https://i0.hdslb.com/bfs/garb/f4aebd4d6b6fca6f03271f2f840ac90c7c60414e.png"
+    },
+    {
+      "text": "宅家犬_加班",
+      "url": "https://i0.hdslb.com/bfs/garb/806388e033f75e6d209ead9aa0c7b0ea167dced2.png"
+    },
+    {
+      "text": "宅家犬_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/1cd934c8e1fc66da95007b701eaa27212c9b5c24.png"
+    }
+  ]
+}
