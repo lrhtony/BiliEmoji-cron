@@ -1,0 +1,88 @@
+{
+  "id": 8114,
+  "text": "讨厌雾",
+  "icon": "https://i0.hdslb.com/bfs/garb/4bcf842f40269e5a7eb16a84a6ec02d77226d845.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "讨厌雾_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/a4afc0f71ac608a386e0239ae39a0a5bbce00dc3.png"
+    },
+    {
+      "text": "讨厌雾_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/a12b107db85534965bc292cb5c8f7bd5c5114021.png"
+    },
+    {
+      "text": "讨厌雾_离我远点",
+      "url": "https://i0.hdslb.com/bfs/garb/05f227dac5a460d391dc6fd0a41c4050be6c9ece.png"
+    },
+    {
+      "text": "讨厌雾_快逃",
+      "url": "https://i0.hdslb.com/bfs/garb/45715dffec19ae18dd5f3369f6815c508c087acf.png"
+    },
+    {
+      "text": "讨厌雾_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/55106ff0e133b28d874c650ade8f2aaeb902c6c9.png"
+    },
+    {
+      "text": "讨厌雾_哈哈哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/cc7226000a9cb69ee08dc4d60c1cd455f71df7e0.png"
+    },
+    {
+      "text": "讨厌雾_生日快乐",
+      "url": "https://i0.hdslb.com/bfs/garb/b67a1006c4da1a2b56a275d51b9c3422e427f215.png"
+    },
+    {
+      "text": "讨厌雾_数羊",
+      "url": "https://i0.hdslb.com/bfs/garb/746371f0dc7ea582181f58d92b84686101cdee46.png"
+    },
+    {
+      "text": "讨厌雾_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/00595982b4e528298ce011e968a7ced139a869d4.png"
+    },
+    {
+      "text": "讨厌雾_天使",
+      "url": "https://i0.hdslb.com/bfs/garb/168385cfba1894cfe265aaa110ad66855fcca927.png"
+    },
+    {
+      "text": "讨厌雾_记小本本",
+      "url": "https://i0.hdslb.com/bfs/garb/ddcd53f02b9f750346ebf1210b57e9246abd2d06.png"
+    },
+    {
+      "text": "讨厌雾_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/d897cdfbf9b3e4f4d048028112348bff4dd13523.png"
+    },
+    {
+      "text": "讨厌雾_看招",
+      "url": "https://i0.hdslb.com/bfs/garb/be99150b65f8a4647317f738cdc5d8ce885527dc.png"
+    },
+    {
+      "text": "讨厌雾_做蛋糕",
+      "url": "https://i0.hdslb.com/bfs/garb/777a951c6eef3d683ddcdc5148a8dc00300ec2df.png"
+    },
+    {
+      "text": "讨厌雾_猫眼",
+      "url": "https://i0.hdslb.com/bfs/garb/494186e0c6bdebeefe9d8f7c779f815b190a7028.png"
+    },
+    {
+      "text": "讨厌雾_空空如也",
+      "url": "https://i0.hdslb.com/bfs/garb/51b34cda753ea7fc4e1baf57eacc26c3309b6af6.png"
+    },
+    {
+      "text": "讨厌雾_小螺号",
+      "url": "https://i0.hdslb.com/bfs/garb/09cb50c72ec94d923dfe462cadce1e84e70f01d0.png"
+    },
+    {
+      "text": "讨厌雾_一滴泪",
+      "url": "https://i0.hdslb.com/bfs/garb/3695375061eb17647ab68beb055d2c3003ab3a34.png"
+    },
+    {
+      "text": "讨厌雾_玉玉",
+      "url": "https://i0.hdslb.com/bfs/garb/1d0eae1b56187443f6df67ef77e3191c3de9c035.png"
+    },
+    {
+      "text": "讨厌雾_侦探",
+      "url": "https://i0.hdslb.com/bfs/garb/497f3058d81193c0559feb0cb059ffbcbd94e5d6.png"
+    }
+  ]
+}
