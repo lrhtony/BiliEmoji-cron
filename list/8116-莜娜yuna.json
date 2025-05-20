@@ -1,0 +1,108 @@
+{
+  "id": 8116,
+  "text": "莜娜yuna",
+  "icon": "https://i0.hdslb.com/bfs/garb/32e5024bdfada6d37e68e32bdc3914a5acf066b4.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "莜娜yuna_ciallo",
+      "url": "https://i0.hdslb.com/bfs/garb/b4ce3b46224a52c90a2c8afafa0fba62e740fc87.png"
+    },
+    {
+      "text": "莜娜yuna_nyanya",
+      "url": "https://i0.hdslb.com/bfs/garb/be7366ca1fa8fbcc0200778c46e5db571f50f303.png"
+    },
+    {
+      "text": "莜娜yuna_不爽",
+      "url": "https://i0.hdslb.com/bfs/garb/e76919ba069057e2cb3ba14b0ee76f507eb507f1.png"
+    },
+    {
+      "text": "莜娜yuna_仔细观察",
+      "url": "https://i0.hdslb.com/bfs/garb/932c3c28487b78b44a7eacaf4c9528ea27f89a79.png"
+    },
+    {
+      "text": "莜娜yuna_你",
+      "url": "https://i0.hdslb.com/bfs/garb/c5c90cd3455126807e8f30d02af49cd7139e9538.png"
+    },
+    {
+      "text": "莜娜yuna_偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/7df03cda396d4f79cded9c2e6a374f64492bd114.png"
+    },
+    {
+      "text": "莜娜yuna_反了",
+      "url": "https://i0.hdslb.com/bfs/garb/dcf8b4de31259e9a6e1c9a8266e77e9208abf8f9.png"
+    },
+    {
+      "text": "莜娜yuna_呃呃",
+      "url": "https://i0.hdslb.com/bfs/garb/8710de41f3cdb12e885b31b730d7b37456b5d580.png"
+    },
+    {
+      "text": "莜娜yuna_嗨",
+      "url": "https://i0.hdslb.com/bfs/garb/0202f05e204b12c2dfc5601517f3595f77ccb502.png"
+    },
+    {
+      "text": "莜娜yuna_嘲笑",
+      "url": "https://i0.hdslb.com/bfs/garb/5229083aaaab1853739be76848e0a6797f34f356.png"
+    },
+    {
+      "text": "莜娜yuna_对手指",
+      "url": "https://i0.hdslb.com/bfs/garb/860db6cb03444b1866b5c2b853f9fe3ae584a7d0.png"
+    },
+    {
+      "text": "莜娜yuna_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/86ed5e0ac264013ae50117d264f792fb64fe39f3.png"
+    },
+    {
+      "text": "莜娜yuna_我",
+      "url": "https://i0.hdslb.com/bfs/garb/5cb36237e9068b66768a9c66b3a3dc7f998ca385.png"
+    },
+    {
+      "text": "莜娜yuna_指指点点",
+      "url": "https://i0.hdslb.com/bfs/garb/4732058bbb97589578e69268f71d4d279c34b9d2.png"
+    },
+    {
+      "text": "莜娜yuna_捏脸",
+      "url": "https://i0.hdslb.com/bfs/garb/69b2ca7d2941e36330260740d9571b9188aab2c7.png"
+    },
+    {
+      "text": "莜娜yuna_歌神",
+      "url": "https://i0.hdslb.com/bfs/garb/45c440ec3d1fcb18463422742a754762590ff46f.png"
+    },
+    {
+      "text": "莜娜yuna_泪眼汪汪",
+      "url": "https://i0.hdslb.com/bfs/garb/e4e6fbf6da4d6ab70ea2cd81dca2affafcb2a724.png"
+    },
+    {
+      "text": "莜娜yuna_火大",
+      "url": "https://i0.hdslb.com/bfs/garb/9f5849c1ce3d2c0342bac13acaea150e72b1afed.png"
+    },
+    {
+      "text": "莜娜yuna_爱",
+      "url": "https://i0.hdslb.com/bfs/garb/60bccc60d38069b79efd9978b8c412fabb6b786c.png"
+    },
+    {
+      "text": "莜娜yuna_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/093481b97f656b51ae6bd7e5704d0b697decc8fb.png"
+    },
+    {
+      "text": "莜娜yuna_瓦",
+      "url": "https://i0.hdslb.com/bfs/garb/74c18ca7f3111d01e73645f9019e210753ad667c.png"
+    },
+    {
+      "text": "莜娜yuna_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/b2d14516225aefe7446c15b7bbb662bb8f6cd901.png"
+    },
+    {
+      "text": "莜娜yuna_钳来",
+      "url": "https://i0.hdslb.com/bfs/garb/702fef3cf6efc31f70dece7448b03d35c3e16c70.png"
+    },
+    {
+      "text": "莜娜yuna_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/fbc4ec66a9e99c213c2ddbcd97575b6378ed7169.png"
+    },
+    {
+      "text": "莜娜yuna_诶嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/05aac349320644e1d394306b52e8c07abf8de3b6.png"
+    }
+  ]
+}
