@@ -11,10 +11,12 @@ class BiliEmoji:
     """
     用于获取B站表情包信息并保存的工具类
     """
+
     def __init__(self):
         # 初始化配置和认证信息
         self.PROXY = json.loads(os.getenv('PROXY', '{}'))  # 代理配置
-        self.SCAN_CONFIG = json.loads(os.getenv('SCAN_CONFIG', '{"start": 1, "end": 10000, "step": 40, "ignore": [4, 250]}'))  # 扫描配置
+        self.SCAN_CONFIG = json.loads(
+            os.getenv('SCAN_CONFIG', '{"start": 1, "end": 10000, "step": 40, "ignore": [4, 250]}'))  # 扫描配置
 
         self.ACCOUNT = int(os.getenv('ACCOUNT', 1))  # 账号ID
         self.AUTH = BilibiliAuth(os.getenv('ACCOUNT_DB_URI', 'mongodb://localhost:27017/'))  # 认证模块
@@ -40,7 +42,8 @@ class BiliEmoji:
             'Accept-Language': 'zh-CN,zh;q=0.9'
         }
         # 发送请求获取表情包信息
-        response = requests.get('https://api.bilibili.com/x/emote/package', params=params, proxies=self.PROXY, headers=headers)
+        response = requests.get('https://api.bilibili.com/x/emote/package', params=params, proxies=self.PROXY,
+                                headers=headers)
         response_json = response.json()
         if response_json['code'] != 0:  # 检查返回结果是否正常
             raise Exception(response_json['message'])
@@ -125,16 +128,20 @@ class BiliEmoji:
             'accept-encoding': 'gzip, deflate, br'
         }
         sign_params = appsign(params, 'bb3101000e232e27', '36efcfed79309338ced0380abd824ac1')
-        response = requests.get(
-            'https://api.bilibili.com/bapis/main.community.interface.emote.EmoteService/AllPackages',
-            params=sign_params, proxies=self.PROXY, headers=headers)
-        res = response.json()
-        if res['code'] != 0:
-            # 警告并返回SCAN_CONFIG['end']
-            print(f"[WARN] 获取最新表情包id失败: {res['message']}")
+        try:  # 避免直接抛出异常泄露params中的access_key
+            response = requests.get(
+                'https://api.bilibili.com/bapis/main.community.interface.emote.EmoteService/AllPackages',
+                params=sign_params, proxies=self.PROXY, headers=headers)
+            res = response.json()
+            if res['code'] == 0:
+                # 遍历所有表情包，获取最新的表情包id
+                return max(package['id'] for package in res['data']['packages'])
+            else:
+                print(f"[ERROR] 获取最新表情包id失败: {res['message']}")
+                return self.SCAN_CONFIG['end']
+        except:
+            print(f"[ERROR] 获取最新表情包id失败")
             return self.SCAN_CONFIG['end']
-        # 遍历所有表情包，获取最新的表情包id
-        return max(package['id'] for package in res['data']['packages'])
 
     def main(self):
         """

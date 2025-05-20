@@ -105,17 +105,23 @@ class BilibiliAuth:
         data_sign = appsign(data, 'ae57252b0c09105d', 'c75875c596a69eb55bd119e74b07cfe3')
 
         # 发送请求刷新 token
-        response = requests.post(
-            'https://passport.bilibili.com/x/passport-login/oauth2/refresh_token',
-            headers=headers,
-            data=data_sign
-        )
+        try:
+            response = requests.post(
+                'https://passport.bilibili.com/x/passport-login/oauth2/refresh_token',
+                headers=headers,
+                data=data_sign
+            )
+        except:
+            raise Exception('Failed to request refresh token!')
 
         # 记录日志
         self.MONGO_CLIENT['bilibili']['logs'].insert_one({'date': datetime.now(), 'response': response.text})
 
         # 解析响应
-        res = response.json()
+        try:
+            res = response.json()
+        except ValueError:
+            raise Exception('Failed to parse response!')
         if res['code'] == 0:
             # 更新数据库中的 token 和 cookie 信息
             self.MONGO_CLIENT['bilibili']['accounts'].update_one(
