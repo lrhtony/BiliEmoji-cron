@@ -62,7 +62,7 @@ class BilibiliAuth:
         last_update = account_info['last_update']
 
         # 如果距离上次更新时间超过 30 天，则重新获取 access_token
-        if (datetime.now() - last_update).days > 30:
+        if (datetime.now() - last_update).days > 14:
             access_key, cookie_str = self.refresh_access_token(access_key, refresh_token)
         return access_key, cookie_str
 
