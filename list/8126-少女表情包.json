@@ -5,12 +5,28 @@
   "resource_type": 0,
   "emote": [
     {
-      "text": "哦？",
+      "text": "啊?!",
       "url": "https://i0.hdslb.com/bfs/emote/832ea967ef93795d0cecb122e029d2f1636bb902.png"
     },
     {
-      "text": "拜拜~",
+      "text": "拜拜噜",
       "url": "https://i0.hdslb.com/bfs/emote/b146dfc6d01929aa605270c5a3ac40c5e5825602.png"
+    },
+    {
+      "text": "急急急",
+      "url": "https://i0.hdslb.com/bfs/emote/d1085966257176aaa69e8622aa33038bdc886815.png"
+    },
+    {
+      "text": "跟你拼了",
+      "url": "https://i0.hdslb.com/bfs/emote/8734b028b3192e8fbe30231c89040e81b7d6cd80.png"
+    },
+    {
+      "text": "整挺好",
+      "url": "https://i0.hdslb.com/bfs/emote/378699d209b63e69834fa52b72f57293c91851e3.png"
+    },
+    {
+      "text": "不愧是我!",
+      "url": "https://i0.hdslb.com/bfs/emote/5d29b33d91ee4e40af64618341957a8dead75eb0.png"
     }
   ]
 }
