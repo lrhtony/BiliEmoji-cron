@@ -1,0 +1,108 @@
+{
+  "id": 8168,
+  "text": "天使喵童年",
+  "icon": "https://i0.hdslb.com/bfs/garb/a376db1cca547561a4005cf0432083e595543efa.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "天使喵童年_牛",
+      "url": "https://i0.hdslb.com/bfs/garb/1512a9313a96ea93c83a2a792f0460d1b128c18a.png"
+    },
+    {
+      "text": "天使喵童年_啵啵",
+      "url": "https://i0.hdslb.com/bfs/garb/aa1a6a311864313533e6c8b5bbf54a34fce80553.png"
+    },
+    {
+      "text": "天使喵童年_呃阿",
+      "url": "https://i0.hdslb.com/bfs/garb/87d09205b887883319da1c1ec9f664d9b5f8a221.png"
+    },
+    {
+      "text": "天使喵童年_拿来",
+      "url": "https://i0.hdslb.com/bfs/garb/e27e90709f6f0d9284171e7c7d85f14a08c54799.png"
+    },
+    {
+      "text": "天使喵童年_桀桀桀",
+      "url": "https://i0.hdslb.com/bfs/garb/efcde7b04d4bf78f0b5f3c81faab248240fb2878.png"
+    },
+    {
+      "text": "天使喵童年_嘤嘤嘤",
+      "url": "https://i0.hdslb.com/bfs/garb/fff8862dfda426084b6576f925dee8952adffb27.png"
+    },
+    {
+      "text": "天使喵童年_结婚",
+      "url": "https://i0.hdslb.com/bfs/garb/38013813a00478361d01ea6f4d8340d37700900e.png"
+    },
+    {
+      "text": "天使喵童年_酷爷",
+      "url": "https://i0.hdslb.com/bfs/garb/4e8e33c888d5a74ce92192d477626c8fe0a6a3ca.png"
+    },
+    {
+      "text": "天使喵童年_打括",
+      "url": "https://i0.hdslb.com/bfs/garb/e5a575ee1c8c4e9be30ac6df25a0e06760585e96.png"
+    },
+    {
+      "text": "天使喵童年_告辞",
+      "url": "https://i0.hdslb.com/bfs/garb/775eb204afceb2120986c3674da0e99e118ebae4.png"
+    },
+    {
+      "text": "天使喵童年_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/92704f236d22948c910a02f709740ba20d835d83.png"
+    },
+    {
+      "text": "天使喵童年_抓走",
+      "url": "https://i0.hdslb.com/bfs/garb/428670b7f888b3d2f60be74cb2e5959116b14e18.png"
+    },
+    {
+      "text": "天使喵童年_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/be574047ee898d5647768eb35ce3439c4d78bd5f.png"
+    },
+    {
+      "text": "天使喵童年_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/f8fd9d51a7d8185074d6b5f63f9cfb398fe40d1c.png"
+    },
+    {
+      "text": "天使喵童年_加载",
+      "url": "https://i0.hdslb.com/bfs/garb/39579ef69e2a59328731fb1d9d27fa5e415869dd.png"
+    },
+    {
+      "text": "天使喵童年_鼻血",
+      "url": "https://i0.hdslb.com/bfs/garb/3c0344d60fba51ae5192b8b0160f739024470350.png"
+    },
+    {
+      "text": "天使喵童年_冷漠",
+      "url": "https://i0.hdslb.com/bfs/garb/861940ad3ea28fb8fb7d59c8499e6b3e8d0bec19.png"
+    },
+    {
+      "text": "天使喵童年_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/10bd3d1c54cf8add9661713e6e41a2d33fcf834b.png"
+    },
+    {
+      "text": "天使喵童年_纳尼",
+      "url": "https://i0.hdslb.com/bfs/garb/f5d31e5574f929dc298d5bbe58366f9633056cc2.png"
+    },
+    {
+      "text": "天使喵童年_呃呃",
+      "url": "https://i0.hdslb.com/bfs/garb/e7c7174caf63767e2728f4904466f39aff9d9848.png"
+    },
+    {
+      "text": "天使喵童年_彩虹",
+      "url": "https://i0.hdslb.com/bfs/garb/f3d936b0d1197cee4fd4ddd088939d891c81b973.png"
+    },
+    {
+      "text": "天使喵童年_嗝",
+      "url": "https://i0.hdslb.com/bfs/garb/0e725fda94114f163777e5673bd1ac69f46d1168.png"
+    },
+    {
+      "text": "天使喵童年_喝茶",
+      "url": "https://i0.hdslb.com/bfs/garb/5f920464326b625be33eaa4f30cb7855236accb5.png"
+    },
+    {
+      "text": "天使喵童年_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/ba89d6d9382aade3993103b8ce7e14a76b5516ae.png"
+    },
+    {
+      "text": "天使喵童年_生日快乐",
+      "url": "https://i0.hdslb.com/bfs/garb/cec82356e4bdebf718d9a830f49bf6989c993206.png"
+    }
+  ]
+}
