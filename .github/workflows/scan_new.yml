@@ -1,8 +1,8 @@
-name: Scan Bilibili Emoji
+name: Scan Bilibili Emoji New
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 4,15 * * *"
+    - cron: "15 9 * * *"
 jobs:
   scan:
     runs-on: ubuntu-latest
@@ -21,7 +21,7 @@ jobs:
           ACCOUNT: ${{ secrets.ACCOUNT }}
           ACCOUNT_DB_URI: ${{ secrets.ACCOUNT_DB_URI }}
           SCAN_CONFIG: ${{ secrets.SCAN_CONFIG }}
-        run: python script/main.py
+        run: python script/main_new.py
       - name: Commit changes
         run: |
           git config --global user.name "GitHub Actions"
