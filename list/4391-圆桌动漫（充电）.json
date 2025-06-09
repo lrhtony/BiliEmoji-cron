@@ -5,44 +5,8 @@
   "resource_type": 0,
   "emote": [
     {
-      "text": "UPOWER_654552_害羞",
-      "url": "https://i0.hdslb.com/bfs/garb/ae15246cc6cce72f14faec5f397cd1c81904a828.png"
-    },
-    {
-      "text": "UPOWER_654552_发癫",
-      "url": "https://i0.hdslb.com/bfs/garb/5512472db968cc26372036e849e7857123881765.png"
-    },
-    {
-      "text": "UPOWER_654552_可爱雅柔",
-      "url": "https://i0.hdslb.com/bfs/garb/7012e085aa8a35a711588cb4c7c8beaa87231bd6.png"
-    },
-    {
       "text": "UPOWER_654552_抱抱",
       "url": "https://i0.hdslb.com/bfs/garb/d9e8ea682c203973a123a62027fe5980369307e7.png"
-    },
-    {
-      "text": "UPOWER_654552_好耶",
-      "url": "https://i0.hdslb.com/bfs/garb/938062bbf155a9fc402ca4b3be102f66ce22b176.png"
-    },
-    {
-      "text": "UPOWER_654552_懂了",
-      "url": "https://i0.hdslb.com/bfs/garb/420d653aa9fd740e2a31da73da5a0d4f96f36aed.png"
-    },
-    {
-      "text": "UPOWER_654552_加油",
-      "url": "https://i0.hdslb.com/bfs/garb/45726afab9b2b7931e2f26becf74fdf7231d3bc3.png"
-    },
-    {
-      "text": "UPOWER_654552_你最棒",
-      "url": "https://i0.hdslb.com/bfs/garb/578d95e1f7ccb9f45cc36fc0636dec96b0f8fbe5.png"
-    },
-    {
-      "text": "UPOWER_654552_吃榨菜咯",
-      "url": "https://i0.hdslb.com/bfs/garb/e980cc48289ed75177f6927fbf7441a87a2f9da0.png"
-    },
-    {
-      "text": "UPOWER_654552_痛太痛了",
-      "url": "https://i0.hdslb.com/bfs/garb/49df4e2180145b0622d808e2eff27b2b20ad23bb.png"
     },
     {
       "text": "UPOWER_654552_惊讶",
@@ -61,6 +25,10 @@
       "url": "https://i0.hdslb.com/bfs/garb/ad97b6c90ec266f4c1020f91065d241c821f8c2a.png"
     },
     {
+      "text": "UPOWER_654552_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/3d04d60fc465173c066c7e6868204d1bea59ea38.png"
+    },
+    {
       "text": "UPOWER_654552_哈哈",
       "url": "https://i0.hdslb.com/bfs/garb/52011e835994d4f84e614d5aa4cbacc916f737dd.png"
     },
@@ -75,10 +43,6 @@
     {
       "text": "UPOWER_654552_懵逼",
       "url": "https://i0.hdslb.com/bfs/garb/8446c287381c7bd01ef8ab97ecabd612d032435e.png"
-    },
-    {
-      "text": "UPOWER_654552_摸鱼",
-      "url": "https://i0.hdslb.com/bfs/garb/3d04d60fc465173c066c7e6868204d1bea59ea38.png"
     }
   ]
 }
