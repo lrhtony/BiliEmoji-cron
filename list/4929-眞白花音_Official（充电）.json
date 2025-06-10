@@ -1,6 +1,128 @@
 {
   "id": 4929,
   "text": "眞白花音_Official（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/c91f1ca1aa5275d1f41e84b51e5076825ed74ab6.png",
-  "resource_type": 0
+  "icon": "https://i0.hdslb.com/bfs/garb/4e478c8f990a1b7a89d85f4c656f90dee0aaaee7.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_401480763_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/d755e637b8cc95c1bee1e9bba7f6be916747dd6b.png"
+    },
+    {
+      "text": "UPOWER_401480763_黑幕",
+      "url": "https://i0.hdslb.com/bfs/garb/f08bfd4ba86422d29b39503fa724ad71957cd729.png"
+    },
+    {
+      "text": "UPOWER_401480763_急急急",
+      "url": "https://i0.hdslb.com/bfs/garb/37dfeca7c88fc022833e68ada8284b2e907c0208.png"
+    },
+    {
+      "text": "UPOWER_401480763_血压上升",
+      "url": "https://i0.hdslb.com/bfs/garb/a7b7ef0e8cd5d56e213d0fb36d7a9eeb61ec5b94.png"
+    },
+    {
+      "text": "UPOWER_401480763_臭臭",
+      "url": "https://i0.hdslb.com/bfs/garb/3382b6924afd3562901afae8b44672ec9884d18b.png"
+    },
+    {
+      "text": "UPOWER_401480763_酸了",
+      "url": "https://i0.hdslb.com/bfs/garb/389edf8b500d9ddf271da6ac701fd5f19407797f.png"
+    },
+    {
+      "text": "UPOWER_401480763_卡了",
+      "url": "https://i0.hdslb.com/bfs/garb/ea0d282c4f48002ae360af5af81180cb411bf695.png"
+    },
+    {
+      "text": "UPOWER_401480763_危",
+      "url": "https://i0.hdslb.com/bfs/garb/b2abf31d06dc57263a8d36e364f6d1cf74ece1f5.png"
+    },
+    {
+      "text": "UPOWER_401480763_老板大气",
+      "url": "https://i0.hdslb.com/bfs/garb/0d8ae788c14f917f89cc50deb3ee9f804a5e74f8.png"
+    },
+    {
+      "text": "UPOWER_401480763_放空",
+      "url": "https://i0.hdslb.com/bfs/garb/b3437577fae93a17cb3c1e7735456e83c709e753.png"
+    },
+    {
+      "text": "UPOWER_401480763_白",
+      "url": "https://i0.hdslb.com/bfs/garb/89df9fca41afee7a6724d03a26877fe17da351c8.png"
+    },
+    {
+      "text": "UPOWER_401480763_菜",
+      "url": "https://i0.hdslb.com/bfs/garb/7c1ea5658e9bcbdfc3a1c70c059ade35921cd0a2.png"
+    },
+    {
+      "text": "UPOWER_401480763_屑",
+      "url": "https://i0.hdslb.com/bfs/garb/1937cb0023c6cee53707b927210ffbb643b17437.png"
+    },
+    {
+      "text": "UPOWER_401480763_可",
+      "url": "https://i0.hdslb.com/bfs/garb/e79e180a967834d87af975673cce54724f05982c.png"
+    },
+    {
+      "text": "UPOWER_401480763_爱",
+      "url": "https://i0.hdslb.com/bfs/garb/833dc5905c880e7fd5c57970b53afa631b881101.png"
+    },
+    {
+      "text": "UPOWER_401480763_唱歌",
+      "url": "https://i0.hdslb.com/bfs/garb/a2b133910527bdf9acea21b05f7016e4f64eac86.png"
+    },
+    {
+      "text": "UPOWER_401480763_不安",
+      "url": "https://i0.hdslb.com/bfs/garb/9a5ecf8aa1091256d1aeacfcb5e4aefe764039f0.png"
+    },
+    {
+      "text": "UPOWER_401480763_喝奶茶",
+      "url": "https://i0.hdslb.com/bfs/garb/ce073cbf809f922119cb9690c29a4b76645fa918.png"
+    },
+    {
+      "text": "UPOWER_401480763_拿喇叭",
+      "url": "https://i0.hdslb.com/bfs/garb/b51c0af951e0f8ad995117415c2448be4b08ca62.png"
+    },
+    {
+      "text": "UPOWER_401480763_玩游戏",
+      "url": "https://i0.hdslb.com/bfs/garb/3116780532c082ebddb78e1ea1a451be55de1c48.png"
+    },
+    {
+      "text": "UPOWER_401480763_孔明",
+      "url": "https://i0.hdslb.com/bfs/garb/0de79078003abf7aa89abb74fa40de88333252cc.png"
+    },
+    {
+      "text": "UPOWER_401480763_幻想山",
+      "url": "https://i0.hdslb.com/bfs/garb/3b95c4ff31a0db71fece599399d024a1625c7805.png"
+    },
+    {
+      "text": "UPOWER_401480763_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/793dc5517d69d6792c78b8cfda1c3a82f76a9161.png"
+    },
+    {
+      "text": "UPOWER_401480763_看看",
+      "url": "https://i0.hdslb.com/bfs/garb/bb5b92bb7ed96d409a0998a778a0ec654b874e16.png"
+    },
+    {
+      "text": "UPOWER_401480763_平静",
+      "url": "https://i0.hdslb.com/bfs/garb/5619bcd36aa0dd668a83f477b31bc8f2896ff353.png"
+    },
+    {
+      "text": "UPOWER_401480763_真的假的",
+      "url": "https://i0.hdslb.com/bfs/garb/75c811b1c2bf80a0ed00864a16ad6767da385f32.png"
+    },
+    {
+      "text": "UPOWER_401480763_快跑",
+      "url": "https://i0.hdslb.com/bfs/garb/6fb691adb7c17a0fa7333845cf48000b5dd55d41.png"
+    },
+    {
+      "text": "UPOWER_401480763_等一下",
+      "url": "https://i0.hdslb.com/bfs/garb/f682a693e37ae67d1e0c992c8da2af86ac795ea3.png"
+    },
+    {
+      "text": "UPOWER_401480763_夸夸我",
+      "url": "https://i0.hdslb.com/bfs/garb/bc02eb32dd47dd6a9ab6f56e8cae547f3f0c2942.png"
+    },
+    {
+      "text": "UPOWER_401480763_看我",
+      "url": "https://i0.hdslb.com/bfs/garb/5b1ccaeebc62564d7ef4badffff4a60ec77fe4e5.png"
+    }
+  ]
 }
