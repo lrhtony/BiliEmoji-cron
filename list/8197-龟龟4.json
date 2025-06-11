@@ -1,0 +1,68 @@
+{
+  "id": 8197,
+  "text": "龟龟4",
+  "icon": "https://i0.hdslb.com/bfs/garb/64ba4e9a97a4d53759b6083a3971577090a3df09.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "龟龟4_龟舞",
+      "url": "https://i0.hdslb.com/bfs/garb/e1be1209d179e44134be3631862fd8839d864427.png"
+    },
+    {
+      "text": "龟龟4_石龟",
+      "url": "https://i0.hdslb.com/bfs/garb/33bd3ce65bf1efd4e94cb89c33e642973f8c784f.png"
+    },
+    {
+      "text": "龟龟4_喆龟",
+      "url": "https://i0.hdslb.com/bfs/garb/f73da37544a1eeee663966f1dc371d3a0d13999b.png"
+    },
+    {
+      "text": "龟龟4_抓龟",
+      "url": "https://i0.hdslb.com/bfs/garb/273f1686c5edabdbcacd7666c0b4065f192a5cec.png"
+    },
+    {
+      "text": "龟龟4_魔龟",
+      "url": "https://i0.hdslb.com/bfs/garb/f070c89649cc72547ca0ee44cb522f13e7e207b6.png"
+    },
+    {
+      "text": "龟龟4_心碎龟",
+      "url": "https://i0.hdslb.com/bfs/garb/0efc233984d12972dec475c748d17248bc8dcbf2.png"
+    },
+    {
+      "text": "龟龟4_黑脸龟",
+      "url": "https://i0.hdslb.com/bfs/garb/1c1c7cbf243f874c3f382b2064fd06d21cb63c5d.png"
+    },
+    {
+      "text": "龟龟4_mean龟",
+      "url": "https://i0.hdslb.com/bfs/garb/08e7344133c5cb90cc225449b5e5cd9e4d1277aa.png"
+    },
+    {
+      "text": "龟龟4_问候龟",
+      "url": "https://i0.hdslb.com/bfs/garb/80e47d9415c42e35a925d1a6b0b34e9c5ca4b4aa.png"
+    },
+    {
+      "text": "龟龟4_贪吃龟",
+      "url": "https://i0.hdslb.com/bfs/garb/43544f44414a27b2263608765ea484e75e205792.png"
+    },
+    {
+      "text": "龟龟4_彩虹龟",
+      "url": "https://i0.hdslb.com/bfs/garb/3be0247205fb3e3a987d94dbd4b89315a059f92b.png"
+    },
+    {
+      "text": "龟龟4_草龟",
+      "url": "https://i0.hdslb.com/bfs/garb/71784a2bca49945798f40c0ba483934190b3f05e.png"
+    },
+    {
+      "text": "龟龟4_擦汗龟",
+      "url": "https://i0.hdslb.com/bfs/garb/64f01b31fdc42694c58507bd5ae194d2d9fbfbaa.png"
+    },
+    {
+      "text": "龟龟4_震惊龟",
+      "url": "https://i0.hdslb.com/bfs/garb/62ab1998c6b0bd677a129c9abeab5475b29ade1a.png"
+    },
+    {
+      "text": "龟龟4_鲨龟",
+      "url": "https://i0.hdslb.com/bfs/garb/c6ba0aa43e13826f71604730f1b1657ed8ecb209.png"
+    }
+  ]
+}
