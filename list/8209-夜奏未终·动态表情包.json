@@ -1,0 +1,38 @@
+{
+  "id": 8209,
+  "text": "夜奏未终·动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/9ec85f32b9124f82c8beb37d8a0d564ea084a31c.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "夜奏未终·动态表情包_咋舌",
+      "url": "https://i0.hdslb.com/bfs/emote/9ec85f32b9124f82c8beb37d8a0d564ea084a31c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/9f0096b8743d7c948a33cd7812bec976ea42c7e7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/1f944272b10727271a33319320a73599ea9b610a.webp"
+    },
+    {
+      "text": "夜奏未终·动态表情包_捂嘴笑",
+      "url": "https://i0.hdslb.com/bfs/emote/b0d08a200e74ff8befb350df773ad952fcc98707.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/a887a765f4ce1ef5921a78ded936a3a4885c962d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/460599779313adb4d3db942b71adce155bf74e2a.webp"
+    },
+    {
+      "text": "夜奏未终·动态表情包_想要信赖",
+      "url": "https://i0.hdslb.com/bfs/emote/5877a9b0233664042a53a2d86bd38358486f48ee.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/4a5fb17d2d30c6615cac287a7ad1a614a79f6405.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/0d743ac553f974fc93fd57f0fd166c5fc1964769.webp"
+    },
+    {
+      "text": "夜奏未终·动态表情包_cool",
+      "url": "https://i0.hdslb.com/bfs/emote/32dd13a8d5a77bc60bcd9f3f222a443e73a949fa.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/59c94096de87d7aa0b314280756086bf06cfb479.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/1a78bae35ab27981db99f23d427d89233b3562d7.webp"
+    },
+    {
+      "text": "夜奏未终·动态表情包_感动大哭",
+      "url": "https://i0.hdslb.com/bfs/emote/f340a3782794b680bf5663bed1b4586f6d5bf27c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/f88e1d2a45ea7b8bd6b140eb42838b95ea68e6da.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/9f0beff3b3da8c0c0c0129c08182ba708a80a138.webp"
+    }
+  ]
+}

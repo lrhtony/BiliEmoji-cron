@@ -1,0 +1,68 @@
+{
+  "id": 8206,
+  "text": "猫猫狗狗雨",
+  "icon": "https://i0.hdslb.com/bfs/garb/c5b5c92136a91c3ba02ec29226368e268464ea97.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "猫猫狗狗雨_猫猫",
+      "url": "https://i0.hdslb.com/bfs/garb/212442d7147d6b427782172f53748dafa3a8eb2d.png"
+    },
+    {
+      "text": "猫猫狗狗雨_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/65e45ef1654d815f459cfc8b4b152fce394437e5.png"
+    },
+    {
+      "text": "猫猫狗狗雨_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/829c9b16ab03796b5054e537025267ee645f8326.png"
+    },
+    {
+      "text": "猫猫狗狗雨_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/f78b57f37242fd74c53c1ec325925bdcc0f397d7.png"
+    },
+    {
+      "text": "猫猫狗狗雨_Hi~",
+      "url": "https://i0.hdslb.com/bfs/garb/fff4efa03d4c9f6bb430bd191772f03a93fb7712.png"
+    },
+    {
+      "text": "猫猫狗狗雨_嗯嗯",
+      "url": "https://i0.hdslb.com/bfs/garb/b9dc8b31433dcdcc660fb24678d7572ffca2a3bc.png"
+    },
+    {
+      "text": "猫猫狗狗雨_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/6c6282e35ae9da6c87abd7173240ab9d75d543c0.png"
+    },
+    {
+      "text": "猫猫狗狗雨_小猫",
+      "url": "https://i0.hdslb.com/bfs/garb/8b3f82b3bd592cb14f520832793a791c8ca08f6f.png"
+    },
+    {
+      "text": "猫猫狗狗雨_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/a5265420f5406366a2d2b9985309d6392f2ea1e8.png"
+    },
+    {
+      "text": "猫猫狗狗雨_可爱小狗",
+      "url": "https://i0.hdslb.com/bfs/garb/0576382f0b8c306000cf62bbf89decb9e9cc51c4.png"
+    },
+    {
+      "text": "猫猫狗狗雨_抱抱小猫",
+      "url": "https://i0.hdslb.com/bfs/garb/654491dafee9a57a778f5d7817e76bb309b569aa.png"
+    },
+    {
+      "text": "猫猫狗狗雨_快乐小狗",
+      "url": "https://i0.hdslb.com/bfs/garb/4cef44c8397f0f15160c9cab72304cd140e6c224.png"
+    },
+    {
+      "text": "猫猫狗狗雨_憨憨小狗",
+      "url": "https://i0.hdslb.com/bfs/garb/a7ee5d4d324db9ea9c1c645803885eb6e3f0f079.png"
+    },
+    {
+      "text": "猫猫狗狗雨_彩色云",
+      "url": "https://i0.hdslb.com/bfs/garb/b61b47d3c90ee52730759be7f5fa6730dffe5925.png"
+    },
+    {
+      "text": "猫猫狗狗雨_星星",
+      "url": "https://i0.hdslb.com/bfs/garb/1c5c1cdfe99c8cafad22bcec038b94b75ccdf133.png"
+    }
+  ]
+}
