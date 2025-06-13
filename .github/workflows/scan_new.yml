@@ -2,7 +2,7 @@ name: Scan Bilibili Emoji New
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 9 * * *"
+    - cron: "15 4,9 * * *"
 jobs:
   scan:
     runs-on: ubuntu-latest
