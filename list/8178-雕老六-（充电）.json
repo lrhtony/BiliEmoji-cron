@@ -1,7 +1,7 @@
 {
   "id": 8178,
   "text": "雕老六-（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/532d327cb161cf97403ddd94a61822d8e349a9c5.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/1234bdcd578fd796b50cef6d546f5a8bb30afd40.png",
   "resource_type": 0,
   "emote": [
     {
@@ -67,6 +67,10 @@
     {
       "text": "UPOWER_3493133677496845_惊讶",
       "url": "https://i0.hdslb.com/bfs/garb/f4836e4ab5be3703a8c2488f19be4db6db4d11ae.png"
+    },
+    {
+      "text": "UPOWER_3493133677496845_公主抱",
+      "url": "https://i0.hdslb.com/bfs/garb/5f35122892a0bd4763c041828d0f56b1d335fe95.png"
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "id": 8232,
+  "text": "星座指示",
+  "icon": "https://i0.hdslb.com/bfs/garb/da2870a25efbdaad0eb6276e3774d35219a17971.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "星座指示_给我",
+      "url": "https://i0.hdslb.com/bfs/garb/ddbe1bcad6a8e940d4e6d7d64afd438f516ee7e7.png"
+    },
+    {
+      "text": "星座指示_好的",
+      "url": "https://i0.hdslb.com/bfs/garb/46793de52cecdc2509c9c4da3d7216ef7420d670.png"
+    },
+    {
+      "text": "星座指示_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/df70b80d4a27f08319584c326c3dd6b2d28761ff.png"
+    },
+    {
+      "text": "星座指示_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/ee2e1408f538902651cbef7d00a2724c1028c46e.png"
+    },
+    {
+      "text": "星座指示_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/cb7dbf8e73de9274440672d034d645254fd78c1f.png"
+    },
+    {
+      "text": "星座指示_献花",
+      "url": "https://i0.hdslb.com/bfs/garb/1fd763e275b360a3725be9589cbbc91da5bc22f7.png"
+    },
+    {
+      "text": "星座指示_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/d97e436baa577c76bdc3a40088a4401fe6c86d15.png"
+    },
+    {
+      "text": "星座指示_蝎了",
+      "url": "https://i0.hdslb.com/bfs/garb/a77813d046bc23ddc603e2c174ac309e5c034398.png"
+    },
+    {
+      "text": "星座指示_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/01554f60ba4530805a4caef672369e15fc9344f1.png"
+    },
+    {
+      "text": "星座指示_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/10f638aad5a9255e0ceacfe57179bf6a879a07b1.png"
+    },
+    {
+      "text": "星座指示_嗤笑",
+      "url": "https://i0.hdslb.com/bfs/garb/0fdc4c003f805506ae7235a4f7aa73c4324c6b8f.png"
+    },
+    {
+      "text": "星座指示_打哈欠",
+      "url": "https://i0.hdslb.com/bfs/garb/66ae87e58eb99b37acc45446ac394b37f3db562e.png"
+    },
+    {
+      "text": "星座指示_看着",
+      "url": "https://i0.hdslb.com/bfs/garb/2ce299534ed8487e6ca436d6d54bed4a691ad9a5.png"
+    },
+    {
+      "text": "星座指示_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/b0ad2bdb6ad49c4ffb9ce3878ce0afa01a8cb52f.png"
+    },
+    {
+      "text": "星座指示_偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/8d67ead3d7009d18f4bb1d4f1a93b4c8d30b6b17.png"
+    }
+  ]
+}

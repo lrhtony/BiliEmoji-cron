@@ -1,0 +1,28 @@
+{
+  "id": 8140,
+  "text": "朵朵小世界（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/32c2766cfc4f8d80464784bd77ae7377b15f68b3.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_2063788422_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/3eccbc13fc7caa5c78b796ba8561f432e613c1d2.png"
+    },
+    {
+      "text": "UPOWER_2063788422_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/4f79deca9e8f57b448e0a1ca88a7cfe26ce9edb9.png"
+    },
+    {
+      "text": "UPOWER_2063788422_桑心",
+      "url": "https://i0.hdslb.com/bfs/garb/4abe3def04ce9627bbc76c7552156d2d8f096cdf.png"
+    },
+    {
+      "text": "UPOWER_2063788422_一键三连",
+      "url": "https://i0.hdslb.com/bfs/garb/d04b716decd5da39eb8869b0b0fd0d9da021b014.png"
+    },
+    {
+      "text": "UPOWER_2063788422_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/23a4b6bf034fe90e21a0132ca0a3a7c0864b66f8.png"
+    }
+  ]
+}

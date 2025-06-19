@@ -1,0 +1,88 @@
+{
+  "id": 8220,
+  "text": "文宝表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/7b1f5f49840ffda28bb1a6c151a1d8a4abf5b0fc.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "文宝表情包_WHAT？！",
+      "url": "https://i0.hdslb.com/bfs/garb/35b7f497483ace759f7061f34b2dd542078bb9b1.png"
+    },
+    {
+      "text": "文宝表情包_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/14340c25ab0cfab8692b5b73fa6ad7c1138d0dd8.png"
+    },
+    {
+      "text": "文宝表情包_呜呜",
+      "url": "https://i0.hdslb.com/bfs/garb/ede20d06f485f05422b809add679d7e2f645a449.png"
+    },
+    {
+      "text": "文宝表情包_来了",
+      "url": "https://i0.hdslb.com/bfs/garb/dbcc581a6a4a6d8b2c09f736f8f2625c2d478167.png"
+    },
+    {
+      "text": "文宝表情包_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/8fdd9a34d3e157fae0e15283625185e65c5166f2.png"
+    },
+    {
+      "text": "文宝表情包_屑笑",
+      "url": "https://i0.hdslb.com/bfs/garb/e6650050616c149ef6a0ff3118991fe49dab83ec.png"
+    },
+    {
+      "text": "文宝表情包_笑哭",
+      "url": "https://i0.hdslb.com/bfs/garb/31ba8e36ca98f3e3ae4423a52f023603db61b3c1.png"
+    },
+    {
+      "text": "文宝表情包_愣住",
+      "url": "https://i0.hdslb.com/bfs/garb/401e9f62e8cf2442f3fd28276f4d66e192b5a32a.png"
+    },
+    {
+      "text": "文宝表情包_你说啥",
+      "url": "https://i0.hdslb.com/bfs/garb/3deeb808f7fc3cf891549458a23dcd8dfc1bbf62.png"
+    },
+    {
+      "text": "文宝表情包_叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/aeac66d8faf5418a2623433256c6d39a8d0916a4.png"
+    },
+    {
+      "text": "文宝表情包_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/30074af20cad9dad24600eae0733e84d9bbc12a5.png"
+    },
+    {
+      "text": "文宝表情包_ok",
+      "url": "https://i0.hdslb.com/bfs/garb/a9ccf147a301502a19ebb4f9665d9529c6f24230.png"
+    },
+    {
+      "text": "文宝表情包_嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/885833f5e7a648c90e10bab131e67674117dabd9.png"
+    },
+    {
+      "text": "文宝表情包_呃呃",
+      "url": "https://i0.hdslb.com/bfs/garb/701ea754ecf691c856deca46211b1e23d4dfbbe8.png"
+    },
+    {
+      "text": "文宝表情包_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/220a0ffad41bc9f6b7d8f1420576d6bf0cbd2260.png"
+    },
+    {
+      "text": "文宝表情包_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/45eb12017361e2dedcd8e7598cf645a0bb868854.png"
+    },
+    {
+      "text": "文宝表情包_困",
+      "url": "https://i0.hdslb.com/bfs/garb/35cca0f90a4b271bdba508b176c26d52923fc0bc.png"
+    },
+    {
+      "text": "文宝表情包_住口",
+      "url": "https://i0.hdslb.com/bfs/garb/293b538c08163a315a89b3e3edd50cd779406ef9.png"
+    },
+    {
+      "text": "文宝表情包_呵呵",
+      "url": "https://i0.hdslb.com/bfs/garb/11e6898e6c957ade72cd636a08f44f3f063a83f4.png"
+    },
+    {
+      "text": "文宝表情包_忧郁",
+      "url": "https://i0.hdslb.com/bfs/garb/6e8a9c5ab0b82ad998993716113771e37bc0bf7a.png"
+    }
+  ]
+}
