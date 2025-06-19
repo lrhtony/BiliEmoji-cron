@@ -123,46 +123,65 @@ class BiliEmoji:
     def get_latest_emoji_id(self) -> int:
         """
         获取最新的表情包ID
-        :return: 最新表情包ID
+        :return: 最新表情包ID；失败时返回 SCAN_CONFIG['end']
         """
-        params = {
-            'access_key': self.ACCESS_KEY,
-            'build': 8230800,
-            'business': 'reply',
-            'channel': 'master',
-            'disable_rcmd': 0,
-            'mobi_app': 'android_i',
-            'platform': 'android',
-            'pn': 1,
-            'ps': 100,
-            'search': '',
-            'statistics': '{"appId":14,"platform":3,"version":"3.20.4","abtest":""}',
-            'ts': int(time.time())
-        }
-        headers = {
-            'native_api_from': 'h5',
-            'cookie': self.COOKIE,
-            'accept': 'application/json, text/plain, */*',
-            'referer': 'https://www.bilibili.com/h5/mall/emoji-package/more?navhide=1&native.theme=0',
-            'content-type': 'application/json',
-            'user-agent': 'Mozilla/5.0 (Linux; Android 13; Mi 10 Build/TKQ1.221114.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 os/android model/Mi 10 build/8230800 osVer/13 sdkInt/33 network/2 BiliApp/8230800 mobi_app/android_i channel/master innerVer/8230800 c_locale/zh_CN s_locale/zh_CN disable_rcmd/0 themeId/0 sh/33 3.20.4 os/android model/Mi 10 mobi_app/android_i build/8230800 channel/master innerVer/8230800 osVer/13 network/2',
-            'bili-http-engine': 'cronet',
-            'accept-encoding': 'gzip, deflate, br'
-        }
-        sign_params = appsign(params, 'bb3101000e232e27', '36efcfed79309338ced0380abd824ac1')
-        try:  # 避免直接抛出异常泄露params中的access_key
-            response = requests.get(
-                'https://api.bilibili.com/bapis/main.community.interface.emote.EmoteService/AllPackages',
-                params=sign_params, proxies=self.PROXY, headers=headers)
-            res = response.json()
-            if res['code'] == 0:
-                # 遍历所有表情包，获取最新的表情包id
-                return max(package['id'] for package in res['data']['packages'])
-            else:
-                print(f"[ERROR] 获取最新表情包id失败: {res['message']}")
+        try:
+            base_url = 'https://api.bilibili.com/bapis/main.community.interface.emote.EmoteService/AllPackages'
+            ts = int(time.time())
+
+            params = {
+                'access_key': self.ACCESS_KEY,
+                'build': 8230800,
+                'business': 'reply',
+                'channel': 'master',
+                'disable_rcmd': 0,
+                'mobi_app': 'android_i',
+                'platform': 'android',
+                'pn': 1,
+                'ps': 100,
+                'search': '',
+                'statistics': '{"appId":14,"platform":3,"version":"3.20.4","abtest":""}',
+                'ts': ts
+            }
+
+            headers = {
+                'native_api_from': 'h5',
+                'cookie': self.COOKIE,
+                'accept': 'application/json, text/plain, */*',
+                'referer': 'https://www.bilibili.com/h5/mall/emoji-package/more?navhide=1&native.theme=0',
+                'content-type': 'application/json',
+                'user-agent': (
+                    'Mozilla/5.0 (Linux; Android 13; Mi 10 Build/TKQ1.221114.001; wv) '
+                    'AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 '
+                    'Mobile Safari/537.36 os/android model/Mi 10 build/8230800 osVer/13 sdkInt/33 '
+                    'network/2 BiliApp/8230800 mobi_app/android_i channel/master innerVer/8230800 '
+                    'c_locale/zh_CN s_locale/zh_CN disable_rcmd/0 themeId/0 sh/33 3.20.4'
+                ),
+                'bili-http-engine': 'cronet',
+                'accept-encoding': 'gzip, deflate, br'
+            }
+
+            signed_params = appsign(params, 'bb3101000e232e27', '36efcfed79309338ced0380abd824ac1')
+            res1 = requests.get(base_url, params=signed_params, headers=headers, proxies=self.PROXY).json()
+
+            if res1.get('code') != 0:
+                print(f"[ERROR] 初次请求失败: {res1.get('message')}")
                 return self.SCAN_CONFIG['end']
-        except:
-            print(f"[ERROR] 获取最新表情包id失败")
+
+            total = res1.get('data', {}).get('total', 0)
+            params['pn'] = total // 100 + 1
+            params['ts'] = int(time.time())  # 更新时间戳
+            signed_params = appsign(params, 'bb3101000e232e27', '36efcfed79309338ced0380abd824ac1')
+            res = requests.get(base_url, params=signed_params, headers=headers, proxies=self.PROXY).json()
+
+            if res.get('code') == 0 and 'packages' in res['data']:
+                return max(*(pkg['id'] for pkg in res['data']['packages']), *(pkg['id'] for pkg in res1['data']['packages']))
+            else:
+                print(f"[ERROR] 获取最后一页失败: {res.get('message')}")
+                return self.SCAN_CONFIG['end']
+
+        except Exception as e:
+            print(f"[ERROR] 获取最新表情包ID异常: {e}")
             return self.SCAN_CONFIG['end']
 
     def get_thread_session(self):
