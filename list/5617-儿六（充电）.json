@@ -1,7 +1,7 @@
 {
   "id": 5617,
   "text": "儿六（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/73c4d963265d2f1ae1b9e2a91ca6c5bb6cc7c48a.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/fb0be61c7d4bfa03b0a5bf9c501d9979bf590772.png",
   "resource_type": 0,
   "emote": [
     {
@@ -9,8 +9,8 @@
       "url": "https://i0.hdslb.com/bfs/garb/b852a4d9b7072da674f232259120a8c229e2ed96.png"
     },
     {
-      "text": "UPOWER_303163835_震惊",
-      "url": "https://i0.hdslb.com/bfs/garb/0c51eacbad807fd1a724d1a5ebad61b8c317edb7.png"
+      "text": "UPOWER_303163835_鸡鸭死",
+      "url": "https://i0.hdslb.com/bfs/garb/9271721ec978961fc8b1c143c41a93f394a6dcbd.png"
     },
     {
       "text": "UPOWER_303163835_瑟瑟发抖",
@@ -21,28 +21,28 @@
       "url": "https://i0.hdslb.com/bfs/garb/e05c0ef868312f716fdb8bc8fd5f9a1880021132.png"
     },
     {
-      "text": "UPOWER_303163835_吃惊",
-      "url": "https://i0.hdslb.com/bfs/garb/cc76f1034e9003f31b7016f4669f80b8deaf99e9.png"
+      "text": "UPOWER_303163835_惊呆了",
+      "url": "https://i0.hdslb.com/bfs/garb/3c0729732ad2eccb706b81694ef32a0e7328fb38.png"
     },
     {
-      "text": "UPOWER_303163835_嘿嘿",
-      "url": "https://i0.hdslb.com/bfs/garb/46c786b7b83d76a46f1e8a858bca9ab5ce2d533f.png"
+      "text": "UPOWER_303163835_拒绝",
+      "url": "https://i0.hdslb.com/bfs/garb/f9e8008ce48b368c50bb60d4c2a982695944ba94.png"
     },
     {
       "text": "UPOWER_303163835_爱你",
-      "url": "https://i0.hdslb.com/bfs/garb/11afe5354bb3ab98f5ae7f0535975f953bc9a7dd.png"
+      "url": "https://i0.hdslb.com/bfs/garb/82146f913b07e55c08f3827aa9e407833831c8ad.png"
     },
     {
-      "text": "UPOWER_303163835_害羞",
-      "url": "https://i0.hdslb.com/bfs/garb/ee7f29a599d5efae91ae954863f2b9bbeeb77b6f.png"
+      "text": "UPOWER_303163835_偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/73ea0c4b5b3a44319c7240c253ab710eaee3deda.png"
     },
     {
-      "text": "UPOWER_303163835_发呆",
-      "url": "https://i0.hdslb.com/bfs/garb/c67bf831527edc39df2ba8f83de3084f3c7523ee.png"
+      "text": "UPOWER_303163835_偷笑",
+      "url": "https://i0.hdslb.com/bfs/garb/00014cbd49d8f13d1a0b20bd33905d117a4ee2e0.png"
     },
     {
-      "text": "UPOWER_303163835_沉默",
-      "url": "https://i0.hdslb.com/bfs/garb/66958d686255769f24d0e51257112a22c0e05052.png"
+      "text": "UPOWER_303163835_难评",
+      "url": "https://i0.hdslb.com/bfs/garb/c5cb11229c321ef3b29dac1c7fc0e2f5f363ba85.png"
     },
     {
       "text": "UPOWER_303163835_厉害",
@@ -50,27 +50,27 @@
     },
     {
       "text": "UPOWER_303163835_生无可恋",
-      "url": "https://i0.hdslb.com/bfs/garb/f18874d6630f8f26b8773eba2d0d642de7d3cb66.png"
+      "url": "https://i0.hdslb.com/bfs/garb/37e49da0bab86c344a942feee5a7b48b6dcc34dd.png"
     },
     {
-      "text": "UPOWER_303163835_蚌埠住",
-      "url": "https://i0.hdslb.com/bfs/garb/2346068eaecc5b5999d219384f523865de6b7e63.png"
+      "text": "UPOWER_303163835_破防",
+      "url": "https://i0.hdslb.com/bfs/garb/67f934aacc9586cda5d871d435c404387ae5df37.png"
     },
     {
-      "text": "UPOWER_303163835_哈哈",
-      "url": "https://i0.hdslb.com/bfs/garb/ed393737693003614c459d0dd50ac64441f9dff3.png"
+      "text": "UPOWER_303163835_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/9251686b66c2f8ad7686855d7c485524ac1a8b43.png"
     },
     {
-      "text": "UPOWER_303163835_尖叫",
-      "url": "https://i0.hdslb.com/bfs/garb/70435cc7e351525e779492949bf9392c51714075.png"
+      "text": "UPOWER_303163835_超激动",
+      "url": "https://i0.hdslb.com/bfs/garb/639e9b12a420c2827d0ed8ebe2031486fcb38bf7.png"
     },
     {
-      "text": "UPOWER_303163835_想要三连",
-      "url": "https://i0.hdslb.com/bfs/garb/92a138fbd68fd37c3886e0b7b4df3c4556ee6a20.png"
+      "text": "UPOWER_303163835_幸福",
+      "url": "https://i0.hdslb.com/bfs/garb/193c8733e1fcca3b2748fb3b324f5cef1dd4d15d.png"
     },
     {
-      "text": "UPOWER_303163835_哇",
-      "url": "https://i0.hdslb.com/bfs/garb/b499e99d574e1518bc142eeca1ac8c6572fe2610.png"
+      "text": "UPOWER_303163835_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/e6708acd786c168800dcb79dfd1cb94cd85a3523.png"
     },
     {
       "text": "UPOWER_303163835_上头",
@@ -79,6 +79,10 @@
     {
       "text": "UPOWER_303163835_让我康康",
       "url": "https://i0.hdslb.com/bfs/garb/14c0d7ffb2bb8029f55d239f21c0fb0c904abbb3.png"
+    },
+    {
+      "text": "UPOWER_303163835_施法",
+      "url": "https://i0.hdslb.com/bfs/garb/53b38719b2fc78eb4ae912bdc3cb3828a12bd3e5.png"
     }
   ]
 }
