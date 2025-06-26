@@ -1,0 +1,44 @@
+{
+  "id": 8264,
+  "text": "STN工作室（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/cee95609a943b521c92ffcb4330051f2bddf55a3.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_7349_不愧是我",
+      "url": "https://i0.hdslb.com/bfs/garb/825f7241f33c860c414febf81ad8cff8b5dfca7a.png"
+    },
+    {
+      "text": "UPOWER_7349_给我去玩",
+      "url": "https://i0.hdslb.com/bfs/garb/d8118d8f40d1d00bebed970337b342d37aa46e6b.png"
+    },
+    {
+      "text": "UPOWER_7349_太厉害啦",
+      "url": "https://i0.hdslb.com/bfs/garb/a10e120c64d25d5b6bd3bf23c011187a6588aefa.png"
+    },
+    {
+      "text": "UPOWER_7349_嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/d79e2c77868d3eee22cc32e6ffbfdf332ae287f7.png"
+    },
+    {
+      "text": "UPOWER_7349_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/ed0bc9b8a0f2b88ef30a57f55a0a8c79706e4b2b.png"
+    },
+    {
+      "text": "UPOWER_7349_你说的对",
+      "url": "https://i0.hdslb.com/bfs/garb/ce422e80e7b46295e5dfead2cc90a961d05b473f.png"
+    },
+    {
+      "text": "UPOWER_7349_给我三连",
+      "url": "https://i0.hdslb.com/bfs/garb/aa682f4fce0ec910b255566600e9e286e65c38c8.png"
+    },
+    {
+      "text": "UPOWER_7349_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/560732a873a2539cd013186d258e90c5bd5e61b6.png"
+    },
+    {
+      "text": "UPOWER_7349_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/f32f55cfcaab9d2a3677a17eb6df5ac4c5fec8ba.png"
+    }
+  ]
+}
