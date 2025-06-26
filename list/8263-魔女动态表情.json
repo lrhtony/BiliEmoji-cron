@@ -1,0 +1,98 @@
+{
+  "id": 8263,
+  "text": "魔女动态表情",
+  "icon": "https://i0.hdslb.com/bfs/garb/72b4892598cbd21e1e7fd0c44377ab0ed5af98f0.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "魔女动态表情_call",
+      "url": "https://i0.hdslb.com/bfs/garb/018d81499d994d2004150142018cba1cfc84df07.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/602ab75e6b39690f9a6c5e642f47170cd5faad91.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/35358e849fc16c71f68f95d068845b4f49147337.webp"
+    },
+    {
+      "text": "魔女动态表情_happy",
+      "url": "https://i0.hdslb.com/bfs/garb/09ec829de7862f6796f8b2770a7463f79a333761.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/cbdf32070401c64be4b471b428ebb995a055d662.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/5967039a68998d922b9338717f6e5c3d60ca211b.webp"
+    },
+    {
+      "text": "魔女动态表情_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/7c2321a433681fd742910015454332f1b126940d.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/0f67bca6a15c6f83edaf6053a9addd89751b9687.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/fc76e875a6b83a8188153c62fcf25b873ed752af.webp"
+    },
+    {
+      "text": "魔女动态表情_prpr",
+      "url": "https://i0.hdslb.com/bfs/garb/d9b6d4120c29131045168b8a3fc96a47842222df.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/732c895526d90e927130842e4b346f417c874575.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/70b75d0c9e6de5f522c3b10788f1a9770734ef45.webp"
+    },
+    {
+      "text": "魔女动态表情_mua",
+      "url": "https://i0.hdslb.com/bfs/garb/46a741326e57b92122132c88a84e5eda533243a5.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/545677e21e086d922aac2073c15f61da4f7d297d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/a641d763ae054577878c55c59d394e39023fce80.webp"
+    },
+    {
+      "text": "魔女动态表情_加载",
+      "url": "https://i0.hdslb.com/bfs/garb/5d9b338b58c8e1ba136325ce3eef8d13ee834005.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/932bb6093f051c116b2233d24a3fe72409c8f609.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/3a5ef0610d7cf096130db35d5c9a6e9d705284ab.webp"
+    },
+    {
+      "text": "魔女动态表情_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/cf19f953926cce04511e76c5ea18f4ce74f97f89.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/128d399aa8108d2fb6332f2fbddafbdeb27ed158.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/ced552cff59604679dba26d39943224bd128b8df.webp"
+    },
+    {
+      "text": "魔女动态表情_牛波一",
+      "url": "https://i0.hdslb.com/bfs/garb/fc717eae1d71cdef7219f80ee72c15987478fd94.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/aeef3d1bb4b04445d24532bc7303a5e8354167f6.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/be693b50e20bcfeedb5983f6c453c4ce62a1d73a.webp"
+    },
+    {
+      "text": "魔女动态表情_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/e82cdb2916f151bf32110d44961acb3374bb24a3.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/deea283c59efb4c3cbe3f38b703516220208723b.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/63080d6090ba4d879a5ded8c1dfd16cd0bdfd519.webp"
+    },
+    {
+      "text": "魔女动态表情_给你一拳",
+      "url": "https://i0.hdslb.com/bfs/garb/f377ed6b9380115df857bc7c2b857564e6aa4d8d.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/4d9e2252784662214341e737094986ff0c197e27.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/5429c76df7e422b14e2272ba82bf73d31aa1ae60.webp"
+    },
+    {
+      "text": "魔女动态表情_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/d3c351ba59e6df5bca46aec8819b60bef103a5d6.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/8beaebc62e318eb39e311c0f0efb011380a5c303.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/d1aa307bb28b84fc81ba560fe42cd5456373fa06.webp"
+    },
+    {
+      "text": "魔女动态表情_拷走",
+      "url": "https://i0.hdslb.com/bfs/garb/ebf7e21c4c4e592d6bfdaaed59bcd5ba79ccdc89.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/37dbcac1d02d786104b90f5d89967e3d415aa3d4.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/a6e80096957815e23b5b9856e58caeddb9d7ce5b.webp"
+    },
+    {
+      "text": "魔女动态表情_晕",
+      "url": "https://i0.hdslb.com/bfs/garb/037298e0b8e287ea77d1d0d8e31f7d04cb2d9be2.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/1448288fabf005656c73b2289cd3b63170dbfa57.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/233c4b774930cb85431b9bd69e28f52e2d4badb7.webp"
+    },
+    {
+      "text": "魔女动态表情_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/437d17f3c5f4bbb86c0f1051783989a1d108e7c8.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/1692aaebff90948a16aceb45b7df5965bc4f8e34.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/bb31875ef025621fd3f114fb16e62b6144a38347.webp"
+    },
+    {
+      "text": "魔女动态表情_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/d7d0401d0068f565290c7b9fea91cd8428b1cca9.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/dbdfb38832e6a4747f976995666e57ac872fbe76.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/9e6bed788114a164ef7c436f8ccbc97f5eeaa6fa.webp"
+    }
+  ]
+}
