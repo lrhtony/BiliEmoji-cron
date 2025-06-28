@@ -1,7 +1,7 @@
 {
   "id": 7988,
   "text": "小清风漫谈（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/e7bfabd09d7954c57eb91a56acfdedf13842f212.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/39ab446cf9e5edeae83507352df2104aca3b477a.png",
   "resource_type": 0,
   "emote": [
     {
@@ -43,6 +43,30 @@
     {
       "text": "UPOWER_1444233687_小宝贝",
       "url": "https://i0.hdslb.com/bfs/garb/7f35579c29d9c61a743748a27514bed2f4e0367c.png"
+    },
+    {
+      "text": "UPOWER_1444233687_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/eeabfb974795baf65fbbddf9ee3a8ab67efe4b35.png"
+    },
+    {
+      "text": "UPOWER_1444233687_纳尼",
+      "url": "https://i0.hdslb.com/bfs/garb/c838e8a7cc4f7b16f1613a00a2435d93733a9028.png"
+    },
+    {
+      "text": "UPOWER_1444233687_好的",
+      "url": "https://i0.hdslb.com/bfs/garb/2da44f793e7ac0a218a9694a57da9abc34175c4d.png"
+    },
+    {
+      "text": "UPOWER_1444233687_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/3ece1735c2cbd8713315c0fd586333b3fc7401d1.png"
+    },
+    {
+      "text": "UPOWER_1444233687_哇哇",
+      "url": "https://i0.hdslb.com/bfs/garb/7fa7f89675ec346975653f996509acf8ea5243e5.png"
+    },
+    {
+      "text": "UPOWER_1444233687_爱你2",
+      "url": "https://i0.hdslb.com/bfs/garb/040f211791ab14a8b72c942ff00d838bfd262a33.png"
     }
   ]
 }
