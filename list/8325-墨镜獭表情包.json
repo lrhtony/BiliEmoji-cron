@@ -1,0 +1,32 @@
+{
+  "id": 8325,
+  "text": "墨镜獭表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/36e44ad593f675d5ad6e0399a7f3a8ef5f07e6bd.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "墨镜獭表情包_点赞",
+      "url": "https://i0.hdslb.com/bfs/emote/57f6a554ddb45ce57568ca7d906a80df0ea96503.png"
+    },
+    {
+      "text": "墨镜獭表情包_得意",
+      "url": "https://i0.hdslb.com/bfs/emote/36e44ad593f675d5ad6e0399a7f3a8ef5f07e6bd.png"
+    },
+    {
+      "text": "墨镜獭表情包_尴尬",
+      "url": "https://i0.hdslb.com/bfs/emote/d74596bb21b0b1525eed5c6dcdcbad73ce34e83a.png"
+    },
+    {
+      "text": "墨镜獭表情包_疑问",
+      "url": "https://i0.hdslb.com/bfs/emote/83edbf4fcd6aadb62bc0072af518d61f06d289bc.png"
+    },
+    {
+      "text": "墨镜獭表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/6be5c56ccfce98ca2e95c07ad2bdffa28221a48d.png"
+    },
+    {
+      "text": "墨镜獭表情包_休息",
+      "url": "https://i0.hdslb.com/bfs/emote/4ca3c852e69dabc43058d25064cdbfd5b903f0c3.png"
+    }
+  ]
+}
