@@ -1,0 +1,68 @@
+{
+  "id": 8337,
+  "text": "甜品派对",
+  "icon": "https://i0.hdslb.com/bfs/garb/969209a17f1fa271b6da8a12f67ecd13791561ee.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "甜品派对_sweet",
+      "url": "https://i0.hdslb.com/bfs/garb/88126faaae99c077168aa4a685f7f56a14861ef7.png"
+    },
+    {
+      "text": "甜品派对_烘焙时光",
+      "url": "https://i0.hdslb.com/bfs/garb/49345ebfdc410e3b68dd248af93d9f23c38c5258.png"
+    },
+    {
+      "text": "甜品派对_烘焙魔法",
+      "url": "https://i0.hdslb.com/bfs/garb/3629b8527e1ba3f0fad7b5cba03ee83067c1f37a.png"
+    },
+    {
+      "text": "甜品派对_三明治",
+      "url": "https://i0.hdslb.com/bfs/garb/310b12b25455124d975278ce9394cd011425bf41.png"
+    },
+    {
+      "text": "甜品派对_小猫甜甜",
+      "url": "https://i0.hdslb.com/bfs/garb/770676c14f901796f04d2c2a17527bc06fd261df.png"
+    },
+    {
+      "text": "甜品派对_抹茶卷",
+      "url": "https://i0.hdslb.com/bfs/garb/9776e628503df90e32a5f68a427b0e7fa0bcc8e0.png"
+    },
+    {
+      "text": "甜品派对_布丁",
+      "url": "https://i0.hdslb.com/bfs/garb/2e3abc576f8d700117742b28bf70a9888945c4d3.png"
+    },
+    {
+      "text": "甜品派对_冰淇淋",
+      "url": "https://i0.hdslb.com/bfs/garb/529e8ffdcd59d0fab3c48e3ffebf8866f9a63a16.png"
+    },
+    {
+      "text": "甜品派对_蛋糕",
+      "url": "https://i0.hdslb.com/bfs/garb/c30d15d6142a1626e5c42ca5ec0314e4a12fe030.png"
+    },
+    {
+      "text": "甜品派对_喵呜",
+      "url": "https://i0.hdslb.com/bfs/garb/41385e0a276b87c57dd640bfee5d168b0d075f22.png"
+    },
+    {
+      "text": "甜品派对_奶酪披萨",
+      "url": "https://i0.hdslb.com/bfs/garb/918d701cd5d4b4dec2f651f95d815536dc0798da.png"
+    },
+    {
+      "text": "甜品派对_糖串子",
+      "url": "https://i0.hdslb.com/bfs/garb/606fbeab50fe3e719779de01c0a392dce5840707.png"
+    },
+    {
+      "text": "甜品派对_菜单",
+      "url": "https://i0.hdslb.com/bfs/garb/65f48c7bfd31cbce0b60111651891b30e28d7f9b.png"
+    },
+    {
+      "text": "甜品派对_草莓奶油",
+      "url": "https://i0.hdslb.com/bfs/garb/a01904b092db9f68da158fcde7032a801c81ab47.png"
+    },
+    {
+      "text": "甜品派对_餐具",
+      "url": "https://i0.hdslb.com/bfs/garb/cc706c7fedd43fb916a7df4e8547a955198fd9c3.png"
+    }
+  ]
+}

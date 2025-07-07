@@ -1,0 +1,32 @@
+{
+  "id": 8335,
+  "text": "水中22表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/5eb266b7e7c65c90f9dd22b8b5d2766a94e68372.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "水中22表情包_冲浪",
+      "url": "https://i0.hdslb.com/bfs/emote/5eb266b7e7c65c90f9dd22b8b5d2766a94e68372.png"
+    },
+    {
+      "text": "水中22表情包_游泳",
+      "url": "https://i0.hdslb.com/bfs/emote/858f6c3beb35c1d48eccb170ea1166dac5bd7879.png"
+    },
+    {
+      "text": "水中22表情包_划水",
+      "url": "https://i0.hdslb.com/bfs/emote/b6eace9ff2765da5c3f70eebe11b0be81425f3b4.png"
+    },
+    {
+      "text": "水中22表情包_呛水",
+      "url": "https://i0.hdslb.com/bfs/emote/05b3770121195f75e57bdcd40243dbe928f05ca4.png"
+    },
+    {
+      "text": "水中22表情包_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/emote/56d89794eb9c5ac3d136e7d960dc4f4653be16a2.png"
+    },
+    {
+      "text": "水中22表情包_唱歌",
+      "url": "https://i0.hdslb.com/bfs/emote/6ce0ffbbf021dab57d247f5da616ba2696223d4c.png"
+    }
+  ]
+}
