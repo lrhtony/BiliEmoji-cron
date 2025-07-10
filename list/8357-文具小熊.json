@@ -1,0 +1,68 @@
+{
+  "id": 8357,
+  "text": "文具小熊",
+  "icon": "https://i0.hdslb.com/bfs/garb/8275bcd914b4829d3ebaeb9dba1fccd4a214848a.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "文具小熊_写作业",
+      "url": "https://i0.hdslb.com/bfs/garb/95867b7eb6cc13037755a5c448ba2d896f53d83c.png"
+    },
+    {
+      "text": "文具小熊_书本",
+      "url": "https://i0.hdslb.com/bfs/garb/8d0907bc9886bdea0a43f41de6ecc885d689d026.png"
+    },
+    {
+      "text": "文具小熊_黑板",
+      "url": "https://i0.hdslb.com/bfs/garb/f989f1f0449e75189fcd005dd873baf46b204189.png"
+    },
+    {
+      "text": "文具小熊_铅笔",
+      "url": "https://i0.hdslb.com/bfs/garb/231783b0e52b4e8f6da334ad30900daaaebdd33c.png"
+    },
+    {
+      "text": "文具小熊_笔筒",
+      "url": "https://i0.hdslb.com/bfs/garb/06c860652b896551094a67884ff136def0d7276d.png"
+    },
+    {
+      "text": "文具小熊_地球仪",
+      "url": "https://i0.hdslb.com/bfs/garb/df85c70af2841d0feca94d6b840e34d9b87975f5.png"
+    },
+    {
+      "text": "文具小熊_车子",
+      "url": "https://i0.hdslb.com/bfs/garb/0cb88264f70eaadc28a18df129ad33f2f60d4ac9.png"
+    },
+    {
+      "text": "文具小熊_手提包",
+      "url": "https://i0.hdslb.com/bfs/garb/c1d8ddb4e964585911d982814eb0db22685abe0c.png"
+    },
+    {
+      "text": "文具小熊_计算器",
+      "url": "https://i0.hdslb.com/bfs/garb/159af62fc6edbeebfbfd134080effcca26721dce.png"
+    },
+    {
+      "text": "文具小熊_书",
+      "url": "https://i0.hdslb.com/bfs/garb/d11c08b8b19b11c162a5391b3bf8aa238af0b293.png"
+    },
+    {
+      "text": "文具小熊_卷笔刀",
+      "url": "https://i0.hdslb.com/bfs/garb/eb461852cd53f6cd5ba96a48758a8e6488c1c091.png"
+    },
+    {
+      "text": "文具小熊_笔",
+      "url": "https://i0.hdslb.com/bfs/garb/66dee6747f06306a81e3df3d277068fb47dc1b99.png"
+    },
+    {
+      "text": "文具小熊_书包",
+      "url": "https://i0.hdslb.com/bfs/garb/b8006091e6ada1701682fc9785d8d5b1f7209b02.png"
+    },
+    {
+      "text": "文具小熊_照片",
+      "url": "https://i0.hdslb.com/bfs/garb/2b42ac6150ef2a5305df9afaf2d7ec0d96753c18.png"
+    },
+    {
+      "text": "文具小熊_翻开书本",
+      "url": "https://i0.hdslb.com/bfs/garb/1516cd0a379bf92d02414913bfd761af01253186.png"
+    }
+  ]
+}
