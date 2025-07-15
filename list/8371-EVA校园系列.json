@@ -1,0 +1,68 @@
+{
+  "id": 8371,
+  "text": "EVA校园系列",
+  "icon": "https://i0.hdslb.com/bfs/garb/e0a1230f54d6ebe03ed8668b7e9ebe57e4af89e8.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "EVA校园系列_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/6a476ebcec509089ba8bd92dc2b6896626cb2558.png"
+    },
+    {
+      "text": "EVA校园系列_尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/d3e557d8478081e92a5134e236883b2675b7d0aa.png"
+    },
+    {
+      "text": "EVA校园系列_认输",
+      "url": "https://i0.hdslb.com/bfs/garb/8982badeb30444d479838fbeb82a4d7f4fb495fe.png"
+    },
+    {
+      "text": "EVA校园系列_高能预警",
+      "url": "https://i0.hdslb.com/bfs/garb/f4910984713cf735c91b281f8aa01afa59c7d412.png"
+    },
+    {
+      "text": "EVA校园系列_认真",
+      "url": "https://i0.hdslb.com/bfs/garb/ac080662e11e5af6cbd54f2eec97bb726556ee5b.png"
+    },
+    {
+      "text": "EVA校园系列_傲娇",
+      "url": "https://i0.hdslb.com/bfs/garb/9e68c9f7772f0fb0b633e7f3d176fe5d552a7851.png"
+    },
+    {
+      "text": "EVA校园系列_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/0d9ddf74cefb864a3e85f72a19d7c753596a2bb0.png"
+    },
+    {
+      "text": "EVA校园系列_一本满足",
+      "url": "https://i0.hdslb.com/bfs/garb/2ff788b9dd0023f69f590eb0314b408d08a22a01.png"
+    },
+    {
+      "text": "EVA校园系列_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/10f04dc4804c5f00eb28b5369dd40a51262eb73a.png"
+    },
+    {
+      "text": "EVA校园系列_击掌",
+      "url": "https://i0.hdslb.com/bfs/garb/853c97e11d7b8cb5f18130625b7164eb05d2e110.png"
+    },
+    {
+      "text": "EVA校园系列_初次见面",
+      "url": "https://i0.hdslb.com/bfs/garb/3ce629a647828645914614bb5b298e80101771fd.png"
+    },
+    {
+      "text": "EVA校园系列_探头",
+      "url": "https://i0.hdslb.com/bfs/garb/d65c88ee8390fd03d6b99003f7637ca8952e71ed.png"
+    },
+    {
+      "text": "EVA校园系列_开始表演",
+      "url": "https://i0.hdslb.com/bfs/garb/2706ce96f75afa44ccc79cbf5caeeb6bfef7dad2.png"
+    },
+    {
+      "text": "EVA校园系列_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/64d952509a795b90004f9a77b6c1780b1d402053.png"
+    },
+    {
+      "text": "EVA校园系列_微笑",
+      "url": "https://i0.hdslb.com/bfs/garb/447e46f4aa7b826312e1a12b5b0c3710263c8d2f.png"
+    }
+  ]
+}
