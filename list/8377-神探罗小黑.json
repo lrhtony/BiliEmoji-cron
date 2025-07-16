@@ -1,0 +1,108 @@
+{
+  "id": 8377,
+  "text": "神探罗小黑",
+  "icon": "https://i0.hdslb.com/bfs/garb/item/4b86e2b961748961171a6ecb2d57ecab2a14c004.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "神探罗小黑_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/d431314d58aa1b67c475d2831adf221c6b59d27e.png"
+    },
+    {
+      "text": "神探罗小黑_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/13e0b8d08436ca696f599fb635d7c06e7a1c2ffb.png"
+    },
+    {
+      "text": "神探罗小黑_加载",
+      "url": "https://i0.hdslb.com/bfs/garb/44283fb63d9c3449935fbbbca889c9ae56cfb9bd.png"
+    },
+    {
+      "text": "神探罗小黑_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/aeb0829a3eb71a9fe55b68125f81695502225187.png"
+    },
+    {
+      "text": "神探罗小黑_跩",
+      "url": "https://i0.hdslb.com/bfs/garb/445380daa54481259902479cd899532bf3a3133b.png"
+    },
+    {
+      "text": "神探罗小黑_Go！",
+      "url": "https://i0.hdslb.com/bfs/garb/f56178992710a3a1d913dd3602681667b60aa6da.png"
+    },
+    {
+      "text": "神探罗小黑_摸下巴",
+      "url": "https://i0.hdslb.com/bfs/garb/b5fcca163154837c5d321340dcea314a7bf0b1e5.png"
+    },
+    {
+      "text": "神探罗小黑_Huh？",
+      "url": "https://i0.hdslb.com/bfs/garb/1f46af6a5327e48aa422127003ea53d90337f35c.png"
+    },
+    {
+      "text": "神探罗小黑_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/024ddc9e1355c74005a499020f560a8adb178206.png"
+    },
+    {
+      "text": "神探罗小黑_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/fbeefc2ee4173fc8d4c7e34a545463fe5da970f3.png"
+    },
+    {
+      "text": "神探罗小黑_喵...",
+      "url": "https://i0.hdslb.com/bfs/garb/8eea8c400e1fc8bbac92857abd4431f18d143107.png"
+    },
+    {
+      "text": "神探罗小黑_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/64dc64314b147eabedff10493583bd3173bd31e6.png"
+    },
+    {
+      "text": "神探罗小黑_耶",
+      "url": "https://i0.hdslb.com/bfs/garb/37f5ae56c54fd146d85e71e729faea8336d72b64.png"
+    },
+    {
+      "text": "神探罗小黑_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/f226175df52d9ca03fa6ec4754249de0584915d5.png"
+    },
+    {
+      "text": "神探罗小黑_Yo！",
+      "url": "https://i0.hdslb.com/bfs/garb/8563bb2f13c49f20bf6f60a9ff4c57fc2198ecfe.png"
+    },
+    {
+      "text": "神探罗小黑_低气压",
+      "url": "https://i0.hdslb.com/bfs/garb/b5646857199e13be3df23cb8b431d04bf8f9024b.png"
+    },
+    {
+      "text": "神探罗小黑_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/8a4988c9010e80491869ff452c60a0a56e93cdff.png"
+    },
+    {
+      "text": "神探罗小黑_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/5022935251bb2fd9b55b4baa42242f0180aa9305.png"
+    },
+    {
+      "text": "神探罗小黑_擦汗",
+      "url": "https://i0.hdslb.com/bfs/garb/3b830fd23e82006cd588a5f20c517307e4cf2f70.png"
+    },
+    {
+      "text": "神探罗小黑_抹泪",
+      "url": "https://i0.hdslb.com/bfs/garb/4727fb0d817accbb2bc5c10c79faa2c2623c1351.png"
+    },
+    {
+      "text": "神探罗小黑_再会",
+      "url": "https://i0.hdslb.com/bfs/garb/ef6a0c031ae6184a0a12d67c6dee356aca9a0048.png"
+    },
+    {
+      "text": "神探罗小黑_你说啥",
+      "url": "https://i0.hdslb.com/bfs/garb/2f1f9305c33652d94b2d160ca357908c2c68aa69.png"
+    },
+    {
+      "text": "神探罗小黑_慌张",
+      "url": "https://i0.hdslb.com/bfs/garb/78aa39e50428786e9a45c040f92488277c63b679.png"
+    },
+    {
+      "text": "神探罗小黑_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/483ed3ab0ad84cb4abb0a19adbf9201738292c5b.png"
+    },
+    {
+      "text": "神探罗小黑_戳戳",
+      "url": "https://i0.hdslb.com/bfs/garb/b22bdd344885f4dfe2cd64610fb6473f4cb2ce04.png"
+    }
+  ]
+}
