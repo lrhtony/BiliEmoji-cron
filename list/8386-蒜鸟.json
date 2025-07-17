@@ -1,0 +1,68 @@
+{
+  "id": 8386,
+  "text": "蒜鸟",
+  "icon": "https://i0.hdslb.com/bfs/garb/9225a72259bc55cee1460678dfdac9a4421578e3.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "蒜鸟_蒜鸟",
+      "url": "https://i0.hdslb.com/bfs/garb/254a6dcd3fd1dfedd3143695c78f2a44a93d28ec.png"
+    },
+    {
+      "text": "蒜鸟_来一口",
+      "url": "https://i0.hdslb.com/bfs/garb/898fa2c01e9eef124aa9fbdb5c741f6c7e1e155a.png"
+    },
+    {
+      "text": "蒜鸟_方鸟",
+      "url": "https://i0.hdslb.com/bfs/garb/c7989064c50b5f4c7f442a9d3d8b8e379f299ee1.png"
+    },
+    {
+      "text": "蒜鸟_手鸡",
+      "url": "https://i0.hdslb.com/bfs/garb/2cf49b63ac5df27b02bfd7310c20fd7f6a286f2f.png"
+    },
+    {
+      "text": "蒜鸟_没电了",
+      "url": "https://i0.hdslb.com/bfs/garb/f11b88ea226b0524e0eb3cd48780ce42dbb67f25.png"
+    },
+    {
+      "text": "蒜鸟_滑鸡",
+      "url": "https://i0.hdslb.com/bfs/garb/bc90ebddcdf1b391aea305f41d755888a30608be.png"
+    },
+    {
+      "text": "蒜鸟_双面鸟",
+      "url": "https://i0.hdslb.com/bfs/garb/ce9b8d0e9de4ee25c31c33457deaef9a00c4244b.png"
+    },
+    {
+      "text": "蒜鸟_躺下",
+      "url": "https://i0.hdslb.com/bfs/garb/cdfa29ab2f111d6c6856400958f6dba4ca5cb5f5.png"
+    },
+    {
+      "text": "蒜鸟_摸摸",
+      "url": "https://i0.hdslb.com/bfs/garb/eb8c29c456fdec6049c909b0c2c986e3f345a39d.png"
+    },
+    {
+      "text": "蒜鸟_亲亲小鸟",
+      "url": "https://i0.hdslb.com/bfs/garb/fa39ebfc6fa4ca1f07e2bfd7e6a28642ea1246e4.png"
+    },
+    {
+      "text": "蒜鸟_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/4ef7aa4fcb5fe78b7c59b8809321e19f266e5df8.png"
+    },
+    {
+      "text": "蒜鸟_阅读鸟",
+      "url": "https://i0.hdslb.com/bfs/garb/aa69d06066588fcd8dcb99bd58ecef35d3df0a5c.png"
+    },
+    {
+      "text": "蒜鸟_不许动",
+      "url": "https://i0.hdslb.com/bfs/garb/c6efc49f830ace18a03c3959ba01706b9a0bb76a.png"
+    },
+    {
+      "text": "蒜鸟_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/b43ab1f7583d51bc77a094b86ccbab00663e0f84.png"
+    },
+    {
+      "text": "蒜鸟_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/fcd01ed272d46f9f7824ee4d2b799c9135cad78a.png"
+    }
+  ]
+}
