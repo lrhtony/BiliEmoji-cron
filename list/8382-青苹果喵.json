@@ -1,0 +1,68 @@
+{
+  "id": 8382,
+  "text": "青苹果喵",
+  "icon": "https://i0.hdslb.com/bfs/garb/d28fddda62d20010e61a8bc4432f36fd5d528bd8.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "青苹果喵_拥抱苹果",
+      "url": "https://i0.hdslb.com/bfs/garb/a151b17a6b04695fbf34c9fbdb0bb9e6e111ba45.png"
+    },
+    {
+      "text": "青苹果喵_吃掉苹果",
+      "url": "https://i0.hdslb.com/bfs/garb/001083d1ea6c0038176e46660f48d0f869e33bdd.png"
+    },
+    {
+      "text": "青苹果喵_苹果小车",
+      "url": "https://i0.hdslb.com/bfs/garb/6a89f30a318c6dc7b2bad052f16d0843fbb3b182.png"
+    },
+    {
+      "text": "青苹果喵_苹果皮",
+      "url": "https://i0.hdslb.com/bfs/garb/e9a07ec920273cdd4fa8e3ad7e040d92f464dcbb.png"
+    },
+    {
+      "text": "青苹果喵_苹果汽水",
+      "url": "https://i0.hdslb.com/bfs/garb/8546fa40f4a8a9a5041f150001989d875ec6d258.png"
+    },
+    {
+      "text": "青苹果喵_一袋苹果",
+      "url": "https://i0.hdslb.com/bfs/garb/fbcba37c29082d42351c731bc8bf959ff0ff1464.png"
+    },
+    {
+      "text": "青苹果喵_一箱苹果",
+      "url": "https://i0.hdslb.com/bfs/garb/37e6e8da269503ddc27a412755a5378418aa746e.png"
+    },
+    {
+      "text": "青苹果喵_削皮",
+      "url": "https://i0.hdslb.com/bfs/garb/5db2b2a727627030b7d73c03795fef5534c36420.png"
+    },
+    {
+      "text": "青苹果喵_清爽",
+      "url": "https://i0.hdslb.com/bfs/garb/2eacf15f61c711bb93a61b76e40d7bd62c71114a.png"
+    },
+    {
+      "text": "青苹果喵_极简",
+      "url": "https://i0.hdslb.com/bfs/garb/f1e21a861ed26020163a2e5f8ee92b7222d374f2.png"
+    },
+    {
+      "text": "青苹果喵_举起苹果",
+      "url": "https://i0.hdslb.com/bfs/garb/22c2c424a19384a27967ae41ed071f3933561d63.png"
+    },
+    {
+      "text": "青苹果喵_花花",
+      "url": "https://i0.hdslb.com/bfs/garb/5bf3ba78042a6cacf8e88da2f308cf8f30df3792.png"
+    },
+    {
+      "text": "青苹果喵_苹果书",
+      "url": "https://i0.hdslb.com/bfs/garb/f932ec8e7540047a42cb3520ed8244082a6a1177.png"
+    },
+    {
+      "text": "青苹果喵_兔子苹果",
+      "url": "https://i0.hdslb.com/bfs/garb/5d37f540a3acb6b0915ad5c8371395a35498f517.png"
+    },
+    {
+      "text": "青苹果喵_苹果核",
+      "url": "https://i0.hdslb.com/bfs/garb/318bb04a12fdc6b22e35bc0ab38548b1c9d43873.png"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 8383,
+  "text": "听歌小狗",
+  "icon": "https://i0.hdslb.com/bfs/garb/5271d60f44866fab044d83f91a568c2793b26ab1.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "听歌小狗_卖萌",
+      "url": "https://i0.hdslb.com/bfs/garb/acc71b051a98f0211e8ea1071b8b6c9342bb2ed5.png"
+    },
+    {
+      "text": "听歌小狗_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/9961067df872b79477f8f78a7f1b35c54fc69bc0.png"
+    },
+    {
+      "text": "听歌小狗_谢谢",
+      "url": "https://i0.hdslb.com/bfs/garb/30cc89a8993cd90aedc8164b8aee50eaecc0f004.png"
+    },
+    {
+      "text": "听歌小狗_沮丧",
+      "url": "https://i0.hdslb.com/bfs/garb/720c39fab07dbf64995bce92f4de64b8b240c9f3.png"
+    },
+    {
+      "text": "听歌小狗_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/aa08629ef6c2240412a4243714a076918ab24e6e.png"
+    },
+    {
+      "text": "听歌小狗_生病",
+      "url": "https://i0.hdslb.com/bfs/garb/0f7518ae7852d09aad6fc78973e561f6c5ab18c8.png"
+    },
+    {
+      "text": "听歌小狗_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/189dc23b250bd0dd178ec29f41a729f1debc2415.png"
+    },
+    {
+      "text": "听歌小狗_安慰",
+      "url": "https://i0.hdslb.com/bfs/garb/62cb2df8cf77dcab55cb9ac67affa8267abe9e4a.png"
+    },
+    {
+      "text": "听歌小狗_玩手机",
+      "url": "https://i0.hdslb.com/bfs/garb/cc451eb4daca1a7b6a2d925eef24d620bc67aafe.png"
+    },
+    {
+      "text": "听歌小狗_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/1aa5e0ffa5b68d2e91ccc1e71a60abbb853bde41.png"
+    },
+    {
+      "text": "听歌小狗_盯！",
+      "url": "https://i0.hdslb.com/bfs/garb/55c1347dff8e2d46b325677a4f4cebc3d6f5a307.png"
+    },
+    {
+      "text": "听歌小狗_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/ff4a0f8cd3d3e45206c9dfbe67a48be7386e4c86.png"
+    },
+    {
+      "text": "听歌小狗_幸运",
+      "url": "https://i0.hdslb.com/bfs/garb/b9bcb3bacbb4daaf97cc9c54dc59d1ea75974f8b.png"
+    },
+    {
+      "text": "听歌小狗_坚强",
+      "url": "https://i0.hdslb.com/bfs/garb/dfb8e1253c6d95487dac3d74c1fbfd9a1b2cff2b.png"
+    },
+    {
+      "text": "听歌小狗_喝奶茶",
+      "url": "https://i0.hdslb.com/bfs/garb/4401d82f326968eb1c123293dddf5c14f1de3999.png"
+    }
+  ]
+}
