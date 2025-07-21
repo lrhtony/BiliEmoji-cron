@@ -1,0 +1,68 @@
+{
+  "id": 8412,
+  "text": "中华娘",
+  "icon": "https://i0.hdslb.com/bfs/garb/5c580b597ad85505342d7e0b9dc8b476c1d086d3.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "中华娘_羞涩",
+      "url": "https://i0.hdslb.com/bfs/garb/d5c83580b0dade13f41c59f8e608f28f687fa1d8.png"
+    },
+    {
+      "text": "中华娘_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/8fa337ef8e07ec503e8b39f253f02bf041881c57.png"
+    },
+    {
+      "text": "中华娘_遗憾",
+      "url": "https://i0.hdslb.com/bfs/garb/1e2939535cb40ef284388eb503b5a52aaede952e.png"
+    },
+    {
+      "text": "中华娘_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/db1a2e023156d31ccd9b7ae9be45513cdc1f0d79.png"
+    },
+    {
+      "text": "中华娘_黑脸",
+      "url": "https://i0.hdslb.com/bfs/garb/5a060a5086ee05caeb1c19ddbe2e8ed2c69a4661.png"
+    },
+    {
+      "text": "中华娘_着急",
+      "url": "https://i0.hdslb.com/bfs/garb/e4f9d18705c3c94ef09cfe9779c21638cba477dd.png"
+    },
+    {
+      "text": "中华娘_献花",
+      "url": "https://i0.hdslb.com/bfs/garb/f4d65865ffe7b5bba067e7434120f824e4820023.png"
+    },
+    {
+      "text": "中华娘_升华",
+      "url": "https://i0.hdslb.com/bfs/garb/dc3a586a1006c55778be8fbfdffe059f9b4e3ca5.png"
+    },
+    {
+      "text": "中华娘_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/2bd5b70721ef3bb70a8befa4dcaa64cacb1c4428.png"
+    },
+    {
+      "text": "中华娘_鬼脸",
+      "url": "https://i0.hdslb.com/bfs/garb/a788448609f5a07e4acf3b16045a53af35077892.png"
+    },
+    {
+      "text": "中华娘_可怜",
+      "url": "https://i0.hdslb.com/bfs/garb/33376a5e7c4d25a316c809f9636e07e33306422e.png"
+    },
+    {
+      "text": "中华娘_发脾气",
+      "url": "https://i0.hdslb.com/bfs/garb/cc0b6b5fb0f373e4d35d9d87914fed3ae4052ae0.png"
+    },
+    {
+      "text": "中华娘_撒钱",
+      "url": "https://i0.hdslb.com/bfs/garb/33396799b164902d408d2b66afd2bebb72cfbb0b.png"
+    },
+    {
+      "text": "中华娘_鸭鸭",
+      "url": "https://i0.hdslb.com/bfs/garb/3c819535bb778a12615c33fc741cfc68715017ca.png"
+    },
+    {
+      "text": "中华娘_吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/e384101944d5f860aa065c534a3d2d578ad8400a.png"
+    }
+  ]
+}
