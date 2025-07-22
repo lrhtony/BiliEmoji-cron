@@ -1,40 +1,44 @@
 {
   "id": 7938,
   "text": "患病人偶SickDoll（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/981176a5cd385ea34f10ca68dfb3121558395602.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/104e6d866722084225504ce3ea814d19b31f47e6.png",
   "resource_type": 0,
   "emote": [
     {
-      "text": "UPOWER_350793395_在吗",
-      "url": "https://i0.hdslb.com/bfs/garb/576e36e89974cae941e68ba4a62d892b4598d962.png"
+      "text": "UPOWER_350793395_人偶",
+      "url": "https://i0.hdslb.com/bfs/garb/4ff8e01c13602533e57deb898d80600180feb382.png"
     },
     {
-      "text": "UPOWER_350793395_食油饼",
-      "url": "https://i0.hdslb.com/bfs/garb/c6f811c6a09e8ce2bb212199a2d23020e7bc01f8.png"
+      "text": "UPOWER_350793395_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/971f04eb0723dbfccab6d20cb7340a42f6ac6550.png"
     },
     {
-      "text": "UPOWER_350793395_喔喔喔",
-      "url": "https://i0.hdslb.com/bfs/garb/2948bf12fbf8f17c76f456335e190f96aa78d7b0.png"
+      "text": "UPOWER_350793395_旧寝室楼",
+      "url": "https://i0.hdslb.com/bfs/garb/dee60eff14875db8296bf63d86375bdbc688b59a.png"
     },
     {
-      "text": "UPOWER_350793395_你干嘛",
-      "url": "https://i0.hdslb.com/bfs/garb/300c05be3874be21b6081b758461a6fcccd19fcf.png"
+      "text": "UPOWER_350793395_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/fcdd8c37268b9e3f9270b2c7abf9470b186cce31.png"
     },
     {
-      "text": "UPOWER_350793395_唱",
-      "url": "https://i0.hdslb.com/bfs/garb/94e9aef75ab20c28f2c9fabdb503e104bf212935.png"
+      "text": "UPOWER_350793395_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/0f74b1a231f554a338a153a804fd6dd52da9b5d9.png"
     },
     {
-      "text": "UPOWER_350793395_跳",
-      "url": "https://i0.hdslb.com/bfs/garb/f2e998cde359bc5a5878baa4ce6fd75198693d42.png"
+      "text": "UPOWER_350793395_催更符",
+      "url": "https://i0.hdslb.com/bfs/garb/12d0970cd967758ed9897f0f42a1db352adddf80.png"
     },
     {
-      "text": "UPOWER_350793395_rap",
-      "url": "https://i0.hdslb.com/bfs/garb/0c16fb1cb136f9e83364f74b839afedfb76d6164.png"
+      "text": "UPOWER_350793395_头朝下",
+      "url": "https://i0.hdslb.com/bfs/garb/0b8fd5df8f83b5bbc06a83b84b1f7ed5e2798809.png"
     },
     {
-      "text": "UPOWER_350793395_篮球",
-      "url": "https://i0.hdslb.com/bfs/garb/13216db5a782422a4268fd505d44f2f933dbe592.png"
+      "text": "UPOWER_350793395_趴着",
+      "url": "https://i0.hdslb.com/bfs/garb/d5b14237e209aceeb1fb27f55f5f8eed260ce6bc.png"
+    },
+    {
+      "text": "UPOWER_350793395_充电",
+      "url": "https://i0.hdslb.com/bfs/garb/8c2f109964b36999fb6f5f5eef56b06a59886214.png"
     }
   ]
 }
