@@ -1,0 +1,68 @@
+{
+  "id": 8422,
+  "text": "蛙蛙之声",
+  "icon": "https://i0.hdslb.com/bfs/garb/4913fcce34a6038840e748186bd1a5ca9740bf14.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "蛙蛙之声_钓鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/cc76b6568b09107e658d2fad4635bb9cbb263dff.png"
+    },
+    {
+      "text": "蛙蛙之声_吃东西",
+      "url": "https://i0.hdslb.com/bfs/garb/738394387c1fea6eb972c0cdd4dfbbc6c5b6b768.png"
+    },
+    {
+      "text": "蛙蛙之声_休息",
+      "url": "https://i0.hdslb.com/bfs/garb/18e890d06d556bf317176fbc74b1dacee5e6d1df.png"
+    },
+    {
+      "text": "蛙蛙之声_自拍",
+      "url": "https://i0.hdslb.com/bfs/garb/5930219ab2b33895896c268b87b68531bd39c146.png"
+    },
+    {
+      "text": "蛙蛙之声_汽车",
+      "url": "https://i0.hdslb.com/bfs/garb/ec9d2ce0554a658cc1d53c28231fd1fe6ae87436.png"
+    },
+    {
+      "text": "蛙蛙之声_烧水",
+      "url": "https://i0.hdslb.com/bfs/garb/e3f15d6eeca3ecccc8dfdeb029f0dd0f2676da9f.png"
+    },
+    {
+      "text": "蛙蛙之声_hi",
+      "url": "https://i0.hdslb.com/bfs/garb/c17db7767eed4f21eaec624cb0576664ec8e3358.png"
+    },
+    {
+      "text": "蛙蛙之声_包",
+      "url": "https://i0.hdslb.com/bfs/garb/41567e1de5003fa4d93df1ed2d3ab8e7403aacc6.png"
+    },
+    {
+      "text": "蛙蛙之声_发呆",
+      "url": "https://i0.hdslb.com/bfs/garb/ffe0ec4ee77eca7386ec1996254c13e8315fb756.png"
+    },
+    {
+      "text": "蛙蛙之声_指路牌",
+      "url": "https://i0.hdslb.com/bfs/garb/ea851de3dfcd5a1962131e7a84473854c3234a7a.png"
+    },
+    {
+      "text": "蛙蛙之声_小铲子",
+      "url": "https://i0.hdslb.com/bfs/garb/455de764ec81b24942dd024a723695d4913e40e6.png"
+    },
+    {
+      "text": "蛙蛙之声_木桩",
+      "url": "https://i0.hdslb.com/bfs/garb/27549c9aa7622fb350bb1eacd6c2a75788456456.png"
+    },
+    {
+      "text": "蛙蛙之声_帽子",
+      "url": "https://i0.hdslb.com/bfs/garb/f162d7955ece5891f755cd3dece7faa4382d43c3.png"
+    },
+    {
+      "text": "蛙蛙之声_油灯",
+      "url": "https://i0.hdslb.com/bfs/garb/719096a9d3a1f06b2c5c2f449eb48d5fc3855832.png"
+    },
+    {
+      "text": "蛙蛙之声_地图",
+      "url": "https://i0.hdslb.com/bfs/garb/19887c0d053c28dcd21c41ed8eba38c5bbfe97f0.png"
+    }
+  ]
+}
