@@ -1,0 +1,44 @@
+{
+  "id": 8449,
+  "text": "禾兮子（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/b08860e9963742d1486bf5716f517d13e0995594.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_346124580_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/2780ba1b2f366d04a7b5b22789b34a8a60d59a91.png"
+    },
+    {
+      "text": "UPOWER_346124580_沉默",
+      "url": "https://i0.hdslb.com/bfs/garb/768cf7db6e86005e34f51da329e8e71c243066a5.png"
+    },
+    {
+      "text": "UPOWER_346124580_6眼泪",
+      "url": "https://i0.hdslb.com/bfs/garb/771fc0b90ef07c1ff8defbfcc1fa0e9ac3e44df9.png"
+    },
+    {
+      "text": "UPOWER_346124580_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/82ffc4f7d29a5c173114184c53dc4b9090543ab6.png"
+    },
+    {
+      "text": "UPOWER_346124580_憨憨",
+      "url": "https://i0.hdslb.com/bfs/garb/62a05d0cad69e608877844afba8749ee846c424b.png"
+    },
+    {
+      "text": "UPOWER_346124580_睿智",
+      "url": "https://i0.hdslb.com/bfs/garb/4888e5cadcf4fd547bbfe5cbc8d159912a236b31.png"
+    },
+    {
+      "text": "UPOWER_346124580_眠了",
+      "url": "https://i0.hdslb.com/bfs/garb/67baa331f2cdde49f05100692d6f9614d84356b0.png"
+    },
+    {
+      "text": "UPOWER_346124580_禾善",
+      "url": "https://i0.hdslb.com/bfs/garb/15fc797160b62158a7726cb0915b1cd64d64e925.png"
+    },
+    {
+      "text": "UPOWER_346124580_杀气",
+      "url": "https://i0.hdslb.com/bfs/garb/2619ec6897ec446f679a13bc6df48cb1d847d5c2.png"
+    }
+  ]
+}
