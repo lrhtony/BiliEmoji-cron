@@ -1,0 +1,68 @@
+{
+  "id": 8467,
+  "text": "小羊",
+  "icon": "https://i0.hdslb.com/bfs/garb/545eabab1649f24c43883698ac4910ea59ec4394.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "小羊_坐",
+      "url": "https://i0.hdslb.com/bfs/garb/99f596bd4c4dd44f5b2961106567fa7b57700ae5.png"
+    },
+    {
+      "text": "小羊_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/93e3309187312042547c97271b187469bb124ad8.png"
+    },
+    {
+      "text": "小羊_闭眼",
+      "url": "https://i0.hdslb.com/bfs/garb/8de073854b7552b6446e6310ff0032d4663acc53.png"
+    },
+    {
+      "text": "小羊_信封",
+      "url": "https://i0.hdslb.com/bfs/garb/c2d557471f2df6993927d3c9fc6c430c216420fb.png"
+    },
+    {
+      "text": "小羊_四叶草",
+      "url": "https://i0.hdslb.com/bfs/garb/2d48b6220e4b944eb43e60260a8e6df40822c9d6.png"
+    },
+    {
+      "text": "小羊_篮子",
+      "url": "https://i0.hdslb.com/bfs/garb/bbcca145932877eb563b17eff81f721742cb6f1a.png"
+    },
+    {
+      "text": "小羊_翻开的书",
+      "url": "https://i0.hdslb.com/bfs/garb/02dfb5b86f8a0adaff58bcd74564f67c2053145e.png"
+    },
+    {
+      "text": "小羊_魔法药水",
+      "url": "https://i0.hdslb.com/bfs/garb/4dbf845c8d53e7817720bf07ec82930c1d638c68.png"
+    },
+    {
+      "text": "小羊_御守",
+      "url": "https://i0.hdslb.com/bfs/garb/6d49c48c0f6df764a39ea560a88d52e4b66764e6.png"
+    },
+    {
+      "text": "小羊_星星瓶",
+      "url": "https://i0.hdslb.com/bfs/garb/67b529fcf18f3932ee8fe6275bc85af262ac33cf.png"
+    },
+    {
+      "text": "小羊_便签",
+      "url": "https://i0.hdslb.com/bfs/garb/4141991e77a21d49dcf69285818bc8747ef022ff.png"
+    },
+    {
+      "text": "小羊_书本",
+      "url": "https://i0.hdslb.com/bfs/garb/41c9a26b97f2e150e154e6b535d7fdf0d299178d.png"
+    },
+    {
+      "text": "小羊_信",
+      "url": "https://i0.hdslb.com/bfs/garb/c4f45c2733b87e8c39bc5bc8868b9dd53979954d.png"
+    },
+    {
+      "text": "小羊_蝴蝶结",
+      "url": "https://i0.hdslb.com/bfs/garb/68b48c2f621b600d31c1b0fff9a809810618fb17.png"
+    },
+    {
+      "text": "小羊_小羊",
+      "url": "https://i0.hdslb.com/bfs/garb/8db54f616804fabd81731ad51783615203a59556.png"
+    }
+  ]
+}
