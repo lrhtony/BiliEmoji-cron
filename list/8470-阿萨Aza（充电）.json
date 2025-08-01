@@ -1,0 +1,32 @@
+{
+  "id": 8470,
+  "text": "阿萨Aza（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/b87a617ab9b50370b2231d235b6350a099f2658e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_480680646_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/66abf493f5908c1afb3349fb1bc4f9b58bd477ba.png"
+    },
+    {
+      "text": "UPOWER_480680646_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/91d194926eacf0a794055c88b7a2f9a2ad622006.png"
+    },
+    {
+      "text": "UPOWER_480680646_探头",
+      "url": "https://i0.hdslb.com/bfs/garb/da491a62fe20eee2b0bc554a9f447d1ca0ea17df.png"
+    },
+    {
+      "text": "UPOWER_480680646_哇哦",
+      "url": "https://i0.hdslb.com/bfs/garb/5d7629eb8305246f100c20582bcb7c8e8f24ddc4.png"
+    },
+    {
+      "text": "UPOWER_480680646_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/b5d9bfeadaea5988bb3784aa4981308be6cce495.png"
+    },
+    {
+      "text": "UPOWER_480680646_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/576ee513afb70bc1c4cbd67999db1db5b98d240f.png"
+    }
+  ]
+}
