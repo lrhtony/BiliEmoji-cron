@@ -1,0 +1,40 @@
+{
+  "id": 8489,
+  "text": "芸草冰（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/152deb881827c9ce2ae807cbe6e147a52693f16e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_78595419_脸红",
+      "url": "https://i0.hdslb.com/bfs/garb/58b7475142b61842e5200955f91f553c8a7eb0bf.png"
+    },
+    {
+      "text": "UPOWER_78595419_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/88262a48cfe4a2e2beab30f129c7da1320ab4d17.png"
+    },
+    {
+      "text": "UPOWER_78595419_哈啊",
+      "url": "https://i0.hdslb.com/bfs/garb/f629e2d23ea102f891111b3dada0fefeeeef614e.png"
+    },
+    {
+      "text": "UPOWER_78595419_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/896c1ddaac610db9c17c1f945b918b85df809751.png"
+    },
+    {
+      "text": "UPOWER_78595419_沦陷",
+      "url": "https://i0.hdslb.com/bfs/garb/96eb413fd2e702bffa77311e5666f92dfdcbe2fa.png"
+    },
+    {
+      "text": "UPOWER_78595419_学习",
+      "url": "https://i0.hdslb.com/bfs/garb/dbe8a9641a3c1d29f993407bad898c7e6b0c87f6.png"
+    },
+    {
+      "text": "UPOWER_78595419_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/ee68569883cdb519703fee49bf5e55f53ab193f8.png"
+    },
+    {
+      "text": "UPOWER_78595419_怒",
+      "url": "https://i0.hdslb.com/bfs/garb/28d3a88c3363a547a8f120eeb40456f7a5bfc501.png"
+    }
+  ]
+}
