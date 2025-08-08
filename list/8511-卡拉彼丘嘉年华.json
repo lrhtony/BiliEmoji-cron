@@ -1,0 +1,60 @@
+{
+  "id": 8511,
+  "text": "卡拉彼丘嘉年华",
+  "icon": "https://i0.hdslb.com/bfs/emote/324a6c8acdb3225ba90f489a7fc55b96cb1e7412.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "卡拉彼丘嘉年华_挥剑",
+      "url": "https://i0.hdslb.com/bfs/emote/b3cf74c25627a41acb1e64a04f7f5a69275c3690.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_潜水",
+      "url": "https://i0.hdslb.com/bfs/emote/44c575b90a31dcfaa8a8253c6d999be2e5e30d70.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_晒太阳",
+      "url": "https://i0.hdslb.com/bfs/emote/13856d6e79be0b1466064d43f9e2fec22e0d7c6b.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_悠闲",
+      "url": "https://i0.hdslb.com/bfs/emote/2a0d9dbadb9ee18b71867616b0ddb6aac683c2e6.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_玩沙",
+      "url": "https://i0.hdslb.com/bfs/emote/c7abfaf3c46ffd174823d4b128149e7fc60864e1.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_冲呀",
+      "url": "https://i0.hdslb.com/bfs/emote/0d5e437588bd96e17b06974db9704181c3bac660.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_热",
+      "url": "https://i0.hdslb.com/bfs/emote/e1f1bf2284deaea4c520abf6216c888121984606.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_冲浪",
+      "url": "https://i0.hdslb.com/bfs/emote/8f9d0988a7ad19b2772cabdeda5e4e0a02ae09ef.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_吹",
+      "url": "https://i0.hdslb.com/bfs/emote/97eb6b3351578d621a322418145dd9cfc21787f2.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_喝水",
+      "url": "https://i0.hdslb.com/bfs/emote/e8649b0d9e03f4f48a4e8bb38bf8d362240e2773.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_打西瓜",
+      "url": "https://i0.hdslb.com/bfs/emote/8738291fb15436b2adc0730bc8b1cb5990535a75.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_吃冰",
+      "url": "https://i0.hdslb.com/bfs/emote/e59cf844b17faf5aaf96ab49dfec5796abcda18d.png"
+    },
+    {
+      "text": "卡拉彼丘嘉年华_拍照",
+      "url": "https://i0.hdslb.com/bfs/emote/c26ad84eebfe8f96498d81e80f32cc880c75d2c8.png"
+    }
+  ]
+}
