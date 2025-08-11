@@ -1,0 +1,68 @@
+{
+  "id": 8520,
+  "text": "晚安天使",
+  "icon": "https://i0.hdslb.com/bfs/garb/ef5635523875ea4003ee3e01291f7e1e30c35c2c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "晚安天使_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/070f4b25cdefadf7d6702d5c6927ca9622311eaf.png"
+    },
+    {
+      "text": "晚安天使_兔子",
+      "url": "https://i0.hdslb.com/bfs/garb/2891977e915acc00c4d8aabc000c32b64207d1aa.png"
+    },
+    {
+      "text": "晚安天使_闹钟",
+      "url": "https://i0.hdslb.com/bfs/garb/2b91473de7f72a988582ca4a8aeb6d7d29435c5c.png"
+    },
+    {
+      "text": "晚安天使_镜子",
+      "url": "https://i0.hdslb.com/bfs/garb/3d106f3fa4de402e872ebb97f00dc11f7ee1103c.png"
+    },
+    {
+      "text": "晚安天使_小船",
+      "url": "https://i0.hdslb.com/bfs/garb/1013bc573ea45db8532496b1069088d6d120f5c8.png"
+    },
+    {
+      "text": "晚安天使_小马",
+      "url": "https://i0.hdslb.com/bfs/garb/c8f5ec25a1781df1e3f0f8acbfc3aa6e362c61b7.png"
+    },
+    {
+      "text": "晚安天使_灯罩",
+      "url": "https://i0.hdslb.com/bfs/garb/a64732cf6418d0422c4e1f0550007b6a6493f57b.png"
+    },
+    {
+      "text": "晚安天使_袜子",
+      "url": "https://i0.hdslb.com/bfs/garb/d51e57917f4941e16b6a06d4e5962f74bd401d1d.png"
+    },
+    {
+      "text": "晚安天使_云",
+      "url": "https://i0.hdslb.com/bfs/garb/d0a55e80b2ef3afc7294ad9f995893dbeeb83cde.png"
+    },
+    {
+      "text": "晚安天使_梳子",
+      "url": "https://i0.hdslb.com/bfs/garb/d0ab9a428ecc1fea31fd8b9993d8f5e264edca79.png"
+    },
+    {
+      "text": "晚安天使_枕头",
+      "url": "https://i0.hdslb.com/bfs/garb/28b46af42d612c563e67d8bdc7db45afe1b7eb79.png"
+    },
+    {
+      "text": "晚安天使_捕梦网",
+      "url": "https://i0.hdslb.com/bfs/garb/3ad8b6d095ea3a0244ebf8d2c0d8a130ddbd05b5.png"
+    },
+    {
+      "text": "晚安天使_星星",
+      "url": "https://i0.hdslb.com/bfs/garb/fe62ff3fc4e2875b26383201b55968f0b8e75276.png"
+    },
+    {
+      "text": "晚安天使_眼罩",
+      "url": "https://i0.hdslb.com/bfs/garb/95af90e66c29d1b32d41599e1a333115776a4fdd.png"
+    },
+    {
+      "text": "晚安天使_睡帽",
+      "url": "https://i0.hdslb.com/bfs/garb/b817aaac23c0f9adb255e20f971ba82d9c9be696.png"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 8521,
+  "text": "水色少女",
+  "icon": "https://i0.hdslb.com/bfs/garb/7830c478f17dedce2af9697b3aa5e41f3df80e0d.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "水色少女_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/f594bd86d0a11afcf1bfb24ec9298fdb64f24686.png"
+    },
+    {
+      "text": "水色少女_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/9f785f2b75f06b861954eb8f7e65281b51ad56e7.png"
+    },
+    {
+      "text": "水色少女_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/0e137e0303f472235d3dbaf2c99e3ef695c56a11.png"
+    },
+    {
+      "text": "水色少女_招手",
+      "url": "https://i0.hdslb.com/bfs/garb/b7e607cfb2288ab65dd8b62c23536548a054a672.png"
+    },
+    {
+      "text": "水色少女_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/792b5475abe79e2718c273080e8f533cb470e0c5.png"
+    },
+    {
+      "text": "水色少女_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/a0806c24b061af28f6b36c04d92dd4d031dcb8ff.png"
+    },
+    {
+      "text": "水色少女_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/c9ae30e13cae8ddcc7a30938e99c9f6715d33dff.png"
+    },
+    {
+      "text": "水色少女_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/89b6ae951ba09e25b4f12e48c5bcfb496fb93413.png"
+    },
+    {
+      "text": "水色少女_骄傲",
+      "url": "https://i0.hdslb.com/bfs/garb/2022d7ea53314e217282ec64bdf0be3ffe6a1bf3.png"
+    },
+    {
+      "text": "水色少女_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/e5f25ed3b5796a0ad295f5210aff75111682f243.png"
+    },
+    {
+      "text": "水色少女_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/c76d87e585ff5a765d44c85070b9aaf7248064da.png"
+    },
+    {
+      "text": "水色少女_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/9f60af0968d67e2f470354e36ef36f908978515d.png"
+    },
+    {
+      "text": "水色少女_趴下",
+      "url": "https://i0.hdslb.com/bfs/garb/319ab0c0094ef6a3ff4cb2eb87d77b82a9b2a5d9.png"
+    },
+    {
+      "text": "水色少女_投降",
+      "url": "https://i0.hdslb.com/bfs/garb/6ac2f11404fec1f54508ea3939a7980c53cf8c9d.png"
+    },
+    {
+      "text": "水色少女_萎靡",
+      "url": "https://i0.hdslb.com/bfs/garb/08ca177f5846f7edfe8a803adb11ce27184554d3.png"
+    }
+  ]
+}
