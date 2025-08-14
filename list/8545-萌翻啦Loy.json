@@ -1,0 +1,44 @@
+{
+  "id": 8545,
+  "text": "萌翻啦Loy",
+  "icon": "https://i0.hdslb.com/bfs/garb/5fe8f7d217a74e99f98d4800b80ccf3678829a1e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "萌翻啦Loy_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/60387d709b71ffa3f0162f89445e201cf1650426.png"
+    },
+    {
+      "text": "萌翻啦Loy_拜托拜托",
+      "url": "https://i0.hdslb.com/bfs/garb/b4b4698e70cc9fd50d88c854a7c130595fabc08d.png"
+    },
+    {
+      "text": "萌翻啦Loy_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/0df7957dbb6f5e430f78b66b67310321ac0cdb54.png"
+    },
+    {
+      "text": "萌翻啦Loy_美味",
+      "url": "https://i0.hdslb.com/bfs/garb/d19499cb25fffa3966edc18577d3fbf18c2fb5da.png"
+    },
+    {
+      "text": "萌翻啦Loy_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/3b25bce2d23d48d0a591c9069952825db37351df.png"
+    },
+    {
+      "text": "萌翻啦Loy_哇~！",
+      "url": "https://i0.hdslb.com/bfs/garb/cd994264be69eb5c220ca20c009edf0c1cfc8b06.png"
+    },
+    {
+      "text": "萌翻啦Loy_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/ed9adf06d4cc16a1477970ddd04c81a83dc48d4f.png"
+    },
+    {
+      "text": "萌翻啦Loy_邪恶",
+      "url": "https://i0.hdslb.com/bfs/garb/a6a569d47eadf5757a1379260384233dafa6ff1f.png"
+    },
+    {
+      "text": "萌翻啦Loy_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/2ff897a69f4b4e1cf6cb8b1124aba0a902cf66ef.png"
+    }
+  ]
+}
