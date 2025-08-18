@@ -1,0 +1,68 @@
+{
+  "id": 8571,
+  "text": "FF14玉米大人",
+  "icon": "https://i0.hdslb.com/bfs/garb/2117d0a20d147efe0507914f5e35b1eea08c53a1.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "FF14玉米大人_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/cd22702801697a8265cf6499303cd5215613447a.png"
+    },
+    {
+      "text": "FF14玉米大人_NO",
+      "url": "https://i0.hdslb.com/bfs/garb/d721efdc5a42ad0eeee2cf02f6b589df77f4f436.png"
+    },
+    {
+      "text": "FF14玉米大人_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/834c8ffcff74475b8c64126ecdcdb41c8f8bac97.png"
+    },
+    {
+      "text": "FF14玉米大人_冲呀！",
+      "url": "https://i0.hdslb.com/bfs/garb/6635e9522c9bcbb71cd70c28a53649532131e648.png"
+    },
+    {
+      "text": "FF14玉米大人_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/146b6c53e70374574cc33467e2edf7bdd4c70f13.png"
+    },
+    {
+      "text": "FF14玉米大人_给你",
+      "url": "https://i0.hdslb.com/bfs/garb/32de3ffa58de22bb18308b02b478c8b416188dea.png"
+    },
+    {
+      "text": "FF14玉米大人_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/a33eaf4d0c84ded83c8365e8451425aaea73c937.png"
+    },
+    {
+      "text": "FF14玉米大人_黑线",
+      "url": "https://i0.hdslb.com/bfs/garb/aab076da847780c2e6687e4f572f31b16d57d958.png"
+    },
+    {
+      "text": "FF14玉米大人_开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/30845956daacb2a95ce466599ffc4221fded64d1.png"
+    },
+    {
+      "text": "FF14玉米大人_嗯嗯",
+      "url": "https://i0.hdslb.com/bfs/garb/1967e79268031120346618087ea5771f5e773465.png"
+    },
+    {
+      "text": "FF14玉米大人_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/093bb50ffc4083591ba1521e3a2867b2ced22bec.png"
+    },
+    {
+      "text": "FF14玉米大人_瘫",
+      "url": "https://i0.hdslb.com/bfs/garb/fd424799352850732e004bd43d375f74d4b78d24.png"
+    },
+    {
+      "text": "FF14玉米大人_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/ebd76dab2760a0e611de66ff10bb72767b6530c6.png"
+    },
+    {
+      "text": "FF14玉米大人_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/86f9c2ac35c5afa54fe74afca3795e287d67378d.png"
+    },
+    {
+      "text": "FF14玉米大人_晕",
+      "url": "https://i0.hdslb.com/bfs/garb/0ce149f52f687858887725cf3826f22f9e68a09e.png"
+    }
+  ]
+}
