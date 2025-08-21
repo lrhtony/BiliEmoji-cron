@@ -1,0 +1,52 @@
+{
+  "id": 8593,
+  "text": "念熙阿（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/98774949dd4a127852eed2a5a81794040da1d5e4.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_75480955_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/2113ba3293092e7a026cf9c7c94428df1e5f7469.png"
+    },
+    {
+      "text": "UPOWER_75480955_叉腰",
+      "url": "https://i0.hdslb.com/bfs/garb/fa6c306a5e2b3d4238fd0591ba6212612989bd77.png"
+    },
+    {
+      "text": "UPOWER_75480955_呆",
+      "url": "https://i0.hdslb.com/bfs/garb/83b29f8eb6b08708700b7311ddf020eefa4cbe07.png"
+    },
+    {
+      "text": "UPOWER_75480955_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/95f4cf18470c673e26d1e971273403829f91157a.png"
+    },
+    {
+      "text": "UPOWER_75480955_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/9a6c469e6896b600fe62f67cd158e48e9af40dc1.png"
+    },
+    {
+      "text": "UPOWER_75480955_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/87facc13d923ce5dd3833c30db2ac9dccf8d0a6a.png"
+    },
+    {
+      "text": "UPOWER_75480955_悄悄话",
+      "url": "https://i0.hdslb.com/bfs/garb/0d4c1697f1a22e1e5a0152a27a3522663d82e169.png"
+    },
+    {
+      "text": "UPOWER_75480955_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/f2320b374888e36b9daafb2b728bb2082e1d1789.png"
+    },
+    {
+      "text": "UPOWER_75480955_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/c8fa3c8680f33f5736fa205b706ac60b6b29d962.png"
+    },
+    {
+      "text": "UPOWER_75480955_着急",
+      "url": "https://i0.hdslb.com/bfs/garb/ed24c3efa4648ae6b574bfb76709004f20ab22d5.png"
+    },
+    {
+      "text": "UPOWER_75480955_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/101b2db908fc166f38cdf9f4d548457b1dd165a8.png"
+    }
+  ]
+}
