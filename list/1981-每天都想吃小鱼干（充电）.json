@@ -1,48 +1,68 @@
 {
   "id": 1981,
   "text": "每天都想吃小鱼干（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/0a37e5a3d0aeef6e82d56266d838492651b87b5a.jpg",
+  "icon": "https://i0.hdslb.com/bfs/garb/fba2df09531509514f6b7c26af7dd874f6d497fd.png",
   "resource_type": 0,
   "emote": [
     {
-      "text": "UPOWER_34967693_星星眼",
-      "url": "https://i0.hdslb.com/bfs/garb/862b8cf4c5c611dfd72047a302b19e7f4c4501da.jpg"
+      "text": "UPOWER_34967693_呆萌",
+      "url": "https://i0.hdslb.com/bfs/garb/766415ffdb335cf263fba6fe2cc59e54a5aa41b7.png"
     },
     {
-      "text": "UPOWER_34967693_憨憨挠头",
-      "url": "https://i0.hdslb.com/bfs/garb/caa68d06ca978f7972479e4201ee024fc3024e15.jpg"
+      "text": "UPOWER_34967693_不服气",
+      "url": "https://i0.hdslb.com/bfs/garb/ca83ecd2d8d1561e0636bbf8421d29e61628ab72.png"
     },
     {
-      "text": "UPOWER_34967693_我看看",
-      "url": "https://i0.hdslb.com/bfs/garb/426ef4a7dd9ed73daa8f3634e09e9c5f7e2a0bc0.jpg"
+      "text": "UPOWER_34967693_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/5a7313bffb7157f6ee48aed1ea1afc2767583aeb.png"
     },
     {
-      "text": "UPOWER_34967693_鱼干生气",
-      "url": "https://i0.hdslb.com/bfs/garb/56f3dca80142e952490123655525259f52a11f0b.jpg"
+      "text": "UPOWER_34967693_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/f6b6be15c332c5763077a21611f0dc26db5b9091.png"
     },
     {
-      "text": "UPOWER_34967693_黑人问号",
-      "url": "https://i0.hdslb.com/bfs/garb/128b2563fd72fbdfcfde1e2edb57f81b20033a72.jpg"
+      "text": "UPOWER_34967693_来战",
+      "url": "https://i0.hdslb.com/bfs/garb/a74ca628a91a10bdefef759e2b3db0b64ee289a1.png"
     },
     {
-      "text": "UPOWER_34967693_鱼干震惊",
-      "url": "https://i0.hdslb.com/bfs/garb/93359b367c6eafbe57006916673d780a04ccbf04.jpg"
+      "text": "UPOWER_34967693_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/55342ecb0c07de5344428896a3884f3af8aa8992.png"
     },
     {
-      "text": "UPOWER_34967693_委屈巴巴",
-      "url": "https://i0.hdslb.com/bfs/garb/e7dc475eeaa9f4eed02a7d665b4f5e6bef29455b.jpg"
+      "text": "UPOWER_34967693_笑哭",
+      "url": "https://i0.hdslb.com/bfs/garb/880e051fe6385a7e8b8de07b3da152b6c6569d6a.png"
     },
     {
-      "text": "UPOWER_34967693_催更警告",
-      "url": "https://i0.hdslb.com/bfs/garb/4a2d693a77c69b8a6b277fa5bed619544624b8dd.jpg"
+      "text": "UPOWER_34967693_送花花",
+      "url": "https://i0.hdslb.com/bfs/garb/2e8a3b8a34aac25fe059ad006534d104396472db.png"
     },
     {
-      "text": "UPOWER_34967693_求亲亲",
-      "url": "https://i0.hdslb.com/bfs/garb/6a4154b54704c41b6f2a1f5c3d3eee3688f1cd3b.jpg"
+      "text": "UPOWER_34967693_舔屏",
+      "url": "https://i0.hdslb.com/bfs/garb/b39b3987a5ef1a00bfbe2e6a7b0a5e393f4918d4.png"
     },
     {
-      "text": "UPOWER_34967693_不可以",
-      "url": "https://i0.hdslb.com/bfs/garb/b5eb5972c3f784d4a30fd968423680f4dfc7dd2e.jpg"
+      "text": "UPOWER_34967693_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/da79c6ec031fedfe36fe6d2384dd8385b90d6b14.png"
+    },
+    {
+      "text": "UPOWER_34967693_色色",
+      "url": "https://i0.hdslb.com/bfs/garb/9584e582b3597cd8443c14511abb6e84cb2a0ee4.png"
+    },
+    {
+      "text": "UPOWER_34967693_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/f7eebeedf9cae00dd18793474ffb486b38bf6eef.png"
+    },
+    {
+      "text": "UPOWER_34967693_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/af5bf95d12051128f68777785c2df5e4dac170ca.png"
+    },
+    {
+      "text": "UPOWER_34967693_嘿嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/a4cc49e949ca14b3817dd0b79d9e7e9dd3f3eb8d.png"
+    },
+    {
+      "text": "UPOWER_34967693_亲亲",
+      "url": "https://i0.hdslb.com/bfs/garb/771d4721008177e9692edc669f4f4c26949a514c.png"
     }
   ]
 }
