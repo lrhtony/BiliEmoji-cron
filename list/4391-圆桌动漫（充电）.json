@@ -1,7 +1,7 @@
 {
   "id": 4391,
   "text": "圆桌动漫（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/ef6364b5f7e2dcf7caf97b640a841ab792c05632.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/4030569aa0e5fc18c2a62512018edf4438827412.png",
   "resource_type": 0,
   "emote": [
     {
@@ -43,6 +43,10 @@
     {
       "text": "UPOWER_654552_懵逼",
       "url": "https://i0.hdslb.com/bfs/garb/8446c287381c7bd01ef8ab97ecabd612d032435e.png"
+    },
+    {
+      "text": "UPOWER_654552_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/2a8bed15ec252986112c9040a16e4a5ec41c622c.png"
     }
   ]
 }
