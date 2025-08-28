@@ -1,0 +1,40 @@
+{
+  "id": 8632,
+  "text": "以太小马达（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/7c5febd93980945bdd3eed0d367d89b0cdb49079.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_386874729_NICE",
+      "url": "https://i0.hdslb.com/bfs/garb/f9bf513a0ef669daaadd477b301196415ed2fedd.png"
+    },
+    {
+      "text": "UPOWER_386874729_HELLO",
+      "url": "https://i0.hdslb.com/bfs/garb/754371ba9aed705a6916fabaa27ee0767b6e0385.png"
+    },
+    {
+      "text": "UPOWER_386874729_投币三连",
+      "url": "https://i0.hdslb.com/bfs/garb/c3d81a2e65508dd3f9036dad786c7f11e08ab8b1.png"
+    },
+    {
+      "text": "UPOWER_386874729_有点东西",
+      "url": "https://i0.hdslb.com/bfs/garb/c356293db77782faebefc7bc992d3ebe9abaf9f7.png"
+    },
+    {
+      "text": "UPOWER_386874729_放轻松",
+      "url": "https://i0.hdslb.com/bfs/garb/b35159003bb707e1f0f320bdecee40f45fdb60b0.png"
+    },
+    {
+      "text": "UPOWER_386874729_略显尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/535933714a34b24a8ae620028de215b134105181.png"
+    },
+    {
+      "text": "UPOWER_386874729_月亮之手",
+      "url": "https://i0.hdslb.com/bfs/garb/b51399781488ca12d6fd907624f837b57eaac025.png"
+    },
+    {
+      "text": "UPOWER_386874729_打卡",
+      "url": "https://i0.hdslb.com/bfs/garb/bbcabc07579e642ffa92ef26cba4c1215af4c76e.png"
+    }
+  ]
+}
