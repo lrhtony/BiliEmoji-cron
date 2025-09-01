@@ -1,0 +1,68 @@
+{
+  "id": 8652,
+  "text": "拥抱小狗",
+  "icon": "https://i0.hdslb.com/bfs/garb/9fb84bb53e72d029a0f72d27101f3d44ef91d60c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "拥抱小狗_拘谨",
+      "url": "https://i0.hdslb.com/bfs/garb/7e2db25424f1d06daa2569b1ae0c42716d4b5bed.png"
+    },
+    {
+      "text": "拥抱小狗_停止思考",
+      "url": "https://i0.hdslb.com/bfs/garb/9e935ed444cdac8d01bc16663aa5290d3f8ad74c.png"
+    },
+    {
+      "text": "拥抱小狗_馋",
+      "url": "https://i0.hdslb.com/bfs/garb/57dafff1b353c50fef5df5bb97b2516ac41cc1b4.png"
+    },
+    {
+      "text": "拥抱小狗_晚安宝宝",
+      "url": "https://i0.hdslb.com/bfs/garb/d15395d4c5577305b05bbe8a4269bf149c78bea1.png"
+    },
+    {
+      "text": "拥抱小狗_我错了",
+      "url": "https://i0.hdslb.com/bfs/garb/31b2f766289c1d93c19bd3373c79616000f8a0bd.png"
+    },
+    {
+      "text": "拥抱小狗_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/bee4ac14e4b1bc059bed4315c2770ae8c61272c2.png"
+    },
+    {
+      "text": "拥抱小狗_私信",
+      "url": "https://i0.hdslb.com/bfs/garb/45413e33da3afe5d583014fabba082e85f0f894a.png"
+    },
+    {
+      "text": "拥抱小狗_摸摸",
+      "url": "https://i0.hdslb.com/bfs/garb/52b390ebdc51117087e471b2d8977e4ce50c586f.png"
+    },
+    {
+      "text": "拥抱小狗_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/28cef5f52213c00af4c5aec2a3c5f6ccc039f447.png"
+    },
+    {
+      "text": "拥抱小狗_收藏",
+      "url": "https://i0.hdslb.com/bfs/garb/fbe76d5c19400b8d91a3b3cf200bc752db7b491a.png"
+    },
+    {
+      "text": "拥抱小狗_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/d4a3b41fc832062ebad14a59217a452a4edd0613.png"
+    },
+    {
+      "text": "拥抱小狗_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/81b5dd1617b25fa20a80daa2d97a62bd60a92fd5.png"
+    },
+    {
+      "text": "拥抱小狗_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/fe1671abc56221da565aa2e957f1728ae8268c41.png"
+    },
+    {
+      "text": "拥抱小狗_emo",
+      "url": "https://i0.hdslb.com/bfs/garb/4077a2d6f20e31f01203ec97b83752074b1e0490.png"
+    },
+    {
+      "text": "拥抱小狗_下雨天",
+      "url": "https://i0.hdslb.com/bfs/garb/daa279a3b03482d9101cd6b6bc69088a8d178af7.png"
+    }
+  ]
+}
