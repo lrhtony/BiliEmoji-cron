@@ -1,7 +1,7 @@
 {
   "id": 8187,
   "text": "耶嘿YeahHey（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/63e4055ba65ed3d2f0a1dfdbe0664b867929a752.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/b855cae564028af1b0862a037fee130bd05dd1d5.png",
   "resource_type": 0,
   "emote": [
     {
@@ -61,6 +61,10 @@
       "url": "https://i0.hdslb.com/bfs/garb/e749a1799b98aa4174edff931e86b3b5fb58691d.png"
     },
     {
+      "text": "UPOWER_58282150_高能",
+      "url": "https://i0.hdslb.com/bfs/garb/57ed70b71f672c6c7b5bb726f1858d432408c638.png"
+    },
+    {
       "text": "UPOWER_58282150_实力",
       "url": "https://i0.hdslb.com/bfs/garb/72771c7afd37eb39136d2ec349dd2369e8705840.png"
     },
@@ -69,20 +73,36 @@
       "url": "https://i0.hdslb.com/bfs/garb/5198b1fa90424f0175db0981d570ca4e937ea62e.png"
     },
     {
-      "text": "UPOWER_58282150_高能",
-      "url": "https://i0.hdslb.com/bfs/garb/57ed70b71f672c6c7b5bb726f1858d432408c638.png"
-    },
-    {
-      "text": "UPOWER_58282150_大方",
-      "url": "https://i0.hdslb.com/bfs/garb/e5e67bbf92238851b4f85197cea67fc231afaf2c.png"
-    },
-    {
       "text": "UPOWER_58282150_管你",
       "url": "https://i0.hdslb.com/bfs/garb/933e27989e27dcc8abcd3e4aec0c87ae0cc051e3.png"
     },
     {
       "text": "UPOWER_58282150_雷王",
       "url": "https://i0.hdslb.com/bfs/garb/b3464d4b284a1851bd383a7b8dcbbed3461933c6.png"
+    },
+    {
+      "text": "UPOWER_58282150_实力满满",
+      "url": "https://i0.hdslb.com/bfs/garb/808ff86c5f28996742b82a031934bb97542d7c04.png"
+    },
+    {
+      "text": "UPOWER_58282150_耶嘿来啦",
+      "url": "https://i0.hdslb.com/bfs/garb/3783c043541ce1bdce30006d0b9501285a337786.png"
+    },
+    {
+      "text": "UPOWER_58282150_前方高能",
+      "url": "https://i0.hdslb.com/bfs/garb/460d3492d3b97c7e7aa5b69d51da3d45eaf016a0.png"
+    },
+    {
+      "text": "UPOWER_58282150_大大方方",
+      "url": "https://i0.hdslb.com/bfs/garb/203ef0e2741ce34b3f660be0178f01e1a17d0bc8.png"
+    },
+    {
+      "text": "UPOWER_58282150_管你这哪",
+      "url": "https://i0.hdslb.com/bfs/garb/a7f5d78179d16ac9626930756fc23afffd71ca7a.png"
+    },
+    {
+      "text": "UPOWER_58282150_今晚就你",
+      "url": "https://i0.hdslb.com/bfs/garb/ff06c5a0bd2e9523ad85cc477ee47912abcdcd6e.png"
     }
   ]
 }
