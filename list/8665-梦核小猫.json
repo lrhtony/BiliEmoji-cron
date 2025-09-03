@@ -1,0 +1,68 @@
+{
+  "id": 8665,
+  "text": "梦核小猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/1ff96135698d407c12f9e00cad923d8bb9da3061.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "梦核小猫_写写",
+      "url": "https://i0.hdslb.com/bfs/garb/783395b77c3c91c20375c257afc48e8e1f83f77e.png"
+    },
+    {
+      "text": "梦核小猫_什么",
+      "url": "https://i0.hdslb.com/bfs/garb/8872bb207c78eed9885a1cc52f91728588752775.png"
+    },
+    {
+      "text": "梦核小猫_带派",
+      "url": "https://i0.hdslb.com/bfs/garb/e22de567b1c76503f5ea46130d14265495b539a7.png"
+    },
+    {
+      "text": "梦核小猫_无语指",
+      "url": "https://i0.hdslb.com/bfs/garb/3a1b0146b121a7d1208e5e4416cb1a1212f435e4.png"
+    },
+    {
+      "text": "梦核小猫_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/1d0e113e8a79f63ba70271f12b34d9c77f6a7bce.png"
+    },
+    {
+      "text": "梦核小猫_晒太阳",
+      "url": "https://i0.hdslb.com/bfs/garb/92d9c534bec25ea372cd4551a80f30871e12fb59.png"
+    },
+    {
+      "text": "梦核小猫_送你花",
+      "url": "https://i0.hdslb.com/bfs/garb/ef4ca2071200ed470f196ed87039d1e653759afb.png"
+    },
+    {
+      "text": "梦核小猫_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/7cf4ca4b4f8ae21d8767e9df0c463b5d34192f2a.png"
+    },
+    {
+      "text": "梦核小猫_落魄",
+      "url": "https://i0.hdslb.com/bfs/garb/3b46384e07a9e7d63a882a701c47eab57c0d599b.png"
+    },
+    {
+      "text": "梦核小猫_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/54690b1d5ac2286d78a3520043bb55fb7db221c8.png"
+    },
+    {
+      "text": "梦核小猫_角落",
+      "url": "https://i0.hdslb.com/bfs/garb/c6beae6446a48b090c3537306c82f689a469970c.png"
+    },
+    {
+      "text": "梦核小猫_鞠躬",
+      "url": "https://i0.hdslb.com/bfs/garb/5f9c030160db0254e90f4bc88323b61cd7ab4a3f.png"
+    },
+    {
+      "text": "梦核小猫_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/d16be73bd52b10590979e5854ad8d98d1c8756e9.png"
+    },
+    {
+      "text": "梦核小猫_你醒了？",
+      "url": "https://i0.hdslb.com/bfs/garb/2dcd115c11055bb8ff58e897639e451acee445fd.png"
+    },
+    {
+      "text": "梦核小猫_逃离",
+      "url": "https://i0.hdslb.com/bfs/garb/3711fdbf4f76c674768fb1abe2bf9d9d70608c2e.png"
+    }
+  ]
+}
