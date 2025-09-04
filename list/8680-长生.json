@@ -1,0 +1,88 @@
+{
+  "id": 8680,
+  "text": "长生",
+  "icon": "https://i0.hdslb.com/bfs/garb/7b4fd006992c35c1110b252b7331e919ff402082.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "长生_B",
+      "url": "https://i0.hdslb.com/bfs/garb/898c63b31c296335865162cc41eb7272e6c83bd7.png"
+    },
+    {
+      "text": "长生_F",
+      "url": "https://i0.hdslb.com/bfs/garb/75410527598bf6e3cf155714c9c2841539424315.png"
+    },
+    {
+      "text": "长生_E",
+      "url": "https://i0.hdslb.com/bfs/garb/b105c520ef653cbc1102cc709653120460935174.png"
+    },
+    {
+      "text": "长生_G",
+      "url": "https://i0.hdslb.com/bfs/garb/a9e7975e4dc7df768e42ac505eba27cdb97fe66c.png"
+    },
+    {
+      "text": "长生_M",
+      "url": "https://i0.hdslb.com/bfs/garb/093b13b82a62ccfa971ae4bb044ced1660286a1b.png"
+    },
+    {
+      "text": "长生_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/156096a843a7819871e70c241b8cba070213fbf4.png"
+    },
+    {
+      "text": "长生_L",
+      "url": "https://i0.hdslb.com/bfs/garb/6e2ef5cd2b4d05743cde869afd3917a5413e68d1.png"
+    },
+    {
+      "text": "长生_A",
+      "url": "https://i0.hdslb.com/bfs/garb/572bb37863bedb24a40b9a39aa704e82ab72cbcf.png"
+    },
+    {
+      "text": "长生_炉石真好玩",
+      "url": "https://i0.hdslb.com/bfs/garb/2d3b32c01ed2ab0c5d600ccabcb511747b521fd3.png"
+    },
+    {
+      "text": "长生_Y",
+      "url": "https://i0.hdslb.com/bfs/garb/832cff22865c5d2c01fe85471b76089c954d5e9d.png"
+    },
+    {
+      "text": "长生_Z",
+      "url": "https://i0.hdslb.com/bfs/garb/a9d7af240414fe7401be108f83d1ad148f9ce5ce.png"
+    },
+    {
+      "text": "长生_方",
+      "url": "https://i0.hdslb.com/bfs/garb/dce0fb6e785ec0bed4378c3556797f95430a3ac7.png"
+    },
+    {
+      "text": "长生_喵",
+      "url": "https://i0.hdslb.com/bfs/garb/7e2adf53a78c7a473dae59b7c4853878d57bbc93.png"
+    },
+    {
+      "text": "长生_吃糖",
+      "url": "https://i0.hdslb.com/bfs/garb/c3504876d92ecbdb51793bfefb9d66e6a163f4a5.png"
+    },
+    {
+      "text": "长生_乐",
+      "url": "https://i0.hdslb.com/bfs/garb/5aaf921e5cc60591e708ce0cc13926b4519e3c9e.png"
+    },
+    {
+      "text": "长生_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/7876ce478b1b5789e755658ec0a7b4c16a34072c.png"
+    },
+    {
+      "text": "长生_out",
+      "url": "https://i0.hdslb.com/bfs/garb/825b947c859ada32decf0ef15f2f5b37584a0c81.png"
+    },
+    {
+      "text": "长生_红温",
+      "url": "https://i0.hdslb.com/bfs/garb/8d3bbb64dc787ede14a4ef1000dd04af3613b328.png"
+    },
+    {
+      "text": "长生_赤石大王",
+      "url": "https://i0.hdslb.com/bfs/garb/20b82bca8815442530380ff53d084b7b5af7c6a5.png"
+    },
+    {
+      "text": "长生_笑嘻了",
+      "url": "https://i0.hdslb.com/bfs/garb/bee849ce39995db1c0138cab04036ab434dfe215.png"
+    }
+  ]
+}
