@@ -1,0 +1,28 @@
+{
+  "id": 8688,
+  "text": "窝窝奶兔（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/20a5a2e80eee79983ee91d9b249bc516156a1204.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_8447574_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/dbd23c45703d723ee038eb80cfaead73bd1fd3d5.png"
+    },
+    {
+      "text": "UPOWER_8447574_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/1bc437c6888f9e92c712b15a3dbf987538a911c5.png"
+    },
+    {
+      "text": "UPOWER_8447574_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/fd110389f8e7f3875dae165a89e5285ff699ba0d.png"
+    },
+    {
+      "text": "UPOWER_8447574_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/62f3087e3028fa634f8299b23f1092960076ed0c.png"
+    },
+    {
+      "text": "UPOWER_8447574_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/4a925f6fa087fa1cb44e0748d3b28c7228a93c6b.png"
+    }
+  ]
+}
