@@ -1,0 +1,68 @@
+{
+  "id": 8694,
+  "text": "甜品小熊",
+  "icon": "https://i0.hdslb.com/bfs/garb/c77db686daf1b9588c15476dc040bca7143b2980.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "甜品小熊_呆呆",
+      "url": "https://i0.hdslb.com/bfs/garb/3c4e5d2b7966476b853124abc0403afa34765b48.png"
+    },
+    {
+      "text": "甜品小熊_求求",
+      "url": "https://i0.hdslb.com/bfs/garb/ad94d4a5b5db837f19956e65f09d65687461713f.png"
+    },
+    {
+      "text": "甜品小熊_等待",
+      "url": "https://i0.hdslb.com/bfs/garb/6f359b4aa77d3db9a2a5de067981b86e75382fb0.png"
+    },
+    {
+      "text": "甜品小熊_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/338e63d62b368ae3275f6b9a16406cb263751c00.png"
+    },
+    {
+      "text": "甜品小熊_开吃",
+      "url": "https://i0.hdslb.com/bfs/garb/04c5c6703cf1c3a031c7a8d5c7593df2dee2dab7.png"
+    },
+    {
+      "text": "甜品小熊_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/cd47a5639681434d8b02535a94f9808e13706501.png"
+    },
+    {
+      "text": "甜品小熊_伤心",
+      "url": "https://i0.hdslb.com/bfs/garb/030cdd940e2ac2d22b10370cd5ae10928b5aea27.png"
+    },
+    {
+      "text": "甜品小熊_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/bef9a7556972c406f76f70814515b9d3bf208d6b.png"
+    },
+    {
+      "text": "甜品小熊_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/f5e54aad3b3793e55325319b0e023e4e6622dae1.png"
+    },
+    {
+      "text": "甜品小熊_感叹号",
+      "url": "https://i0.hdslb.com/bfs/garb/2a027a08bef95b2982a0f3a895f585a2eb235c2f.png"
+    },
+    {
+      "text": "甜品小熊_捏捏",
+      "url": "https://i0.hdslb.com/bfs/garb/8e030c65c67c50056fe39888bdc8a0e612fb00c2.png"
+    },
+    {
+      "text": "甜品小熊_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/363ea7e1aa580ff8bde643c82dc65eaa07e5e091.png"
+    },
+    {
+      "text": "甜品小熊_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/314be54895a42b35394698f1e650cc2b9bd070e7.png"
+    },
+    {
+      "text": "甜品小熊_加载中",
+      "url": "https://i0.hdslb.com/bfs/garb/13c09cc92a4e406d7903a3726b69a034cfb1c971.png"
+    },
+    {
+      "text": "甜品小熊_吃一口",
+      "url": "https://i0.hdslb.com/bfs/garb/ccb70199fcd04ef507a943ed413799c82137fe39.png"
+    }
+  ]
+}

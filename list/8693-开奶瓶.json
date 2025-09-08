@@ -1,0 +1,68 @@
+{
+  "id": 8693,
+  "text": "开奶瓶",
+  "icon": "https://i0.hdslb.com/bfs/garb/1ac9e5d8e3610518790689e2089da22979e1b417.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "开奶瓶_擦汗",
+      "url": "https://i0.hdslb.com/bfs/garb/e8af6fe472447b655b8955f390f22fb960977ab0.png"
+    },
+    {
+      "text": "开奶瓶_喵",
+      "url": "https://i0.hdslb.com/bfs/garb/2cabb1062c1a92e1eb4b1f0ee02d5d21b947f678.png"
+    },
+    {
+      "text": "开奶瓶_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/67ed404a3a21a26858b9e0bd9b7cd694bda6fc3f.png"
+    },
+    {
+      "text": "开奶瓶_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/ba3eba1aac3c525919ad3831e0e063cb2f29c246.png"
+    },
+    {
+      "text": "开奶瓶_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/c6e2e0ff5ffffbabd9504184152624c11124c9e5.png"
+    },
+    {
+      "text": "开奶瓶_嚼嚼嚼",
+      "url": "https://i0.hdslb.com/bfs/garb/8970584784ef7c230fc054f2e5073d53882a376a.png"
+    },
+    {
+      "text": "开奶瓶_捏脸",
+      "url": "https://i0.hdslb.com/bfs/garb/8de9e17980017ae2aa103dbcfe26242fbea14e1b.png"
+    },
+    {
+      "text": "开奶瓶_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/a96bf4d88e8e07e25ab2dd84522a6ace28b62e31.png"
+    },
+    {
+      "text": "开奶瓶_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/06b3247f7aa3af97d1e3d946ab194c0c65431de1.png"
+    },
+    {
+      "text": "开奶瓶_飞吻",
+      "url": "https://i0.hdslb.com/bfs/garb/a27295abfc86f29170afb4637c97434023ed514d.png"
+    },
+    {
+      "text": "开奶瓶_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/6c45982bf15d8c22fc904f345b146dfe6c243398.png"
+    },
+    {
+      "text": "开奶瓶_吐舌",
+      "url": "https://i0.hdslb.com/bfs/garb/11100c261ee6a6623ede90da5c01281898871057.png"
+    },
+    {
+      "text": "开奶瓶_敲木鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/990b7f34a84b68cbdc82601839ccebe98d698dc2.png"
+    },
+    {
+      "text": "开奶瓶_溜走",
+      "url": "https://i0.hdslb.com/bfs/garb/d742ebb842a078e242e551fd76f4471fb13d99ac.png"
+    },
+    {
+      "text": "开奶瓶_抱歉",
+      "url": "https://i0.hdslb.com/bfs/garb/90daa3bbf3db005b665ac1780ae0de8d0ab98a63.png"
+    }
+  ]
+}
