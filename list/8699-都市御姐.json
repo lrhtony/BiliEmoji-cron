@@ -1,0 +1,88 @@
+{
+  "id": 8699,
+  "text": "都市御姐",
+  "icon": "https://i0.hdslb.com/bfs/garb/7ded04fe8c6b4b0f0fd03f971eb9579d4b2f040c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "都市御姐_Wink",
+      "url": "https://i0.hdslb.com/bfs/garb/2da23a4b9858363e0933fd256d5a5e503f859674.png"
+    },
+    {
+      "text": "都市御姐_谢谢",
+      "url": "https://i0.hdslb.com/bfs/garb/4706b11acd2f16c117abef32afa1085748fca0e9.png"
+    },
+    {
+      "text": "都市御姐_啊对对",
+      "url": "https://i0.hdslb.com/bfs/garb/1b6e920e0cc7478d910e3c4da89dfbcedc7f8a14.png"
+    },
+    {
+      "text": "都市御姐_拜托",
+      "url": "https://i0.hdslb.com/bfs/garb/7e64ff044e215cc7cdffe29aadae2bd270fd3832.png"
+    },
+    {
+      "text": "都市御姐_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/a3df0ec87d8e72ce33141388105cf9891f240497.png"
+    },
+    {
+      "text": "都市御姐_不行",
+      "url": "https://i0.hdslb.com/bfs/garb/4b4d65ea3e4b2971d93d51a1035be686fbb98d6d.png"
+    },
+    {
+      "text": "都市御姐_翻白眼",
+      "url": "https://i0.hdslb.com/bfs/garb/823c080af768894d85015aed09eac0f623fa2411.png"
+    },
+    {
+      "text": "都市御姐_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/30e75640bd089a59ef9b3c5b5f6549fbc0b06cfb.png"
+    },
+    {
+      "text": "都市御姐_过来呀",
+      "url": "https://i0.hdslb.com/bfs/garb/1057f7b7ce7eae071fb0f113445c170ea1a086e8.png"
+    },
+    {
+      "text": "都市御姐_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/c47f376fed405f12a9cae071e16b4289c073589f.png"
+    },
+    {
+      "text": "都市御姐_假装淡定",
+      "url": "https://i0.hdslb.com/bfs/garb/4b8e2b9a05e30078d9c00fe0410cb21b7fa9a5d8.png"
+    },
+    {
+      "text": "都市御姐_惊呆",
+      "url": "https://i0.hdslb.com/bfs/garb/ecaa41e85c36c9bbd9f46d1973545fade65ed982.png"
+    },
+    {
+      "text": "都市御姐_就看着你",
+      "url": "https://i0.hdslb.com/bfs/garb/a251d5be436ab2f67156bb7103a7a3b20f3134cc.png"
+    },
+    {
+      "text": "都市御姐_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/9c97dc37241a8601e031a67e13fccbce30661f87.png"
+    },
+    {
+      "text": "都市御姐_略略略",
+      "url": "https://i0.hdslb.com/bfs/garb/92bcc362a6a7c67bf17121abab8cf8794e653d27.png"
+    },
+    {
+      "text": "都市御姐_卖萌",
+      "url": "https://i0.hdslb.com/bfs/garb/22c5f91adbdd9bfa6f60f78d994805db3cd80c7c.png"
+    },
+    {
+      "text": "都市御姐_抛媚眼",
+      "url": "https://i0.hdslb.com/bfs/garb/4f2a50de6e7b473c553b0d5f1304961d3d8d9177.png"
+    },
+    {
+      "text": "都市御姐_气氛组",
+      "url": "https://i0.hdslb.com/bfs/garb/ecb6694d8475b288ced2fa8ffd15e24308854ad6.png"
+    },
+    {
+      "text": "都市御姐_思考一下",
+      "url": "https://i0.hdslb.com/bfs/garb/fe5ca3dc9283b11d860157cd0bf8946d4f8c9bee.png"
+    },
+    {
+      "text": "都市御姐_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/7b6d848876539473b1e00f8f96df795d2f481860.png"
+    }
+  ]
+}
