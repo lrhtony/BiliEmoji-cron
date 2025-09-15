@@ -1,0 +1,48 @@
+{
+  "id": 8721,
+  "text": "芝恩㱏（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/1f1ad98500386244d06fcaa847bed47ebe44478c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_475118489_抱腿",
+      "url": "https://i0.hdslb.com/bfs/garb/af45c9de0c4329242294ee740395bddd420ed6b1.png"
+    },
+    {
+      "text": "UPOWER_475118489_给心心",
+      "url": "https://i0.hdslb.com/bfs/garb/0380ffc56b6476ea00f60efc15f36b236ae34fac.png"
+    },
+    {
+      "text": "UPOWER_475118489_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/f375f658ab7cb6c3527e29d89a91016d9e435e7f.png"
+    },
+    {
+      "text": "UPOWER_475118489_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/f867c85902b796370b8a963bbc6b4ccd66278805.png"
+    },
+    {
+      "text": "UPOWER_475118489_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/45d9066a13e5dd1d0154f0c7e3edbe76e831c209.png"
+    },
+    {
+      "text": "UPOWER_475118489_zzZ",
+      "url": "https://i0.hdslb.com/bfs/garb/77ee05eca3202422209f780dc6d8851f9e9d0a10.png"
+    },
+    {
+      "text": "UPOWER_475118489_摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/bd124e625ecef0312f3beb6a4a57777a2d79254b.png"
+    },
+    {
+      "text": "UPOWER_475118489_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/ed4c79f8a45adf1fff3775466828113ed713541d.png"
+    },
+    {
+      "text": "UPOWER_475118489_偷偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/9aae2163aedfa871422b9a20ad0e1215877c520b.png"
+    },
+    {
+      "text": "UPOWER_475118489_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/032d47e3a921ffb5172d9507f697d439b4d66dc8.png"
+    }
+  ]
+}
