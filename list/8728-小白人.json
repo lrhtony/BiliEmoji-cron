@@ -1,0 +1,68 @@
+{
+  "id": 8728,
+  "text": "小白人",
+  "icon": "https://i0.hdslb.com/bfs/garb/52078d2824eb0489a23ffcf9a7c57e088cf55b16.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "小白人_不乘",
+      "url": "https://i0.hdslb.com/bfs/garb/cc7205cb16e9f0b63d5b6704f97b83a3a0cd96ef.png"
+    },
+    {
+      "text": "小白人_你真行",
+      "url": "https://i0.hdslb.com/bfs/garb/e54a01f7ca579c8934da39cb9b54ca56992ff9dc.png"
+    },
+    {
+      "text": "小白人_红温",
+      "url": "https://i0.hdslb.com/bfs/garb/11f2df6fe33e59e91ff03081b5192fb2c79d1935.png"
+    },
+    {
+      "text": "小白人_识别出错",
+      "url": "https://i0.hdslb.com/bfs/garb/f8322e7140175181eb33930edb427182b2f32802.png"
+    },
+    {
+      "text": "小白人_差评",
+      "url": "https://i0.hdslb.com/bfs/garb/cde89c21fd9b302394a1ea2817cebad949f3e769.png"
+    },
+    {
+      "text": "小白人_禁止狗吠",
+      "url": "https://i0.hdslb.com/bfs/garb/93c42c863df964a3a1679944d95bb7bab219c9d9.png"
+    },
+    {
+      "text": "小白人_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/004f66c1ed7b110b19ff333dbe8c11f4042d1204.png"
+    },
+    {
+      "text": "小白人_互抱",
+      "url": "https://i0.hdslb.com/bfs/garb/25a10153a5d80f4de8fe95aca80c96e7c349b69b.png"
+    },
+    {
+      "text": "小白人_动动脑子",
+      "url": "https://i0.hdslb.com/bfs/garb/7ed9600ebdc909ccf0c59af8a626967ac017f1ad.png"
+    },
+    {
+      "text": "小白人_求求了",
+      "url": "https://i0.hdslb.com/bfs/garb/00e0343fa09664570f8f2c5d640f5c86b831fe24.png"
+    },
+    {
+      "text": "小白人_请离开",
+      "url": "https://i0.hdslb.com/bfs/garb/39e0f38fa05fed85b03f8f83c509bbc1eebff72b.png"
+    },
+    {
+      "text": "小白人_抱头沉默",
+      "url": "https://i0.hdslb.com/bfs/garb/eb36d12930038f37412ff20ccfb035479a033473.png"
+    },
+    {
+      "text": "小白人_嘘",
+      "url": "https://i0.hdslb.com/bfs/garb/e3a238adc7fc0bc8485b38dda98b07b66ec81a74.png"
+    },
+    {
+      "text": "小白人_睡了",
+      "url": "https://i0.hdslb.com/bfs/garb/c056502761fba3d745614933293afab4111074ae.png"
+    },
+    {
+      "text": "小白人_飞来",
+      "url": "https://i0.hdslb.com/bfs/garb/cf3dc542b326fb3c418d524972f4cdb14f553670.png"
+    }
+  ]
+}
