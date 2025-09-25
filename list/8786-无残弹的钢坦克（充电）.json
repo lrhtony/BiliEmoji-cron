@@ -1,0 +1,40 @@
+{
+  "id": 8786,
+  "text": "无残弹的钢坦克（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/68ca45bb9e731ede740ee41975a99cd08d135196.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_134980_黑幕",
+      "url": "https://i0.hdslb.com/bfs/garb/c820af9b4280dee9da711d2995f80b7904abce42.png"
+    },
+    {
+      "text": "UPOWER_134980_收到",
+      "url": "https://i0.hdslb.com/bfs/garb/1bd35571f217ed08590cadbbfa6f395e7c6851dd.png"
+    },
+    {
+      "text": "UPOWER_134980_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/864a48ea36ab034508c88226b61d10ae7ee0420c.png"
+    },
+    {
+      "text": "UPOWER_134980_炸了",
+      "url": "https://i0.hdslb.com/bfs/garb/9c66ab3000fd04cb415c082419c812c21183c3ee.png"
+    },
+    {
+      "text": "UPOWER_134980_催稿",
+      "url": "https://i0.hdslb.com/bfs/garb/42d9ecbb1dd89ae3b6375adde60b5d2a66e548f5.png"
+    },
+    {
+      "text": "UPOWER_134980_拉烟1",
+      "url": "https://i0.hdslb.com/bfs/garb/7d3085b390f0c9603f1bee994f149ce04a72f14e.png"
+    },
+    {
+      "text": "UPOWER_134980_拉烟2",
+      "url": "https://i0.hdslb.com/bfs/garb/4187e79a7d6a3342c05fc091bdc0a330d708ce6e.png"
+    },
+    {
+      "text": "UPOWER_134980_慌张",
+      "url": "https://i0.hdslb.com/bfs/garb/39745957201cc832cf4a4276b93dbf5f606f3f0b.png"
+    }
+  ]
+}
