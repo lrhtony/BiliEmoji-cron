@@ -1,0 +1,68 @@
+{
+  "id": 8782,
+  "text": "春日樱花小狗",
+  "icon": "https://i0.hdslb.com/bfs/garb/c5cb0d6c996dee6c7062a2325ff934870304bbfa.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "春日樱花小狗_悲伤",
+      "url": "https://i0.hdslb.com/bfs/garb/6a5971e54110ebd3d81d7f39089a2b431f2a362f.png"
+    },
+    {
+      "text": "春日樱花小狗_真被看扁了",
+      "url": "https://i0.hdslb.com/bfs/garb/9bfc73f68d5cf5ba54c62301385c0a43056befc3.png"
+    },
+    {
+      "text": "春日樱花小狗_看透",
+      "url": "https://i0.hdslb.com/bfs/garb/0e6d3ed010b5931cfddedc13fbdd975360774db9.png"
+    },
+    {
+      "text": "春日樱花小狗_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/a042fd8f0ba8ae05949210e611bd74f254723265.png"
+    },
+    {
+      "text": "春日樱花小狗_饱了",
+      "url": "https://i0.hdslb.com/bfs/garb/c0872fe2134fb260844fdf1575825d6741c4e4c5.png"
+    },
+    {
+      "text": "春日樱花小狗_阴险",
+      "url": "https://i0.hdslb.com/bfs/garb/f60422279e28ea202ae5e6fb741cb1938bcab64f.png"
+    },
+    {
+      "text": "春日樱花小狗_左爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/4f9d333364553a84314f344e8112e78e94034263.png"
+    },
+    {
+      "text": "春日樱花小狗_右爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/c26ec7b1477563528ea6b426ed680761ebf769dc.png"
+    },
+    {
+      "text": "春日樱花小狗_消失了",
+      "url": "https://i0.hdslb.com/bfs/garb/eed867956cf314c55596ac753b3c82bcd458fbbf.png"
+    },
+    {
+      "text": "春日樱花小狗_啊",
+      "url": "https://i0.hdslb.com/bfs/garb/9cac6dfa3b5b74420e4376da17751e5c1690150d.png"
+    },
+    {
+      "text": "春日樱花小狗_再见",
+      "url": "https://i0.hdslb.com/bfs/garb/7255727ff3f04c33cd4797397ef37a0fe53ce396.png"
+    },
+    {
+      "text": "春日樱花小狗_可怜巴巴",
+      "url": "https://i0.hdslb.com/bfs/garb/bbec1c77f709194a3ef356e09a385884e9436109.png"
+    },
+    {
+      "text": "春日樱花小狗_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/ab05e9c1892c33dd905a4d0248d2eb001d13f722.png"
+    },
+    {
+      "text": "春日樱花小狗_捂鼻",
+      "url": "https://i0.hdslb.com/bfs/garb/3ef4096487d788cf45a9296a41a03bea5818e9a4.png"
+    },
+    {
+      "text": "春日樱花小狗_馋",
+      "url": "https://i0.hdslb.com/bfs/garb/ea92e6800c72e819af621312db8b743f9cdd0124.png"
+    }
+  ]
+}
