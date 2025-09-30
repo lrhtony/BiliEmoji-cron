@@ -1,7 +1,7 @@
 {
   "id": 8605,
   "text": "迷幻枸杞（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/5b24b4c6ce2b6530fada0cf664079aeb502ca4e2.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/13b2584aa26e4ea1b09f9a71cf4570c3baa323b6.png",
   "resource_type": 0,
   "emote": [
     {
@@ -15,6 +15,10 @@
     {
       "text": "UPOWER_613408351_忧伤",
       "url": "https://i0.hdslb.com/bfs/garb/ebfafad5e53e7fc0a83c1242499ae96b819bc960.png"
+    },
+    {
+      "text": "UPOWER_613408351_BBJL",
+      "url": "https://i0.hdslb.com/bfs/garb/275d9ddf2b2a8f5f5ff8d5c9c21a1956e2ff1693.png"
     },
     {
       "text": "UPOWER_613408351_惊",
@@ -77,8 +81,12 @@
       "url": "https://i0.hdslb.com/bfs/garb/90ddea48e3d4a4885b36f78e10e8f25062d166cd.png"
     },
     {
+      "text": "UPOWER_613408351_proud",
+      "url": "https://i0.hdslb.com/bfs/garb/20ba80ea48fa188e8eb532616307b28aabb5b13e.png"
+    },
+    {
       "text": "UPOWER_613408351_think",
-      "url": "https://i0.hdslb.com/bfs/garb/c5d25df766f30aac253a1d999049c64aefb7b410.png"
+      "url": "https://i0.hdslb.com/bfs/garb/a947ff0abd6f88b5b6599b973892e5f039d005f1.png"
     }
   ]
 }
