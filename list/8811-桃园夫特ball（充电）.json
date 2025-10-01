@@ -1,0 +1,48 @@
+{
+  "id": 8811,
+  "text": "桃园夫特ball（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/0acd4f56f6687905d2182466374ff35e5efcfdb5.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_1084377951_难受",
+      "url": "https://i0.hdslb.com/bfs/garb/32aea5a9afe88d7550f2a86056a30873bc08cb35.png"
+    },
+    {
+      "text": "UPOWER_1084377951_打架",
+      "url": "https://i0.hdslb.com/bfs/garb/9eb7a2a4c486e21533b6b121eddf15de445eee04.png"
+    },
+    {
+      "text": "UPOWER_1084377951_安达欢呼",
+      "url": "https://i0.hdslb.com/bfs/garb/88d04e993dc721232159be4cbe3cd60eb7f58b51.png"
+    },
+    {
+      "text": "UPOWER_1084377951_闭嘴",
+      "url": "https://i0.hdslb.com/bfs/garb/790b1b3f143b0468afc6453defafd41a8ee87354.png"
+    },
+    {
+      "text": "UPOWER_1084377951_什么",
+      "url": "https://i0.hdslb.com/bfs/garb/6bd1be55f8108200f4dc9bf92e2edc80a5ed5665.png"
+    },
+    {
+      "text": "UPOWER_1084377951_兰奇欢呼",
+      "url": "https://i0.hdslb.com/bfs/garb/c3431dd589b23ea9a6ac141794b40e32335e1668.png"
+    },
+    {
+      "text": "UPOWER_1084377951_偷笑",
+      "url": "https://i0.hdslb.com/bfs/garb/23fa12980f4ec894268eacd8515efb3f99a913a9.png"
+    },
+    {
+      "text": "UPOWER_1084377951_火大",
+      "url": "https://i0.hdslb.com/bfs/garb/7b6814f8e5a2bd6c6bc4eb70b5e69f2c964e31d5.png"
+    },
+    {
+      "text": "UPOWER_1084377951_采访",
+      "url": "https://i0.hdslb.com/bfs/garb/a86ea1df50e77936cd7d6b29e70440bd54e2e661.png"
+    },
+    {
+      "text": "UPOWER_1084377951_催更",
+      "url": "https://i0.hdslb.com/bfs/garb/eb4d2f3f9292590f53cdd335f4b8c98ad2be14ea.png"
+    }
+  ]
+}
