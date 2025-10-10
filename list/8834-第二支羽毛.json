@@ -1,0 +1,68 @@
+{
+  "id": 8834,
+  "text": "第二支羽毛",
+  "icon": "https://i0.hdslb.com/bfs/garb/7d1ac7749628ef044ecefacaef17cef586dd9e48.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "第二支羽毛_打伞",
+      "url": "https://i0.hdslb.com/bfs/garb/e963c1c438cc302338a6425b07392a46ef01123c.png"
+    },
+    {
+      "text": "第二支羽毛_伞",
+      "url": "https://i0.hdslb.com/bfs/garb/2c13b4b54a39d9227e3ad304228444e04bf38f12.png"
+    },
+    {
+      "text": "第二支羽毛_筹码",
+      "url": "https://i0.hdslb.com/bfs/garb/c1cb3572fb386e6098009ef1174d63808376ec4c.png"
+    },
+    {
+      "text": "第二支羽毛_白鸟",
+      "url": "https://i0.hdslb.com/bfs/garb/eb58b886f96087701898160b6bd492621404b728.png"
+    },
+    {
+      "text": "第二支羽毛_粉鸟",
+      "url": "https://i0.hdslb.com/bfs/garb/0c71a449be6edb340f2d48fcb838b01651ddea39.png"
+    },
+    {
+      "text": "第二支羽毛_羽毛",
+      "url": "https://i0.hdslb.com/bfs/garb/adf0eed55f2697c9a2ed4915572857ea84cb6416.png"
+    },
+    {
+      "text": "第二支羽毛_太阳",
+      "url": "https://i0.hdslb.com/bfs/garb/aa797ca12ca3914ccc9461ad6396c5c5277113cc.png"
+    },
+    {
+      "text": "第二支羽毛_星星",
+      "url": "https://i0.hdslb.com/bfs/garb/95364e32935ebf7d6a4443a67e86aeabeff7b3a2.png"
+    },
+    {
+      "text": "第二支羽毛_小熊",
+      "url": "https://i0.hdslb.com/bfs/garb/8779000e182418c41ddc3dfd4556d8f1f10a0e64.png"
+    },
+    {
+      "text": "第二支羽毛_小天使",
+      "url": "https://i0.hdslb.com/bfs/garb/fd8ed9e6bdc56d7c7776a052f663c494bc57553c.png"
+    },
+    {
+      "text": "第二支羽毛_蝴蝶结",
+      "url": "https://i0.hdslb.com/bfs/garb/50014193741b8c49c5f5f95157df63c1b22807f1.png"
+    },
+    {
+      "text": "第二支羽毛_蓝鸟",
+      "url": "https://i0.hdslb.com/bfs/garb/39c9a016be6ce567971258e8d0d48a1e536ac475.png"
+    },
+    {
+      "text": "第二支羽毛_下雨",
+      "url": "https://i0.hdslb.com/bfs/garb/8b01da2db7dd699e2b5fb28d7badb0467a384504.png"
+    },
+    {
+      "text": "第二支羽毛_winner",
+      "url": "https://i0.hdslb.com/bfs/garb/a8dea911cc05144334c62346784138412933b68e.png"
+    },
+    {
+      "text": "第二支羽毛_凝视",
+      "url": "https://i0.hdslb.com/bfs/garb/3cf4a64a4e5ebbf4739cf3cc7cc712699f124242.png"
+    }
+  ]
+}

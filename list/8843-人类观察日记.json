@@ -1,0 +1,68 @@
+{
+  "id": 8843,
+  "text": "人类观察日记",
+  "icon": "https://i0.hdslb.com/bfs/garb/2f995689097c52bd2f6675fe8b362d133f811c2a.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "人类观察日记_吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/1c9c42d3f8d2a895be8d90f81eab15413247b495.png"
+    },
+    {
+      "text": "人类观察日记_做饭",
+      "url": "https://i0.hdslb.com/bfs/garb/bd92dd1c6f7ad97b972783944e702cc259741c29.png"
+    },
+    {
+      "text": "人类观察日记_工作",
+      "url": "https://i0.hdslb.com/bfs/garb/34c5a583b63b582abb48b8d9bc984112aa9cb097.png"
+    },
+    {
+      "text": "人类观察日记_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/101057785abffedbdaa1ea2c108ff3b1c2b3762a.png"
+    },
+    {
+      "text": "人类观察日记_早",
+      "url": "https://i0.hdslb.com/bfs/garb/831ab663bc0786842f9d2481b3be2fe94b78159c.png"
+    },
+    {
+      "text": "人类观察日记_听歌",
+      "url": "https://i0.hdslb.com/bfs/garb/26734afe90bbeb1e8c1f34eccb6f61971e820c7a.png"
+    },
+    {
+      "text": "人类观察日记_休息中",
+      "url": "https://i0.hdslb.com/bfs/garb/5234c0cc182fef359c951cf77e63f81c6201dea2.png"
+    },
+    {
+      "text": "人类观察日记_小猫",
+      "url": "https://i0.hdslb.com/bfs/garb/004b278044c70d96dc4134eedbc9d36063d9439c.png"
+    },
+    {
+      "text": "人类观察日记_洗衣",
+      "url": "https://i0.hdslb.com/bfs/garb/a65655cb11f3363de3b7e902addaaea0198c079a.png"
+    },
+    {
+      "text": "人类观察日记_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/82b02e17265c98f80ef6c3913b477163c093ec0d.png"
+    },
+    {
+      "text": "人类观察日记_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/727cc37c3fa58f2f9071d54ac5aab055479cec80.png"
+    },
+    {
+      "text": "人类观察日记_hi",
+      "url": "https://i0.hdslb.com/bfs/garb/833c124b6916e395dff43584910a4163baa2de08.png"
+    },
+    {
+      "text": "人类观察日记_休time",
+      "url": "https://i0.hdslb.com/bfs/garb/90e27bae0993c7537184fff3a42958356c137bb9.png"
+    },
+    {
+      "text": "人类观察日记_闹钟",
+      "url": "https://i0.hdslb.com/bfs/garb/b18fb5b192016620c103221d6cbc1848ea53fecc.png"
+    },
+    {
+      "text": "人类观察日记_三明治",
+      "url": "https://i0.hdslb.com/bfs/garb/2b50747760b4abe912f9e23f9f42521ccdfad238.png"
+    }
+  ]
+}

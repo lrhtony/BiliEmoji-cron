@@ -1,0 +1,20 @@
+{
+  "id": 8846,
+  "text": "美团表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/e4e7616feb27ed6aefb26ecdb9cd9989ae474d9f.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "美团表情包_免单请客",
+      "url": "https://i0.hdslb.com/bfs/emote/e4e7616feb27ed6aefb26ecdb9cd9989ae474d9f.png"
+    },
+    {
+      "text": "美团表情包_求神券",
+      "url": "https://i0.hdslb.com/bfs/emote/c0f4f91eeda1ade20a0b83992fff4b946785d306.png"
+    },
+    {
+      "text": "美团表情包_在线撒券",
+      "url": "https://i0.hdslb.com/bfs/emote/0ff6580bb284ab15117abee098a239a66f8e6298.png"
+    }
+  ]
+}
