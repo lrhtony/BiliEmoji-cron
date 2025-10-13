@@ -1,0 +1,68 @@
+{
+  "id": 8857,
+  "text": "秋日小狗",
+  "icon": "https://i0.hdslb.com/bfs/garb/062a085cb6b0d54bf7dc6559ff35c2c4c3f754b2.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "秋日小狗_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/476d18b2065bd551b92b7db6ee85543014332d2d.png"
+    },
+    {
+      "text": "秋日小狗_呆",
+      "url": "https://i0.hdslb.com/bfs/garb/2ab6e0f875d89898c43420d867617dca5aa95ad4.png"
+    },
+    {
+      "text": "秋日小狗_睡了",
+      "url": "https://i0.hdslb.com/bfs/garb/373f5f25ee2c6bf8b6a7732b15cf58ee00d3619e.png"
+    },
+    {
+      "text": "秋日小狗_醒了",
+      "url": "https://i0.hdslb.com/bfs/garb/656d879f6ccb5ddce1951466bbbe88f06c96328b.png"
+    },
+    {
+      "text": "秋日小狗_不要啊",
+      "url": "https://i0.hdslb.com/bfs/garb/e755ed9840b5b3272e35c170acbd8578c751c84e.png"
+    },
+    {
+      "text": "秋日小狗_空碗",
+      "url": "https://i0.hdslb.com/bfs/garb/7792e97c1cd5c45daad711605b21e3409be1a0d2.png"
+    },
+    {
+      "text": "秋日小狗_饭来",
+      "url": "https://i0.hdslb.com/bfs/garb/e2023f45bb6101e6da8978078a794924f875f116.png"
+    },
+    {
+      "text": "秋日小狗_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/b67c6d278cc399c7cd1a0ea2f45c897f0e079882.png"
+    },
+    {
+      "text": "秋日小狗_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/ec4ddc55a6b5e61dbcb126a45fca3b167cf73e43.png"
+    },
+    {
+      "text": "秋日小狗_严肃",
+      "url": "https://i0.hdslb.com/bfs/garb/12e2b4ff51b511ee9cbb828a143d0bda20cb8c8f.png"
+    },
+    {
+      "text": "秋日小狗_易碎品",
+      "url": "https://i0.hdslb.com/bfs/garb/633d8a23faa3036a9e94ca02e1df6ce8eaf898e4.png"
+    },
+    {
+      "text": "秋日小狗_胖胖的我",
+      "url": "https://i0.hdslb.com/bfs/garb/413ed027111a56d8da30424fa91e3031de38c012.png"
+    },
+    {
+      "text": "秋日小狗_玛尼",
+      "url": "https://i0.hdslb.com/bfs/garb/a5dbd0e47fbf19569bc17b620b8ebce6dfdcd489.png"
+    },
+    {
+      "text": "秋日小狗_给我",
+      "url": "https://i0.hdslb.com/bfs/garb/fbb69c2612b0d60274bcdd6c93e11d91ce06c0f9.png"
+    },
+    {
+      "text": "秋日小狗_可怜巴巴",
+      "url": "https://i0.hdslb.com/bfs/garb/38b1b441a286ccac8126b7674343c75140926e90.png"
+    }
+  ]
+}
