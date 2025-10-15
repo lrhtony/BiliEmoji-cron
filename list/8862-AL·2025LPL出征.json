@@ -1,0 +1,108 @@
+{
+  "id": 8862,
+  "text": "AL·2025LPL出征",
+  "icon": "https://i0.hdslb.com/bfs/garb/0780a41d152aab3e7f94b26a038c1921d52f1de5.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "AL·2025LPL出征_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/1bdea66dcb7b3c4f481dd8de4b8b9b73fb3e2a1d.png"
+    },
+    {
+      "text": "AL·2025LPL出征_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/17eef5eb8a859d21895b702222e0e6a0af9f9f32.png"
+    },
+    {
+      "text": "AL·2025LPL出征_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/59132014ea7eeb008531593d8e6417ea260137c9.png"
+    },
+    {
+      "text": "AL·2025LPL出征_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/19801824b322d4cc7efc06acecbfd6f20464f30a.png"
+    },
+    {
+      "text": "AL·2025LPL出征_自信",
+      "url": "https://i0.hdslb.com/bfs/garb/54e758cf6b1d9dd9e13309316bdb630f78dc9a5f.png"
+    },
+    {
+      "text": "AL·2025LPL出征_不了不了",
+      "url": "https://i0.hdslb.com/bfs/garb/5eeecd39210f2a71ae32d799bfdc5bca4f592027.png"
+    },
+    {
+      "text": "AL·2025LPL出征_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/e807b801d629f75f58a7ff8433c2114c61526ba3.png"
+    },
+    {
+      "text": "AL·2025LPL出征_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/a49029b39e05cba783af3f2585d3754aaba49b75.png"
+    },
+    {
+      "text": "AL·2025LPL出征_我有话说",
+      "url": "https://i0.hdslb.com/bfs/garb/8f89bca14c4826ccf85fe8cb01ca14885859fc3d.png"
+    },
+    {
+      "text": "AL·2025LPL出征_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/a7199d5a041d7b1e141a57bd21b91d77f02051de.png"
+    },
+    {
+      "text": "AL·2025LPL出征_括号脸",
+      "url": "https://i0.hdslb.com/bfs/garb/48e4339aeec60a59501470d7e2098a01152df6aa.png"
+    },
+    {
+      "text": "AL·2025LPL出征_送你",
+      "url": "https://i0.hdslb.com/bfs/garb/01dcaf685cfe6630ac84f77d73dae319faefa9d1.png"
+    },
+    {
+      "text": "AL·2025LPL出征_睡衣Kael",
+      "url": "https://i0.hdslb.com/bfs/garb/f91e5d20b32c867ea3de7cbd60ef83ca4f53ea11.png"
+    },
+    {
+      "text": "AL·2025LPL出征_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/15326c1aa2e28537bd5280477987e5182aa87d16.png"
+    },
+    {
+      "text": "AL·2025LPL出征_什么？",
+      "url": "https://i0.hdslb.com/bfs/garb/13ecd91cb5e0b11084e57c7f79cb00602feb0e1d.png"
+    },
+    {
+      "text": "AL·2025LPL出征_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/1b6340d9b3edd1670db3685cd1d651413911fa19.png"
+    },
+    {
+      "text": "AL·2025LPL出征_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/9e98cf8be47936b512a84166ffa069fb06bc6943.png"
+    },
+    {
+      "text": "AL·2025LPL出征_...",
+      "url": "https://i0.hdslb.com/bfs/garb/36b341dc318e6dc580e249369b0357eb400a33ac.png"
+    },
+    {
+      "text": "AL·2025LPL出征_比耶",
+      "url": "https://i0.hdslb.com/bfs/garb/77346f9155c33f97b8fb2fe56b3fd21e4cf9e2d1.png"
+    },
+    {
+      "text": "AL·2025LPL出征_忍住不能笑",
+      "url": "https://i0.hdslb.com/bfs/garb/0454007245113ab5d4b6eabae7129a3fc18d6ac5.png"
+    },
+    {
+      "text": "AL·2025LPL出征_睡衣Tarzan",
+      "url": "https://i0.hdslb.com/bfs/garb/c94174aaf68f0639e90dd1ecac07d81a346d7afb.png"
+    },
+    {
+      "text": "AL·2025LPL出征_打开看看",
+      "url": "https://i0.hdslb.com/bfs/garb/2632bf0723aefcc61855c3fe0ff55b69ecf33eb2.png"
+    },
+    {
+      "text": "AL·2025LPL出征_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/99eae066a2ce4e79cb3d667228381cf0020bd8a4.png"
+    },
+    {
+      "text": "AL·2025LPL出征_摊手",
+      "url": "https://i0.hdslb.com/bfs/garb/item/6ddaf06229a2dc5dcd6d9a3fe61cbb1bd1705b8a.png"
+    },
+    {
+      "text": "AL·2025LPL出征_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/d17dbdf46922047103cf445a8bdd106bc53daa52.png"
+    }
+  ]
+}
