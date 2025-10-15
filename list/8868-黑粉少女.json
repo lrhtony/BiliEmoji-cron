@@ -1,0 +1,68 @@
+{
+  "id": 8868,
+  "text": "黑粉少女",
+  "icon": "https://i0.hdslb.com/bfs/garb/825aad649aee100e1cd04be4e55afa4d5569ea2c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "黑粉少女_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/f8f1e6f4d5898631d9c657504928e550d6ec5274.png"
+    },
+    {
+      "text": "黑粉少女_惊吓",
+      "url": "https://i0.hdslb.com/bfs/garb/c7740b71972b4cc03cf07018c04f4e2dcac54efd.png"
+    },
+    {
+      "text": "黑粉少女_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/c27ceb6aa4d3c1d35e80d14e82fbe82853dc4869.png"
+    },
+    {
+      "text": "黑粉少女_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/2dfef2837085778dd0e3cef6bd55bf919fb8e337.png"
+    },
+    {
+      "text": "黑粉少女_爱财",
+      "url": "https://i0.hdslb.com/bfs/garb/4a3c79cc117f0111fcf26c008334df6e91f1d150.png"
+    },
+    {
+      "text": "黑粉少女_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/36e91eb28fe7307a2af2fb41c2c6eefb7b3e6473.png"
+    },
+    {
+      "text": "黑粉少女_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/f1446a162160f4199388be163dc94ae61cc97f41.png"
+    },
+    {
+      "text": "黑粉少女_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/6836b2e391bfbc9500951943ea0b0e51a996d083.png"
+    },
+    {
+      "text": "黑粉少女_记录",
+      "url": "https://i0.hdslb.com/bfs/garb/a9d8657974eee13250c0f1207d21afa7eac9f0a0.png"
+    },
+    {
+      "text": "黑粉少女_我推",
+      "url": "https://i0.hdslb.com/bfs/garb/1e82cee1ba9102784c18cce1cd773379695e4bdf.png"
+    },
+    {
+      "text": "黑粉少女_狂炫",
+      "url": "https://i0.hdslb.com/bfs/garb/edc1a40ef157d06a0c9f6be73e50013d95267b2b.png"
+    },
+    {
+      "text": "黑粉少女_给点吧",
+      "url": "https://i0.hdslb.com/bfs/garb/b12a1cf777f0ee7b64ff236714a3b2031f817e2e.png"
+    },
+    {
+      "text": "黑粉少女_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/f6f6275d74883e5fc78b31aa6865d148154078bb.png"
+    },
+    {
+      "text": "黑粉少女_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/83240b96b416c972d859c549a2e7e0dc6c8d3faa.png"
+    },
+    {
+      "text": "黑粉少女_喵",
+      "url": "https://i0.hdslb.com/bfs/garb/ff9a2084c1f635597f63eaa2a33d630bdb0a2e7d.png"
+    }
+  ]
+}
