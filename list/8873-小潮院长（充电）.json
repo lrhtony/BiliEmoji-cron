@@ -1,0 +1,80 @@
+{
+  "id": 8873,
+  "text": "小潮院长（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/3fef18626aa3aeabc7888a1aef7282ec46b8967b.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_5970160_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/a77e03220c778d0e6e7a896ed8bc3765b7649b2b.png"
+    },
+    {
+      "text": "UPOWER_5970160_对不起",
+      "url": "https://i0.hdslb.com/bfs/garb/8a3eff9ea214e0c5da047f92fbd4f08416103a14.png"
+    },
+    {
+      "text": "UPOWER_5970160_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/2f45bc8333ac57ddcb97feceb8236392cd8efeba.png"
+    },
+    {
+      "text": "UPOWER_5970160_来啦",
+      "url": "https://i0.hdslb.com/bfs/garb/7fdbd16e3a9c8cfb1924a2648fee1dc0fc2313d0.png"
+    },
+    {
+      "text": "UPOWER_5970160_灵感来了",
+      "url": "https://i0.hdslb.com/bfs/garb/47c4580a4d3dbc0ce5a8874a292ed7476eaf8182.png"
+    },
+    {
+      "text": "UPOWER_5970160_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/590e8424f4d7c14c51aa83173015958d3a570a3b.png"
+    },
+    {
+      "text": "UPOWER_5970160_第一",
+      "url": "https://i0.hdslb.com/bfs/garb/ad51f94a79ea5a19d5c48451b1a79022ec17693c.png"
+    },
+    {
+      "text": "UPOWER_5970160_三连",
+      "url": "https://i0.hdslb.com/bfs/garb/ba8239c84d9c4261d8a92cbcc385714980270955.png"
+    },
+    {
+      "text": "UPOWER_5970160_收到",
+      "url": "https://i0.hdslb.com/bfs/garb/2ffb13a430736ee992b665cb6f691e96240e7ed2.png"
+    },
+    {
+      "text": "UPOWER_5970160_太suai了",
+      "url": "https://i0.hdslb.com/bfs/garb/9b545244e3e7065480e3b470fe468995f7ec70f2.png"
+    },
+    {
+      "text": "UPOWER_5970160_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/0e52ac8c81f4a100c6f89f540e4c2f9de97c75fe.png"
+    },
+    {
+      "text": "UPOWER_5970160_累了",
+      "url": "https://i0.hdslb.com/bfs/garb/0ab906cda040ebcd5dc5c0ea14c05d2b11d3c645.png"
+    },
+    {
+      "text": "UPOWER_5970160_无语了",
+      "url": "https://i0.hdslb.com/bfs/garb/8ea98548f9ef99a2ea6ba83743af97e0fe91ffde.png"
+    },
+    {
+      "text": "UPOWER_5970160_感动",
+      "url": "https://i0.hdslb.com/bfs/garb/03d257f7d4508e6e65878b14948e0a7268cee7b9.png"
+    },
+    {
+      "text": "UPOWER_5970160_耶耶耶",
+      "url": "https://i0.hdslb.com/bfs/garb/a0dd1871c58f55ec40773027db8cee602fd7d18a.png"
+    },
+    {
+      "text": "UPOWER_5970160_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/43af234741fbf3f8fe148da1da3e40a13712b141.png"
+    },
+    {
+      "text": "UPOWER_5970160_doge",
+      "url": "https://i0.hdslb.com/bfs/garb/d59c507f930c8c24995e4c96a8db01f7d9a0fda9.png"
+    },
+    {
+      "text": "UPOWER_5970160_ohhh",
+      "url": "https://i0.hdslb.com/bfs/garb/8ee13379bc80f2ef97afabd9b611b63400bfb56a.png"
+    }
+  ]
+}
