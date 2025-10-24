@@ -5,6 +5,10 @@
   "resource_type": 0,
   "emote": [
     {
+      "text": "UPOWER_10276136_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/28591f6eed054f12dd6afbf9e528a9c94f41830c.png"
+    },
+    {
       "text": "UPOWER_10276136_导盲猫",
       "url": "https://i0.hdslb.com/bfs/garb/de0eeccc0f8e7b8ce8ec4fb66febec5b6d1c6129.png"
     },
@@ -39,6 +43,14 @@
     {
       "text": "UPOWER_10276136_喵",
       "url": "https://i0.hdslb.com/bfs/garb/8a38af5e8c4e574ebde542fdf54a85e806fb4afd.png"
+    },
+    {
+      "text": "UPOWER_10276136_红蓝CP",
+      "url": "https://i0.hdslb.com/bfs/garb/28591f6eed054f12dd6afbf9e528a9c94f41830c.png"
+    },
+    {
+      "text": "UPOWER_10276136_浅蓝正义",
+      "url": "https://i0.hdslb.com/bfs/garb/98fd81525dd20b1d44baa50724aa39f5ff60148a.png"
     }
   ]
 }
