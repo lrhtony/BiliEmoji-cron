@@ -1,0 +1,88 @@
+{
+  "id": 8961,
+  "text": "凉宫·表情",
+  "icon": "https://i0.hdslb.com/bfs/garb/6764c0fe68d58ed9358fc411e7b7188c9ec89993.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "凉宫·表情_敲黑板",
+      "url": "https://i0.hdslb.com/bfs/garb/594654dc5266affa4f742fb378c76af19879ddf2.png"
+    },
+    {
+      "text": "凉宫·表情_交给我吧",
+      "url": "https://i0.hdslb.com/bfs/garb/aa3b45cd2f4f71a293ec7def947bf0a7049bf373.png"
+    },
+    {
+      "text": "凉宫·表情_欢迎加入",
+      "url": "https://i0.hdslb.com/bfs/garb/5f7460e74413dcabc1bbd9cfa91a0613e85541a8.png"
+    },
+    {
+      "text": "凉宫·表情_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/86e95b4bb357191cf4522437dba84187b6e19f57.png"
+    },
+    {
+      "text": "凉宫·表情_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/95dec10ebe56716abceccae3a2a380f561817adc.png"
+    },
+    {
+      "text": "凉宫·表情_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/12e426aa17cc3377ad4cbae6ff7b90eb00472ad5.png"
+    },
+    {
+      "text": "凉宫·表情_wink~",
+      "url": "https://i0.hdslb.com/bfs/garb/d78108f17f9a0ba362dd14a49337af6488f68d83.png"
+    },
+    {
+      "text": "凉宫·表情_害怕",
+      "url": "https://i0.hdslb.com/bfs/garb/23646017a0dd7db97726010f2f5704cc399348f6.png"
+    },
+    {
+      "text": "凉宫·表情_我么？",
+      "url": "https://i0.hdslb.com/bfs/garb/6fa0ed98b90a24657bc1caf57495c5d57acffb5c.png"
+    },
+    {
+      "text": "凉宫·表情_呼~",
+      "url": "https://i0.hdslb.com/bfs/garb/4bc046a202110b77e4174b3a14181e038ea9192e.png"
+    },
+    {
+      "text": "凉宫·表情_陷入思考",
+      "url": "https://i0.hdslb.com/bfs/garb/abc4ee8faf2d8b691b70ba7c2540bcd32da64ad1.png"
+    },
+    {
+      "text": "凉宫·表情_好吃",
+      "url": "https://i0.hdslb.com/bfs/garb/5b0d7b4aca6b599fc144d316bb20b1a78649a81b.png"
+    },
+    {
+      "text": "凉宫·表情_给你",
+      "url": "https://i0.hdslb.com/bfs/garb/765edc5c31bce8c247b3506369052c10410aa95b.png"
+    },
+    {
+      "text": "凉宫·表情_看书",
+      "url": "https://i0.hdslb.com/bfs/garb/ada19aab2cfbd1104bc222ca3913fe85efbd6a96.png"
+    },
+    {
+      "text": "凉宫·表情_不愧是我",
+      "url": "https://i0.hdslb.com/bfs/garb/8aa803bbf1eac6e216dbdc1feddb8edfbceb8272.png"
+    },
+    {
+      "text": "凉宫·表情_哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/00040b0ffa27c1c6533536774002b6422955043e.png"
+    },
+    {
+      "text": "凉宫·表情_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/04187b3315135ee8e7915cd32f2a4d1f5bbbce44.png"
+    },
+    {
+      "text": "凉宫·表情_紧张",
+      "url": "https://i0.hdslb.com/bfs/garb/2fd003a9186c5cb5a46be513ff153dac45059285.png"
+    },
+    {
+      "text": "凉宫·表情_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/fab6cfa4b81963656a5f8e919f3fc2d235f547ff.png"
+    },
+    {
+      "text": "凉宫·表情_阴暗",
+      "url": "https://i0.hdslb.com/bfs/garb/afabbff0280534d8cc3e908dea1591b017a94995.png"
+    }
+  ]
+}

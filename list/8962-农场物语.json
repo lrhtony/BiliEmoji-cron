@@ -1,0 +1,68 @@
+{
+  "id": 8962,
+  "text": "农场物语",
+  "icon": "https://i0.hdslb.com/bfs/garb/2dc14bf29437599294331cda09b26a91a416d40a.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "农场物语_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/cdc2e0d13a3469e861146a3e5f927b4bbb9797bc.png"
+    },
+    {
+      "text": "农场物语_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/91227d8c16e0952be326d128c5adce2db4c18474.png"
+    },
+    {
+      "text": "农场物语_牛奶",
+      "url": "https://i0.hdslb.com/bfs/garb/ecc2a7b576dd73bf2f1cf951142ca67f99858371.png"
+    },
+    {
+      "text": "农场物语_南瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/19da0c7c644695551342b07dea57e43b86c793cc.png"
+    },
+    {
+      "text": "农场物语_汽车",
+      "url": "https://i0.hdslb.com/bfs/garb/4fd0cb7b8596f60c17b691ae3bb3c2c8e2b5b445.png"
+    },
+    {
+      "text": "农场物语_鱼塘",
+      "url": "https://i0.hdslb.com/bfs/garb/c75a6aaebc4e410465435363ecd488047157e934.png"
+    },
+    {
+      "text": "农场物语_房子",
+      "url": "https://i0.hdslb.com/bfs/garb/5e5d0f2cbff1607b9121b667edc2722facdd927b.png"
+    },
+    {
+      "text": "农场物语_蔬菜",
+      "url": "https://i0.hdslb.com/bfs/garb/74f1cc7f331002c60e0e8b20439e38016c67470e.png"
+    },
+    {
+      "text": "农场物语_小猫",
+      "url": "https://i0.hdslb.com/bfs/garb/f88deb9c21e507add804e58134f48eeaa6194dc8.png"
+    },
+    {
+      "text": "农场物语_小牛",
+      "url": "https://i0.hdslb.com/bfs/garb/55f322bd293433bc59112bbb39cd6721a77ec94c.png"
+    },
+    {
+      "text": "农场物语_拔萝卜",
+      "url": "https://i0.hdslb.com/bfs/garb/3e6aea9b1aa2e4909b25c5248a1126ed7318791e.png"
+    },
+    {
+      "text": "农场物语_浇水",
+      "url": "https://i0.hdslb.com/bfs/garb/b189c36bcf7cd871d8e2710502a94206ee2f75da.png"
+    },
+    {
+      "text": "农场物语_西红柿",
+      "url": "https://i0.hdslb.com/bfs/garb/e486c8789d1863f67ad37ad035490383755a1e61.png"
+    },
+    {
+      "text": "农场物语_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/dd609dc75750842371a7674aaaf6be990eb972d7.png"
+    },
+    {
+      "text": "农场物语_彩虹",
+      "url": "https://i0.hdslb.com/bfs/garb/005c1766add1df307a4d4757c99e4c16e3c71ea1.png"
+    }
+  ]
+}
