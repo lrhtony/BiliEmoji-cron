@@ -1,0 +1,88 @@
+{
+  "id": 8972,
+  "text": "浮鸾Flora",
+  "icon": "https://i0.hdslb.com/bfs/garb/c3ab64ea50faeb204c49bdf51162699feb4f67c1.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "浮鸾Flora_裂开",
+      "url": "https://i0.hdslb.com/bfs/garb/5093a41462e95ff52a54cc13942f521b442de245.png"
+    },
+    {
+      "text": "浮鸾Flora_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/fcac81831172596d687c196a439b03b6c98c7821.png"
+    },
+    {
+      "text": "浮鸾Flora_逆天",
+      "url": "https://i0.hdslb.com/bfs/garb/c6af8f1d0c8242df7a3d4c0d68e384bccc49dbbb.png"
+    },
+    {
+      "text": "浮鸾Flora_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/96347fbf0699a101327aabcdfe6e2401e48fdd2d.png"
+    },
+    {
+      "text": "浮鸾Flora_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/6af4cb68a31d7625d9ae046e4b14ddf2300f5d69.png"
+    },
+    {
+      "text": "浮鸾Flora_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/202128363c9ff8f7813a7fcac9009ace6fb4f9bb.png"
+    },
+    {
+      "text": "浮鸾Flora_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/35625efc88a5061e63d61b79012526ce59a662d9.png"
+    },
+    {
+      "text": "浮鸾Flora_对手指",
+      "url": "https://i0.hdslb.com/bfs/garb/aba7ca750e9a0b1381d1c0f0d33428025bb5b43e.png"
+    },
+    {
+      "text": "浮鸾Flora_给你一拳",
+      "url": "https://i0.hdslb.com/bfs/garb/28f76b8275b0fa6eb84b5db471bcdc8b58701c09.png"
+    },
+    {
+      "text": "浮鸾Flora_星星眼",
+      "url": "https://i0.hdslb.com/bfs/garb/b25683a97561f54d573b527c2d7c84f7f68175d4.png"
+    },
+    {
+      "text": "浮鸾Flora_叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/29892419c8dfe3c167f34f27092117d1b9641e62.png"
+    },
+    {
+      "text": "浮鸾Flora_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/ff2afdc5f6b30fbdee3c665cbd144ff2235cdee0.png"
+    },
+    {
+      "text": "浮鸾Flora_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/fc123c67c34bb7f14ac5429882239f3720b2b018.png"
+    },
+    {
+      "text": "浮鸾Flora_害怕",
+      "url": "https://i0.hdslb.com/bfs/garb/1561a64f8977207f82f532fe42ad239a6cf3a8cb.png"
+    },
+    {
+      "text": "浮鸾Flora_吐魂",
+      "url": "https://i0.hdslb.com/bfs/garb/34a64866b07ad3922ab030548d92d394fff1881e.png"
+    },
+    {
+      "text": "浮鸾Flora_喝茶",
+      "url": "https://i0.hdslb.com/bfs/garb/c77d6336ace309de5a62600f86d0e1107b9e8fc0.png"
+    },
+    {
+      "text": "浮鸾Flora_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/12e25629f19f7111aed9891ebc1becd393c82417.png"
+    },
+    {
+      "text": "浮鸾Flora_打CALL",
+      "url": "https://i0.hdslb.com/bfs/garb/918a1ab458feea28d5379cf22cadd90ff06c0ab6.png"
+    },
+    {
+      "text": "浮鸾Flora_跪拜",
+      "url": "https://i0.hdslb.com/bfs/garb/94199779a674622a9d96e7ac0e42dbdb91d6e575.png"
+    },
+    {
+      "text": "浮鸾Flora_平身",
+      "url": "https://i0.hdslb.com/bfs/garb/f84a51f03db388a8e64203fae4e4bd6f18e67ede.png"
+    }
+  ]
+}
