@@ -1,0 +1,68 @@
+{
+  "id": 9004,
+  "text": "来份乌鸦",
+  "icon": "https://i0.hdslb.com/bfs/garb/273c90167b5599c7b72a4cb213b80f7230d7e1e5.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "来份乌鸦_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/4251c1d952fda25c15d96c9baef782f6f02c0eb7.png"
+    },
+    {
+      "text": "来份乌鸦_叫",
+      "url": "https://i0.hdslb.com/bfs/garb/4a60275f32eba4da4b1741b0baa172e1802cffd1.png"
+    },
+    {
+      "text": "来份乌鸦_走路",
+      "url": "https://i0.hdslb.com/bfs/garb/e9b3322b7c6d19270d611b1e62f19d2f8dc5b046.png"
+    },
+    {
+      "text": "来份乌鸦_？",
+      "url": "https://i0.hdslb.com/bfs/garb/bf5633f8688c99f5453e44dc1008f6a60cee6a3b.png"
+    },
+    {
+      "text": "来份乌鸦_拿捏",
+      "url": "https://i0.hdslb.com/bfs/garb/0d671b12d3877c9aa6404731846604d9e2631c01.png"
+    },
+    {
+      "text": "来份乌鸦_吃",
+      "url": "https://i0.hdslb.com/bfs/garb/f794b304b54d15c443341083ea9dfff38f39e246.png"
+    },
+    {
+      "text": "来份乌鸦_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/46af5cfb93b177848c1f17ab89e7ec7892a792d6.png"
+    },
+    {
+      "text": "来份乌鸦_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/83f5989cdbc0c0eaf683c431f8086d92b6915768.png"
+    },
+    {
+      "text": "来份乌鸦_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/ddefa3f0ad597c15ad6bddcc12548386884a69ae.png"
+    },
+    {
+      "text": "来份乌鸦_飞",
+      "url": "https://i0.hdslb.com/bfs/garb/edd906d388b5453da2c3f1dd17213ee9a5847e9b.png"
+    },
+    {
+      "text": "来份乌鸦_炸毛",
+      "url": "https://i0.hdslb.com/bfs/garb/1a0cfdae0163ffce81cdf936b0543e6716174a1f.png"
+    },
+    {
+      "text": "来份乌鸦_扁扁",
+      "url": "https://i0.hdslb.com/bfs/garb/d2a4c388c010dfb141e6396e7d44466b5ea227fc.png"
+    },
+    {
+      "text": "来份乌鸦_OVO",
+      "url": "https://i0.hdslb.com/bfs/garb/35f72e18a222962dfac6f8f3ce3bee228eb9475a.png"
+    },
+    {
+      "text": "来份乌鸦_滑铲",
+      "url": "https://i0.hdslb.com/bfs/garb/99e972d05d6cefa85cfc06028d90d4d3f4c10705.png"
+    },
+    {
+      "text": "来份乌鸦_吐魂",
+      "url": "https://i0.hdslb.com/bfs/garb/0ec350431e8f4acf692d53799e34deada780a706.png"
+    }
+  ]
+}
