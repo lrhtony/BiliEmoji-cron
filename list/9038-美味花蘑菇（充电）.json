@@ -1,0 +1,28 @@
+{
+  "id": 9038,
+  "text": "美味花蘑菇（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/e7b7ed0d5521989852e3dd35befa4bff82bbc0f5.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_14327878_猫猫菇",
+      "url": "https://i0.hdslb.com/bfs/garb/5e426469bff5876f305fe004085ded5b83d668ed.png"
+    },
+    {
+      "text": "UPOWER_14327878_心虚菇",
+      "url": "https://i0.hdslb.com/bfs/garb/58f934b99146ccefd2cdd291a265916423d2adc6.png"
+    },
+    {
+      "text": "UPOWER_14327878_困困菇",
+      "url": "https://i0.hdslb.com/bfs/garb/f3d28ea1692cc6182616d1e6a5e55b75fb91f912.png"
+    },
+    {
+      "text": "UPOWER_14327878_开心菇",
+      "url": "https://i0.hdslb.com/bfs/garb/bdd4022a981cd39675eaf7d6a1a23e60f8878e6c.png"
+    },
+    {
+      "text": "UPOWER_14327878_礼物菇",
+      "url": "https://i0.hdslb.com/bfs/garb/0d43ebc63c148bd3cfea1d8e991dca1ab7b20d9f.png"
+    }
+  ]
+}
