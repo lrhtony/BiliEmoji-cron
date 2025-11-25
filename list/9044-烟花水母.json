@@ -1,0 +1,68 @@
+{
+  "id": 9044,
+  "text": "烟花水母",
+  "icon": "https://i0.hdslb.com/bfs/garb/239001724974ec9dc336ac5778fd9ec77ff2fb9e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "烟花水母_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/bd17217079775a869601c736fa2d90e41591c041.png"
+    },
+    {
+      "text": "烟花水母_疲惫",
+      "url": "https://i0.hdslb.com/bfs/garb/022c52271ea6852629d8f63f0f0c8524de1ceb4c.png"
+    },
+    {
+      "text": "烟花水母_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/c247bb55c720cb71da154574dc7e29752b814b74.png"
+    },
+    {
+      "text": "烟花水母_投币",
+      "url": "https://i0.hdslb.com/bfs/garb/ec6c36a982cb4d45ad3f6a5f35761f83292e264d.png"
+    },
+    {
+      "text": "烟花水母_绝望",
+      "url": "https://i0.hdslb.com/bfs/garb/9e9beff92d859e2d4eef7a863d22a6b718443161.png"
+    },
+    {
+      "text": "烟花水母_石化",
+      "url": "https://i0.hdslb.com/bfs/garb/34d2af5d7c959e501c4c1116b481f991424774b2.png"
+    },
+    {
+      "text": "烟花水母_水母",
+      "url": "https://i0.hdslb.com/bfs/garb/a7ae65ef5218021aed28f7867f2ced1c1ca151e4.png"
+    },
+    {
+      "text": "烟花水母_吃瓜群众",
+      "url": "https://i0.hdslb.com/bfs/garb/18e6ad996451788efc91664fe19ec2e73bb962b7.png"
+    },
+    {
+      "text": "烟花水母_空白",
+      "url": "https://i0.hdslb.com/bfs/garb/ed88f39a63c8cc0085467f3693c82be99f5586d3.png"
+    },
+    {
+      "text": "烟花水母_怀疑",
+      "url": "https://i0.hdslb.com/bfs/garb/78ba99b7a17bdabc4cf93db0f117a46d343aeffb.png"
+    },
+    {
+      "text": "烟花水母_摇人",
+      "url": "https://i0.hdslb.com/bfs/garb/c28fa8a311795a3243a35a8ee7cac2a022f3334f.png"
+    },
+    {
+      "text": "烟花水母_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/54b7ea3d150c905d53ac39b2be07538e37436a4c.png"
+    },
+    {
+      "text": "烟花水母_记仇",
+      "url": "https://i0.hdslb.com/bfs/garb/727623f5e4e93fe62d8a8e7f2c415c3ad67051ce.png"
+    },
+    {
+      "text": "烟花水母_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/28c7e7ab05ef3b0d0f6a7705d27e749f4eb2fe3f.png"
+    },
+    {
+      "text": "烟花水母_饥饿",
+      "url": "https://i0.hdslb.com/bfs/garb/868c2951cf820bb5622774fda78a58d6953df9f1.png"
+    }
+  ]
+}
