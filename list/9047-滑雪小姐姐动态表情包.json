@@ -1,0 +1,44 @@
+{
+  "id": 9047,
+  "text": "滑雪小姐姐动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/26c40fd7fb35dc58634016b03d79a6a94b430f95.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "滑雪小姐姐动态表情包_出发",
+      "url": "https://i0.hdslb.com/bfs/emote/b50b96b0a923ff722a01ce6ff163a673d4d78c5a.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/79f2f2289e4afa4940d8c39ff509dd7f60e5b9a8.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/c0ea567bcd7e783b8f0cb0af9a6837b0b528fe4f.webp"
+    },
+    {
+      "text": "滑雪小姐姐动态表情包_摔了",
+      "url": "https://i0.hdslb.com/bfs/emote/83f2342baded2172552627171fdb8629d2d28b24.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/92308ed7c8179c14b173b238936b8c95eb59e5a7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/d8f5483b98376de8bd548603524b041a6dedfea9.webp"
+    },
+    {
+      "text": "滑雪小姐姐动态表情包_冷啊",
+      "url": "https://i0.hdslb.com/bfs/emote/405051539061541a0295b30b449e5c02b62de0c5.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/43a8a108df21fd1d317f8f19cba731181f1ef665.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/dc504fc8bca6d23bf5020d4811bf3fa5b8d47c0e.webp"
+    },
+    {
+      "text": "滑雪小姐姐动态表情包_得意",
+      "url": "https://i0.hdslb.com/bfs/emote/26c40fd7fb35dc58634016b03d79a6a94b430f95.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/98308cfea721ebe242689cc0a0bb848fb723c5a6.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/dde010c5de7ea8bacfe840116818d8b674a7bbb0.webp"
+    },
+    {
+      "text": "滑雪小姐姐动态表情包_盯——",
+      "url": "https://i0.hdslb.com/bfs/emote/b8ccdd285feacc904b63670c46b095492987f6cf.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/a0cebbd1d5da3a640df89bbf65c7541325a626cc.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/98dc93582be8ab38d52333834da230c2834411f1.webp"
+    },
+    {
+      "text": "滑雪小姐姐动态表情包_收工",
+      "url": "https://i0.hdslb.com/bfs/emote/1ecbd1fd7f66b36cd18030d8f84800b7d71adf65.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/0576942e9198566870b39e2ee9f8d90b068dafdb.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/803b65ee016ffe6e99d855303dbb0940d4d3fb24.webp"
+    }
+  ]
+}
