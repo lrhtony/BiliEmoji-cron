@@ -1,0 +1,88 @@
+{
+  "id": 9058,
+  "text": "Doro",
+  "icon": "https://i0.hdslb.com/bfs/garb/ce474e708a4fef085a1740d0a8cb177525bf362a.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "Doro_Doro",
+      "url": "https://i0.hdslb.com/bfs/garb/fb240d668257ce909005910f2fbff546d5be48e7.png"
+    },
+    {
+      "text": "Doro_粉狗嘲笑",
+      "url": "https://i0.hdslb.com/bfs/garb/18965b3cbe3f65a101048d52c43dd65f5e9c4e4a.png"
+    },
+    {
+      "text": "Doro_粉狗比心",
+      "url": "https://i0.hdslb.com/bfs/garb/19dcac760cd006e969191b1aaec72ee74aaf55d5.png"
+    },
+    {
+      "text": "Doro_粉狗饿饿",
+      "url": "https://i0.hdslb.com/bfs/garb/ea9c143c80d35eca94c08397eda529ef4d263a46.png"
+    },
+    {
+      "text": "Doro_粉狗点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/0a8d46afcdb6fb84d866f4daca94daeaf8a8f7a6.png"
+    },
+    {
+      "text": "Doro_粉狗懒懒",
+      "url": "https://i0.hdslb.com/bfs/garb/958791a4438ece751d352ebf30424f7fc53a897d.png"
+    },
+    {
+      "text": "Doro_粉狗举杯",
+      "url": "https://i0.hdslb.com/bfs/garb/678af23bc82de52af29235bfc6ee5cadc9497453.png"
+    },
+    {
+      "text": "Doro_粉狗挠头",
+      "url": "https://i0.hdslb.com/bfs/garb/c8a2144e37c2ec9ffaddbc87d1e55888e70ee644.png"
+    },
+    {
+      "text": "Doro_粉狗发射",
+      "url": "https://i0.hdslb.com/bfs/garb/c153e546bef6e31b51edceb84df46ca8b1320854.png"
+    },
+    {
+      "text": "Doro_粉狗滚动",
+      "url": "https://i0.hdslb.com/bfs/garb/e051184eb29d68714020dbed97e9f17662b9fa78.png"
+    },
+    {
+      "text": "Doro_粉狗思考",
+      "url": "https://i0.hdslb.com/bfs/garb/ad25e09ff470ec594f3c89fb80a5418c6657fdd0.png"
+    },
+    {
+      "text": "Doro_粉狗叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/175c143e47fe344de859e368f3315d5cf575f55d.png"
+    },
+    {
+      "text": "Doro_粉狗破防",
+      "url": "https://i0.hdslb.com/bfs/garb/a06f52cd369671fe4d71afe72f7c7b0bf24f1265.png"
+    },
+    {
+      "text": "Doro_粉狗骑车",
+      "url": "https://i0.hdslb.com/bfs/garb/11419bffc43a0f10135cf8aa3e8a965c4282ddeb.png"
+    },
+    {
+      "text": "Doro_粉狗耍赖",
+      "url": "https://i0.hdslb.com/bfs/garb/1fa4c8fffed21d418339f85530a5e433e117869f.png"
+    },
+    {
+      "text": "Doro_粉狗拽拽",
+      "url": "https://i0.hdslb.com/bfs/garb/443fc3a39728b47797f63fac5d067280602571d7.png"
+    },
+    {
+      "text": "Doro_粉狗晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/9018b67c3e58ffaa7da0c57a0328d9876eb46e02.png"
+    },
+    {
+      "text": "Doro_粉狗委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/7888e924a72eb5ed564ff57e444a0fd84a63011b.png"
+    },
+    {
+      "text": "Doro_粉狗忠诚",
+      "url": "https://i0.hdslb.com/bfs/garb/9e1cb726f4f083f292e18c57115f38a0a61d5492.png"
+    },
+    {
+      "text": "Doro_粉狗祝贺",
+      "url": "https://i0.hdslb.com/bfs/garb/0fe29ae6d72beafd90035dcff7137b80e66e198e.png"
+    }
+  ]
+}
