@@ -1,0 +1,108 @@
+{
+  "id": 9077,
+  "text": "战双帕弥什·漫旅纪行",
+  "icon": "https://i0.hdslb.com/bfs/garb/b81d1325dfd4fdfe8d147388708a1b1eff2eda1a.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "战双帕弥什·漫旅纪行_害怕",
+      "url": "https://i0.hdslb.com/bfs/garb/7f93e8c33fa461843a9f976b5b7ca4b133661cba.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_祈祷",
+      "url": "https://i0.hdslb.com/bfs/garb/2ceded3c244ceab285989fbe5301a8223ef93e19.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_看",
+      "url": "https://i0.hdslb.com/bfs/garb/748f8a349ac33e99d0be127d48a07219bb5085d6.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_上车",
+      "url": "https://i0.hdslb.com/bfs/garb/c61f42a5ea68074a10d9ac5bb6532cc9191da6f8.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_力量",
+      "url": "https://i0.hdslb.com/bfs/garb/d05e041917130a06db0cac1d94a7e743425a1ecd.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_冲",
+      "url": "https://i0.hdslb.com/bfs/garb/e3a976086a3e9df00c55004e5d437fe3ebe951fb.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_听我的",
+      "url": "https://i0.hdslb.com/bfs/garb/933e0f1503d0c21457d9d6deed38f4b76f5a72e9.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_一剪三连",
+      "url": "https://i0.hdslb.com/bfs/garb/b6c4b354586cfd9baaa27f9008b699f2381159ad.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_观察",
+      "url": "https://i0.hdslb.com/bfs/garb/186550293dfb77ae8dd3e0d2afd60010f0717dc7.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/fed044f39d130a5fe200bd2c45112f869e1fb9d5.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_投币",
+      "url": "https://i0.hdslb.com/bfs/garb/8cdaf7973343e4b341e41d1d715cd82353997247.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_逮捕",
+      "url": "https://i0.hdslb.com/bfs/garb/72afe7056f9c5f779289a1aaf0bddce4f2af0e0a.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_不干了",
+      "url": "https://i0.hdslb.com/bfs/garb/809d474c4644a617611aeb2f4f1d8e24a0ac4c37.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_小事一桩",
+      "url": "https://i0.hdslb.com/bfs/garb/465a6e5b047d578503ef496f0d11184429133efa.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/21bc351d26698de4bf175de8c1a427518512e670.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_惩罚",
+      "url": "https://i0.hdslb.com/bfs/garb/f73f7d09b876a4c07d40c321aa4496a9077d23f1.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_哦嚯",
+      "url": "https://i0.hdslb.com/bfs/garb/8499544f4a827b554950b925ac2736224722ae1d.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_温泉",
+      "url": "https://i0.hdslb.com/bfs/garb/53a890337f80c2c6aace59b88cb744f4e18b2a4d.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_未响应",
+      "url": "https://i0.hdslb.com/bfs/garb/4bb51bc42777e2dbf9f1a7790463d63237f22c27.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_开门",
+      "url": "https://i0.hdslb.com/bfs/garb/79de73f2cebcc7ae21d8867ea944025587132d40.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_星星眼",
+      "url": "https://i0.hdslb.com/bfs/garb/6e3504652e086b448a3d3fd7e53d03315f698780.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_吹泡泡",
+      "url": "https://i0.hdslb.com/bfs/garb/d68a4242aebb65797fb1e8c3f293918188c7bc6a.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_快睡啊",
+      "url": "https://i0.hdslb.com/bfs/garb/3c4ef2104f28567b2863ed7d83ea19b008187246.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_困了",
+      "url": "https://i0.hdslb.com/bfs/garb/1defb668d7ef3fd4ba90d9330ae8d98553aa0651.png"
+    },
+    {
+      "text": "战双帕弥什·漫旅纪行_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/9243a06018dd3b9f7f289703ed6ad0e65068ff7f.png"
+    }
+  ]
+}
