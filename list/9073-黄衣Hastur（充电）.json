@@ -1,0 +1,56 @@
+{
+  "id": 9073,
+  "text": "黄衣Hastur（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/f33440946ed20baa10de86ff77a76bff97784575.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_80827077_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/c049119bc9e251ed5408a4ddd486bf991d69a5db.png"
+    },
+    {
+      "text": "UPOWER_80827077_假笑",
+      "url": "https://i0.hdslb.com/bfs/garb/cabe88101777b54da3e664b3dfc82b37a0153b85.png"
+    },
+    {
+      "text": "UPOWER_80827077_诶嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/9f975f1586f22cb5190b0758fcc4b55be65322b8.png"
+    },
+    {
+      "text": "UPOWER_80827077_哭泣",
+      "url": "https://i0.hdslb.com/bfs/garb/9ecedc4e95f8ff9d7dc2315f71382fdb1d02822e.png"
+    },
+    {
+      "text": "UPOWER_80827077_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/02f75c5c03e3609bc470a8d1b11ac5f194b91e29.png"
+    },
+    {
+      "text": "UPOWER_80827077_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/84a3395cc94d62ef982e04884fed63d4f9265a7b.png"
+    },
+    {
+      "text": "UPOWER_80827077_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/04f1a2930a442509ee94bbc6bc5b627d3087797c.png"
+    },
+    {
+      "text": "UPOWER_80827077_脱单",
+      "url": "https://i0.hdslb.com/bfs/garb/b91fb3face81b97acb47f773021141bb733f7d95.png"
+    },
+    {
+      "text": "UPOWER_80827077_惊恐",
+      "url": "https://i0.hdslb.com/bfs/garb/33a15f38a27ac57732014bba223017f644056628.png"
+    },
+    {
+      "text": "UPOWER_80827077_高兴",
+      "url": "https://i0.hdslb.com/bfs/garb/ea21aac7266d6ff844456c77b2e8f14dd358e395.png"
+    },
+    {
+      "text": "UPOWER_80827077_欢欣",
+      "url": "https://i0.hdslb.com/bfs/garb/ed9f9bc9f4f951c205ef849e22acbb0367a0c8ea.png"
+    },
+    {
+      "text": "UPOWER_80827077_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/7a4b36ad41fc15ea88b83a635463848cdb23551f.png"
+    }
+  ]
+}
