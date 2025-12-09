@@ -1,0 +1,68 @@
+{
+  "id": 9101,
+  "text": "遥",
+  "icon": "https://i0.hdslb.com/bfs/garb/448a71a378fff29ea1b201750062e4a645551e48.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "遥_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/b29a78681fafb5b7f32b69bee25f630350ac7c8e.png"
+    },
+    {
+      "text": "遥_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/a4f3fd2f4742b045ef0d48c2d1223738463dfcb9.png"
+    },
+    {
+      "text": "遥_没眼看",
+      "url": "https://i0.hdslb.com/bfs/garb/5264149f4fe6a861bbffdf01654f2b986fde9e73.png"
+    },
+    {
+      "text": "遥_送花花",
+      "url": "https://i0.hdslb.com/bfs/garb/935e12c550bf22e54343df833ee495fb4ce9227a.png"
+    },
+    {
+      "text": "遥_飘花",
+      "url": "https://i0.hdslb.com/bfs/garb/bf24469c1464caa8d2214460c1897ff83cab1805.png"
+    },
+    {
+      "text": "遥_可怜",
+      "url": "https://i0.hdslb.com/bfs/garb/a3fcb1231a07018e2feaa2ae77027e74ccace76e.png"
+    },
+    {
+      "text": "遥_愤怒",
+      "url": "https://i0.hdslb.com/bfs/garb/c9f180865bd6fe4183c9f5172e912321ccf0bb96.png"
+    },
+    {
+      "text": "遥_惊喜",
+      "url": "https://i0.hdslb.com/bfs/garb/0f8153acb7a5d101da7eebce4adfa0579b8bf0b1.png"
+    },
+    {
+      "text": "遥_开溜",
+      "url": "https://i0.hdslb.com/bfs/garb/c8a107067764128c481dc72cfda86bec00365b4a.png"
+    },
+    {
+      "text": "遥_无语ing",
+      "url": "https://i0.hdslb.com/bfs/garb/9f8e6fe42f6fbf9136561206f0f026cd2fda5498.png"
+    },
+    {
+      "text": "遥_火车头",
+      "url": "https://i0.hdslb.com/bfs/garb/e1a0a92dcca32e217c417aba988b6fa13fc196cb.png"
+    },
+    {
+      "text": "遥_开",
+      "url": "https://i0.hdslb.com/bfs/garb/f9bd72baf84260ac3925ae164d8da8cf30ddd035.png"
+    },
+    {
+      "text": "遥_往",
+      "url": "https://i0.hdslb.com/bfs/garb/31642d37a027b2ef94c17f64ee2693de558434a2.png"
+    },
+    {
+      "text": "遥_春",
+      "url": "https://i0.hdslb.com/bfs/garb/4fe3f8287d445cf4a72d442aba24dcf5c53d1e73.png"
+    },
+    {
+      "text": "遥_天",
+      "url": "https://i0.hdslb.com/bfs/garb/4ac41aff9d01a11c505984cdf685b909f492140e.png"
+    }
+  ]
+}
