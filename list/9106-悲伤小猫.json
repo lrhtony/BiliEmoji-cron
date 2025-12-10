@@ -1,0 +1,68 @@
+{
+  "id": 9106,
+  "text": "悲伤小猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/ecc6d76e2a62ea33b3ed1f8d994cf978fbb15ecf.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "悲伤小猫_咬咬",
+      "url": "https://i0.hdslb.com/bfs/garb/4556d81c9ba15eb0dd81b6333fe7c65c087540c1.png"
+    },
+    {
+      "text": "悲伤小猫_自拍",
+      "url": "https://i0.hdslb.com/bfs/garb/f1004c6b777707a5bd1155b06d7b7e6e9fa7363e.png"
+    },
+    {
+      "text": "悲伤小猫_可怜抬头",
+      "url": "https://i0.hdslb.com/bfs/garb/4f18c91b21351973c71567efbb94a9a947887b0f.png"
+    },
+    {
+      "text": "悲伤小猫_出魂",
+      "url": "https://i0.hdslb.com/bfs/garb/2487909b24c3c4b53a7b9767f027b0ce686a81e6.png"
+    },
+    {
+      "text": "悲伤小猫_虚弱",
+      "url": "https://i0.hdslb.com/bfs/garb/9540170016fa3a7fc03002e717d927a735b49b8e.png"
+    },
+    {
+      "text": "悲伤小猫_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/e59c1a7b15bb5f375ab60d86b7582ce78460f515.png"
+    },
+    {
+      "text": "悲伤小猫_上厕所",
+      "url": "https://i0.hdslb.com/bfs/garb/0bd8e42472c1a826e0d37bd249accafce3e420d4.png"
+    },
+    {
+      "text": "悲伤小猫_吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/d9079ece57a52b1d9477753764365fa069a8b5cb.png"
+    },
+    {
+      "text": "悲伤小猫_空闲中",
+      "url": "https://i0.hdslb.com/bfs/garb/ad5aea7cc66e48b045848acc016243f164d6eacb.png"
+    },
+    {
+      "text": "悲伤小猫_躺着",
+      "url": "https://i0.hdslb.com/bfs/garb/f85d6d64908473662d1983937b32a7f3677a3a6b.png"
+    },
+    {
+      "text": "悲伤小猫_盯着",
+      "url": "https://i0.hdslb.com/bfs/garb/c9ed79df35e39c5730c591f8c3ca03e42cb86367.png"
+    },
+    {
+      "text": "悲伤小猫_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/be69bc8d6a3bbd4a5003fb8bf6824264d2162c99.png"
+    },
+    {
+      "text": "悲伤小猫_垃圾桶",
+      "url": "https://i0.hdslb.com/bfs/garb/d83e07cb44f8426045b052d15836372c9844e137.png"
+    },
+    {
+      "text": "悲伤小猫_献花",
+      "url": "https://i0.hdslb.com/bfs/garb/69428002878f6dc8cedfbe2d88f1239b9adfcb88.png"
+    },
+    {
+      "text": "悲伤小猫_成功人士",
+      "url": "https://i0.hdslb.com/bfs/garb/789699e53480a45dedf69bd4ef8241be0ab8ee1a.png"
+    }
+  ]
+}
