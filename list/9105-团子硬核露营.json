@@ -1,0 +1,68 @@
+{
+  "id": 9105,
+  "text": "团子硬核露营",
+  "icon": "https://i0.hdslb.com/bfs/garb/9c0cfb9c1558e55b876ab5f8aa18387e327e6103.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "团子硬核露营_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/cec9914531e5d5992e76c14d091c518230fb32d5.png"
+    },
+    {
+      "text": "团子硬核露营_喝水",
+      "url": "https://i0.hdslb.com/bfs/garb/032598635cf9c7c66eb4d59066ddacad83cfbb8e.png"
+    },
+    {
+      "text": "团子硬核露营_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/0169339772a1caf48e973410be9dd08421448dc2.png"
+    },
+    {
+      "text": "团子硬核露营_蹲蹲",
+      "url": "https://i0.hdslb.com/bfs/garb/62a941176327f8c3283a85a6bb7a221b4020c3dc.png"
+    },
+    {
+      "text": "团子硬核露营_拜拜",
+      "url": "https://i0.hdslb.com/bfs/garb/7c91326b5fc3e9a8d1916531bdfe2d3aa2fb41bf.png"
+    },
+    {
+      "text": "团子硬核露营_炉子",
+      "url": "https://i0.hdslb.com/bfs/garb/7c38de3208dfa1b9b4369f9749a889e93e11507a.png"
+    },
+    {
+      "text": "团子硬核露营_露营左",
+      "url": "https://i0.hdslb.com/bfs/garb/c690e5af4fc7f663a81b3286ee83c6899ed89b97.png"
+    },
+    {
+      "text": "团子硬核露营_露营右",
+      "url": "https://i0.hdslb.com/bfs/garb/fc3038a4b23c30f4a1ad67f404729367eea42996.png"
+    },
+    {
+      "text": "团子硬核露营_钓鱼上",
+      "url": "https://i0.hdslb.com/bfs/garb/ed3b9093a70a4d40eb87b32d571d088ce139ebab.png"
+    },
+    {
+      "text": "团子硬核露营_火",
+      "url": "https://i0.hdslb.com/bfs/garb/8a99df7d60c305c1154a86f6d9489aa8da335179.png"
+    },
+    {
+      "text": "团子硬核露营_闹钟",
+      "url": "https://i0.hdslb.com/bfs/garb/ef8f8d9c0552a03d78f18cb785757e8fc81eb95a.png"
+    },
+    {
+      "text": "团子硬核露营_背包",
+      "url": "https://i0.hdslb.com/bfs/garb/2c323b2f03190daadf2ff3a29c33f143ec541e38.png"
+    },
+    {
+      "text": "团子硬核露营_杯子",
+      "url": "https://i0.hdslb.com/bfs/garb/9c31bdc4adc8ac8faedfd3cb1bf1968d18405615.png"
+    },
+    {
+      "text": "团子硬核露营_钓鱼下",
+      "url": "https://i0.hdslb.com/bfs/garb/29047ec8ec3b854c2078ad5420dff72e41a9a2e8.png"
+    },
+    {
+      "text": "团子硬核露营_树",
+      "url": "https://i0.hdslb.com/bfs/garb/7847dd35f62d020bfb4b0236202749ee6bd2b994.png"
+    }
+  ]
+}
