@@ -1,0 +1,32 @@
+{
+  "id": 9124,
+  "text": "不稳定发电机（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/00050d584d6a1c1c8d2957a2d6108e46bc738f56.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_12622108_谨言慎行",
+      "url": "https://i0.hdslb.com/bfs/garb/df749550f20265e089ee6efe4e3bd06c78679349.png"
+    },
+    {
+      "text": "UPOWER_12622108_我来背负",
+      "url": "https://i0.hdslb.com/bfs/garb/2a24cb08fbfcd02340c72860807153a0ce75b04a.png"
+    },
+    {
+      "text": "UPOWER_12622108_回归生活",
+      "url": "https://i0.hdslb.com/bfs/garb/47b120af1be5695ad796400694e6c2b697fcd0d8.png"
+    },
+    {
+      "text": "UPOWER_12622108_就烂",
+      "url": "https://i0.hdslb.com/bfs/garb/4fe35314c847dd441d808c7bb390ce617ce89a98.png"
+    },
+    {
+      "text": "UPOWER_12622108_加入教育",
+      "url": "https://i0.hdslb.com/bfs/garb/258726cf1af7b3e9289d672996f3a432aa5a7d64.png"
+    },
+    {
+      "text": "UPOWER_12622108_加入手牌",
+      "url": "https://i0.hdslb.com/bfs/garb/964b02432e32297aaf732247f9fa8ebf3683e011.png"
+    }
+  ]
+}
