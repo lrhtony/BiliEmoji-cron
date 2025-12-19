@@ -1,0 +1,68 @@
+{
+  "id": 9159,
+  "text": "小小姜饼人",
+  "icon": "https://i0.hdslb.com/bfs/garb/e12fdda434d70d0b7d963d9d64ff4510c3c93b67.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "小小姜饼人_礼物",
+      "url": "https://i0.hdslb.com/bfs/garb/2499f0015b7ccee524ba997c2588ba145bebea4a.png"
+    },
+    {
+      "text": "小小姜饼人_姜饼人",
+      "url": "https://i0.hdslb.com/bfs/garb/b3c574b766837cf5a490f8423edd1dc06f081834.png"
+    },
+    {
+      "text": "小小姜饼人_碎了",
+      "url": "https://i0.hdslb.com/bfs/garb/568164755aa75dfe357875996ddb520f97e3e393.png"
+    },
+    {
+      "text": "小小姜饼人_拉手",
+      "url": "https://i0.hdslb.com/bfs/garb/558d9f580fed78710618ecf2e0c9c1d4d591a163.png"
+    },
+    {
+      "text": "小小姜饼人_倒下",
+      "url": "https://i0.hdslb.com/bfs/garb/50a628a70e451c018228cfda7326cf641b81a528.png"
+    },
+    {
+      "text": "小小姜饼人_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/6e191031a46052908f25c42173cd0cd10a498e8e.png"
+    },
+    {
+      "text": "小小姜饼人_问好",
+      "url": "https://i0.hdslb.com/bfs/garb/1fa21740c3f173831e1ec2ebd266fd1c45fdfda9.png"
+    },
+    {
+      "text": "小小姜饼人_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/f8248899680f3f7a33bf2cdd65e60d359df613c9.png"
+    },
+    {
+      "text": "小小姜饼人_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/65f6050175a431160b98c5dc660a419e8f15053c.png"
+    },
+    {
+      "text": "小小姜饼人_烤火",
+      "url": "https://i0.hdslb.com/bfs/garb/b7b197babe25de48231ecd9792fb8507e25c5502.png"
+    },
+    {
+      "text": "小小姜饼人_吃苹果",
+      "url": "https://i0.hdslb.com/bfs/garb/c0506ad47f575973e567b03b070f5f0c656e7195.png"
+    },
+    {
+      "text": "小小姜饼人_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/6ee5fada21df62e38b0fb7664f83e36025144efd.png"
+    },
+    {
+      "text": "小小姜饼人_不讲不讲",
+      "url": "https://i0.hdslb.com/bfs/garb/050301e18e1b916ad68dd3125b49d09a5638910a.png"
+    },
+    {
+      "text": "小小姜饼人_穷",
+      "url": "https://i0.hdslb.com/bfs/garb/c8b2fb79e64cc4268b29cd0f1016ee49441d6982.png"
+    },
+    {
+      "text": "小小姜饼人_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/396dfa9c50116b7eb273d63cccc71043fdce28fe.png"
+    }
+  ]
+}
