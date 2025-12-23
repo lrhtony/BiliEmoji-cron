@@ -1,0 +1,68 @@
+{
+  "id": 9179,
+  "text": "小肥啾",
+  "icon": "https://i0.hdslb.com/bfs/garb/b2d5fb5c7f96ae740cd5fe424bb37f7d43dc7807.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "小肥啾_发射",
+      "url": "https://i0.hdslb.com/bfs/garb/b92971b8b0a02e136289b3e786f585c756f24bf0.png"
+    },
+    {
+      "text": "小肥啾_小汤圆",
+      "url": "https://i0.hdslb.com/bfs/garb/977400b8c6a9883061e2a25973f878c39ede040e.png"
+    },
+    {
+      "text": "小肥啾_倒立",
+      "url": "https://i0.hdslb.com/bfs/garb/fa4185205eab9e8a33356a6954b11df131c3c84e.png"
+    },
+    {
+      "text": "小肥啾_打瞌睡",
+      "url": "https://i0.hdslb.com/bfs/garb/116b15bcc265d03fff3aa10ee2f8d68e8d5c10c5.png"
+    },
+    {
+      "text": "小肥啾_骄傲",
+      "url": "https://i0.hdslb.com/bfs/garb/7c27fcb0abf2c56d023b754e7d16c67263507311.png"
+    },
+    {
+      "text": "小肥啾_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/7c4a5ab5d1bdfb7d4cd2dd85a4ce159015e8c42f.png"
+    },
+    {
+      "text": "小肥啾_挤一挤",
+      "url": "https://i0.hdslb.com/bfs/garb/9e83ab3d8edb549ef2595b69680c9ae3437454a7.png"
+    },
+    {
+      "text": "小肥啾_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/818597f591074bf68273614d7f9fbf068e4926cc.png"
+    },
+    {
+      "text": "小肥啾_小脚印",
+      "url": "https://i0.hdslb.com/bfs/garb/fa898f536a0baf787a86a3a70d29258aaf006ce6.png"
+    },
+    {
+      "text": "小肥啾_戴帽子",
+      "url": "https://i0.hdslb.com/bfs/garb/d7f007375ae71f2a1502fa6974c7484f75b23c8c.png"
+    },
+    {
+      "text": "小肥啾_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/d12ac4eba6794c7e4a5f4841011556ca875b46a2.png"
+    },
+    {
+      "text": "小肥啾_躺下",
+      "url": "https://i0.hdslb.com/bfs/garb/42384b52fc79aa5588974c9182e25c35a6f516b5.png"
+    },
+    {
+      "text": "小肥啾_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/5fa09e626460338eabee0ae5655725681dc95d48.png"
+    },
+    {
+      "text": "小肥啾_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/c80f8a05711dbf6c0419729f68501fd6f8297bb4.png"
+    },
+    {
+      "text": "小肥啾_跳舞",
+      "url": "https://i0.hdslb.com/bfs/garb/8cc2393ec926123b86fcb0fefa6e14fb7a277d12.png"
+    }
+  ]
+}
