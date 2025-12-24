@@ -1,7 +1,7 @@
 {
   "id": 8217,
   "text": "醍醐虎太郎（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/d453b0a191838dea44f8543212be69af91bd908b.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/c97084f9f0582867f0fd9fd0913cfc052b43f302.png",
   "resource_type": 0,
   "emote": [
     {
@@ -77,6 +77,10 @@
       "url": "https://i0.hdslb.com/bfs/garb/4e043345692c8384a5cb9dc627143ac3c2f706d7.png"
     },
     {
+      "text": "UPOWER_277598_强劲",
+      "url": "https://i0.hdslb.com/bfs/garb/c0df6030326cb68efd5850f78bae57436ccedf28.png"
+    },
+    {
       "text": "UPOWER_277598_害羞",
       "url": "https://i0.hdslb.com/bfs/garb/3c847f30bfbbc7eee56b56c64f43ae9e22561260.png"
     },
@@ -111,6 +115,10 @@
     {
       "text": "UPOWER_277598_闪",
       "url": "https://i0.hdslb.com/bfs/garb/a9aabdff2d6489937f39a94a2ff725414568ab03.png"
+    },
+    {
+      "text": "UPOWER_277598_music",
+      "url": "https://i0.hdslb.com/bfs/garb/64e813db947f0ba7a4b8cb3bf2fe97ede561b415.png"
     }
   ]
 }
