@@ -1,0 +1,68 @@
+{
+  "id": 9213,
+  "text": "翼",
+  "icon": "https://i0.hdslb.com/bfs/garb/8378d9de5cdf4e3cebf1f5c70ba9c7f7937ea404.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "翼_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/89c9a295deb5f23504a15a6dafc2943672b9d8ac.png"
+    },
+    {
+      "text": "翼_过载",
+      "url": "https://i0.hdslb.com/bfs/garb/1a8f9e5c53e902c9ae85e1083fb266c8617da1d0.png"
+    },
+    {
+      "text": "翼_打CALL",
+      "url": "https://i0.hdslb.com/bfs/garb/73e5a6aa798d09d5fe91aef180473b29d58b7d91.png"
+    },
+    {
+      "text": "翼_石化",
+      "url": "https://i0.hdslb.com/bfs/garb/0ad877bab885d6e2d99bd930523424f9ce7f2652.png"
+    },
+    {
+      "text": "翼_许愿",
+      "url": "https://i0.hdslb.com/bfs/garb/56959eba43edf2bf1d59c8bbec215bf405d75c6b.png"
+    },
+    {
+      "text": "翼_观察",
+      "url": "https://i0.hdslb.com/bfs/garb/aa802bc1dea4bad9a53cd50f8cfdb9c1305331e9.png"
+    },
+    {
+      "text": "翼_开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/e3fc39291c6136dbc703a79dbfbb2f14689cbfde.png"
+    },
+    {
+      "text": "翼_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/ab8cb659f1e9e43af5e5aa1a05596407d9d1d5d1.png"
+    },
+    {
+      "text": "翼_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/3b50bf51364c0629da0f1e665475c8bebceeadd9.png"
+    },
+    {
+      "text": "翼_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/f2f569fd47551f32b51da709d559d02ffc4a01f2.png"
+    },
+    {
+      "text": "翼_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/8b942f6efa6ea5c003c93cbd35abc93c0e28f87d.png"
+    },
+    {
+      "text": "翼_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/220422f88c3fd266810453a501df4e4aa991813d.png"
+    },
+    {
+      "text": "翼_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/f741797e7fa3235c3329a08f946671fa6a707b7c.png"
+    },
+    {
+      "text": "翼_不对",
+      "url": "https://i0.hdslb.com/bfs/garb/82ec9fffb4e00f3cb9db35aef9c552d688a4a48c.png"
+    },
+    {
+      "text": "翼_调皮",
+      "url": "https://i0.hdslb.com/bfs/garb/2c33e52cc6204cc9d2d59167bdbefc0bb59a80b0.png"
+    }
+  ]
+}
