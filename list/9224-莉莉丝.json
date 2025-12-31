@@ -1,0 +1,108 @@
+{
+  "id": 9224,
+  "text": "莉莉丝",
+  "icon": "https://i0.hdslb.com/bfs/garb/5feead8b8d8708ea0be9a8c0b75b4e480d0e6fb7.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "莉莉丝_打CALL",
+      "url": "https://i0.hdslb.com/bfs/garb/ac4091b4fbba55152e8047aa021839986bd8c896.png"
+    },
+    {
+      "text": "莉莉丝_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/c0660817a8b4c83e474ff8813e98394ef35891cf.png"
+    },
+    {
+      "text": "莉莉丝_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/8d7fbbfa56e7f2c9e422ffb14b6b5afac129cc15.png"
+    },
+    {
+      "text": "莉莉丝_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/b49a45d24fc5ed034c862233e2b7b7748eb366e2.png"
+    },
+    {
+      "text": "莉莉丝_道歉",
+      "url": "https://i0.hdslb.com/bfs/garb/5b74d9a24f3776a3c402d2f508a8df1d373967f2.png"
+    },
+    {
+      "text": "莉莉丝_偷笑",
+      "url": "https://i0.hdslb.com/bfs/garb/0a9435333196a56e845fc7b05668aa73412eac06.png"
+    },
+    {
+      "text": "莉莉丝_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/321cbeab9fd1a438dbbac57daab5e01aa7342e27.png"
+    },
+    {
+      "text": "莉莉丝_呕",
+      "url": "https://i0.hdslb.com/bfs/garb/8bf09eb88c29779449d70b7a5e1d6050f1c1709e.png"
+    },
+    {
+      "text": "莉莉丝_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/9adf0a10e237aaacadcb0af262f768fffef13122.png"
+    },
+    {
+      "text": "莉莉丝_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/2a86485278b6995cb7e9cd9b5063c34355738422.png"
+    },
+    {
+      "text": "莉莉丝_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/4af377e124a26cf54bec9c234b51ea36be1c0643.png"
+    },
+    {
+      "text": "莉莉丝_不愧是我",
+      "url": "https://i0.hdslb.com/bfs/garb/918d28e2106c0c9ded2a43665114b27990ddb415.png"
+    },
+    {
+      "text": "莉莉丝_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/cf95d17fb49f185211af5a69d75131b91ae934a1.png"
+    },
+    {
+      "text": "莉莉丝_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/f2cb98909147346f2a16055c241a4f755ce7729a.png"
+    },
+    {
+      "text": "莉莉丝_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/2f14e9318638ae6c23cbb8c84208612aca57ca97.png"
+    },
+    {
+      "text": "莉莉丝_哒咩",
+      "url": "https://i0.hdslb.com/bfs/garb/77ba6f889f14fa2d6c839efd88b1a32f5fe0e411.png"
+    },
+    {
+      "text": "莉莉丝_出窍",
+      "url": "https://i0.hdslb.com/bfs/garb/5379daebbea9d42da26123977fbdccce09d6e7bd.png"
+    },
+    {
+      "text": "莉莉丝_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/e791d4762ec78b337e6f2758663059cc59ce5daa.png"
+    },
+    {
+      "text": "莉莉丝_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/9089f8a1b370d5dde57d0e99512aa24d7e3059da.png"
+    },
+    {
+      "text": "莉莉丝_爱了爱了",
+      "url": "https://i0.hdslb.com/bfs/garb/0532bbfd8826f0ddbbb538e96a8954d2d6e3f249.png"
+    },
+    {
+      "text": "莉莉丝_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/5b6f7e7c17d031e02336973764d2aa8e4aec4b48.png"
+    },
+    {
+      "text": "莉莉丝_冲鸭",
+      "url": "https://i0.hdslb.com/bfs/garb/2cdcfc1fdebc5a26509816ba297696b28f9e59ae.png"
+    },
+    {
+      "text": "莉莉丝_摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/f5612e48673e2b59f6654af6c0cbb95cba6c1825.png"
+    },
+    {
+      "text": "莉莉丝_揍你",
+      "url": "https://i0.hdslb.com/bfs/garb/d3b0bc850cea78677fddbb05fa16d579a2130d29.png"
+    },
+    {
+      "text": "莉莉丝_请吃蛋糕",
+      "url": "https://i0.hdslb.com/bfs/garb/27ba6d243ffdf253431574fd64d2956ec164a191.png"
+    }
+  ]
+}
