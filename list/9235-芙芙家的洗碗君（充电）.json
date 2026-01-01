@@ -1,0 +1,72 @@
+{
+  "id": 9235,
+  "text": "芙芙家的洗碗君（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/b97c5a8105f0ef659d9eda7d7e42fbb8df1bc40d.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_4925207_这次一定",
+      "url": "https://i0.hdslb.com/bfs/garb/49d11e1c9dea0ddf30113ca8290b1ff2d4329390.png"
+    },
+    {
+      "text": "UPOWER_4925207_下次一定",
+      "url": "https://i0.hdslb.com/bfs/garb/a6d6de4f69b5c827bec0b1fce4fba84a3a3b8fa1.png"
+    },
+    {
+      "text": "UPOWER_4925207_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/abafd450318be20f9556beee8bd3040f8ad91ddf.png"
+    },
+    {
+      "text": "UPOWER_4925207_哼哼",
+      "url": "https://i0.hdslb.com/bfs/garb/93e253bbf4850e42fabd6d9ec1c33a9ab951df46.png"
+    },
+    {
+      "text": "UPOWER_4925207_奋斗",
+      "url": "https://i0.hdslb.com/bfs/garb/8a6d16de9f6ca715ec5cb163f38873525f4446f5.png"
+    },
+    {
+      "text": "UPOWER_4925207_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/aa1d56c183c512da3d403f95153e3c4463472387.png"
+    },
+    {
+      "text": "UPOWER_4925207_666",
+      "url": "https://i0.hdslb.com/bfs/garb/f9dd773d5067cd79925a5c3a810b0200de7b2fb5.png"
+    },
+    {
+      "text": "UPOWER_4925207_哭笑不得",
+      "url": "https://i0.hdslb.com/bfs/garb/95ea4bd0ccc290fa79771d7efbf4fae837e244a3.png"
+    },
+    {
+      "text": "UPOWER_4925207_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/11fe0027c701b1af689eea78ac201108fcc5fb4e.png"
+    },
+    {
+      "text": "UPOWER_4925207_有钱",
+      "url": "https://i0.hdslb.com/bfs/garb/cf718e8126b2081c41b9cac5006bf7d04163e1d4.png"
+    },
+    {
+      "text": "UPOWER_4925207_抱拳感谢",
+      "url": "https://i0.hdslb.com/bfs/garb/0ed4647d0afb536c8592d0ee5db8b5ef21e6fca7.png"
+    },
+    {
+      "text": "UPOWER_4925207_抠鼻敷衍",
+      "url": "https://i0.hdslb.com/bfs/garb/d84e27bfb06693786916c75950ce80d24beccc89.png"
+    },
+    {
+      "text": "UPOWER_4925207_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/9e0579b44a6f86f7f331e0c850db55112ff9937e.png"
+    },
+    {
+      "text": "UPOWER_4925207_憨笑",
+      "url": "https://i0.hdslb.com/bfs/garb/860f183072aeb91aa4d2d3bbd2ceb23a614dd568.png"
+    },
+    {
+      "text": "UPOWER_4925207_茫然",
+      "url": "https://i0.hdslb.com/bfs/garb/a88238062005dc66f54db55f090e0fad70592f77.png"
+    },
+    {
+      "text": "UPOWER_4925207_阴险坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/19f6d5d8535d8b23263a7239dce8be93c2f2acd8.png"
+    }
+  ]
+}
