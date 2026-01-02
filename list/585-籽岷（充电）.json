@@ -5,10 +5,6 @@
   "resource_type": 0,
   "emote": [
     {
-      "text": "UPOWER_686127_落地成盒",
-      "url": "https://i0.hdslb.com/bfs/garb/5f77453191354604158a58148413706125adaf96.png"
-    },
-    {
       "text": "UPOWER_686127_开怀大笑",
       "url": "https://i0.hdslb.com/bfs/garb/d917c30c6214a131acf46499a52907667a07be19.png"
     },
@@ -21,10 +17,6 @@
       "url": "https://i0.hdslb.com/bfs/garb/9496df5f85de43c3ac7f973538110269c78b713a.png"
     },
     {
-      "text": "UPOWER_686127_表示拒绝",
-      "url": "https://i0.hdslb.com/bfs/garb/b8cecfcd8b85a14ee99ef2f8a930736bd45554ff.png"
-    },
-    {
       "text": "UPOWER_686127_我的神镐",
       "url": "https://i0.hdslb.com/bfs/garb/d8e0bcf14b0120cc2920b5cf90ee0260bf7c4ded.png"
     },
@@ -35,14 +27,6 @@
     {
       "text": "UPOWER_686127_吃我一剑",
       "url": "https://i0.hdslb.com/bfs/garb/534037c1266e29c16c225c7088573650ade4c0c2.png"
-    },
-    {
-      "text": "UPOWER_686127_笨拙诅咒",
-      "url": "https://i0.hdslb.com/bfs/garb/4e1e1e56f52ca28a24b8fa9adeaa51ec160b529d.png"
-    },
-    {
-      "text": "UPOWER_686127_生态环保",
-      "url": "https://i0.hdslb.com/bfs/garb/1eb86afe77289c48b6169c8aaa2fd0e98133487d.png"
     },
     {
       "text": "UPOWER_686127_开心极了",
@@ -65,16 +49,8 @@
       "url": "https://i0.hdslb.com/bfs/garb/eaf50f9aa7b40aeb5be3e2857138d7534ab5413a.png"
     },
     {
-      "text": "UPOWER_686127_小巧思",
-      "url": "https://i0.hdslb.com/bfs/garb/75e659e1a1f044bd37e3387834fd1cc1d992a735.png"
-    },
-    {
       "text": "UPOWER_686127_岷岷子",
       "url": "https://i0.hdslb.com/bfs/garb/429c8f6539bac13fedcf6ce9bb9aecee4cb14137.png"
-    },
-    {
-      "text": "UPOWER_686127_这是好事",
-      "url": "https://i0.hdslb.com/bfs/garb/f42df0a227d00677010ef6e6ebaa8fe1ad1c14a2.png"
     },
     {
       "text": "UPOWER_686127_逢考必过",
@@ -83,10 +59,6 @@
     {
       "text": "UPOWER_686127_嫌弃",
       "url": "https://i0.hdslb.com/bfs/garb/09d34162f081e8eef449f59cb7d9d04ab131c61c.png"
-    },
-    {
-      "text": "UPOWER_686127_快乐天使",
-      "url": "https://i0.hdslb.com/bfs/garb/6ac479a86bca12558320abb7b9ccbebea9465983.png"
     }
   ]
 }
