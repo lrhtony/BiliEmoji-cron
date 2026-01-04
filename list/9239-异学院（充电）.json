@@ -1,0 +1,56 @@
+{
+  "id": 9239,
+  "text": "异学院（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/9bbdc03102d9be6587bf53cff1fb56882a2b5d0a.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_27487341_你看",
+      "url": "https://i0.hdslb.com/bfs/garb/6a6e6e143c32d5181eefc1d8304ff16b5399303d.png"
+    },
+    {
+      "text": "UPOWER_27487341_满意",
+      "url": "https://i0.hdslb.com/bfs/garb/0acc282696fb4e639ffe5638c2550d136c1822b7.png"
+    },
+    {
+      "text": "UPOWER_27487341_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/52c150b0bde886639bd6ef46d88cbd28ad6fe449.png"
+    },
+    {
+      "text": "UPOWER_27487341_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/d872f62c6f8e2df754063a5b93141829b51c5c82.png"
+    },
+    {
+      "text": "UPOWER_27487341_冲鸭",
+      "url": "https://i0.hdslb.com/bfs/garb/84936d0a84d6a3359052cdeeabef5e3686236068.png"
+    },
+    {
+      "text": "UPOWER_27487341_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/5051b19e14897d17172221b6728fe13d5c4ef1b6.png"
+    },
+    {
+      "text": "UPOWER_27487341_笑哭",
+      "url": "https://i0.hdslb.com/bfs/garb/bba52c0f4d120333afb9f9c0fbbc01fea29f0c06.png"
+    },
+    {
+      "text": "UPOWER_27487341_感谢",
+      "url": "https://i0.hdslb.com/bfs/garb/834d52e2480c5f8abba1d2ee561059ba601db8b2.png"
+    },
+    {
+      "text": "UPOWER_27487341_手机",
+      "url": "https://i0.hdslb.com/bfs/garb/f01eeda3711028971b0d7bf957c18cfa6cdda856.png"
+    },
+    {
+      "text": "UPOWER_27487341_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/188711965dd373e33a9a85cd767c8abe85bcf215.png"
+    },
+    {
+      "text": "UPOWER_27487341_阴谋",
+      "url": "https://i0.hdslb.com/bfs/garb/23719a278eb485a0087cd6213100113ff3746251.png"
+    },
+    {
+      "text": "UPOWER_27487341_流泪",
+      "url": "https://i0.hdslb.com/bfs/garb/8520d3c634a772aefc68b155f257158827326527.png"
+    }
+  ]
+}
