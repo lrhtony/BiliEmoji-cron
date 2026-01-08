@@ -1,0 +1,68 @@
+{
+  "id": 9258,
+  "text": "命中",
+  "icon": "https://i0.hdslb.com/bfs/garb/4091994650c47f034ff2b264724d3cf09a4c3cda.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "命中_你又吓我",
+      "url": "https://i0.hdslb.com/bfs/garb/adc15770f91aac19f9d3b3c0e659ad8f8196c9ac.png"
+    },
+    {
+      "text": "命中_你瞅啥",
+      "url": "https://i0.hdslb.com/bfs/garb/dceafa8005a4ac764098da9800b8442b9deb1ae6.png"
+    },
+    {
+      "text": "命中_为什么",
+      "url": "https://i0.hdslb.com/bfs/garb/80065f2cce27d598ad055fdfea4f7dd458a59649.png"
+    },
+    {
+      "text": "命中_你要就我",
+      "url": "https://i0.hdslb.com/bfs/garb/1f1be1116161af854e34b8ffc3b7488eb4a0bd25.png"
+    },
+    {
+      "text": "命中_嗯",
+      "url": "https://i0.hdslb.com/bfs/garb/7db4c823494e157f8c25b38d29fb9fa57fbe7380.png"
+    },
+    {
+      "text": "命中_太可怕了",
+      "url": "https://i0.hdslb.com/bfs/garb/fbcda35a6f4222bb5f5b5205f02fcf4585ac90ef.png"
+    },
+    {
+      "text": "命中_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/3c463a7ac5c098ea525face2f97f67c8590694a1.png"
+    },
+    {
+      "text": "命中_只有你",
+      "url": "https://i0.hdslb.com/bfs/garb/df3116bf996df4659eb829e0f500464ee3d52f7c.png"
+    },
+    {
+      "text": "命中_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/78a3ad033aef20d935f86e12024bd873738292b6.png"
+    },
+    {
+      "text": "命中_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/97869afbf1b6adda6be12fa0896d4e529e4d160c.png"
+    },
+    {
+      "text": "命中_清楚吗",
+      "url": "https://i0.hdslb.com/bfs/garb/97b01ec4de6ede04bc46a7437db5a81939190315.png"
+    },
+    {
+      "text": "命中_惆怅",
+      "url": "https://i0.hdslb.com/bfs/garb/7078405b1440fabc36ad59a5a532638313f1605b.png"
+    },
+    {
+      "text": "命中_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/76e55c89d7020f055700a71dc1b1c43e8b5e1d41.png"
+    },
+    {
+      "text": "命中_错了没",
+      "url": "https://i0.hdslb.com/bfs/garb/1fe24bff916e509cee3c4e2dd2ec85f7b2c93177.png"
+    },
+    {
+      "text": "命中_汪汪",
+      "url": "https://i0.hdslb.com/bfs/garb/b3ef4117ff2bce90e3e2ffe4ca2a23fcd3b2fb37.png"
+    }
+  ]
+}
