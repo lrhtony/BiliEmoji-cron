@@ -1,7 +1,7 @@
 {
   "id": 7630,
   "text": "霹雳布袋戲（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/fb1569ce94aeff1613a0f815f839b91e7c0c461b.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/71b8f88f0ed024f6a86752818362a4aee7a49fe1.png",
   "resource_type": 0,
   "emote": [
     {
@@ -61,8 +61,20 @@
       "url": "https://i0.hdslb.com/bfs/garb/3e6f806fef60948bfcf7f5a5373b4c0ea53f0fdc.png"
     },
     {
-      "text": "UPOWER_2799412_冲啊",
-      "url": "https://i0.hdslb.com/bfs/garb/cb025d13c3a0a72466f9b6a42d04d42dce96f5ec.png"
+      "text": "UPOWER_2799412_冲刺",
+      "url": "https://i0.hdslb.com/bfs/garb/bb68b5c271728f507876bbb3d2229d68c6546cbf.png"
+    },
+    {
+      "text": "UPOWER_2799412_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/d8c6c28702db8286027b5ea31af13f8f93f874bf.png"
+    },
+    {
+      "text": "UPOWER_2799412_是这样啊",
+      "url": "https://i0.hdslb.com/bfs/garb/eed1a35cfba76481a63ac066a6992d8e0010f29a.png"
+    },
+    {
+      "text": "UPOWER_2799412_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/dfdaa7d52fbb5ffb781ac5f61a5b6f245be5b2f1.png"
     }
   ]
 }
