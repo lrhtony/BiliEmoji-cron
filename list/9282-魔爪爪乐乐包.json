@@ -1,0 +1,128 @@
+{
+  "id": 9282,
+  "text": "魔爪爪乐乐包",
+  "icon": "https://i0.hdslb.com/bfs/garb/7afdbf40646bb774a2e6b36d0be34a58c65838ea.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "魔爪爪乐乐包_让我想想",
+      "url": "https://i0.hdslb.com/bfs/garb/0353e8c10095383f7d5217a44e1ce64a4a0506f2.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/f662b929b3e85e11edc8d627b8335e5fc18e862b.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/955cf8d2b795bd7deb7a1d7253bc970f0799cbe3.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/41aedd35e9fb94b504da3200c8f8045f6640336e.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/ae749d32c9223a2ac8571b1581721f2374d8430b.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/d1a44a55e8a5351f881e64d422d99ffcfbf1c294.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_奏起来",
+      "url": "https://i0.hdslb.com/bfs/garb/baaf06cf80a078e4387eda66062bfc3090e0f141.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/873f1375190173d9ef9c6450801532b97a054777.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/308b40a70013843d6ece49e901baf2e54b0f0c3e.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_羞羞",
+      "url": "https://i0.hdslb.com/bfs/garb/7982aeb9706853e14942fb7378791c2818417eba.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/deb0d0dbef5da8b68bc62a4fabef8f71399ba0c0.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/f7a231e020ee5b6159a0ae884627613161f0fc06.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/3db0a68ed411908c1cc9e02444394092af9c4a60.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/d955bfb0040d616a15bb7a6f28051fb15b4a32bd.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/911b864fd54adfea5225731e63f1508f9dd2dd39.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_哈气",
+      "url": "https://i0.hdslb.com/bfs/garb/c384750e40ae79d9ff3fe3e1d374264645896958.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/564a0fa77074d753d9798e93aac3d21a6fe6869d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/08c46549856dbb7b4216bd8758d55bb2becb9f70.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/99e5916474b361bcf29ff2516ead001f120375c9.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/511dccfbd18c2e0d287fe5d12bfa55019c7d3482.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/8398f5158228a1d9a31847e1909314f0ad5d8305.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_太酷了",
+      "url": "https://i0.hdslb.com/bfs/garb/7107f4bb4827f2ce626a9c58e78fbf1338aefaa3.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/2d57d81bdb69c0a40e2af05069663ca1941a3f49.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/03f96d302f9dbf3f7f0c5626d0c2f123adb1e672.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_送你花花",
+      "url": "https://i0.hdslb.com/bfs/garb/3dc5d0da8879b66ccf46121997fa066472b6c748.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/5fa1b08c3f122d22f90fb3f0a8656d087ab78304.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/acab7100c71f92ecbd0b9fc1de16ff74f8e55026.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_一击必中",
+      "url": "https://i0.hdslb.com/bfs/garb/82238171b7fa23e54dfccf1c39431ee8452ac7d4.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/ba0bebbefff53de3c3c3411418956cdcc2161b4b.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/6ded00b57da5f4362de1bc99c57d781815a03c81.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/8b4e28078837cb77071518bfe67c86e37e48a1a2.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/062b5e0276168c562589686f61504464d625f36c.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/0318dde1473eacebb2d28aa5d83324d6a0fdebcc.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_抓到你了",
+      "url": "https://i0.hdslb.com/bfs/garb/dbd12f62bf12d0d9ac7140c0a3b4cfbec2b9f90a.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/49d74d2296ddc87d1b589be8059075fa96e37295.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/f4d5415b86f612d549e885e638740ff4b3fc540e.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_好棒",
+      "url": "https://i0.hdslb.com/bfs/garb/451a89779726ec071a53688870a61414e77a4eb6.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/a3b36b8359616ddce5e073ff73a02fa1f8376b06.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/5ee7ea6d3c4d6a98ef7d950c85ca78c131066b03.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_撒娇",
+      "url": "https://i0.hdslb.com/bfs/garb/e1e0b262bef1c1593a21b6801aec45ea002b3251.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/cf84354267d5acdb8b79335fd22367668a50f568.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/cb468a8c163aa86ec7ee60801b6b5236958bf58a.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_一起嗨",
+      "url": "https://i0.hdslb.com/bfs/garb/be62cc76fc255cf58c7cc9e72a361b9430870dbf.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/972b0d963cd0ee8a6931123f444c3a6183b00c64.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/9a14bcdbf5b8b819312428bf6d92573d67ff6111.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_真棒",
+      "url": "https://i0.hdslb.com/bfs/garb/39ac4cb3c00924758c95c61995d2a633f9ae59d2.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/b2c2b2b7f4db8a1656c667c7488f7c25cd589395.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/7e6d3f9b2ef7752059d9f898b27b75625413f21d.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_逗你的",
+      "url": "https://i0.hdslb.com/bfs/garb/3469a8576058013858d666deaf1724007513073e.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/b536a56ce2b20eeb0cd10d2a5210a4029fc68096.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/1a7ca6c54ef07e947aca0a0598abfd48d0619f89.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_嘘",
+      "url": "https://i0.hdslb.com/bfs/garb/c29198f9dd92368d21e09cda3d4697b28fe176ae.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/b710ec480ece86f4f62c457866e57f727848c7b5.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/8ba599ff80aba9110dac0fbeb5129f8e94731d9f.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_爱心发射",
+      "url": "https://i0.hdslb.com/bfs/garb/542b67dafc9b11a8c123ae4ea132f3a1d7acf009.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/43a59995ef61c8b6ddff66ff888dc876b73654e7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/31549ac01518db53714e98a75df0717360dc9fed.webp"
+    },
+    {
+      "text": "魔爪爪乐乐包_康康我",
+      "url": "https://i0.hdslb.com/bfs/garb/de6a91c2fbe652311a6795675216659b7e03aae1.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/0e7067effc6d4ac55a7d69e89aee7aebd283f587.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/466fd1f922d907a20c6a6b6d29f5f853eeb50f89.webp"
+    }
+  ]
+}

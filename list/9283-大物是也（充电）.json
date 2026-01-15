@@ -1,0 +1,48 @@
+{
+  "id": 9283,
+  "text": "大物是也（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/4c5079d614d03b1a56affae80a7eb96788f75573.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_208130286_吐了",
+      "url": "https://i0.hdslb.com/bfs/garb/1da44ce6f6c24a7f018df4d6d342f8b41d7aa25f.png"
+    },
+    {
+      "text": "UPOWER_208130286_真棒",
+      "url": "https://i0.hdslb.com/bfs/garb/e87638e69fe7e31249f25d626a14dd8f8ea3292e.png"
+    },
+    {
+      "text": "UPOWER_208130286_嘘",
+      "url": "https://i0.hdslb.com/bfs/garb/6b2713c7e7965ef26bb60e50452408737ec90d47.png"
+    },
+    {
+      "text": "UPOWER_208130286_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/486eb92b18e2cdfc686871e21e8dbf8630ba9be2.png"
+    },
+    {
+      "text": "UPOWER_208130286_乖",
+      "url": "https://i0.hdslb.com/bfs/garb/33b4b8ef862dad916ceba9fdc01e6689638a391a.png"
+    },
+    {
+      "text": "UPOWER_208130286_啊",
+      "url": "https://i0.hdslb.com/bfs/garb/d5ada18720665fef9079b8e174a732b93c420373.png"
+    },
+    {
+      "text": "UPOWER_208130286_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/e6228747a5fd89713de20b96a03a74c664611a77.png"
+    },
+    {
+      "text": "UPOWER_208130286_满脸抗拒",
+      "url": "https://i0.hdslb.com/bfs/garb/d50e46554f8eccab0bb46c73de8729da6c38c25c.png"
+    },
+    {
+      "text": "UPOWER_208130286_小样儿",
+      "url": "https://i0.hdslb.com/bfs/garb/0a3d28157aeac478094c05c8ab0b608fe0439e84.png"
+    },
+    {
+      "text": "UPOWER_208130286_笑死",
+      "url": "https://i0.hdslb.com/bfs/garb/119efe7c55d8ffbda26211623781e8978dfcf017.png"
+    }
+  ]
+}
