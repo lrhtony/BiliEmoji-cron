@@ -1,0 +1,68 @@
+{
+  "id": 9297,
+  "text": "水中魔女",
+  "icon": "https://i0.hdslb.com/bfs/garb/7d06f08914a8ed9289437a717ae0fcbf56c7f67e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "水中魔女_阴暗爬行",
+      "url": "https://i0.hdslb.com/bfs/garb/47b7c2b99cc18731363f826437a3099b4b4c5cf9.png"
+    },
+    {
+      "text": "水中魔女_开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/21dc592a7831c8c4538205b2927d40b2dc03da9c.png"
+    },
+    {
+      "text": "水中魔女_不想加班",
+      "url": "https://i0.hdslb.com/bfs/garb/f6f162ab6268d4d7244429c81c72adb115c8ab1d.png"
+    },
+    {
+      "text": "水中魔女_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/4ee7d34d36f1ec8b4262068e10231a041fcb3f75.png"
+    },
+    {
+      "text": "水中魔女_冒头",
+      "url": "https://i0.hdslb.com/bfs/garb/2ffb9e982eb7dcee2b483de3f705311ce50054a9.png"
+    },
+    {
+      "text": "水中魔女_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/26e88c1f0888dc79fe344a48d002a70abab52786.png"
+    },
+    {
+      "text": "水中魔女_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/8585823695315479689a6a2391e7f85e4ff8f787.png"
+    },
+    {
+      "text": "水中魔女_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/1daedba6318f76bcbe48c01f4c0b66e02fe33d0b.png"
+    },
+    {
+      "text": "水中魔女_钢板",
+      "url": "https://i0.hdslb.com/bfs/garb/35c93353703feef8f4cdd1750c88f2e5be4d432d.png"
+    },
+    {
+      "text": "水中魔女_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/cac7ad4472330a25387eccfcd78af838fdd2192f.png"
+    },
+    {
+      "text": "水中魔女_爆米",
+      "url": "https://i0.hdslb.com/bfs/garb/3e8d6279ab5ca59ecdf428089edc2a6129887bab.png"
+    },
+    {
+      "text": "水中魔女_黑听",
+      "url": "https://i0.hdslb.com/bfs/garb/0bfddee158dd01402d19206698442495384d5bc0.png"
+    },
+    {
+      "text": "水中魔女_好菜",
+      "url": "https://i0.hdslb.com/bfs/garb/dec870b017981da137b101eaca3774e556670572.png"
+    },
+    {
+      "text": "水中魔女_不要涩涩",
+      "url": "https://i0.hdslb.com/bfs/garb/920d1f6e91ff071f99187e57a7bf55bc85b9818e.png"
+    },
+    {
+      "text": "水中魔女_吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/e9ef42d07e5c958f189d86b19bd51fb7876ce396.png"
+    }
+  ]
+}
