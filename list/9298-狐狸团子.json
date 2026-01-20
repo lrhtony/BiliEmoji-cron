@@ -1,0 +1,68 @@
+{
+  "id": 9298,
+  "text": "狐狸团子",
+  "icon": "https://i0.hdslb.com/bfs/garb/41c24df75cc2800adfd72a24d60a5b4a713756e9.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "狐狸团子_乖乖坐好",
+      "url": "https://i0.hdslb.com/bfs/garb/5d33b7272ccd6a66f1dfe7bb7c194f5fc481f4e8.png"
+    },
+    {
+      "text": "狐狸团子_开麦",
+      "url": "https://i0.hdslb.com/bfs/garb/07da13e11bd3de0f59fa28d865552be36cba20b7.png"
+    },
+    {
+      "text": "狐狸团子_手动闭麦",
+      "url": "https://i0.hdslb.com/bfs/garb/c52d4178a80624675e789c87bb4180b1a2b568b1.png"
+    },
+    {
+      "text": "狐狸团子_摸摸小狐",
+      "url": "https://i0.hdslb.com/bfs/garb/ccabaa91eb945cac93ead5d888de26b5c5cec538.png"
+    },
+    {
+      "text": "狐狸团子_翻肚皮",
+      "url": "https://i0.hdslb.com/bfs/garb/450954383f4ec8d39ee56ad0dadf72593fc98b86.png"
+    },
+    {
+      "text": "狐狸团子_流泪",
+      "url": "https://i0.hdslb.com/bfs/garb/412ce4910058d06c493b190c1ec04d167009b28c.png"
+    },
+    {
+      "text": "狐狸团子_横",
+      "url": "https://i0.hdslb.com/bfs/garb/b7318ad86cafaae68f9c243afe3f5f3634f33c8a.png"
+    },
+    {
+      "text": "狐狸团子_给我饭",
+      "url": "https://i0.hdslb.com/bfs/garb/cbd4f40f6ab0ec9e7151c00ebe60e0f25f380ac8.png"
+    },
+    {
+      "text": "狐狸团子_脚印",
+      "url": "https://i0.hdslb.com/bfs/garb/a654a85bded48cd8d60739d26c0ea3cdd780e291.png"
+    },
+    {
+      "text": "狐狸团子_观察中",
+      "url": "https://i0.hdslb.com/bfs/garb/c0942f319a22be051e1f3e6e3a734dc6947fd47d.png"
+    },
+    {
+      "text": "狐狸团子_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/3dcbd6a7f7f5f843234698345a9c6b3a4cf28270.png"
+    },
+    {
+      "text": "狐狸团子_摔倒",
+      "url": "https://i0.hdslb.com/bfs/garb/9801db76518992829c79c3d96701f76323423b22.png"
+    },
+    {
+      "text": "狐狸团子_跟随",
+      "url": "https://i0.hdslb.com/bfs/garb/d9c619d1409ceabe99de09818e7524a88fbbbd1c.png"
+    },
+    {
+      "text": "狐狸团子_打包带走",
+      "url": "https://i0.hdslb.com/bfs/garb/48f1ef7bddeafa221eec16a3245ce85e40fe3ce2.png"
+    },
+    {
+      "text": "狐狸团子_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/38d90e1da284450157e0a5da7bf95b17c1ac3621.png"
+    }
+  ]
+}
