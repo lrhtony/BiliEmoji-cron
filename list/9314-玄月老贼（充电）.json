@@ -1,0 +1,48 @@
+{
+  "id": 9314,
+  "text": "玄月老贼（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/7ac704678167fd2f2561508ec4559dcbb4c0b715.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_380946496_贼的嘲笑",
+      "url": "https://i0.hdslb.com/bfs/garb/9efbb2da0a76283ad2b435db021c13af5b5ab8a3.png"
+    },
+    {
+      "text": "UPOWER_380946496_贼的得意",
+      "url": "https://i0.hdslb.com/bfs/garb/33173aa23625976f0fad5ad86d64b3496f3107cd.png"
+    },
+    {
+      "text": "UPOWER_380946496_贼害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/73797e89940bbaa07d9f8df825d6a1fc6c0d6e99.png"
+    },
+    {
+      "text": "UPOWER_380946496_贼的坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/d3dda06d299db6c6aa509252d9c0d62adc247d21.png"
+    },
+    {
+      "text": "UPOWER_380946496_贼紧张",
+      "url": "https://i0.hdslb.com/bfs/garb/d4e428a09094d44565e1772295384174d3678930.png"
+    },
+    {
+      "text": "UPOWER_380946496_贼难受",
+      "url": "https://i0.hdslb.com/bfs/garb/14da0263764dbc60d7a2783c13bae219bc3e8019.png"
+    },
+    {
+      "text": "UPOWER_380946496_贼无语",
+      "url": "https://i0.hdslb.com/bfs/garb/4a7e792bc7d1fe5e2f98c75be0aa88fabd856437.png"
+    },
+    {
+      "text": "UPOWER_380946496_贼享受",
+      "url": "https://i0.hdslb.com/bfs/garb/685cb9c2bc362c6cab499be5429ba7bbdbcfdee7.png"
+    },
+    {
+      "text": "UPOWER_380946496_贼疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/a209dc4e9ac43057bd8c15815f63adc06595f1b4.png"
+    },
+    {
+      "text": "UPOWER_380946496_贼生气",
+      "url": "https://i0.hdslb.com/bfs/garb/6418c7c63ac778092cf51dc38c16f29d26487f28.png"
+    }
+  ]
+}
