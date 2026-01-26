@@ -1,0 +1,68 @@
+{
+  "id": 9320,
+  "text": "蛋糕甜心",
+  "icon": "https://i0.hdslb.com/bfs/garb/c80f56a583f97782b8e89a8c688bb3549226df23.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "蛋糕甜心_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/434bdc8e5464f5b97603e8df333a6a83da9a68c2.png"
+    },
+    {
+      "text": "蛋糕甜心_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/1eaa8e3a77817b5e3132e3ba10c2bd2c0751bed1.png"
+    },
+    {
+      "text": "蛋糕甜心_泪",
+      "url": "https://i0.hdslb.com/bfs/garb/2537a9e7f3fedece224003104159d55cfc8ac298.png"
+    },
+    {
+      "text": "蛋糕甜心_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/97aa8d5baf4e94af2cd142d49094c86d08d52fd6.png"
+    },
+    {
+      "text": "蛋糕甜心_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/7cd931565ddfdd81af16dd6cebcdc817a70d6f4e.png"
+    },
+    {
+      "text": "蛋糕甜心_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/5512eb3d8c24954485070a42d65afd68795adb35.png"
+    },
+    {
+      "text": "蛋糕甜心_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/ca5243611f80afc8182820afd28cd443b818ae4a.png"
+    },
+    {
+      "text": "蛋糕甜心_收藏",
+      "url": "https://i0.hdslb.com/bfs/garb/fef365742414996607c9fb3d2e7e4a279aefbdf3.png"
+    },
+    {
+      "text": "蛋糕甜心_投币",
+      "url": "https://i0.hdslb.com/bfs/garb/8b5db978c72632efe764bf102362a116eaeeefa4.png"
+    },
+    {
+      "text": "蛋糕甜心_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/d464244d97aea3116fc356a87416b17731683794.png"
+    },
+    {
+      "text": "蛋糕甜心_庆祝",
+      "url": "https://i0.hdslb.com/bfs/garb/27e1d717374a6dd798a682198f9dfc91d7ac3089.png"
+    },
+    {
+      "text": "蛋糕甜心_悲伤",
+      "url": "https://i0.hdslb.com/bfs/garb/e3b57b1a1a928a7af30885ef34919632526bce8e.png"
+    },
+    {
+      "text": "蛋糕甜心_困",
+      "url": "https://i0.hdslb.com/bfs/garb/af3a86794cd115d56933d74ec4a6f3eb6386b066.png"
+    },
+    {
+      "text": "蛋糕甜心_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/bba1b3d3e7a77be732e1a2b9ef66fb0e438d5ccd.png"
+    },
+    {
+      "text": "蛋糕甜心_好耶",
+      "url": "https://i0.hdslb.com/bfs/garb/b046831a6a303b933e56b0e35be14a3f922fa23e.png"
+    }
+  ]
+}
