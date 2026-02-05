@@ -1,0 +1,68 @@
+{
+  "id": 9381,
+  "text": "灵蛇弄舞",
+  "icon": "https://i0.hdslb.com/bfs/garb/efd3ecf3e3f826140c8d2deca48ea28805a59052.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "灵蛇弄舞_倾听",
+      "url": "https://i0.hdslb.com/bfs/garb/d267d0ba71f45677691b4fa2c93efcb2c6292bec.png"
+    },
+    {
+      "text": "灵蛇弄舞_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/56c1a054f8e7bd829d7b03a4b580af628db342be.png"
+    },
+    {
+      "text": "灵蛇弄舞_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/22b04e5c63dd1e537db5a19dc6da042fe6d9fa72.png"
+    },
+    {
+      "text": "灵蛇弄舞_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/954c24c649c6a58df729df89065c8667bbabeee5.png"
+    },
+    {
+      "text": "灵蛇弄舞_在干嘛",
+      "url": "https://i0.hdslb.com/bfs/garb/f707f8d9436f7381ac7b9cf70bc066eff4d86505.png"
+    },
+    {
+      "text": "灵蛇弄舞_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/c9d13ebaa47c386911cee96e43057e106dc3bf65.png"
+    },
+    {
+      "text": "灵蛇弄舞_饿",
+      "url": "https://i0.hdslb.com/bfs/garb/e9a624be47e1d10fff8d12f8953692607da11459.png"
+    },
+    {
+      "text": "灵蛇弄舞_喝奶茶",
+      "url": "https://i0.hdslb.com/bfs/garb/fc3afcea0743508c4f199e0a3d5a6baf7de4e95a.png"
+    },
+    {
+      "text": "灵蛇弄舞_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/b9532254d9569e69bad5649e669054831de597c1.png"
+    },
+    {
+      "text": "灵蛇弄舞_钻被子",
+      "url": "https://i0.hdslb.com/bfs/garb/40c32b3a07a20f74428d6d2a05a97cd82a1c0ccb.png"
+    },
+    {
+      "text": "灵蛇弄舞_有所察觉",
+      "url": "https://i0.hdslb.com/bfs/garb/d1a4a48a51bf081914cf71c4c0b12d632391f63a.png"
+    },
+    {
+      "text": "灵蛇弄舞_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/336d94232bf108e3b02fe86f5ffece09898be355.png"
+    },
+    {
+      "text": "灵蛇弄舞_加一",
+      "url": "https://i0.hdslb.com/bfs/garb/5343338b9fd14118496cd273a56b40fb243ddaf9.png"
+    },
+    {
+      "text": "灵蛇弄舞_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/ceb7f6c8feef5e7a368ba5cb1ac745ca07b27a2d.png"
+    },
+    {
+      "text": "灵蛇弄舞_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/900c1b433a8fae0e557c6b2f0e45114d07b32858.png"
+    }
+  ]
+}

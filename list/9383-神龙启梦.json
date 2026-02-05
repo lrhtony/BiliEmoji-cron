@@ -1,0 +1,68 @@
+{
+  "id": 9383,
+  "text": "神龙启梦",
+  "icon": "https://i0.hdslb.com/bfs/garb/6853c3928dfbd068151babbefe4fed2a73f703ad.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "神龙启梦_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/81e5795323ce12c53e97a46ac6cf4349a0ecab87.png"
+    },
+    {
+      "text": "神龙启梦_搞怪",
+      "url": "https://i0.hdslb.com/bfs/garb/ea3f11a5f03fd67ba00b4b3d02be862a8e7ce4bc.png"
+    },
+    {
+      "text": "神龙启梦_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/39b2f237bf64e14afa013036bac7d9f7d7800429.png"
+    },
+    {
+      "text": "神龙启梦_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/fb9729e1b7490715696a721faea6f30b114ef26b.png"
+    },
+    {
+      "text": "神龙启梦_拿来吧你",
+      "url": "https://i0.hdslb.com/bfs/garb/289ed198da1ead1e986b49f389644e57b83ec122.png"
+    },
+    {
+      "text": "神龙启梦_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/95e0b0b80d643e091faacca9a6301fb3754af2bb.png"
+    },
+    {
+      "text": "神龙启梦_馋",
+      "url": "https://i0.hdslb.com/bfs/garb/9ecc7b85a177985447e35060c57d12531b9281e2.png"
+    },
+    {
+      "text": "神龙启梦_收到",
+      "url": "https://i0.hdslb.com/bfs/garb/e48b8d51b6f625762ad08626328dc7e618fd1157.png"
+    },
+    {
+      "text": "神龙启梦_不行",
+      "url": "https://i0.hdslb.com/bfs/garb/06c6fc6ad3710e27bd6467c106694891b1f01ed5.png"
+    },
+    {
+      "text": "神龙启梦_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/ecf2772669d3202090cc9f0f10447315c5b19750.png"
+    },
+    {
+      "text": "神龙启梦_告辞",
+      "url": "https://i0.hdslb.com/bfs/garb/e1a0f8d5e54039a211c59efe13ea378fe925c505.png"
+    },
+    {
+      "text": "神龙启梦_生闷气",
+      "url": "https://i0.hdslb.com/bfs/garb/bb8910c5dc2617538a3093cfd1faffd23d539788.png"
+    },
+    {
+      "text": "神龙启梦_偷笑",
+      "url": "https://i0.hdslb.com/bfs/garb/d6838bfaedee455f09dc437d3e47c381c058bfac.png"
+    },
+    {
+      "text": "神龙启梦_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/7384c881ffde2a8aee7b4bc53eb09f6f7c2f1958.png"
+    },
+    {
+      "text": "神龙启梦_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/d33043a66e7ad869d99b5e658a2c38afd1ee95a9.png"
+    }
+  ]
+}
