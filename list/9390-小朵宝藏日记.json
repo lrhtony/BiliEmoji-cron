@@ -1,0 +1,108 @@
+{
+  "id": 9390,
+  "text": "小朵宝藏日记",
+  "icon": "https://i0.hdslb.com/bfs/garb/64d7e1de25ef252dfa63e4e5026905b3fb8e37a1.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "小朵宝藏日记_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/14c2a3ad6f889e76dce2e10f07433b6605625f4b.png"
+    },
+    {
+      "text": "小朵宝藏日记_咬牙切齿",
+      "url": "https://i0.hdslb.com/bfs/garb/96f8d8e7e5205a05a53ac06dccf200db1ec97a58.png"
+    },
+    {
+      "text": "小朵宝藏日记_中二",
+      "url": "https://i0.hdslb.com/bfs/garb/76cb900acfc9a8b0135bfba7154b5096736ef376.png"
+    },
+    {
+      "text": "小朵宝藏日记_惊了",
+      "url": "https://i0.hdslb.com/bfs/garb/76e095e9d50e5daf097feafe7510cbbdcbfc86dd.png"
+    },
+    {
+      "text": "小朵宝藏日记_可乐",
+      "url": "https://i0.hdslb.com/bfs/garb/d9f19667cbb56f81cd90345e82ea91090072ec73.png"
+    },
+    {
+      "text": "小朵宝藏日记_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/56fdd54da24a2027afbf7817627f432197d7861c.png"
+    },
+    {
+      "text": "小朵宝藏日记_对手指",
+      "url": "https://i0.hdslb.com/bfs/garb/12400ae4f5a4ef857894100117a6cf102e72026c.png"
+    },
+    {
+      "text": "小朵宝藏日记_阴阳怪气",
+      "url": "https://i0.hdslb.com/bfs/garb/0c42e6099aa21b286be6ffc20d99d24fd6914e15.png"
+    },
+    {
+      "text": "小朵宝藏日记_溜了",
+      "url": "https://i0.hdslb.com/bfs/garb/83f6ed0327180bf61b5e2a6be295d81b0e35036a.png"
+    },
+    {
+      "text": "小朵宝藏日记_吐了",
+      "url": "https://i0.hdslb.com/bfs/garb/db07b6f81e4a61ee23a6c64c3eb526efed630269.png"
+    },
+    {
+      "text": "小朵宝藏日记_起飞",
+      "url": "https://i0.hdslb.com/bfs/garb/dd690f2ba81c4097ec402f890eb0a7b2b778d7df.png"
+    },
+    {
+      "text": "小朵宝藏日记_又能怎",
+      "url": "https://i0.hdslb.com/bfs/garb/54570934f9af8d336964676e26e8ae5f27562ee1.png"
+    },
+    {
+      "text": "小朵宝藏日记_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/6c569af5bfb0d9695de1cee549a5b2984054fd1f.png"
+    },
+    {
+      "text": "小朵宝藏日记_额滴神",
+      "url": "https://i0.hdslb.com/bfs/garb/51cf2c8717576c70415c3b04b5b89c561ea6d2f9.png"
+    },
+    {
+      "text": "小朵宝藏日记_如何呢",
+      "url": "https://i0.hdslb.com/bfs/garb/7ac98816eb1f11b37e62495703ca49077fef2fe6.png"
+    },
+    {
+      "text": "小朵宝藏日记_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/70134d1eb026c9bb65f376bd6c7f6ab869ce681f.png"
+    },
+    {
+      "text": "小朵宝藏日记_投降",
+      "url": "https://i0.hdslb.com/bfs/garb/a2d4e675e24ff19df89340d2b7b72736080d232d.png"
+    },
+    {
+      "text": "小朵宝藏日记_嗨老婆",
+      "url": "https://i0.hdslb.com/bfs/garb/cc3d7f0107ae6966e3ba98e5f7c3722d83a0eb42.png"
+    },
+    {
+      "text": "小朵宝藏日记_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/bb7755e6c6c320ccf9fed013b09f7bc886225cf8.png"
+    },
+    {
+      "text": "小朵宝藏日记_好吃",
+      "url": "https://i0.hdslb.com/bfs/garb/c987cdbc857e0a89c69707229ff868b054defb25.png"
+    },
+    {
+      "text": "小朵宝藏日记_给你一脚",
+      "url": "https://i0.hdslb.com/bfs/garb/92aedb8aa3d5d948868b828bc8dab18f515049a9.png"
+    },
+    {
+      "text": "小朵宝藏日记_包的",
+      "url": "https://i0.hdslb.com/bfs/garb/0aa71cda0f77fa115e3e277e634fb3cd4be76b95.png"
+    },
+    {
+      "text": "小朵宝藏日记_装傻",
+      "url": "https://i0.hdslb.com/bfs/garb/51a22c5c92abe415b628a425089e2c6f48182f57.png"
+    },
+    {
+      "text": "小朵宝藏日记_我来辣",
+      "url": "https://i0.hdslb.com/bfs/garb/908118a572a738779e3da0134ab61f95df6ada4c.png"
+    },
+    {
+      "text": "小朵宝藏日记_给你点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/c4fefba25a5b5f581712a1189fbfac565077ee9e.png"
+    }
+  ]
+}
