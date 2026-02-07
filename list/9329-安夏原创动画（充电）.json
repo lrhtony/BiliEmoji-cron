@@ -5,6 +5,10 @@
   "resource_type": 0,
   "emote": [
     {
+      "text": "UPOWER_3546944882346544_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/0bbb5d4506723fc51f7bbd38f5a6e00410f462cc.png"
+    },
+    {
       "text": "UPOWER_3546944882346544_奋斗",
       "url": "https://i0.hdslb.com/bfs/garb/99c17486fe4c0154f8d23d3343947767d2eb7c61.png"
     },
@@ -17,8 +21,24 @@
       "url": "https://i0.hdslb.com/bfs/garb/9b6b836e287bed68ab015ae51c7dce6e4b11f4df.png"
     },
     {
+      "text": "UPOWER_3546944882346544_鞠躬",
+      "url": "https://i0.hdslb.com/bfs/garb/78eb161eee1db61be13c6db632195e6dd4e8be7b.png"
+    },
+    {
       "text": "UPOWER_3546944882346544_你好",
       "url": "https://i0.hdslb.com/bfs/garb/cbe78c6797ea95541978407b1e946a362a1dc311.png"
+    },
+    {
+      "text": "UPOWER_3546944882346544_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/7fa8cd7fd18c0742de2261795a3d845c30980f3f.png"
+    },
+    {
+      "text": "UPOWER_3546944882346544_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/43b3a494f6dbf56b7ceb388ad400e890cb20778f.png"
+    },
+    {
+      "text": "UPOWER_3546944882346544_求红包",
+      "url": "https://i0.hdslb.com/bfs/garb/8e5dfb1e469c535522491cf92d2488a636e6e3e4.png"
     },
     {
       "text": "UPOWER_3546944882346544_哇",
@@ -27,6 +47,14 @@
     {
       "text": "UPOWER_3546944882346544_no",
       "url": "https://i0.hdslb.com/bfs/garb/47d92dccbc8209eb609958b92cc8b56e7f46a36b.png"
+    },
+    {
+      "text": "UPOWER_3546944882346544_发呆",
+      "url": "https://i0.hdslb.com/bfs/garb/81f0887657b41ef86b05f62bddce9ecf93d964df.png"
+    },
+    {
+      "text": "UPOWER_3546944882346544_闪眼",
+      "url": "https://i0.hdslb.com/bfs/garb/cb84a86688ae1dc429260e2a890a28bc0beeb7db.png"
     }
   ]
 }
