@@ -1,0 +1,108 @@
+{
+  "id": 9400,
+  "text": "雨巷晴心静态表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/1a5d91d6d2fb2f165a70efc1662f3794bf1e69b6.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "雨巷晴心表情包_OK",
+      "url": "https://i0.hdslb.com/bfs/emote/b86f0ece0997038b9ebab9da015c4d5d47a9fa0b.png"
+    },
+    {
+      "text": "雨巷晴心表情包_充电",
+      "url": "https://i0.hdslb.com/bfs/emote/0975cb191127e20c51a8f58ad96bda8e3b859313.png"
+    },
+    {
+      "text": "雨巷晴心表情包_6",
+      "url": "https://i0.hdslb.com/bfs/emote/813ecae73c1f125f5668665f85694ea0e8808efb.png"
+    },
+    {
+      "text": "雨巷晴心表情包_困",
+      "url": "https://i0.hdslb.com/bfs/emote/f52dd1b9f22f72d27e20cb492a42a97a46ac8cc9.png"
+    },
+    {
+      "text": "雨巷晴心表情包_冲",
+      "url": "https://i0.hdslb.com/bfs/emote/5dfa1acc6635ff70c0817d802f9994e4af1b836f.png"
+    },
+    {
+      "text": "雨巷晴心表情包_倒下",
+      "url": "https://i0.hdslb.com/bfs/emote/e5d39d1ce0523bdc3f3773e9b63ee9044dc2d421.png"
+    },
+    {
+      "text": "雨巷晴心表情包_停停",
+      "url": "https://i0.hdslb.com/bfs/emote/28bc42239929c7ac816cf9117990477aa2968472.png"
+    },
+    {
+      "text": "雨巷晴心表情包_加载中",
+      "url": "https://i0.hdslb.com/bfs/emote/499c100180e093031501b6d517c464ca07b08c1e.png"
+    },
+    {
+      "text": "雨巷晴心表情包_哥俩好",
+      "url": "https://i0.hdslb.com/bfs/emote/2f9ecd50c7e9a8dc69b41d3a6ba414ee2c821929.png"
+    },
+    {
+      "text": "雨巷晴心表情包_看招",
+      "url": "https://i0.hdslb.com/bfs/emote/d23c461ddb3d5b4c9858b9a84cd2ce4808cc01ab.png"
+    },
+    {
+      "text": "雨巷晴心表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/a5ee6ba5182795cda3b8e6b38a6c583e935f2b2a.png"
+    },
+    {
+      "text": "雨巷晴心表情包_喵？",
+      "url": "https://i0.hdslb.com/bfs/emote/fa83c7ab539f7f908d7eddae8f133210ef5c572f.png"
+    },
+    {
+      "text": "雨巷晴心表情包_背影",
+      "url": "https://i0.hdslb.com/bfs/emote/a42c5dd618ce1878fa091ff9a596be91e95f83bd.png"
+    },
+    {
+      "text": "雨巷晴心表情包_被水淹没",
+      "url": "https://i0.hdslb.com/bfs/emote/e6ccea4c9eeb23c08685dc34f18fb7aa13ea9218.png"
+    },
+    {
+      "text": "雨巷晴心表情包_彩虹",
+      "url": "https://i0.hdslb.com/bfs/emote/eb0a73e150521670b0b9644eb7caaf2b84566fe7.png"
+    },
+    {
+      "text": "雨巷晴心表情包_看不见",
+      "url": "https://i0.hdslb.com/bfs/emote/f69e56db424e3eb7784adfafa242278f03c032a6.png"
+    },
+    {
+      "text": "雨巷晴心表情包_噢",
+      "url": "https://i0.hdslb.com/bfs/emote/16828882bd9ffa3eac5d307e33cef822be542195.png"
+    },
+    {
+      "text": "雨巷晴心表情包_啾咪",
+      "url": "https://i0.hdslb.com/bfs/emote/4d31c016a900ce18d430663f5a3f35535aed8241.png"
+    },
+    {
+      "text": "雨巷晴心表情包_给点",
+      "url": "https://i0.hdslb.com/bfs/emote/6cef16da0fdef27e728c8008605ce658d4b6fefa.png"
+    },
+    {
+      "text": "雨巷晴心表情包_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/ccef9d229db90d53212e7fab998ffcd331e75d92.png"
+    },
+    {
+      "text": "雨巷晴心表情包_达咩",
+      "url": "https://i0.hdslb.com/bfs/emote/51efd8cdd63518248115c594267a2d306c28ae39.png"
+    },
+    {
+      "text": "雨巷晴心表情包_抛瓦",
+      "url": "https://i0.hdslb.com/bfs/emote/4c53f082bd40fa2c5db3c5446a3a45fab2798048.png"
+    },
+    {
+      "text": "雨巷晴心表情包_送花",
+      "url": "https://i0.hdslb.com/bfs/emote/c4034b573f72e04e0ad0cb1c955ba4411d725305.png"
+    },
+    {
+      "text": "雨巷晴心表情包_盯",
+      "url": "https://i0.hdslb.com/bfs/emote/014169c53d9c49cbbded9cd7a52d5a962c96946c.png"
+    },
+    {
+      "text": "雨巷晴心表情包_展示",
+      "url": "https://i0.hdslb.com/bfs/emote/1a5d91d6d2fb2f165a70efc1662f3794bf1e69b6.png"
+    }
+  ]
+}
