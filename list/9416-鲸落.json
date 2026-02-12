@@ -1,0 +1,68 @@
+{
+  "id": 9416,
+  "text": "鲸落",
+  "icon": "https://i0.hdslb.com/bfs/garb/e704165f0f44cb22e448b2ab25662ee3546422a0.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "鲸落_WINK",
+      "url": "https://i0.hdslb.com/bfs/garb/27b3396e6d76f8f9d4eab3b432afb05f6305b973.png"
+    },
+    {
+      "text": "鲸落_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/6e7ca3c8697f1c08e470530a97dba4537fe72cb1.png"
+    },
+    {
+      "text": "鲸落_耶",
+      "url": "https://i0.hdslb.com/bfs/garb/ff88e04e59e6448ef7af96c9938cf856c0d27366.png"
+    },
+    {
+      "text": "鲸落_好饿",
+      "url": "https://i0.hdslb.com/bfs/garb/7d1c9d4bd40f2ed161950717a5d28133e4b1821d.png"
+    },
+    {
+      "text": "鲸落_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/81bb598b9debcacdc47da8b74381d97814c3cf98.png"
+    },
+    {
+      "text": "鲸落_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/e5df66e46564cc17c83bb66ef664170ad167c14e.png"
+    },
+    {
+      "text": "鲸落_摊手",
+      "url": "https://i0.hdslb.com/bfs/garb/ac4dc92ac03de73ddfc15197bab5f144851495b7.png"
+    },
+    {
+      "text": "鲸落_整点薯条",
+      "url": "https://i0.hdslb.com/bfs/garb/cc55f440ae1151e37a57c98125345b07094bf979.png"
+    },
+    {
+      "text": "鲸落_美梦",
+      "url": "https://i0.hdslb.com/bfs/garb/cb490ca5865186e811d1b169a86dc22a54e67807.png"
+    },
+    {
+      "text": "鲸落_鼓励",
+      "url": "https://i0.hdslb.com/bfs/garb/be156b7a79df1b3091f8e1af271fde928a1d3a65.png"
+    },
+    {
+      "text": "鲸落_过载",
+      "url": "https://i0.hdslb.com/bfs/garb/a091072df6b8803d7d19af3f9833b37e5d4a11cf.png"
+    },
+    {
+      "text": "鲸落_烦躁",
+      "url": "https://i0.hdslb.com/bfs/garb/e09877920000dca31d3e04cc80d3fef6a3f100cf.png"
+    },
+    {
+      "text": "鲸落_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/fd93f87584ed5f71c8a640ca53a0d3df9676184e.png"
+    },
+    {
+      "text": "鲸落_赌气",
+      "url": "https://i0.hdslb.com/bfs/garb/91646629bb7c755ccd63b5f9f6600fcbbbe41e85.png"
+    },
+    {
+      "text": "鲸落_偷笑",
+      "url": "https://i0.hdslb.com/bfs/garb/7446d078d52e1b6c87fa32629620d268c7e0dfeb.png"
+    }
+  ]
+}
