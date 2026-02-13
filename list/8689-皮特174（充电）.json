@@ -5,6 +5,10 @@
   "resource_type": 0,
   "emote": [
     {
+      "text": "UPOWER_13470007_拉个电",
+      "url": "https://i0.hdslb.com/bfs/garb/dd8e46dc014d096928276f8cef08d88b8dd17820.png"
+    },
+    {
       "text": "UPOWER_13470007_女仆皮",
       "url": "https://i0.hdslb.com/bfs/garb/0d68365dd7f0428fd29754f66ffdcf98afdd3652.png"
     },
@@ -49,6 +53,14 @@
       "url": "https://i0.hdslb.com/bfs/garb/2bacfe7c2e9875465d44a46ad4799e5bb2b09da0.png"
     },
     {
+      "text": "UPOWER_13470007_吃瓜皮",
+      "url": "https://i0.hdslb.com/bfs/garb/042d34ad90353300de578e108e8886b99c1c0cdb.png"
+    },
+    {
+      "text": "UPOWER_13470007_想法皮",
+      "url": "https://i0.hdslb.com/bfs/garb/f3f3bc406e2b7a88fafa2b19440c79687caf47d7.png"
+    },
+    {
       "text": "UPOWER_13470007_打派吗",
       "url": "https://i0.hdslb.com/bfs/garb/6049d62161b7ec9e72a36e3c1059a571e3fd7776.png"
     },
@@ -67,6 +79,10 @@
     {
       "text": "UPOWER_13470007_耶",
       "url": "https://i0.hdslb.com/bfs/garb/9b864143b23da2ff60ce5eeda6d9517f3318661a.png"
+    },
+    {
+      "text": "UPOWER_13470007_让我看看",
+      "url": "https://i0.hdslb.com/bfs/garb/b836302307d548210203723abfc996f3e2297159.png"
     }
   ]
 }
