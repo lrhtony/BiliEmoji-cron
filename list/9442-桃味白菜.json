@@ -1,0 +1,108 @@
+{
+  "id": 9442,
+  "text": "桃味白菜",
+  "icon": "https://i0.hdslb.com/bfs/garb/f2c29fcf691f3d0dfe5d04fb25f512d2cab8f79e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "桃味白菜_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/2e2da9937474328f9b576e58f7803845dba41210.png"
+    },
+    {
+      "text": "桃味白菜_冒泡",
+      "url": "https://i0.hdslb.com/bfs/garb/0e3c04cfd84dc860a584db7faa4daa4132a7ac33.png"
+    },
+    {
+      "text": "桃味白菜_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/63c9a5a44ecaf1590b8192cbf36b3ba373b0e571.png"
+    },
+    {
+      "text": "桃味白菜_打叉",
+      "url": "https://i0.hdslb.com/bfs/garb/ff0c1340a860223fb00a3926d7fe4bffb84aeb60.png"
+    },
+    {
+      "text": "桃味白菜_打勾",
+      "url": "https://i0.hdslb.com/bfs/garb/464746295715c91dc1715208809e6e3440c42c3a.png"
+    },
+    {
+      "text": "桃味白菜_乞讨",
+      "url": "https://i0.hdslb.com/bfs/garb/bf67f86fe223dd77914eb94c733b1ac8e7ce42a2.png"
+    },
+    {
+      "text": "桃味白菜_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/fa10e28819bb751e92036c98318261b3a707b3f6.png"
+    },
+    {
+      "text": "桃味白菜_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/be7e435edd5a217a0fffc21113e6f84f48c8789f.png"
+    },
+    {
+      "text": "桃味白菜_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/97ae80d59cb5e13096dccd72fd535982c86bc6a6.png"
+    },
+    {
+      "text": "桃味白菜_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/f0bcace542010a4d5c936ad080dfcb4ce4be87ad.png"
+    },
+    {
+      "text": "桃味白菜_舔舔",
+      "url": "https://i0.hdslb.com/bfs/garb/df4a6873a2b01646fd1a17c4f7d9252ad89599b7.png"
+    },
+    {
+      "text": "桃味白菜_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/4f3b8214b2f279d07800b238b1af532b24f6dc1d.png"
+    },
+    {
+      "text": "桃味白菜_吐魂",
+      "url": "https://i0.hdslb.com/bfs/garb/94acfa763a1157cf232adff78424c6a9a29abfff.png"
+    },
+    {
+      "text": "桃味白菜_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/84aa015bdea7e5c86439f5b53ac4e846b0b9165f.png"
+    },
+    {
+      "text": "桃味白菜_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/a24fad587244a83f74bebdcc941d98cbddf78e7f.png"
+    },
+    {
+      "text": "桃味白菜_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/1784ac93ce464326f1ab6ab9ef7778eaff4b5d70.png"
+    },
+    {
+      "text": "桃味白菜_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/6af8992660e7e5f1df7db1391b245caa4b68f227.png"
+    },
+    {
+      "text": "桃味白菜_开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/268c3bce38978f6a55eeebee5bc63f63a0f5b557.png"
+    },
+    {
+      "text": "桃味白菜_打拳",
+      "url": "https://i0.hdslb.com/bfs/garb/305e3456c7a66a5a1c09869364a25b3221ba28ce.png"
+    },
+    {
+      "text": "桃味白菜_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/dd885ae55f9e2ea795e201fc54565d72af57bbf3.png"
+    },
+    {
+      "text": "桃味白菜_警告",
+      "url": "https://i0.hdslb.com/bfs/garb/8e2ad9af310fd67d48fe6c9f1fa318bafe4a0bd9.png"
+    },
+    {
+      "text": "桃味白菜_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/27dc8f228c757d01adb4eb186a04cee5e7531abd.png"
+    },
+    {
+      "text": "桃味白菜_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/ebec37a60bd11c5ee43428047cf1cbcf36ddfeea.png"
+    },
+    {
+      "text": "桃味白菜_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/372a3b65929d7cd6c4d6ae11d5afb2e6d9321df2.png"
+    },
+    {
+      "text": "桃味白菜_哼歌",
+      "url": "https://i0.hdslb.com/bfs/garb/a30f73915591e6a54fefcc34fb6201b6eee3defd.png"
+    }
+  ]
+}
