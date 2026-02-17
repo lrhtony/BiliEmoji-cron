@@ -1,0 +1,108 @@
+{
+  "id": 9456,
+  "text": "菠之萝雪糕集",
+  "icon": "https://i0.hdslb.com/bfs/garb/30f27afab7ce16868c226eadd4e3001ed43c4371.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "菠之萝雪糕集_嘲笑",
+      "url": "https://i0.hdslb.com/bfs/garb/32dd2b33889aa29cda4b8d5324891d1eaad9a9bc.png"
+    },
+    {
+      "text": "菠之萝雪糕集_玫瑰",
+      "url": "https://i0.hdslb.com/bfs/garb/15ce1b1dfd2d33092857dab65f40eaa53b50cc99.png"
+    },
+    {
+      "text": "菠之萝雪糕集_捧爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/e3d09245e40b15fbc096333e28d8bb8d6fa80856.png"
+    },
+    {
+      "text": "菠之萝雪糕集_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/3e7a7e10371db9539e896ef30890888033408bc9.png"
+    },
+    {
+      "text": "菠之萝雪糕集_烧",
+      "url": "https://i0.hdslb.com/bfs/garb/654288367d5594ca4844a024fc1a7df35365b3cb.png"
+    },
+    {
+      "text": "菠之萝雪糕集_惊吓",
+      "url": "https://i0.hdslb.com/bfs/garb/4760c4d47fbcf0cd81f71367bf45174337a94d16.png"
+    },
+    {
+      "text": "菠之萝雪糕集_宇宙",
+      "url": "https://i0.hdslb.com/bfs/garb/d54083e5389b310bcd2d65d908270049b7194290.png"
+    },
+    {
+      "text": "菠之萝雪糕集_流泪猫猫头",
+      "url": "https://i0.hdslb.com/bfs/garb/fdcde9221bdb92be98240cf9fba837ce340c0745.png"
+    },
+    {
+      "text": "菠之萝雪糕集_ciallo",
+      "url": "https://i0.hdslb.com/bfs/garb/2ae64ad9cfb83e63cb9f4896db65d07416dd1276.png"
+    },
+    {
+      "text": "菠之萝雪糕集_大调查",
+      "url": "https://i0.hdslb.com/bfs/garb/205c27d08a3d10025c35baba15dff71643fe0856.png"
+    },
+    {
+      "text": "菠之萝雪糕集_冲刺",
+      "url": "https://i0.hdslb.com/bfs/garb/0ededf08c4d2630d4e540bd2ff4b20652ce4a3dc.png"
+    },
+    {
+      "text": "菠之萝雪糕集_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/10fd13fd3cf1aebc577af330729d2d60997810cb.png"
+    },
+    {
+      "text": "菠之萝雪糕集_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/8b5f0c27e3368b889e1d3a49255b7456e8fb007b.png"
+    },
+    {
+      "text": "菠之萝雪糕集_舔屏",
+      "url": "https://i0.hdslb.com/bfs/garb/98ed9124d1d30b9210b7d6ac326cf39cabac4f5c.png"
+    },
+    {
+      "text": "菠之萝雪糕集_偷窥",
+      "url": "https://i0.hdslb.com/bfs/garb/35302458331633d6c97aa82e922672df59bf52d0.png"
+    },
+    {
+      "text": "菠之萝雪糕集_好吃",
+      "url": "https://i0.hdslb.com/bfs/garb/d4fc7a08ddf655f16ac730c18151b3e9c7139389.png"
+    },
+    {
+      "text": "菠之萝雪糕集_给木",
+      "url": "https://i0.hdslb.com/bfs/garb/23f91e109e00d57ac01aeb9edb09f51c24d6a4ce.png"
+    },
+    {
+      "text": "菠之萝雪糕集_亲亲",
+      "url": "https://i0.hdslb.com/bfs/garb/52017fda729af4af3071f582ea6004ea6f78ea2b.png"
+    },
+    {
+      "text": "菠之萝雪糕集_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/90c32cd899bca607ec66934e395e1c77a37c7aad.png"
+    },
+    {
+      "text": "菠之萝雪糕集_安逸",
+      "url": "https://i0.hdslb.com/bfs/garb/c04c8372146a089f4a73f29ee71632657e23ff34.png"
+    },
+    {
+      "text": "菠之萝雪糕集_开播",
+      "url": "https://i0.hdslb.com/bfs/garb/6627ef0797d2e28863d538f060b318c7fb3fd373.png"
+    },
+    {
+      "text": "菠之萝雪糕集_下播",
+      "url": "https://i0.hdslb.com/bfs/garb/a1a89685fa05e840d67e5cfcaadba7cc05a3cdbb.png"
+    },
+    {
+      "text": "菠之萝雪糕集_趣味生煎",
+      "url": "https://i0.hdslb.com/bfs/garb/b45cb4dbdda4c443e66edd87efb1c1599f056283.png"
+    },
+    {
+      "text": "菠之萝雪糕集_趴趴",
+      "url": "https://i0.hdslb.com/bfs/garb/f5c1697cc7d11f586309426ec632990ab2fdb5c3.png"
+    },
+    {
+      "text": "菠之萝雪糕集_熬夜",
+      "url": "https://i0.hdslb.com/bfs/garb/b7cb4486d600529c6eaaffd65ab71ae8f615cda8.png"
+    }
+  ]
+}
