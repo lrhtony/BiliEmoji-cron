@@ -1,0 +1,60 @@
+{
+  "id": 9474,
+  "text": "脂肪酸金属盐（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/67d5c8615d8aaaef22a9fe7d742b4dc3bdbcf620.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_449253041_充电",
+      "url": "https://i0.hdslb.com/bfs/garb/4dcb1747e43c5638aafefdf79cb40d88c6045f40.png"
+    },
+    {
+      "text": "UPOWER_449253041_真棒",
+      "url": "https://i0.hdslb.com/bfs/garb/89559f0cefb5a2790ffb599713ac6d6474363c93.png"
+    },
+    {
+      "text": "UPOWER_449253041_好听",
+      "url": "https://i0.hdslb.com/bfs/garb/7cdd6accf1ac4e8c90b7cb35351d84d6e5a1094d.png"
+    },
+    {
+      "text": "UPOWER_449253041_小丑",
+      "url": "https://i0.hdslb.com/bfs/garb/19a2606b4085b0ba340feb12c122f192ec3c3857.png"
+    },
+    {
+      "text": "UPOWER_449253041_呆住",
+      "url": "https://i0.hdslb.com/bfs/garb/2bcd4472492058f88c711e7a04c6dd55871c8b17.png"
+    },
+    {
+      "text": "UPOWER_449253041_好耶",
+      "url": "https://i0.hdslb.com/bfs/garb/6af98e8afaa8d82decbe20fb02811b295a5253a9.png"
+    },
+    {
+      "text": "UPOWER_449253041_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/0651560de306228984cd74639bc54994c7eca725.png"
+    },
+    {
+      "text": "UPOWER_449253041_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/0034361e049ef7df4cdffcd0d12eb65ed2379e72.png"
+    },
+    {
+      "text": "UPOWER_449253041_超爱",
+      "url": "https://i0.hdslb.com/bfs/garb/6be38bdab3a7fe6e4ab76a5822ba974dae6b2a6f.png"
+    },
+    {
+      "text": "UPOWER_449253041_吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/2353bb1d92cfff14c5baa73508bd41049e709333.png"
+    },
+    {
+      "text": "UPOWER_449253041_略略",
+      "url": "https://i0.hdslb.com/bfs/garb/4d493475b488ccc2cd65576e1c72425d0daaa53e.png"
+    },
+    {
+      "text": "UPOWER_449253041_吃惊",
+      "url": "https://i0.hdslb.com/bfs/garb/03aff99bf28c6fcf253acd5f58cb2ed6f14438c6.png"
+    },
+    {
+      "text": "UPOWER_449253041_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/c580f00a3cc078ac18b4158bddfefdc86d7343a8.png"
+    }
+  ]
+}
