@@ -1,0 +1,28 @@
+{
+  "id": 9481,
+  "text": "椰子鸡小火收汁（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/a6eaaa7be219e548e070f2886b86875632170edd.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_97189080_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/377f0e44f18dbf21fa843162ab2120546496ef28.png"
+    },
+    {
+      "text": "UPOWER_97189080_麻吉天才",
+      "url": "https://i0.hdslb.com/bfs/garb/cd87d67511c33a85fa1ff0e2bf92ddb41e126746.png"
+    },
+    {
+      "text": "UPOWER_97189080_咋回事",
+      "url": "https://i0.hdslb.com/bfs/garb/c3418c34b47ce31ee3f01733682448ecec896f10.png"
+    },
+    {
+      "text": "UPOWER_97189080_正义制裁",
+      "url": "https://i0.hdslb.com/bfs/garb/c4eeed8fe5cb475df5b5cf9ca6892db092863a60.png"
+    },
+    {
+      "text": "UPOWER_97189080_咋这样",
+      "url": "https://i0.hdslb.com/bfs/garb/ea5c2933e68d190a6b108849dda763329414dc33.png"
+    }
+  ]
+}
