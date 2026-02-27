@@ -1,0 +1,68 @@
+{
+  "id": 9488,
+  "text": "曙光",
+  "icon": "https://i0.hdslb.com/bfs/garb/088f85787900033f56f60dbf9e855f655ee5c41d.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "曙光_搞怪",
+      "url": "https://i0.hdslb.com/bfs/garb/620f9e0d4e993aa8ea5fa9c9a2cc684cbbf5cdbb.png"
+    },
+    {
+      "text": "曙光_耶",
+      "url": "https://i0.hdslb.com/bfs/garb/324c8efdc71e16018c2a742d9e4994e055049450.png"
+    },
+    {
+      "text": "曙光_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/691eca6647d219b933494f0c3191673a72603ff6.png"
+    },
+    {
+      "text": "曙光_过载",
+      "url": "https://i0.hdslb.com/bfs/garb/ab0c46e542127ba8d0f35edf89fae6055b26d267.png"
+    },
+    {
+      "text": "曙光_叉腰",
+      "url": "https://i0.hdslb.com/bfs/garb/afd4494be446a5992b3f5bf00ed10218cb7e9d6f.png"
+    },
+    {
+      "text": "曙光_真棒",
+      "url": "https://i0.hdslb.com/bfs/garb/f33477fa44ea250eb314f3aa267e4ea478f0f64e.png"
+    },
+    {
+      "text": "曙光_苦恼",
+      "url": "https://i0.hdslb.com/bfs/garb/ef66b11cb4c585fbd73322012399dd8b2bea39a2.png"
+    },
+    {
+      "text": "曙光_赞成",
+      "url": "https://i0.hdslb.com/bfs/garb/1cbcf62204cc35a989e2c45df8eae3a83828f8eb.png"
+    },
+    {
+      "text": "曙光_满意",
+      "url": "https://i0.hdslb.com/bfs/garb/0f2dac54d95425814304b4023e6315b92aff74d5.png"
+    },
+    {
+      "text": "曙光_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/ebdcee3cea91c745bc3802274e2c2de6731455bb.png"
+    },
+    {
+      "text": "曙光_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/eb648fcc0c244e56da0544b9652a5ff822a1eb97.png"
+    },
+    {
+      "text": "曙光_紧张",
+      "url": "https://i0.hdslb.com/bfs/garb/f06e55c769c5a21209373c536e81cd1cf7fa5f25.png"
+    },
+    {
+      "text": "曙光_没眼看",
+      "url": "https://i0.hdslb.com/bfs/garb/9c7ebbbaaa55c358150cb55c5d97fef78d6ef55b.png"
+    },
+    {
+      "text": "曙光_摊手",
+      "url": "https://i0.hdslb.com/bfs/garb/520940b47b90ee1a246f4b22d32ae6613f527dce.png"
+    },
+    {
+      "text": "曙光_不解",
+      "url": "https://i0.hdslb.com/bfs/garb/5eb855634ce0af3960e741730482cd661580a09c.png"
+    }
+  ]
+}
