@@ -1,0 +1,68 @@
+{
+  "id": 9493,
+  "text": "呆猫八条",
+  "icon": "https://i0.hdslb.com/bfs/garb/3cd24cf47165fefcd97360087c29012f9cf39ae6.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "呆猫八条_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/2855792c773e2680eb0c26fb70867a05d618dd68.png"
+    },
+    {
+      "text": "呆猫八条_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/d280a590aadcab389a1b08c9867e252bbc3b3f6b.png"
+    },
+    {
+      "text": "呆猫八条_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/95a8324b1d665412f1d4f0ece867d9e887dcdd07.png"
+    },
+    {
+      "text": "呆猫八条_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/ce6b9c234a146a92e8ea8c3941921d7d3b06b0bc.png"
+    },
+    {
+      "text": "呆猫八条_挨打",
+      "url": "https://i0.hdslb.com/bfs/garb/22d81f18bbfe9fa7133f01e1e21bacb7162e9abe.png"
+    },
+    {
+      "text": "呆猫八条_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/2ef94ae0198bdf26ccad8b7a2a32f9dc619fc0fb.png"
+    },
+    {
+      "text": "呆猫八条_想刀喵",
+      "url": "https://i0.hdslb.com/bfs/garb/934a443edf596091cc8189ebd13425f76039f818.png"
+    },
+    {
+      "text": "呆猫八条_感动",
+      "url": "https://i0.hdslb.com/bfs/garb/2a53ba0da0804631f87c5775a3888d290d29bf77.png"
+    },
+    {
+      "text": "呆猫八条_撒娇",
+      "url": "https://i0.hdslb.com/bfs/garb/225f6201fb828beef573b3e7b73d44bc18ca39e6.png"
+    },
+    {
+      "text": "呆猫八条_晕",
+      "url": "https://i0.hdslb.com/bfs/garb/511f73d4396ded9f311c7d0c2b1e0fd466762eb2.png"
+    },
+    {
+      "text": "呆猫八条_不敢吱声",
+      "url": "https://i0.hdslb.com/bfs/garb/6c1d507e3727229209da132df4ac602771be92db.png"
+    },
+    {
+      "text": "呆猫八条_探头",
+      "url": "https://i0.hdslb.com/bfs/garb/e95ba41874963f40fca62349a54c3aa4b5c129ac.png"
+    },
+    {
+      "text": "呆猫八条_黑化",
+      "url": "https://i0.hdslb.com/bfs/garb/0f6b06f5821fdeefac2b1847dfd01fbb2cff096d.png"
+    },
+    {
+      "text": "呆猫八条_不服气",
+      "url": "https://i0.hdslb.com/bfs/garb/f5dc1203114fc95f326d0d436ba12661410b048d.png"
+    },
+    {
+      "text": "呆猫八条_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/f5b2adcecfcd4bee66ca1cd58f0e80bc8efe8dd7.png"
+    }
+  ]
+}
