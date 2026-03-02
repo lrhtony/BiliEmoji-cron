@@ -1,0 +1,68 @@
+{
+  "id": 9505,
+  "text": "钓星星",
+  "icon": "https://i0.hdslb.com/bfs/garb/20c5127a89c77672ef53434e46ad52225274dc58.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "钓星星_起飞",
+      "url": "https://i0.hdslb.com/bfs/garb/34ecef59c3d75fa557adb522133449cca26793a1.png"
+    },
+    {
+      "text": "钓星星_空军",
+      "url": "https://i0.hdslb.com/bfs/garb/ff165ba68f2b42fa0e4ac5b0f667fc891a6bbb5e.png"
+    },
+    {
+      "text": "钓星星_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/1eda7c509522c8cf25880cd9b2ef98fccf694d47.png"
+    },
+    {
+      "text": "钓星星_沮丧",
+      "url": "https://i0.hdslb.com/bfs/garb/c6fe7d4a49f4a080091d86d073d9729531f262de.png"
+    },
+    {
+      "text": "钓星星_耶",
+      "url": "https://i0.hdslb.com/bfs/garb/cfa3e42f247903ef935c669d435ccfd6cf2ff5c5.png"
+    },
+    {
+      "text": "钓星星_变猪",
+      "url": "https://i0.hdslb.com/bfs/garb/cce31f327a52f3f3fc2ac8e921d933ac52f31dd3.png"
+    },
+    {
+      "text": "钓星星_怀疑",
+      "url": "https://i0.hdslb.com/bfs/garb/3beca0d68ce5a569134ee65494755811bf41ef06.png"
+    },
+    {
+      "text": "钓星星_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/4fd300c947999bae65b34094796a939eb84a9780.png"
+    },
+    {
+      "text": "钓星星_叉腰",
+      "url": "https://i0.hdslb.com/bfs/garb/83d726f9ce6fde60e212afa917865e7935ab7a89.png"
+    },
+    {
+      "text": "钓星星_伸懒腰",
+      "url": "https://i0.hdslb.com/bfs/garb/99a2c3803f8dd26279c1386e925823311c7aa183.png"
+    },
+    {
+      "text": "钓星星_忧愁",
+      "url": "https://i0.hdslb.com/bfs/garb/2fc1c5e8a7d13778761698f4728327e3938035b9.png"
+    },
+    {
+      "text": "钓星星_真棒",
+      "url": "https://i0.hdslb.com/bfs/garb/b7310ab84dc813fcee65df3ba42b8af97d3793fa.png"
+    },
+    {
+      "text": "钓星星_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/1fb5acaae4dde1ea13111166693420280c6373d8.png"
+    },
+    {
+      "text": "钓星星_偷笑",
+      "url": "https://i0.hdslb.com/bfs/garb/24b8da163049b4010d578df7a0b95b5392da502c.png"
+    },
+    {
+      "text": "钓星星_摊手",
+      "url": "https://i0.hdslb.com/bfs/garb/004a16b5c8649622e130263dd51081d07939b6ed.png"
+    }
+  ]
+}
