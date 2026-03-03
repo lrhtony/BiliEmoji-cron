@@ -1,0 +1,68 @@
+{
+  "id": 9508,
+  "text": "圣魔子",
+  "icon": "https://i0.hdslb.com/bfs/garb/91ad90196def44e289707d493ce5b14184441740.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "圣魔子_僵住",
+      "url": "https://i0.hdslb.com/bfs/garb/28a233f0be162bdce72b76d5ed9fd18dbc6569dc.png"
+    },
+    {
+      "text": "圣魔子_泪奔",
+      "url": "https://i0.hdslb.com/bfs/garb/ce517824d05afbc6ba1686b3157150f04e19ea66.png"
+    },
+    {
+      "text": "圣魔子_错误！",
+      "url": "https://i0.hdslb.com/bfs/garb/c453b26e2cb5d149928e23034d8282ffd610d7f0.png"
+    },
+    {
+      "text": "圣魔子_正确！",
+      "url": "https://i0.hdslb.com/bfs/garb/ad3569151522820fa66d2c8c7e2a690870e43ffb.png"
+    },
+    {
+      "text": "圣魔子_啊嘞",
+      "url": "https://i0.hdslb.com/bfs/garb/c9ab380615d144877a29bc6dbe6d4f502d0c9fac.png"
+    },
+    {
+      "text": "圣魔子_唔姆",
+      "url": "https://i0.hdslb.com/bfs/garb/4391ba37533b0dc18bb7b2607755b074cc7c5dbf.png"
+    },
+    {
+      "text": "圣魔子_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/1f81b946e42e24facd1553c9ba55c3d719c7d692.png"
+    },
+    {
+      "text": "圣魔子_照灯",
+      "url": "https://i0.hdslb.com/bfs/garb/db840e85b1cea699eaf99f87acb49465c9445fa1.png"
+    },
+    {
+      "text": "圣魔子_干嘛...",
+      "url": "https://i0.hdslb.com/bfs/garb/15513e3b9a5fad2a100dc1b8769630c658a72eb4.png"
+    },
+    {
+      "text": "圣魔子_墙角",
+      "url": "https://i0.hdslb.com/bfs/garb/2dc388219975dad21326a22f239b8b347cfebc70.png"
+    },
+    {
+      "text": "圣魔子_思索",
+      "url": "https://i0.hdslb.com/bfs/garb/a16fb94bcd49fbd22a527564bdba376bded5385d.png"
+    },
+    {
+      "text": "圣魔子_掉泪",
+      "url": "https://i0.hdslb.com/bfs/garb/33420bed671f853b9b351388cb69d822b30b1f16.png"
+    },
+    {
+      "text": "圣魔子_惊吓",
+      "url": "https://i0.hdslb.com/bfs/garb/ba6fec2de1ff150fd512a0f600870437b487a828.png"
+    },
+    {
+      "text": "圣魔子_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/cf5928632ba28bdf94faef21887873a59774c350.png"
+    },
+    {
+      "text": "圣魔子_鬼脸",
+      "url": "https://i0.hdslb.com/bfs/garb/545ef29065002bec6bdec2ee1a4482e128c777bd.png"
+    }
+  ]
+}
