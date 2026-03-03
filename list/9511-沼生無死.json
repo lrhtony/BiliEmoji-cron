@@ -1,0 +1,108 @@
+{
+  "id": 9511,
+  "text": "沼生無死",
+  "icon": "https://i0.hdslb.com/bfs/garb/26f30dbb823ff6d3b89ea8f12d20e14bb02e5c66.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "沼生無死_左扭",
+      "url": "https://i0.hdslb.com/bfs/garb/6711c19778ed057ff474a6bf4be2be22b5fcdfa1.png"
+    },
+    {
+      "text": "沼生無死_右扭",
+      "url": "https://i0.hdslb.com/bfs/garb/03000b368469f9b2753c967db1b8a32eb44c7e54.png"
+    },
+    {
+      "text": "沼生無死_对的",
+      "url": "https://i0.hdslb.com/bfs/garb/b29431d26db8dc82b34a808d44dd7a32bfe52509.png"
+    },
+    {
+      "text": "沼生無死_不对",
+      "url": "https://i0.hdslb.com/bfs/garb/955dab3dbcf107f93155191e90b44e202ca5e439.png"
+    },
+    {
+      "text": "沼生無死_开心冒花",
+      "url": "https://i0.hdslb.com/bfs/garb/d9032f8d77d2fefea0f155431981c69f93659a04.png"
+    },
+    {
+      "text": "沼生無死_太好玩了",
+      "url": "https://i0.hdslb.com/bfs/garb/2b2b095a514d23cab256b98f4ee4cf8057256974.png"
+    },
+    {
+      "text": "沼生無死_不好玩了",
+      "url": "https://i0.hdslb.com/bfs/garb/6327a5004c18f6465f471a39c9e390a20db14d10.png"
+    },
+    {
+      "text": "沼生無死_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/eb3f4c1852de6228fd9f5217b5f20be0f7c3538e.png"
+    },
+    {
+      "text": "沼生無死_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/f97fe57b92c6425fec153cd50ef89e661fba70d4.png"
+    },
+    {
+      "text": "沼生無死_啵啵",
+      "url": "https://i0.hdslb.com/bfs/garb/b5fe774199f14c4cca2108ab0c2f97a2b928ab6a.png"
+    },
+    {
+      "text": "沼生無死_可怜",
+      "url": "https://i0.hdslb.com/bfs/garb/620295f1440f661d6fabc1ce01bfeb371c47971d.png"
+    },
+    {
+      "text": "沼生無死_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/91044a804bae5d6b680b18486d5cc895bb38ac6d.png"
+    },
+    {
+      "text": "沼生無死_咬一口",
+      "url": "https://i0.hdslb.com/bfs/garb/37083157f2b6f9cecc79a49a91a9d29af85e81f7.png"
+    },
+    {
+      "text": "沼生無死_你小子",
+      "url": "https://i0.hdslb.com/bfs/garb/d4a70201b1000fa15cb5cd87d28786db71dd6278.png"
+    },
+    {
+      "text": "沼生無死_叼玫瑰",
+      "url": "https://i0.hdslb.com/bfs/garb/8d4bd5fce7b0fb66baa060dbd75828af02297ce6.png"
+    },
+    {
+      "text": "沼生無死_打电动",
+      "url": "https://i0.hdslb.com/bfs/garb/c57ca715a49cb47bcf56beb5f1d8a7fb42d3e02a.png"
+    },
+    {
+      "text": "沼生無死_让我看看",
+      "url": "https://i0.hdslb.com/bfs/garb/0711c05c077db41ea5524596692af687e1accc6e.png"
+    },
+    {
+      "text": "沼生無死_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/97b4984d683de8dba1bc4871bd5ec7d16eb878a7.png"
+    },
+    {
+      "text": "沼生無死_嗦面",
+      "url": "https://i0.hdslb.com/bfs/garb/82d0610d4b5578221fbbbc1e2c2e73bbd5969157.png"
+    },
+    {
+      "text": "沼生無死_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/e9f2d15980af56bbfd507890caf5b823bc7c2b0c.png"
+    },
+    {
+      "text": "沼生無死_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/bcbde78570859977845ecb79e5ed9b6ad0931ca2.png"
+    },
+    {
+      "text": "沼生無死_给你一拳",
+      "url": "https://i0.hdslb.com/bfs/garb/af427494e8c0ebcae24e1d2c0d2bbb5c2063190e.png"
+    },
+    {
+      "text": "沼生無死_头顶冒火",
+      "url": "https://i0.hdslb.com/bfs/garb/bff97c8d64e54eb1cdad08fe70ea8d12002b0b68.png"
+    },
+    {
+      "text": "沼生無死_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/3689705b8ca55fb12b38eab75dd302fb472d7cf3.png"
+    },
+    {
+      "text": "沼生無死_趣味生煎",
+      "url": "https://i0.hdslb.com/bfs/garb/89cc50902539559d627a0593a7e2976faa54795b.png"
+    }
+  ]
+}
