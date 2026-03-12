@@ -1,0 +1,28 @@
+{
+  "id": 9539,
+  "text": "文和乱想（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/fa992f168e3ad6bdd78804856ef3ad7477f2b946.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_7435096_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/2294bc542909b0f66e44a029d846798226a0692d.png"
+    },
+    {
+      "text": "UPOWER_7435096_嘲笑",
+      "url": "https://i0.hdslb.com/bfs/garb/fa28da8a9639a30375329ac5f229e40176d7a1e9.png"
+    },
+    {
+      "text": "UPOWER_7435096_尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/6339379334bf4906cacd93045dc629584c94d65c.png"
+    },
+    {
+      "text": "UPOWER_7435096_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/79d41bbf9d4145b178e884c62adfddebccb9d9dc.png"
+    },
+    {
+      "text": "UPOWER_7435096_卖萌",
+      "url": "https://i0.hdslb.com/bfs/garb/4b0a3a5ef3cdec2c8bf4b95ea5aa5c62f804921c.png"
+    }
+  ]
+}
