@@ -1,0 +1,68 @@
+{
+  "id": 9558,
+  "text": "星星船",
+  "icon": "https://i0.hdslb.com/bfs/garb/a82627991f894fb1959fefaebad478dde3f52897.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "星星船_耶",
+      "url": "https://i0.hdslb.com/bfs/garb/61d2082bc48a21a8c2da4b32bf38644e1ee57e90.png"
+    },
+    {
+      "text": "星星船_跑路",
+      "url": "https://i0.hdslb.com/bfs/garb/8a0368e62cb49f4dc6d896c7e96fcca30b9df5a2.png"
+    },
+    {
+      "text": "星星船_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/92aece6f65ec7d4fcf1d0950622dd967817a3bc3.png"
+    },
+    {
+      "text": "星星船_摊手",
+      "url": "https://i0.hdslb.com/bfs/garb/576f3a084492b4ebe99d7405e1e8730a8ac94a16.png"
+    },
+    {
+      "text": "星星船_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/5a9e4a7fe6f8d12d5c8a68beef8fb8045dcd264b.png"
+    },
+    {
+      "text": "星星船_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/f248d1ab8bce8ec435557904c35012613f1408f8.png"
+    },
+    {
+      "text": "星星船_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/e0e7c442af21c3bf3ccb4e46d02c56701e76e667.png"
+    },
+    {
+      "text": "星星船_意味深长",
+      "url": "https://i0.hdslb.com/bfs/garb/47e34206bfd9ee1a33c88a02ba1c406e2c65a421.png"
+    },
+    {
+      "text": "星星船_不满",
+      "url": "https://i0.hdslb.com/bfs/garb/a034b844abc6c581978e53b966726418e320e7fb.png"
+    },
+    {
+      "text": "星星船_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/f1340b36243b5aa7c12903a32a9ea443b0f59b31.png"
+    },
+    {
+      "text": "星星船_狐狐叉腰",
+      "url": "https://i0.hdslb.com/bfs/garb/7dc081ac335f2711f57f58d5a3d104ebce8df114.png"
+    },
+    {
+      "text": "星星船_狐狐不看",
+      "url": "https://i0.hdslb.com/bfs/garb/7f3cebb90c4628b3cdfc928a496ebb87e4340d20.png"
+    },
+    {
+      "text": "星星船_狐狐警惕",
+      "url": "https://i0.hdslb.com/bfs/garb/f0fe409880e7c66af86bee4abc19e0839b441116.png"
+    },
+    {
+      "text": "星星船_狐狐委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/bf2f4b015e37fbad87fc73a0219ba79e79f50ed1.png"
+    },
+    {
+      "text": "星星船_乖巧狐狐",
+      "url": "https://i0.hdslb.com/bfs/garb/6795f11983eddbb3f2d190e5029549a0234c8cec.png"
+    }
+  ]
+}
