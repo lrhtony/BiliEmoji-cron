@@ -1,0 +1,68 @@
+{
+  "id": 9592,
+  "text": "大头鼠鼠",
+  "icon": "https://i0.hdslb.com/bfs/garb/73c55e892363a612c9c982f98854fb4e34c02641.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "大头鼠鼠_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/b47570e31279668672cebeefab2e1baa3c1afbfd.png"
+    },
+    {
+      "text": "大头鼠鼠_不好意思",
+      "url": "https://i0.hdslb.com/bfs/garb/50ff5948d7760367b0677a624828684ea57560ae.png"
+    },
+    {
+      "text": "大头鼠鼠_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/2c42d372e11a923e61aa5b2e3ed869430baa3063.png"
+    },
+    {
+      "text": "大头鼠鼠_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/131b758c9c6dcccc1061a437ba4471f8418f4f1b.png"
+    },
+    {
+      "text": "大头鼠鼠_探头",
+      "url": "https://i0.hdslb.com/bfs/garb/d299c8b8800f556307c8877c6de20ec32e70e721.png"
+    },
+    {
+      "text": "大头鼠鼠_惊吓",
+      "url": "https://i0.hdslb.com/bfs/garb/57e5a77e7898f0ec6daa6c56c61fe9e122271fa7.png"
+    },
+    {
+      "text": "大头鼠鼠_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/ffe045801704ba307f5a6725bc28f9a1c1990c7f.png"
+    },
+    {
+      "text": "大头鼠鼠_发呆",
+      "url": "https://i0.hdslb.com/bfs/garb/64fe41e4e58bc12af2065d391b287c6cb3fe9cb2.png"
+    },
+    {
+      "text": "大头鼠鼠_牵不到",
+      "url": "https://i0.hdslb.com/bfs/garb/4d6c228dcbcf030bc305d38e999ccac50267ce83.png"
+    },
+    {
+      "text": "大头鼠鼠_牵红绳",
+      "url": "https://i0.hdslb.com/bfs/garb/609cc224afa8b6c4dba14af5f11c70490cc31dd0.png"
+    },
+    {
+      "text": "大头鼠鼠_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/f84817c07c7d4b6f12dfc67e61fbf544651b0c8a.png"
+    },
+    {
+      "text": "大头鼠鼠_熬夜",
+      "url": "https://i0.hdslb.com/bfs/garb/2476e8f9172b715fb732f72db0531437b96dbc9c.png"
+    },
+    {
+      "text": "大头鼠鼠_黑脸",
+      "url": "https://i0.hdslb.com/bfs/garb/bf37d01facc3cc19e5c8b7efdb947a0c8d26daef.png"
+    },
+    {
+      "text": "大头鼠鼠_忧郁",
+      "url": "https://i0.hdslb.com/bfs/garb/fd3be1844df512c0cd8b31d7fd12c14226d5586d.png"
+    },
+    {
+      "text": "大头鼠鼠_灵光一现",
+      "url": "https://i0.hdslb.com/bfs/garb/8af6365b447f9848e3038027436a875e07589e4f.png"
+    }
+  ]
+}
