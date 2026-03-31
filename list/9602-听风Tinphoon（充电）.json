@@ -1,0 +1,68 @@
+{
+  "id": 9602,
+  "text": "听风Tinphoon（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/853bb95b293c2fb6ee48b943274815b2dd4bfb22.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_352810_找打",
+      "url": "https://i0.hdslb.com/bfs/garb/d9757b58de7c467a4d9259bd251638aad182df59.png"
+    },
+    {
+      "text": "UPOWER_352810_吃",
+      "url": "https://i0.hdslb.com/bfs/garb/2ed7d331cc17397ea67334ea46c1674439f22cfc.png"
+    },
+    {
+      "text": "UPOWER_352810_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/56559af2cc5cf9fdcdffff953ce34e2745c0d7b6.png"
+    },
+    {
+      "text": "UPOWER_352810_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/1c65d416bc5a73b70f48617c94269ea07e57e2ad.png"
+    },
+    {
+      "text": "UPOWER_352810_给点",
+      "url": "https://i0.hdslb.com/bfs/garb/9ece47ce959bfa5d393529ebd4dcd2aebeb24bee.png"
+    },
+    {
+      "text": "UPOWER_352810_救命",
+      "url": "https://i0.hdslb.com/bfs/garb/e17e92c5b15bce56d46c4140eacdb68d98430ed9.png"
+    },
+    {
+      "text": "UPOWER_352810_吸",
+      "url": "https://i0.hdslb.com/bfs/garb/61c73850926055a68a5051f1f510a46ca1d9905a.png"
+    },
+    {
+      "text": "UPOWER_352810_哎嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/19708794bffc0665206e8805907f639fd00ef578.png"
+    },
+    {
+      "text": "UPOWER_352810_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/12a4f0dc152de2e608a54b55ad7227f4a24d4329.png"
+    },
+    {
+      "text": "UPOWER_352810_惊了",
+      "url": "https://i0.hdslb.com/bfs/garb/f9c131b4b4dd4096ac0ffe64bed8afaa9b5a6ded.png"
+    },
+    {
+      "text": "UPOWER_352810_我瞅瞅",
+      "url": "https://i0.hdslb.com/bfs/garb/5e94552fd1f328adb3cde4b5f7058efad6c12530.png"
+    },
+    {
+      "text": "UPOWER_352810_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/3ce7b16d18f8d9b95a426e9bdf8b4207e045a3ca.png"
+    },
+    {
+      "text": "UPOWER_352810_铁咩",
+      "url": "https://i0.hdslb.com/bfs/garb/23cdcb0d0ea08a485cd192331b19836da414b529.png"
+    },
+    {
+      "text": "UPOWER_352810_suki",
+      "url": "https://i0.hdslb.com/bfs/garb/0832f71a925f76bd24e96202a89cdd36ada2c8a2.png"
+    },
+    {
+      "text": "UPOWER_352810_夺笋呐",
+      "url": "https://i0.hdslb.com/bfs/garb/eb104ebf11e8f0a6787b84cea740dbadfcb30f5c.png"
+    }
+  ]
+}
