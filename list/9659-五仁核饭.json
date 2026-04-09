@@ -1,0 +1,108 @@
+{
+  "id": 9659,
+  "text": "五仁核饭",
+  "icon": "https://i0.hdslb.com/bfs/garb/3d8b8d758ddcc646850d5754b09a3a61069c8018.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "五仁核饭_不对",
+      "url": "https://i0.hdslb.com/bfs/garb/7074e23cc1181dafc86ee06e332da90e047b090e.png"
+    },
+    {
+      "text": "五仁核饭_加载中",
+      "url": "https://i0.hdslb.com/bfs/garb/4324526b75fb5c8873e1f679c201f144013d402f.png"
+    },
+    {
+      "text": "五仁核饭_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/86b92198f87439af028ccb0d3db97ab10a6b27e7.png"
+    },
+    {
+      "text": "五仁核饭_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/2948e751528d72cc0096c3d2d320abde45eccb09.png"
+    },
+    {
+      "text": "五仁核饭_狐狐",
+      "url": "https://i0.hdslb.com/bfs/garb/5be251bb2f004a50456752f459914a7e93ab14ad.png"
+    },
+    {
+      "text": "五仁核饭_对",
+      "url": "https://i0.hdslb.com/bfs/garb/453c54f6c610be06fe378451000c07f3c5db5f70.png"
+    },
+    {
+      "text": "五仁核饭_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/ea36ee17b9fd5e405e9e0f83e877c871f8cae6dd.png"
+    },
+    {
+      "text": "五仁核饭_目移",
+      "url": "https://i0.hdslb.com/bfs/garb/b2271f07313a71648a1d17c1439c19a8ff99585c.png"
+    },
+    {
+      "text": "五仁核饭_饭饭",
+      "url": "https://i0.hdslb.com/bfs/garb/48dfc7afed29beaeb4a18e30c4d3ed0e68520e68.png"
+    },
+    {
+      "text": "五仁核饭_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/5703c3fbe14198a18fedbad27b5721c3863ce5ee.png"
+    },
+    {
+      "text": "五仁核饭_停",
+      "url": "https://i0.hdslb.com/bfs/garb/484882136c2017ccbdd5380da6c7c0f8d2f19b71.png"
+    },
+    {
+      "text": "五仁核饭_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/4206959ad2623636427df6f56ee6cf8c55489e26.png"
+    },
+    {
+      "text": "五仁核饭_舔舔",
+      "url": "https://i0.hdslb.com/bfs/garb/b2006bf8f842d0fa8f2fb7cd43df0034e392dc12.png"
+    },
+    {
+      "text": "五仁核饭_请坐",
+      "url": "https://i0.hdslb.com/bfs/garb/4e7276aa37e8b99514fd8fbb7254093c9aca75b9.png"
+    },
+    {
+      "text": "五仁核饭_鼠莉葡",
+      "url": "https://i0.hdslb.com/bfs/garb/d85fb936a293dd9355254cf63291c436faa9d45a.png"
+    },
+    {
+      "text": "五仁核饭_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/8287846deea5d5ed580be4a952864e26a3d6ace1.png"
+    },
+    {
+      "text": "五仁核饭_投降",
+      "url": "https://i0.hdslb.com/bfs/garb/0f9491b135060cb49374eb45dac0459a89597e8e.png"
+    },
+    {
+      "text": "五仁核饭_拜托",
+      "url": "https://i0.hdslb.com/bfs/garb/99778a9caa11f49a855d029864ab8d2c057d2979.png"
+    },
+    {
+      "text": "五仁核饭_呜呜",
+      "url": "https://i0.hdslb.com/bfs/garb/6452faae36d0b445a123f3e5f821965c364488c8.png"
+    },
+    {
+      "text": "五仁核饭_汪酱",
+      "url": "https://i0.hdslb.com/bfs/garb/daf1f7ec0173585533427e417ce52f72136ff0f2.png"
+    },
+    {
+      "text": "五仁核饭_汗",
+      "url": "https://i0.hdslb.com/bfs/garb/157797060b2d6915d84f8ac2a26526047cd4bf9f.png"
+    },
+    {
+      "text": "五仁核饭_不愧是我",
+      "url": "https://i0.hdslb.com/bfs/garb/ffab58d5aa532d9649d8c4077166076e15b3c0b9.png"
+    },
+    {
+      "text": "五仁核饭_思索",
+      "url": "https://i0.hdslb.com/bfs/garb/80cb54f0b3d0b59751be50d28cde4d17c9d69712.png"
+    },
+    {
+      "text": "五仁核饭_安详",
+      "url": "https://i0.hdslb.com/bfs/garb/7ad1f6e51181b124268505e2242889f679d8774c.png"
+    },
+    {
+      "text": "五仁核饭_下班",
+      "url": "https://i0.hdslb.com/bfs/garb/45b7c5727967ae9a5274aab97ac7c697aa64171b.png"
+    }
+  ]
+}
