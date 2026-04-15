@@ -1,0 +1,68 @@
+{
+  "id": 9673,
+  "text": "星塔旅人",
+  "icon": "https://i0.hdslb.com/bfs/garb/6bfc3e4515fe723b2577a74979ed2a209c692763.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "星塔旅人_冲呀！",
+      "url": "https://i0.hdslb.com/bfs/garb/485cb53e86d5824271c602da21f66443f5da3ac4.png"
+    },
+    {
+      "text": "星塔旅人_冲啦~",
+      "url": "https://i0.hdslb.com/bfs/garb/fafdb7eef5b79f897e6675cc2f94304abe231e60.png"
+    },
+    {
+      "text": "星塔旅人_冲冲！？",
+      "url": "https://i0.hdslb.com/bfs/garb/0b39af79fdb2665103490905539b950d19b4d54d.png"
+    },
+    {
+      "text": "星塔旅人_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/46976f08e48a3ce11eb1dec0d9b8e75f69d11f8d.png"
+    },
+    {
+      "text": "星塔旅人_嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/95bdca74a964703c7334f731f0f47d94376fa23b.png"
+    },
+    {
+      "text": "星塔旅人_察觉",
+      "url": "https://i0.hdslb.com/bfs/garb/6452966ee5a331cbc95e19ab3b36d04875961bed.png"
+    },
+    {
+      "text": "星塔旅人_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/a5a664bd8444f483dea2f0087f0adcc9b4f36808.png"
+    },
+    {
+      "text": "星塔旅人_拜托",
+      "url": "https://i0.hdslb.com/bfs/garb/1990c543091d1f0779374ab98b756098279d3300.png"
+    },
+    {
+      "text": "星塔旅人_禾意味",
+      "url": "https://i0.hdslb.com/bfs/garb/6a0121eff2ec05efe6a69e01a558b7d9dd8c34d9.png"
+    },
+    {
+      "text": "星塔旅人_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/0e5d88ebdf38c329b90f23478864f9085c0b3882.png"
+    },
+    {
+      "text": "星塔旅人_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/5a8bdbf0c76c3007a3e88f9401328dad162851bd.png"
+    },
+    {
+      "text": "星塔旅人_大新闻",
+      "url": "https://i0.hdslb.com/bfs/garb/43fa4baf0acf91a91f649bb98314eb0641f240c9.png"
+    },
+    {
+      "text": "星塔旅人_不许涩涩",
+      "url": "https://i0.hdslb.com/bfs/garb/76ea0bae5de6217189fcdbe15e3e4bb3f9fd167d.png"
+    },
+    {
+      "text": "星塔旅人_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/5d705c3b06d93d1a129166ccf1aa86bdc83ccc32.png"
+    },
+    {
+      "text": "星塔旅人_出警",
+      "url": "https://i0.hdslb.com/bfs/garb/0d033f414e0167cd0ae13ffb9725deb069f27c82.png"
+    }
+  ]
+}
