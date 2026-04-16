@@ -1,0 +1,128 @@
+{
+  "id": 9675,
+  "text": "小绿熊动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/732b24c2df4068d45766d4252e3a511cd5fada34.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "小绿熊动态表情包_呀呼",
+      "url": "https://i0.hdslb.com/bfs/garb/8940b4be1622f861b21fd9525347da523b0034de.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/98b69fa44770acdfb2862c748ed2c8214f296ae5.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/a0d3bac7893fe0b5b4b65105bcd971ff8684ed02.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_抱歉",
+      "url": "https://i0.hdslb.com/bfs/garb/594adc94a28aa5709a1e2203bbcf716ae43b4a71.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/272296487dc848aa616f07e2bda5e385ca1bc396.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/6e65ee6d62fe338ac3418f64f2e50c7472ce45c1.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_忍住不哭",
+      "url": "https://i0.hdslb.com/bfs/garb/fabc0c67134c6d300a7655770685e1d8dfe99e6e.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/6aa4f46c8ba813cfa987c2af4ee75253a8ff0cdb.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/9f58052d6e30a84b6b68aea908bada6fb238d54a.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/01878e1758b96c10baf7764f69f429c529851218.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/d496a8a6ba67c4d1d20faa9866ba7a35f0d766a9.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/54633d579d0925d78a6e4ac8185160f8778409b7.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/9c2fb4baf80705f962ccc0da1f4768fc5b4bf0ab.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/a8370b18264f91eb001cecf22af2b360eeda6938.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/9199b56b157d9bd18fda8449f540bc980917e367.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_真嘟假嘟",
+      "url": "https://i0.hdslb.com/bfs/garb/6d75b971406e126064de84fd71b4e3b89009756b.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/4fcd5690a309af1b738ad66c390f5670398f2ca7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/289ca73fbfdddf929eea2bf09baebb051d02f615.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/cd0c03c04960a9f9748f99a2ff9e7d38fe8830d3.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/a2632b1b9f185d55d81cd295caeb03d9cd07e879.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/f71a29fc5eea79db79b0e78c3d626198cad6cede.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/abfe8084b60d52898ca736f7629a047d943abb3d.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/c5a0f79386f15d672d359dceda637f23da7d6ecd.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/f1f6147df631dec435606b5d315a64088681ad8b.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/1f6b611c869819fd8229186dc176a8821153ce5c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/54f7e717835d32ea09fadb722dcfd1babae69bcb.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/8a7ce07bb1a6b643b2bb28db745308ae22f26c74.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/cfe8ef94758718756d046c416c5a8b7aa1c87b91.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/a06dba4143059ab199f93d8f871d1820574c7a4a.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/2d61e975d7c5f32321a0605d24ebc1e1eaba21de.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_超美味",
+      "url": "https://i0.hdslb.com/bfs/garb/69eaf518dbe560fb94271cfeff3a87bba16eeb6c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/131240351735b30dc7bfbc24d917dd196593e74a.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/4e55bb760ccafdd52d4a7463846335accdcf06f0.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_好耶",
+      "url": "https://i0.hdslb.com/bfs/garb/2bd4ae28b37ca46e5674a9711bdc24ab3cf4573a.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/a2a8a7399eaeaea27b5df57a533f0585d72ba7bd.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/8b97b2f87b977475430506422ebb6791a4c2a567.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_超喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/29504c32ef984cad366c0f7f792ffe1306f67298.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/93c6dbae87f71b1c1c723cbd295141c03f48b088.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/77752ca0072a9f415ba084470907486e08cd01d2.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/ba5abdabda136a169bfd5b728c521ad270b47c98.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/32e7163940d23e9cebf38884a42d010669e64329.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/8b3fd371558592eba74259b7c6d7117d178bbdeb.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_怎么这样",
+      "url": "https://i0.hdslb.com/bfs/garb/b21a4a058810d47984e43ad1fc63ea2ec35471a3.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/a3d13c8d605a0d54fffb164342a39cd2b49fa441.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/461c88b25f15ef1a80ca93078ddd237b3729716a.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_困困",
+      "url": "https://i0.hdslb.com/bfs/garb/55e9706a48f1e24bb2de97a29b818f2fc100db29.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/7f34498a72fd6ede3e58387f9a7fa843ad6571f0.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/fdda2cd710048bf8adfc49e9339b0d72078479cc.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_认真",
+      "url": "https://i0.hdslb.com/bfs/garb/b44722cb0f94611f61a8d8140a2be63dfc8fc060.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/d508ee09ad749016307e3b5a35e35904a82c39ff.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/d9176f9bf983e6b0cd53771af3d0fe63d366b434.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_好累",
+      "url": "https://i0.hdslb.com/bfs/garb/7f495dab7eff0ffb7b406d628675f092a6f15913.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/81355fe5ce1f6d4661dbae9e09a3e96389bf5a41.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/89c05186b6db8839e04f07f51e0cea7a2c3ef74b.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_吓飞",
+      "url": "https://i0.hdslb.com/bfs/garb/122d1b7608c2073725c879d0ba3d3e9f4ab8886f.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/85b47e64d837fbb95c3057039bb96dc901bc39ae.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/703859d053f117a77d24ee1a10370b6c6f14bf49.webp"
+    },
+    {
+      "text": "小绿熊动态表情包_冲来",
+      "url": "https://i0.hdslb.com/bfs/garb/c3b0ac8f18b33a89ae4af14384f17d3291db3924.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/f561e3c00922b0e24a506bd43b89b0e27be94d45.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/247f9a4f81ae3508eca0229c839d34c4eaef2134.webp"
+    }
+  ]
+}
