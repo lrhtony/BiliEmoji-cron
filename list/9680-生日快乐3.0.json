@@ -1,0 +1,68 @@
+{
+  "id": 9680,
+  "text": "生日快乐3.0",
+  "icon": "https://i0.hdslb.com/bfs/garb/8c15d3d2f50cc33bf2546924557704fe879ff6ff.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "生日快乐3.0_E",
+      "url": "https://i0.hdslb.com/bfs/garb/e5c44137d349218e0fc4c48c9d7dbf05ed8a6477.png"
+    },
+    {
+      "text": "生日快乐3.0_F",
+      "url": "https://i0.hdslb.com/bfs/garb/d2e1a7fb99b610a7e978ec6b1291b4657a5d150b.png"
+    },
+    {
+      "text": "生日快乐3.0_V",
+      "url": "https://i0.hdslb.com/bfs/garb/64a3a80e5765f2dbe9f9befe63485fd5fd771dae.png"
+    },
+    {
+      "text": "生日快乐3.0_G",
+      "url": "https://i0.hdslb.com/bfs/garb/a0b981b442c3f97fbd20c403452abc3dac18abf4.png"
+    },
+    {
+      "text": "生日快乐3.0_X",
+      "url": "https://i0.hdslb.com/bfs/garb/fe0a089efb15e3eadbb2c261417d5527566886d7.png"
+    },
+    {
+      "text": "生日快乐3.0_Z",
+      "url": "https://i0.hdslb.com/bfs/garb/da67b54511562f1f31b7db5a6545227ac0de0dda.png"
+    },
+    {
+      "text": "生日快乐3.0_1",
+      "url": "https://i0.hdslb.com/bfs/garb/5c6d78b33b1ab30a43f1d781fd78ce9bbec53b72.png"
+    },
+    {
+      "text": "生日快乐3.0_2",
+      "url": "https://i0.hdslb.com/bfs/garb/7cbf42d2af134305bca2f68683a32539e54690eb.png"
+    },
+    {
+      "text": "生日快乐3.0_3",
+      "url": "https://i0.hdslb.com/bfs/garb/10dd5cb7b9407823d98d8db4b0942acee1df1a64.png"
+    },
+    {
+      "text": "生日快乐3.0_4",
+      "url": "https://i0.hdslb.com/bfs/garb/b0cb0c173dab3bb0dab1a804fd563cc7ce559974.png"
+    },
+    {
+      "text": "生日快乐3.0_5",
+      "url": "https://i0.hdslb.com/bfs/garb/8019a4131598789e39df1ba9eb60b1051b56c9a0.png"
+    },
+    {
+      "text": "生日快乐3.0_6",
+      "url": "https://i0.hdslb.com/bfs/garb/b3cfbf74abc52d63699d4042fe6d7b27baf1d995.png"
+    },
+    {
+      "text": "生日快乐3.0_7",
+      "url": "https://i0.hdslb.com/bfs/garb/d99c961904c58d653912d1664ed1fdace5554bd2.png"
+    },
+    {
+      "text": "生日快乐3.0_8",
+      "url": "https://i0.hdslb.com/bfs/garb/70d191ac37b30cfe29a097dda7ee0d4bd2cec03a.png"
+    },
+    {
+      "text": "生日快乐3.0_9",
+      "url": "https://i0.hdslb.com/bfs/garb/6b11180644bc1142e946db2a57cb0becee70755b.png"
+    }
+  ]
+}
