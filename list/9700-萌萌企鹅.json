@@ -1,0 +1,68 @@
+{
+  "id": 9700,
+  "text": "萌萌企鹅",
+  "icon": "https://i0.hdslb.com/bfs/garb/e08d59bd441c033ca9e3d96bae7a6dbdd0fb7d13.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "萌萌企鹅_企球",
+      "url": "https://i0.hdslb.com/bfs/garb/d0ff632dccc9da04dd57c437a1375f0e2f095230.png"
+    },
+    {
+      "text": "萌萌企鹅_跳舞",
+      "url": "https://i0.hdslb.com/bfs/garb/e4d0467bb359db0fbe91f1e3b6ec418ae5be7bfd.png"
+    },
+    {
+      "text": "萌萌企鹅_沉默",
+      "url": "https://i0.hdslb.com/bfs/garb/87ed9d3247879d939ed7dd19c4e1e41d07845056.png"
+    },
+    {
+      "text": "萌萌企鹅_滑行",
+      "url": "https://i0.hdslb.com/bfs/garb/e6e7fa667e1fdb20d1d463b1eaac3b03908f333a.png"
+    },
+    {
+      "text": "萌萌企鹅_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/0fbe1db6c4d57d0e94c236ac2d29ad03789b5aab.png"
+    },
+    {
+      "text": "萌萌企鹅_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/02b2ecf49839e5d1b16c3cd76968f0b930ff81f6.png"
+    },
+    {
+      "text": "萌萌企鹅_怒",
+      "url": "https://i0.hdslb.com/bfs/garb/b53bfa6c8a2fdec18a73f7813feb6ab66c47cdd8.png"
+    },
+    {
+      "text": "萌萌企鹅_说",
+      "url": "https://i0.hdslb.com/bfs/garb/7f92d6baa578dbf3b33d1b423f13154a95d8c890.png"
+    },
+    {
+      "text": "萌萌企鹅_收到",
+      "url": "https://i0.hdslb.com/bfs/garb/4b1300c9694b604523f8c0c6c8e968227f086c4a.png"
+    },
+    {
+      "text": "萌萌企鹅_展翅",
+      "url": "https://i0.hdslb.com/bfs/garb/7761fbc0d2361f1e94f7283e665718c7dae5bd56.png"
+    },
+    {
+      "text": "萌萌企鹅_走了",
+      "url": "https://i0.hdslb.com/bfs/garb/2d7e40dd3f9628c7c78e93faf98e3e84829fc072.png"
+    },
+    {
+      "text": "萌萌企鹅_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/fb2f0d86ec82240a25a2b597d79f8557ec7eb2d8.png"
+    },
+    {
+      "text": "萌萌企鹅_跑来",
+      "url": "https://i0.hdslb.com/bfs/garb/fda2f6bbf41a11adcaea7f517dff1cb1773d2690.png"
+    },
+    {
+      "text": "萌萌企鹅_飞来",
+      "url": "https://i0.hdslb.com/bfs/garb/77da31482041cd4b5c809539cf2fd20716840ae1.png"
+    },
+    {
+      "text": "萌萌企鹅_牵手",
+      "url": "https://i0.hdslb.com/bfs/garb/7cde2be64ec2aa7065b8e2b922c5d84f35261655.png"
+    }
+  ]
+}
