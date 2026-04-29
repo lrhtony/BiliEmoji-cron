@@ -1,0 +1,88 @@
+{
+  "id": 9709,
+  "text": "巴啦啦小魔仙",
+  "icon": "https://i0.hdslb.com/bfs/garb/5b2b11b11e11e3b80fc12dbeb4a5ea3068541e02.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "巴啦啦小魔仙_全对",
+      "url": "https://i0.hdslb.com/bfs/garb/b76ddabd7fb2738eabe5218d2072b7347dc61fc8.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_全错",
+      "url": "https://i0.hdslb.com/bfs/garb/15508fba6fec2b9be5e573c778a4fb48f872c6d6.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_傲娇",
+      "url": "https://i0.hdslb.com/bfs/garb/2a6f23dda800db720b6064c961c89ea473771e26.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_品鉴",
+      "url": "https://i0.hdslb.com/bfs/garb/95a97238747ee7be474f5ffb324fd8f7e25acb79.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_学习中",
+      "url": "https://i0.hdslb.com/bfs/garb/2f40a1b335d00fd7e5e075032ed1ace6a11d85ce.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_小发雷霆",
+      "url": "https://i0.hdslb.com/bfs/garb/b3f08f7cac512ab3231b86a879620412333d7ff4.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/0780abd0033b842589126dcde0c4af26871627d4.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_卖萌",
+      "url": "https://i0.hdslb.com/bfs/garb/14784d65930b1a13267785a4b8c5824b3b4321c0.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_灵机一动",
+      "url": "https://i0.hdslb.com/bfs/garb/56a745bbc007fdb47076c233e8f30145904aef14.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_困",
+      "url": "https://i0.hdslb.com/bfs/garb/6a81471925f23a756c767e40fdb665093cfa4741.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_摸摸",
+      "url": "https://i0.hdslb.com/bfs/garb/e4c80d1d56690cf4e52e5f40052b40fa604b26ea.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/7a4112e17d87ff80e9d2d35bdfbb3bbb1ac905b1.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/da41109a81a16f2e04bb7aa3a70b3620227868c5.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/5062f6734aec278828c1f62da5b690dc92780915.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_哭了",
+      "url": "https://i0.hdslb.com/bfs/garb/eb98815915280c9874bd2f8cfc3cf302d80266e8.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_石化",
+      "url": "https://i0.hdslb.com/bfs/garb/244715d1a9c9b51b26e0ee0dca4b2c9aa6325950.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_认错",
+      "url": "https://i0.hdslb.com/bfs/garb/8d94aee1fd2e346abff65d8cb082219185292321.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_魔法棒",
+      "url": "https://i0.hdslb.com/bfs/garb/55b7efe0ae412b9281a635285719b6e204578724.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_骄傲",
+      "url": "https://i0.hdslb.com/bfs/garb/43310c75b6c544f5adf4543ecf656ef6f9c8dc5e.png"
+    },
+    {
+      "text": "巴啦啦小魔仙_思考中",
+      "url": "https://i0.hdslb.com/bfs/garb/617338f33af8b62b7b991e5861d30325a7759ed8.png"
+    }
+  ]
+}
