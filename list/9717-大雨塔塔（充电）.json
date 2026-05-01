@@ -1,0 +1,20 @@
+{
+  "id": 9717,
+  "text": "大雨塔塔（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/31a44f520811f6ccc59bf940ff314e56b5ce46ca.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_477726187_你行你上",
+      "url": "https://i0.hdslb.com/bfs/garb/d44a1cbde53e7cf73d0e3f2ffd88d05a3facce84.png"
+    },
+    {
+      "text": "UPOWER_477726187_太难了",
+      "url": "https://i0.hdslb.com/bfs/garb/71be0daa5824783d95532496a45d5aea23ddc0a4.png"
+    },
+    {
+      "text": "UPOWER_477726187_领取好运",
+      "url": "https://i0.hdslb.com/bfs/garb/e8ddaa1283b3dd5a8bf9598480ea43376e2335a0.png"
+    }
+  ]
+}
