@@ -2,5 +2,97 @@
   "id": 9711,
   "text": "不可思议的龙",
   "icon": "https://i0.hdslb.com/bfs/emote/8bf11a2941cb54dc6420eacaf313ceae828d48f9.png",
-  "resource_type": 1
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "不可思议的龙_请享用",
+      "url": "https://i0.hdslb.com/bfs/emote/c777880c268e97ba5318546b90b4593da7480e11.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/6592e26c3b49ecb47d2caada2ecbb8be2f10c972.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/5c71463e78e87a0f6dc8138bcf6b513cb13259be.webp"
+    },
+    {
+      "text": "不可思议的龙_摊手",
+      "url": "https://i0.hdslb.com/bfs/emote/43fa9681298530c8a2a61887fa2a931f0bd61673.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/723a920a61f0d128b9f950dc464d35ac08ffb252.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/0b7a610dcd561654cbe0e951b5e777719cc9dbfa.webp"
+    },
+    {
+      "text": "不可思议的龙_什么",
+      "url": "https://i0.hdslb.com/bfs/emote/72c03fb2683ccc5c3e80451501edb85782496d9f.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/950a156a46cc8415f1c6daa57611a3b0c73018e4.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/dc4ad205e190f34eb54726b43f3d6f21d2c4752a.webp"
+    },
+    {
+      "text": "不可思议的龙_害羞",
+      "url": "https://i0.hdslb.com/bfs/emote/945f76d745475fe1d6a4d2caaed7da69c2b90220.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/b3162f19829e45b2c06d238c47bcca3397c74203.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/c5528f5d82ef56e05a1fc1a87c1a0e70665f0be9.webp"
+    },
+    {
+      "text": "不可思议的龙_学习",
+      "url": "https://i0.hdslb.com/bfs/emote/7911bfcada5001ead16e2eafbe71d6798652beae.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/3a2b40626a84c89e8666f5e23f0a8e8f7fa11001.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/4fcd08f15c8ba62c662b867561155d7d7f42e7d1.webp"
+    },
+    {
+      "text": "不可思议的龙_尴尬",
+      "url": "https://i0.hdslb.com/bfs/emote/5db785aeb721fa0babb6c1b6e1f2d291fd2bc6ae.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/bb852a236dcaa663e299a1bfffd53720823645b0.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/791082375277c259f9d27ff5f38b5f713e2638ed.webp"
+    },
+    {
+      "text": "不可思议的龙_生气",
+      "url": "https://i0.hdslb.com/bfs/emote/1548d403e394bafc171ecb56541dc53825edc5b7.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/0c9ad56b2181d15169e94c964d805cf7a6a580d2.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/43cd78870cccbec67dcb60d78634a1fb0bfda9e4.webp"
+    },
+    {
+      "text": "不可思议的龙_崇拜",
+      "url": "https://i0.hdslb.com/bfs/emote/c61839cd80b8a97aa4e079b1dff89cd2eee496de.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/f68cf7dfad1ab6e34dd9a7304b5553ee20b5c772.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/6f177e8be69f9aa38f1019de1dc3d11c4aca8f3a.webp"
+    },
+    {
+      "text": "不可思议的龙_瓜来了",
+      "url": "https://i0.hdslb.com/bfs/emote/9be8b255e0fe3996be9b2bf5739351be19ca891e.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/51dbded5da437bec58bed2981a07c7e0dbe060c9.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/7ea1338eb05a53c805c21385f489084a0d5889bf.webp"
+    },
+    {
+      "text": "不可思议的龙_思考",
+      "url": "https://i0.hdslb.com/bfs/emote/5d4be04f2fe21a4ad522cd8c45d3a7f1f41ce751.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/4f06d044c096686a6a8024cb640fa2b02bf9b1d4.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/3fa5702bb0514abe897a3c1d30db750cca87e41e.webp"
+    },
+    {
+      "text": "不可思议的龙_幽怨",
+      "url": "https://i0.hdslb.com/bfs/emote/deb0e961379cea66ce9fcaf5e93cec6f70257567.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/e3ae492b8090f340a69386858db43ee68b3e5913.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/71017d41642a61fc046d629b44bf8cb7d8fda14b.webp"
+    },
+    {
+      "text": "不可思议的龙_小学生",
+      "url": "https://i0.hdslb.com/bfs/emote/8bf11a2941cb54dc6420eacaf313ceae828d48f9.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/8144e3205fd9f219acf816630a5edc4c2f036a20.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/9c17a3be6838311794a2d49235c34c0fb70573bc.webp"
+    },
+    {
+      "text": "不可思议的龙_怎么回事",
+      "url": "https://i0.hdslb.com/bfs/emote/4000d033c47a5239590d934e6cee1907133cb87b.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/d6cd58ae5251b895948fcdc69e0575bf78ff2d37.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/718396d86728908b21fc2049735edf3a79b3576f.webp"
+    },
+    {
+      "text": "不可思议的龙_不行",
+      "url": "https://i0.hdslb.com/bfs/emote/df0694fb8dd7627a993693fe4464ce5f6c016cb4.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/b6e5f36ec57e29dc5d040ea20bc9c9afec8925f9.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/7be6c4ef523b1168d7e5396ff98592fb075d3437.webp"
+    },
+    {
+      "text": "不可思议的龙_你说啥",
+      "url": "https://i0.hdslb.com/bfs/emote/9fe87cfe011d18007f4241f3b8dafbe251403637.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/937ac0968ace6407926918209ebfd9bb2c1c3491.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/531db0514b0a6fa00e048654a86a8b4b384d5a99.webp"
+    }
+  ]
 }
