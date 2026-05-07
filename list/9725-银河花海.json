@@ -1,0 +1,68 @@
+{
+  "id": 9725,
+  "text": "银河花海",
+  "icon": "https://i0.hdslb.com/bfs/garb/bff8df402ecfbad959872854ae4e8e67c9e3933e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "银河花海_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/e44374731a5ac70755d40e0587704cc142e75e26.png"
+    },
+    {
+      "text": "银河花海_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/66b4c3e68ccddf9e081a73f64825f5bf2432bced.png"
+    },
+    {
+      "text": "银河花海_晕",
+      "url": "https://i0.hdslb.com/bfs/garb/ff635768499e9cd2028bbe3b72b0a84921566adf.png"
+    },
+    {
+      "text": "银河花海_暴怒",
+      "url": "https://i0.hdslb.com/bfs/garb/6cd913ecaca99308c0eb3dabc31bf631827700e6.png"
+    },
+    {
+      "text": "银河花海_突然出现",
+      "url": "https://i0.hdslb.com/bfs/garb/3804deb69d73828e306b5f3d8ec09eb289d0f340.png"
+    },
+    {
+      "text": "银河花海_潜水",
+      "url": "https://i0.hdslb.com/bfs/garb/ec52f0bcd77f778544c5e1df8f71fc6a04578056.png"
+    },
+    {
+      "text": "银河花海_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/b4dff0878993a3ce23c574ccba00ff448a877ec4.png"
+    },
+    {
+      "text": "银河花海_鼓掌",
+      "url": "https://i0.hdslb.com/bfs/garb/c0500249ce19d80c5531d5c23be141fcd2c4c3a3.png"
+    },
+    {
+      "text": "银河花海_不对",
+      "url": "https://i0.hdslb.com/bfs/garb/b17801cf5702f8c2cfd057a5165875075a0988b7.png"
+    },
+    {
+      "text": "银河花海_全对",
+      "url": "https://i0.hdslb.com/bfs/garb/4fc4c7428d086a0b785632f2b0d37775b18182c6.png"
+    },
+    {
+      "text": "银河花海_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/fc6bad368107817abff2470fe1d596d4821052b3.png"
+    },
+    {
+      "text": "银河花海_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/23c2aca99267ab0e670933a92c280e47de96a941.png"
+    },
+    {
+      "text": "银河花海_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/b9577b0a1cca4fab458e3e122be509fb10f55eb2.png"
+    },
+    {
+      "text": "银河花海_尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/08e60a2721857e7b9d3a3fcd429bc56fb2ef8067.png"
+    },
+    {
+      "text": "银河花海_无奈",
+      "url": "https://i0.hdslb.com/bfs/garb/a6fc1726a9207ab743ce77eac46f915e0b45c0b4.png"
+    }
+  ]
+}
