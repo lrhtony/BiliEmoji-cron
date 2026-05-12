@@ -1,0 +1,68 @@
+{
+  "id": 9743,
+  "text": "好多猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/f4bbf7e882621a4bc53c8595e99110e45b8ce820.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "好多猫_大厨",
+      "url": "https://i0.hdslb.com/bfs/garb/f1c3b4ec35dc8238b11d2e0b29a6416d14b9fa3f.png"
+    },
+    {
+      "text": "好多猫_吐魂",
+      "url": "https://i0.hdslb.com/bfs/garb/cb7d979a8e06d19f63bb6d1c00b334fd48774582.png"
+    },
+    {
+      "text": "好多猫_发火",
+      "url": "https://i0.hdslb.com/bfs/garb/5c0976498514cde7eff590d469d222ac926cdc5b.png"
+    },
+    {
+      "text": "好多猫_庆祝",
+      "url": "https://i0.hdslb.com/bfs/garb/b6bd17f73856eea99cde9801c0a046cb9330f391.png"
+    },
+    {
+      "text": "好多猫_试探",
+      "url": "https://i0.hdslb.com/bfs/garb/53675b63a02dcd5fc3e9e82a7c4d2adcfe5a5d34.png"
+    },
+    {
+      "text": "好多猫_羡慕",
+      "url": "https://i0.hdslb.com/bfs/garb/214d07b365c668640e16f5abe4765bc352b911ab.png"
+    },
+    {
+      "text": "好多猫_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/d16d163c4c36ac127b2ee5ff4bf771d73e0b141d.png"
+    },
+    {
+      "text": "好多猫_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/7c50ea9cc41ad1cae55e92a3b3ba5d67cf872851.png"
+    },
+    {
+      "text": "好多猫_泡澡",
+      "url": "https://i0.hdslb.com/bfs/garb/0d6076ec266bc43c0e8fcc27e396b36b188759a9.png"
+    },
+    {
+      "text": "好多猫_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/47a5d4db0237a7160d0881f65568ff58bb35667a.png"
+    },
+    {
+      "text": "好多猫_倒地",
+      "url": "https://i0.hdslb.com/bfs/garb/c298851bc36b46e5596a8aa23b3e1a0316286b32.png"
+    },
+    {
+      "text": "好多猫_微笑",
+      "url": "https://i0.hdslb.com/bfs/garb/a27c5af38551445a1ebc060d9841f982f0aa102a.png"
+    },
+    {
+      "text": "好多猫_呆滞",
+      "url": "https://i0.hdslb.com/bfs/garb/cbd22036a36e16e6ca28e8c5796c636de13febba.png"
+    },
+    {
+      "text": "好多猫_被打",
+      "url": "https://i0.hdslb.com/bfs/garb/9f75a31534888f0795d5dbcb56a2ddc96cb1ced6.png"
+    },
+    {
+      "text": "好多猫_吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/144050eb8b4810cf74c540fe4bb8dde9332d3a33.png"
+    }
+  ]
+}
