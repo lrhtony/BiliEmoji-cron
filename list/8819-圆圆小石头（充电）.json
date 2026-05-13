@@ -1,16 +1,48 @@
 {
   "id": 8819,
   "text": "圆圆小石头（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/0402f7ac42c43d5e665c186f20b9782442ca102c.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/5afb5b11fecfab3ea02161f5258c6e81324bfeed.png",
   "resource_type": 0,
   "emote": [
     {
-      "text": "UPOWER_358629230_哭哭",
-      "url": "https://i0.hdslb.com/bfs/garb/d48de48a267f4d930bd426384522adb122ff2bf5.png"
+      "text": "UPOWER_358629230_笔芯",
+      "url": "https://i0.hdslb.com/bfs/garb/2acc324f2828b52effdcddb9bb45b490fe4e8a99.png"
     },
     {
-      "text": "UPOWER_358629230_Hi",
-      "url": "https://i0.hdslb.com/bfs/garb/58e567a4268a6f2f319c41899b2e1924a6993262.png"
+      "text": "UPOWER_358629230_嚎啕大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/d0d010135e603c22e69fd27354400c3b7617f053.png"
+    },
+    {
+      "text": "UPOWER_358629230_开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/d1d9800cb659066553aee7d8a1e0ee17887e3bb3.png"
+    },
+    {
+      "text": "UPOWER_358629230_爱了爱了",
+      "url": "https://i0.hdslb.com/bfs/garb/084b6591c8086501e5f8085f7562b1ad97cbecdd.png"
+    },
+    {
+      "text": "UPOWER_358629230_吃撑了",
+      "url": "https://i0.hdslb.com/bfs/garb/471711bf1923ac02d149714f3c3533d19bf2147e.png"
+    },
+    {
+      "text": "UPOWER_358629230_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/b9ef86d81f3eddfb0a058bc72324368284bbb6ca.png"
+    },
+    {
+      "text": "UPOWER_358629230_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/abf21889e07ac5f12845376253128221dc08041d.png"
+    },
+    {
+      "text": "UPOWER_358629230_杂鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/14b0a80090a0d24049b6fef8417d1987c33153d2.png"
+    },
+    {
+      "text": "UPOWER_358629230_困困",
+      "url": "https://i0.hdslb.com/bfs/garb/1203b0304f38399884387de70aaa538a2e05e9b0.png"
+    },
+    {
+      "text": "UPOWER_358629230_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/e9f4a9a58fa806532aece3f37e337e96bca864e7.png"
     }
   ]
 }
