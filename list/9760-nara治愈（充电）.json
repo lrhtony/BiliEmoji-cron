@@ -1,0 +1,56 @@
+{
+  "id": 9760,
+  "text": "nara治愈（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/dc105912578f3b6b24d3fe29e9310d0ad68a6c30.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_1219869445_感动",
+      "url": "https://i0.hdslb.com/bfs/garb/918cf4fc9aceed617f67ba9e79b01627d10d2288.png"
+    },
+    {
+      "text": "UPOWER_1219869445_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/21eb2b2b9f1ed45c14e74c2ec5aa37419deff2c1.png"
+    },
+    {
+      "text": "UPOWER_1219869445_好棒",
+      "url": "https://i0.hdslb.com/bfs/garb/35f8b82e123032ec9011c5ed1ecf1f76b1d4cf88.png"
+    },
+    {
+      "text": "UPOWER_1219869445_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/901fd9dd971b6d5b9b843d1cd29f20182e4b148b.png"
+    },
+    {
+      "text": "UPOWER_1219869445_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/11b9d81c6724f51c17fda6f8571352054e61d2ec.png"
+    },
+    {
+      "text": "UPOWER_1219869445_哦",
+      "url": "https://i0.hdslb.com/bfs/garb/00e41fc56595e3d7c0e22d3e5af8107ea999093b.png"
+    },
+    {
+      "text": "UPOWER_1219869445_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/cc4acd5b513b059fd74f9af6d42da1eef8f6216d.png"
+    },
+    {
+      "text": "UPOWER_1219869445_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/f478e4ca6a0a0a3878cbbed67dd5e1ddaa277ca5.png"
+    },
+    {
+      "text": "UPOWER_1219869445_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/d9c5b4fe4de180165dd2b7bec956f68553bbff49.png"
+    },
+    {
+      "text": "UPOWER_1219869445_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/8fc00d2de95f6c0908dd711d6bc43368ab2860bb.png"
+    },
+    {
+      "text": "UPOWER_1219869445_听歌",
+      "url": "https://i0.hdslb.com/bfs/garb/a2eda3f1d22ec9de2c5207a214d6dfebfb2af6ab.png"
+    },
+    {
+      "text": "UPOWER_1219869445_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/0446b85852dba7e674d38408dbba335d6b70defe.png"
+    }
+  ]
+}
