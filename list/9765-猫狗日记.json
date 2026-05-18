@@ -1,0 +1,68 @@
+{
+  "id": 9765,
+  "text": "猫狗日记",
+  "icon": "https://i0.hdslb.com/bfs/garb/f5453ef97e08b15a215e8c5295d0882245cca0c2.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "猫狗日记_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/52f19dcb4a00565197e950efebf7e4db769e063f.png"
+    },
+    {
+      "text": "猫狗日记_流泪",
+      "url": "https://i0.hdslb.com/bfs/garb/2215b3a3238bf9147dac44e3ff1d3a17694afa8a.png"
+    },
+    {
+      "text": "猫狗日记_拒绝",
+      "url": "https://i0.hdslb.com/bfs/garb/864e29fd2f4d4e8d8e1e5d0ff26a312b0b85be33.png"
+    },
+    {
+      "text": "猫狗日记_ok",
+      "url": "https://i0.hdslb.com/bfs/garb/7eafde94e09607d9811fc4bd1f39fa789e422828.png"
+    },
+    {
+      "text": "猫狗日记_忙碌中",
+      "url": "https://i0.hdslb.com/bfs/garb/d7a0af9b66f1a66735ebaf37ae02bb34c07f46e2.png"
+    },
+    {
+      "text": "猫狗日记_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/d16dad14b3cbbd2988d53bc6cbaf2d3ac71cd852.png"
+    },
+    {
+      "text": "猫狗日记_捂嘴",
+      "url": "https://i0.hdslb.com/bfs/garb/3385c94471f7ea7658d26a178df75c8f64821797.png"
+    },
+    {
+      "text": "猫狗日记_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/7329a02edde5d47e5e95ed7744bf40d4c25671f0.png"
+    },
+    {
+      "text": "猫狗日记_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/f803e18a83fe67fb3142540249b90fd361e9bbfd.png"
+    },
+    {
+      "text": "猫狗日记_早",
+      "url": "https://i0.hdslb.com/bfs/garb/d85c6ebd91f303d44baa83fd01c39c89608b99ab.png"
+    },
+    {
+      "text": "猫狗日记_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/956f7a2b23a68537e1a054df338d24df396ea04c.png"
+    },
+    {
+      "text": "猫狗日记_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/f1714398772bf41e0f8279f941cb75b92647cd3e.png"
+    },
+    {
+      "text": "猫狗日记_送心心",
+      "url": "https://i0.hdslb.com/bfs/garb/094ffb51cd03df1f5358e2ffb9c8aa1cf9bc2e75.png"
+    },
+    {
+      "text": "猫狗日记_观察",
+      "url": "https://i0.hdslb.com/bfs/garb/06b3548e7e64979bbf0e15f54347366b2bde90b5.png"
+    },
+    {
+      "text": "猫狗日记_hi",
+      "url": "https://i0.hdslb.com/bfs/garb/4a3dabe34c9743cd18a0cf56bd2bf623bd7c4bce.png"
+    }
+  ]
+}
