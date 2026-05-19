@@ -1,0 +1,68 @@
+{
+  "id": 9767,
+  "text": "等待",
+  "icon": "https://i0.hdslb.com/bfs/garb/6c7911b5ba551e91a40735e9d2b388481f3b70df.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "等待_大荒囚天",
+      "url": "https://i0.hdslb.com/bfs/garb/6568fa81ae91ca811e0a23f9f9d74df4d5d7838b.png"
+    },
+    {
+      "text": "等待_掰我一口",
+      "url": "https://i0.hdslb.com/bfs/garb/98e1bf1dd70756e32ca722b07e0826ac168ccc98.png"
+    },
+    {
+      "text": "等待_拥抱",
+      "url": "https://i0.hdslb.com/bfs/garb/a593bb5de9ac08159e1255031473b5c809d08e78.png"
+    },
+    {
+      "text": "等待_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/d1102c3a4e9783dea47cef20924aa25122ff8b96.png"
+    },
+    {
+      "text": "等待_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/b6bfa28dc8369d7149fb81f2b74bb21ef06c9503.png"
+    },
+    {
+      "text": "等待_听八卦",
+      "url": "https://i0.hdslb.com/bfs/garb/ff9bfeb04b24fd7fee186ce57476a1576d723cb5.png"
+    },
+    {
+      "text": "等待_心虚",
+      "url": "https://i0.hdslb.com/bfs/garb/4be22aede16e628b7731c061030fb48c6fc3ec42.png"
+    },
+    {
+      "text": "等待_欣赏",
+      "url": "https://i0.hdslb.com/bfs/garb/b98081bbe28561a9bcfbf299f46f1464c46ad177.png"
+    },
+    {
+      "text": "等待_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/aebb356267e7ae8ff6e1ea8ee76715566c73c4ff.png"
+    },
+    {
+      "text": "等待_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/8b040d6d9f05203f4e72893254ade6e6ccfa4833.png"
+    },
+    {
+      "text": "等待_乖巧",
+      "url": "https://i0.hdslb.com/bfs/garb/7cbf9b4fe0372758df22ed05a787b0d4236c2dba.png"
+    },
+    {
+      "text": "等待_代码冲突",
+      "url": "https://i0.hdslb.com/bfs/garb/f0716c0bac060e9d784da0d60f26daf509a9654c.png"
+    },
+    {
+      "text": "等待_揣手手",
+      "url": "https://i0.hdslb.com/bfs/garb/ddbcd666fe17d5343e1d448dcb316b77faada8cc.png"
+    },
+    {
+      "text": "等待_馋猫",
+      "url": "https://i0.hdslb.com/bfs/garb/5fd7eadf7fb05f78832b833d79863a66c72041e8.png"
+    },
+    {
+      "text": "等待_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/d9fec46bea9a48a69bd1cdf10999db7a914639e6.png"
+    }
+  ]
+}
