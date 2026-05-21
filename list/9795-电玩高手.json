@@ -1,0 +1,88 @@
+{
+  "id": 9795,
+  "text": "电玩高手",
+  "icon": "https://i0.hdslb.com/bfs/garb/26d835a4e50a8daa78228ab7dd46f34e62210eb0.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "电玩高手_加载",
+      "url": "https://i0.hdslb.com/bfs/garb/1f1f5977cf99ce8b4a54ad296ece159601b25ed7.png"
+    },
+    {
+      "text": "电玩高手_三连",
+      "url": "https://i0.hdslb.com/bfs/garb/f1a5d56ff7bc7cb824f7a2bf875213f36c9b59f2.png"
+    },
+    {
+      "text": "电玩高手_呆",
+      "url": "https://i0.hdslb.com/bfs/garb/ee1d2b14feac00a1251c2a9d769cc5bea6c5cf70.png"
+    },
+    {
+      "text": "电玩高手_吐舌鬼脸",
+      "url": "https://i0.hdslb.com/bfs/garb/fabc6025ae2076d42beb1de4bda86205d6484210.png"
+    },
+    {
+      "text": "电玩高手_卖萌",
+      "url": "https://i0.hdslb.com/bfs/garb/f6778e10317546f2e7d3105d3d10e65d65c15a7f.png"
+    },
+    {
+      "text": "电玩高手_我招了",
+      "url": "https://i0.hdslb.com/bfs/garb/be0d2c45c24d913736e908c2e8b58d55e6a11660.png"
+    },
+    {
+      "text": "电玩高手_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/b67c031de9e0f784001fdb0bbef723dde70a601d.png"
+    },
+    {
+      "text": "电玩高手_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/630a82a611df678caa3b0b34a4440b503a82e125.png"
+    },
+    {
+      "text": "电玩高手_急了？",
+      "url": "https://i0.hdslb.com/bfs/garb/cd470a9f4bb1335aece9f1c3eb7a03bbe5b39ea7.png"
+    },
+    {
+      "text": "电玩高手_支持",
+      "url": "https://i0.hdslb.com/bfs/garb/4305b392a4410407f6a4dcbe155580f6c2eca3c3.png"
+    },
+    {
+      "text": "电玩高手_拜托了...",
+      "url": "https://i0.hdslb.com/bfs/garb/5635e8d1c58b442f96527ebc4807a6051c307cd0.png"
+    },
+    {
+      "text": "电玩高手_收到",
+      "url": "https://i0.hdslb.com/bfs/garb/17499645c4772e8e840d3e3cd0796190e5d3b30a.png"
+    },
+    {
+      "text": "电玩高手_躺了",
+      "url": "https://i0.hdslb.com/bfs/garb/e8a4f2b98119fc29ce017377a69646e92c937701.png"
+    },
+    {
+      "text": "电玩高手_腹黑",
+      "url": "https://i0.hdslb.com/bfs/garb/33c6944b7f9783ff4cbe5d5e041a7de7ff5f4337.png"
+    },
+    {
+      "text": "电玩高手_紧张",
+      "url": "https://i0.hdslb.com/bfs/garb/50a3550527e9e38ed8e7b40cad84a8235d36529d.png"
+    },
+    {
+      "text": "电玩高手_？？？",
+      "url": "https://i0.hdslb.com/bfs/garb/71df39e574e6dbd62a877c08b8d499c83d2e89ed.png"
+    },
+    {
+      "text": "电玩高手_豪次！",
+      "url": "https://i0.hdslb.com/bfs/garb/1c2a2e1e869b5b6be7576a5b0b32727b7e8e15a7.png"
+    },
+    {
+      "text": "电玩高手_盯~",
+      "url": "https://i0.hdslb.com/bfs/garb/4da21ddfaa2cbe8101cc363259949185de909282.png"
+    },
+    {
+      "text": "电玩高手_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/2b4b6796b4e80692b2ac69b790498010ecc79cb7.png"
+    },
+    {
+      "text": "电玩高手_闪亮登场",
+      "url": "https://i0.hdslb.com/bfs/garb/b34788619ef441fd56ca5f0abc0940fd553fe823.png"
+    }
+  ]
+}
