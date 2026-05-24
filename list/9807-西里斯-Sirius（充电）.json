@@ -1,0 +1,48 @@
+{
+  "id": 9807,
+  "text": "西里斯-Sirius（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/cf1304014ad84b4e945f4d1636f0780ade39b8b0.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_11067472_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/2285d50c200608d425297f60a82308b648eba288.png"
+    },
+    {
+      "text": "UPOWER_11067472_不行",
+      "url": "https://i0.hdslb.com/bfs/garb/29d9b3cbdbebde56fca23f7fe000851cea78cf7b.png"
+    },
+    {
+      "text": "UPOWER_11067472_叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/6a57fa79e1cac595759b93b54cd1f2293d5623bc.png"
+    },
+    {
+      "text": "UPOWER_11067472_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/705a1b9f46bb725f388dcd8ac058ed655a4e03e8.png"
+    },
+    {
+      "text": "UPOWER_11067472_小",
+      "url": "https://i0.hdslb.com/bfs/garb/9a3fb33af8b505c3bdd8432f11744b7763336fa1.png"
+    },
+    {
+      "text": "UPOWER_11067472_猫",
+      "url": "https://i0.hdslb.com/bfs/garb/d94d794358436e0b5eeb01a3e8ee8b53ef14f692.png"
+    },
+    {
+      "text": "UPOWER_11067472_超",
+      "url": "https://i0.hdslb.com/bfs/garb/f5d3942ce52fad5687621b61073d092b33a72964.png"
+    },
+    {
+      "text": "UPOWER_11067472_给",
+      "url": "https://i0.hdslb.com/bfs/garb/1e69ee5bfd66366c179297e03969c9f476da6024.png"
+    },
+    {
+      "text": "UPOWER_11067472_力",
+      "url": "https://i0.hdslb.com/bfs/garb/021073021b735e3030b87ee8f0d2598c3acc63d5.png"
+    },
+    {
+      "text": "UPOWER_11067472_我",
+      "url": "https://i0.hdslb.com/bfs/garb/0b3796a4f7ecfa34294c4316049a1466e6a468df.png"
+    }
+  ]
+}
