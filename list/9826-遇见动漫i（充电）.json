@@ -1,0 +1,60 @@
+{
+  "id": 9826,
+  "text": "遇见动漫i（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/35936d770dcb38367cacdaef700a676b5c5b966e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_3546730817653097_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/2055d2d0376c824b724fd02e2d20f38cbcfedcef.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_眨眼",
+      "url": "https://i0.hdslb.com/bfs/garb/91a677183c1fcb4e9ac0cb79a0d898a1269afce1.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/bd1eac951cd8c4d18f414602c92b375dae390a6b.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_满意",
+      "url": "https://i0.hdslb.com/bfs/garb/a3e8d46fd6623991077bad1c6edc8390e61587b7.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/f661ec55d4126125340594f52e35ac5773082de1.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/8d214ac675cac6551ad587964d199d4e5c30d596.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/4349a005d5bc9902a8494b9528e47030c1a177be.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_吓",
+      "url": "https://i0.hdslb.com/bfs/garb/42c6eb7f0b3d2434f2b3c1cde59859cb9e101156.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/cc44063f29777a0e68b74f2b1c0905a7d9b016d9.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_呆",
+      "url": "https://i0.hdslb.com/bfs/garb/66fd65b594b598d0f627b521e689687953e7b556.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_严肃",
+      "url": "https://i0.hdslb.com/bfs/garb/90302495497a16e31480acc07fba2ec3ca989fbd.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_不满",
+      "url": "https://i0.hdslb.com/bfs/garb/85d35cee2c0e348f456b2f68f557afcef8509c01.png"
+    },
+    {
+      "text": "UPOWER_3546730817653097_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/b5caaae812e9c64bd2a977d903187c0ed668d457.png"
+    }
+  ]
+}
