@@ -1,0 +1,88 @@
+{
+  "id": 9836,
+  "text": "anko表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/ae8fd71755152173999de9dca28e081df17b7311.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "anko表情包_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/83185a87f77a658a14d1315b485a11e78b654c2f.png"
+    },
+    {
+      "text": "anko表情包_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/d66b407c261d8f5d72f9e2d736f0650a6d062f5a.png"
+    },
+    {
+      "text": "anko表情包_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/c0da750628c5e03b2ec86517bc7891bbe3d4c8cf.png"
+    },
+    {
+      "text": "anko表情包_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/dc34f00560be7fcb785de3548adf03e6490c2d93.png"
+    },
+    {
+      "text": "anko表情包_老板大气",
+      "url": "https://i0.hdslb.com/bfs/garb/b0c4dd45c3ea1ec374ca9aa04c40ad4cff0d7f01.png"
+    },
+    {
+      "text": "anko表情包_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/f5735c90ac459b728764d016329919fdb317c119.png"
+    },
+    {
+      "text": "anko表情包_哦内该",
+      "url": "https://i0.hdslb.com/bfs/garb/8879c5c5a27ee89cafc8cf0fcb76703ae8235e7a.png"
+    },
+    {
+      "text": "anko表情包_躺倒",
+      "url": "https://i0.hdslb.com/bfs/garb/e59ee9e28ac4bce051841ecfe07b3ae4a4d1d308.png"
+    },
+    {
+      "text": "anko表情包_晚an",
+      "url": "https://i0.hdslb.com/bfs/garb/07ff6a47ef10b58924d9bfff6f77f2bc41afc60e.png"
+    },
+    {
+      "text": "anko表情包_呀咩咯",
+      "url": "https://i0.hdslb.com/bfs/garb/2e785f15ab868405d487352775e3bd85854335c2.png"
+    },
+    {
+      "text": "anko表情包_这里喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/97620bba05469e3edd6cf99997f6fa169dc63a6d.png"
+    },
+    {
+      "text": "anko表情包_猪脑过载",
+      "url": "https://i0.hdslb.com/bfs/garb/b33b99df76338c5aadd42b5e2a7e846e42061bc9.png"
+    },
+    {
+      "text": "anko表情包_拜拜喵",
+      "url": "https://i0.hdslb.com/bfs/garb/deecff609f78b2274ab20dd6a2da5861531e068d.png"
+    },
+    {
+      "text": "anko表情包_充能中",
+      "url": "https://i0.hdslb.com/bfs/garb/cc95b488e431151294bfca933ea4df0bb2192eab.png"
+    },
+    {
+      "text": "anko表情包_对不起",
+      "url": "https://i0.hdslb.com/bfs/garb/0ec35568f5e77aedd2ca25929b9f1f6c4dae866c.png"
+    },
+    {
+      "text": "anko表情包_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/27e8b8aa406f427ba4f5c9295c679ac3967b6b17.png"
+    },
+    {
+      "text": "anko表情包_结婚",
+      "url": "https://i0.hdslb.com/bfs/garb/115d129b2981109e789f5736f6ebf137b2903098.png"
+    },
+    {
+      "text": "anko表情包_弱小",
+      "url": "https://i0.hdslb.com/bfs/garb/dbc0a603e3d7cd9dd16d0748e8849f2b1c2dbbfa.png"
+    },
+    {
+      "text": "anko表情包_谢谢",
+      "url": "https://i0.hdslb.com/bfs/garb/d3e8c42e92ec096c6605a00ffec00fcf020dc32c.png"
+    },
+    {
+      "text": "anko表情包_冷脸萌",
+      "url": "https://i0.hdslb.com/bfs/garb/e02341bbeb6a91567dc7f6ed7c15ac889bdd3cf1.png"
+    }
+  ]
+}
