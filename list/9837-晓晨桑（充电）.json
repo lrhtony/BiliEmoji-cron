@@ -1,0 +1,40 @@
+{
+  "id": 9837,
+  "text": "晓晨桑（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/cae2c5ec2c2faa4db3f2d5cac92b9503365e50e9.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_74679957_哈气",
+      "url": "https://i0.hdslb.com/bfs/garb/76e3a0ee0d2b1bd3b8e8df69370a642bd9e6547a.png"
+    },
+    {
+      "text": "UPOWER_74679957_三连",
+      "url": "https://i0.hdslb.com/bfs/garb/b2e78f0ed839215719c108b28a2d7a51df715ceb.png"
+    },
+    {
+      "text": "UPOWER_74679957_汗颜",
+      "url": "https://i0.hdslb.com/bfs/garb/f1c60b44ba5a318a10f7e4e89896542550ca623a.png"
+    },
+    {
+      "text": "UPOWER_74679957_我慌了",
+      "url": "https://i0.hdslb.com/bfs/garb/6f12ae4a93401ebbd7470c5ec58f4c040776314e.png"
+    },
+    {
+      "text": "UPOWER_74679957_就这",
+      "url": "https://i0.hdslb.com/bfs/garb/0eec1dc06e8136a49ad064f3e0f247e2f4ac372c.png"
+    },
+    {
+      "text": "UPOWER_74679957_破防了",
+      "url": "https://i0.hdslb.com/bfs/garb/430cfb01449ad667ed8551221303655fb06b76e8.png"
+    },
+    {
+      "text": "UPOWER_74679957_绷不住了",
+      "url": "https://i0.hdslb.com/bfs/garb/f93e7888df1d402c946f13f581a1a7e627ba5c41.png"
+    },
+    {
+      "text": "UPOWER_74679957_唉嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/ef7d2f900b32c4e8cc481a98c4addd87c1664b13.png"
+    }
+  ]
+}
