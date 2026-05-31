@@ -1,0 +1,48 @@
+{
+  "id": 9841,
+  "text": "九重紫Official（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/afd5c3a1b9530309cbafd5dd45b13caed28f66e5.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_225347042_臭",
+      "url": "https://i0.hdslb.com/bfs/garb/af6f13b636cf348ec81292eb05b92ebd550600b6.png"
+    },
+    {
+      "text": "UPOWER_225347042_三连",
+      "url": "https://i0.hdslb.com/bfs/garb/903fb0d43433f2f53b290e8e9c9b0d4a0de12885.png"
+    },
+    {
+      "text": "UPOWER_225347042_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/e98cc33b7ece25e9d025019280df8a14923c2291.png"
+    },
+    {
+      "text": "UPOWER_225347042_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/29bdd20143a048d43e14dd0e00801aa1deca4177.png"
+    },
+    {
+      "text": "UPOWER_225347042_呃",
+      "url": "https://i0.hdslb.com/bfs/garb/f94bc59993adba98b0763366759b13c8420dfa49.png"
+    },
+    {
+      "text": "UPOWER_225347042_红包",
+      "url": "https://i0.hdslb.com/bfs/garb/8139d2e4ff3236c7a6ab23776d67cc5f89426b0b.png"
+    },
+    {
+      "text": "UPOWER_225347042_舒服了",
+      "url": "https://i0.hdslb.com/bfs/garb/c58d6b78db76e3afc653feb1dc7d31ceebf44c0b.png"
+    },
+    {
+      "text": "UPOWER_225347042_贴",
+      "url": "https://i0.hdslb.com/bfs/garb/06dca3cd309b01e1a57c3a0607ddfb754943648b.png"
+    },
+    {
+      "text": "UPOWER_225347042_NO",
+      "url": "https://i0.hdslb.com/bfs/garb/1fcda8daae8228509c00822f2c827c33cf5864e0.png"
+    },
+    {
+      "text": "UPOWER_225347042_在下面",
+      "url": "https://i0.hdslb.com/bfs/garb/e261625cd53d1dc6cbfe65cdf375a2403830348e.png"
+    }
+  ]
+}
