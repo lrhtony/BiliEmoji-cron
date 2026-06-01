@@ -1,0 +1,68 @@
+{
+  "id": 9855,
+  "text": "人造天使",
+  "icon": "https://i0.hdslb.com/bfs/garb/020738cad864c6b7efc3271bf2541e056d173515.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "人造天使_偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/1e142a901f528a21dbeb058e75c6e03f715cac52.png"
+    },
+    {
+      "text": "人造天使_闪耀",
+      "url": "https://i0.hdslb.com/bfs/garb/6accd1f1048d8cbaa21c9aa5ea17ef9ed8bd82d7.png"
+    },
+    {
+      "text": "人造天使_唱歌",
+      "url": "https://i0.hdslb.com/bfs/garb/278abf68b01a0f57f69394fa72417924f91bdbbc.png"
+    },
+    {
+      "text": "人造天使_暗鲨",
+      "url": "https://i0.hdslb.com/bfs/garb/d93dd338cd91460e1f468fc41b0281173dcf003b.png"
+    },
+    {
+      "text": "人造天使_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/057b70169e5a793f5353fc8448272686c79379ff.png"
+    },
+    {
+      "text": "人造天使_啃啃",
+      "url": "https://i0.hdslb.com/bfs/garb/afcf792a9105af57e93dbf6e7bee28adfd688444.png"
+    },
+    {
+      "text": "人造天使_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/dd55a4871d49899ae4d15a7aa548cc8994a1add5.png"
+    },
+    {
+      "text": "人造天使_握拳",
+      "url": "https://i0.hdslb.com/bfs/garb/bd52c00a0ce862266d811c9e57aa0b18291f7ef9.png"
+    },
+    {
+      "text": "人造天使_可怜",
+      "url": "https://i0.hdslb.com/bfs/garb/39d4956788895a8b03f75d4d6ae48d34c4031dae.png"
+    },
+    {
+      "text": "人造天使_馋",
+      "url": "https://i0.hdslb.com/bfs/garb/cad3bacf7c43951cd761724d7945fd754922679c.png"
+    },
+    {
+      "text": "人造天使_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/b20fb1928b6b339c037446832563b44747c4ae37.png"
+    },
+    {
+      "text": "人造天使_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/5a8cd83774ca3f8a0a56f4f18e5f4a4c95f3c5b8.png"
+    },
+    {
+      "text": "人造天使_害怕",
+      "url": "https://i0.hdslb.com/bfs/garb/d66a22b2a7918333339ee1358d0a479b2226b39d.png"
+    },
+    {
+      "text": "人造天使_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/ab08b491754be50bfa284d804c8d46bb6ccb8a92.png"
+    },
+    {
+      "text": "人造天使_苦恼",
+      "url": "https://i0.hdslb.com/bfs/garb/99f4423a5b6f374f41a5f1295b177c89cb4553ea.png"
+    }
+  ]
+}
