@@ -1,7 +1,7 @@
 {
   "id": 1844,
   "text": "恬欣欣的成长日记（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/687a07aaa5768247e334fc93f0b57e3530cb67fc.jpg",
+  "icon": "https://i0.hdslb.com/bfs/garb/b88a98489ae3cd1ec3832b9c352a1223d3b0092d.png",
   "resource_type": 0,
   "emote": [
     {
@@ -43,6 +43,46 @@
     {
       "text": "UPOWER_2804493_点赞",
       "url": "https://i0.hdslb.com/bfs/garb/b7db2f489b77c4117a9ef1d0524f4934b239b4df.png"
+    },
+    {
+      "text": "UPOWER_2804493_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/cfc5b2c4b711448cb5395c45e99f43ef0fb11380.png"
+    },
+    {
+      "text": "UPOWER_2804493_飞吻",
+      "url": "https://i0.hdslb.com/bfs/garb/9dfba4d463469c9e140095b88a8b0e09db621b2f.png"
+    },
+    {
+      "text": "UPOWER_2804493_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/1f39e8a6c99a9613ecd4596f45bf27771433a8ef.png"
+    },
+    {
+      "text": "UPOWER_2804493_跳舞",
+      "url": "https://i0.hdslb.com/bfs/garb/c96993b3b631c373c40addeb035f651bf9c421d5.png"
+    },
+    {
+      "text": "UPOWER_2804493_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/7ed2a099352625eb459f60b70f58f8f15654288f.png"
+    },
+    {
+      "text": "UPOWER_2804493_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/f5b37f0f9d272eff24165ffd63bd6170a7152a5e.png"
+    },
+    {
+      "text": "UPOWER_2804493_崇拜",
+      "url": "https://i0.hdslb.com/bfs/garb/ed2e1c2435597739d9a50cc58e5eb14a75396ed9.png"
+    },
+    {
+      "text": "UPOWER_2804493_嗨",
+      "url": "https://i0.hdslb.com/bfs/garb/7b02f09dde8ea2ede12b53406a5fa299f9f9493e.png"
+    },
+    {
+      "text": "UPOWER_2804493_亲亲",
+      "url": "https://i0.hdslb.com/bfs/garb/81343f7de0b93ee707fe17ab1fec09c4872dccb6.png"
+    },
+    {
+      "text": "UPOWER_2804493_庆祝",
+      "url": "https://i0.hdslb.com/bfs/garb/2d4f95f2c8e9b2dc30ef368ed5fc1b404d5183b1.png"
     }
   ]
 }
