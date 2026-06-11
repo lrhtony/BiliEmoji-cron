@@ -1,0 +1,36 @@
+{
+  "id": 9900,
+  "text": "软喵动漫-西瓜冻冻（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/fe38b26c3b3db58e5e3d8f97d8b263ec2c4e6385.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_176913893_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/868f4569b646a7f18dba2d7f41e688ab40cc4ecc.png"
+    },
+    {
+      "text": "UPOWER_176913893_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/0459b76c8fe47512191deb0309d2ea354be565ef.png"
+    },
+    {
+      "text": "UPOWER_176913893_吃手指",
+      "url": "https://i0.hdslb.com/bfs/garb/32176a2fbe2ce1cf315f1826bef8f02b6c1fa8b6.png"
+    },
+    {
+      "text": "UPOWER_176913893_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/d0552ce7e712a9b77c14bd639aa3ec9f72a09d19.png"
+    },
+    {
+      "text": "UPOWER_176913893_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/a790060ba59e2343be3ad00b19754995e45ef94c.png"
+    },
+    {
+      "text": "UPOWER_176913893_学习",
+      "url": "https://i0.hdslb.com/bfs/garb/249169035e71da98da01b8d46d6ea9a595f06f5b.png"
+    },
+    {
+      "text": "UPOWER_176913893_卖萌",
+      "url": "https://i0.hdslb.com/bfs/garb/41b5f74810b3c49e1686518353b0f4dd58145751.png"
+    }
+  ]
+}
