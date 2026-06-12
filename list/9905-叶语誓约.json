@@ -1,0 +1,108 @@
+{
+  "id": 9905,
+  "text": "叶语誓约",
+  "icon": "https://i0.hdslb.com/bfs/garb/390266c0ab638cf699e7037b5884de74ca18243b.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "叶语誓约_正确",
+      "url": "https://i0.hdslb.com/bfs/garb/2b9a5bfe7d312612f5c7a75ea3e6f93c66c9a5a2.png"
+    },
+    {
+      "text": "叶语誓约_错误",
+      "url": "https://i0.hdslb.com/bfs/garb/b907fbbeef2dd1acf0fa9bf0bdbd0754d0529dbd.png"
+    },
+    {
+      "text": "叶语誓约_指",
+      "url": "https://i0.hdslb.com/bfs/garb/8577a0baddd2d952cbdf544bde95b22313262bbd.png"
+    },
+    {
+      "text": "叶语誓约_别闹",
+      "url": "https://i0.hdslb.com/bfs/garb/30ae57aa7ead773a4df85a697d8905d901f0a9a3.png"
+    },
+    {
+      "text": "叶语誓约_满头小汗",
+      "url": "https://i0.hdslb.com/bfs/garb/07704492355129da1220861ecb7008b5506f8123.png"
+    },
+    {
+      "text": "叶语誓约_恍然小悟",
+      "url": "https://i0.hdslb.com/bfs/garb/05adb4adf6904b07fd0022dfde3cf1ea98f0bd83.png"
+    },
+    {
+      "text": "叶语誓约_勃然小怒",
+      "url": "https://i0.hdslb.com/bfs/garb/26bea6b788110be30bda23dcddbb8c0c251ad5ad.png"
+    },
+    {
+      "text": "叶语誓约_狐疑",
+      "url": "https://i0.hdslb.com/bfs/garb/0e212d7f50460d1543a69fb5edce1a11d08b4815.png"
+    },
+    {
+      "text": "叶语誓约_没招了",
+      "url": "https://i0.hdslb.com/bfs/garb/6c69210bc20fe08236942f26decc373ed82fc581.png"
+    },
+    {
+      "text": "叶语誓约_坏掉了",
+      "url": "https://i0.hdslb.com/bfs/garb/7b5f91f21ec6d6fcc9e1b903aebd4dc8d27a1307.png"
+    },
+    {
+      "text": "叶语誓约_暗示",
+      "url": "https://i0.hdslb.com/bfs/garb/b8fd3b3ce031573d6663819dca35da0de35b1471.png"
+    },
+    {
+      "text": "叶语誓约_好评",
+      "url": "https://i0.hdslb.com/bfs/garb/6bb27dc9aa22ae6addf88c4627228bce51fd2ea7.png"
+    },
+    {
+      "text": "叶语誓约_找人弄你",
+      "url": "https://i0.hdslb.com/bfs/garb/c1586c9dda6cd279991c375c02646139309d6ef5.png"
+    },
+    {
+      "text": "叶语誓约_什么意思",
+      "url": "https://i0.hdslb.com/bfs/garb/cc47450060282f3cc7e247fbb28ef7c9fb8c1596.png"
+    },
+    {
+      "text": "叶语誓约_捂嘴",
+      "url": "https://i0.hdslb.com/bfs/garb/1ff6434835654dc572b3e11ba68f55ba33753c79.png"
+    },
+    {
+      "text": "叶语誓约_美味",
+      "url": "https://i0.hdslb.com/bfs/garb/45ea2a97bbafb00f63854c58da7c379106e957a5.png"
+    },
+    {
+      "text": "叶语誓约_表白",
+      "url": "https://i0.hdslb.com/bfs/garb/af61825daa4787bde55e60ccbe2452b9d884780e.png"
+    },
+    {
+      "text": "叶语誓约_幸福",
+      "url": "https://i0.hdslb.com/bfs/garb/b12a880b1a2fda6a51e4b28945572494b2e40600.png"
+    },
+    {
+      "text": "叶语誓约_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/62e1988c77fd7690b02b05353917930e329a0a70.png"
+    },
+    {
+      "text": "叶语誓约_不在",
+      "url": "https://i0.hdslb.com/bfs/garb/8dd63d9a7caf453c830319aec85e11e0202049ae.png"
+    },
+    {
+      "text": "叶语誓约_裂开",
+      "url": "https://i0.hdslb.com/bfs/garb/9671b52c3e6af7e607c600d7f477b2c9d086dc56.png"
+    },
+    {
+      "text": "叶语誓约_急哭",
+      "url": "https://i0.hdslb.com/bfs/garb/2b4c7cfa7045623d7563385cc3561929c3042f64.png"
+    },
+    {
+      "text": "叶语誓约_溜溜梅",
+      "url": "https://i0.hdslb.com/bfs/garb/bf0ace7e731ea13a53c8f21c7bbdae84c7a42102.png"
+    },
+    {
+      "text": "叶语誓约_怎么",
+      "url": "https://i0.hdslb.com/bfs/garb/fe4a31544f8991da01ca700d9c11722795a27db1.png"
+    },
+    {
+      "text": "叶语誓约_问题不大",
+      "url": "https://i0.hdslb.com/bfs/garb/653071e4f9343477d1fe350cbfe19b4e70193635.png"
+    }
+  ]
+}
