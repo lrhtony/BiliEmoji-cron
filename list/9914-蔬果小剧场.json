@@ -1,0 +1,68 @@
+{
+  "id": 9914,
+  "text": "蔬果小剧场",
+  "icon": "https://i0.hdslb.com/bfs/garb/135165f1187397bb9b8fccac64935c51c60246ce.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "蔬果小剧场_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/224e8e3261f2b8b9ce096f3aa258ce656f4061a7.png"
+    },
+    {
+      "text": "蔬果小剧场_得过茄过",
+      "url": "https://i0.hdslb.com/bfs/garb/94a0955bafc65434dfdd46e84ab5515edbd550de.png"
+    },
+    {
+      "text": "蔬果小剧场_累了",
+      "url": "https://i0.hdslb.com/bfs/garb/d645440de62a148f82aa5c011032d230b55d9f18.png"
+    },
+    {
+      "text": "蔬果小剧场_太卷了",
+      "url": "https://i0.hdslb.com/bfs/garb/9162259ec32a0034f2cb15dac95885850ee9f631.png"
+    },
+    {
+      "text": "蔬果小剧场_多笋",
+      "url": "https://i0.hdslb.com/bfs/garb/0e49a98cafa1bef7b8c148290c521921545bdb98.png"
+    },
+    {
+      "text": "蔬果小剧场_比个耶",
+      "url": "https://i0.hdslb.com/bfs/garb/de44c8a616ab9eb4af636d55840568b9878a5544.png"
+    },
+    {
+      "text": "蔬果小剧场_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/d827398d96ea375641ffe65f39c60f2bc7161b07.png"
+    },
+    {
+      "text": "蔬果小剧场_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/ee827f50cad0feb6ea76c283f0810d506c634e31.png"
+    },
+    {
+      "text": "蔬果小剧场_来财",
+      "url": "https://i0.hdslb.com/bfs/garb/ee4460502ec05699bc36ea2222499174358d6ff4.png"
+    },
+    {
+      "text": "蔬果小剧场_贪吃",
+      "url": "https://i0.hdslb.com/bfs/garb/b45cab74609c57025efd6d0227508895907e376e.png"
+    },
+    {
+      "text": "蔬果小剧场_看戏",
+      "url": "https://i0.hdslb.com/bfs/garb/7b1a4bb6fc8245c414d002e6c5c3c63f54b23f9e.png"
+    },
+    {
+      "text": "蔬果小剧场_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/418adc7a52b48a76a9c2d82ad9e4f877548be457.png"
+    },
+    {
+      "text": "蔬果小剧场_你算哪根葱",
+      "url": "https://i0.hdslb.com/bfs/garb/7b6437c0026f440a9fb348f44e6dfed97d136746.png"
+    },
+    {
+      "text": "蔬果小剧场_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/0180ba6f68d07433dd6668956951fc07539801ae.png"
+    },
+    {
+      "text": "蔬果小剧场_摇摆",
+      "url": "https://i0.hdslb.com/bfs/garb/d5508875cd9cbbc10223087ba53216cba6d482cd.png"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 9913,
+  "text": "苹果小猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/a0f43bec0e56dc764573664ba7c7e4d76cedc747.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "苹果小猫_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/0905c1365d39ddfe323cb28b6cf08243003a21d6.png"
+    },
+    {
+      "text": "苹果小猫_撒娇",
+      "url": "https://i0.hdslb.com/bfs/garb/9357986b05715c9dd8b2c29c3c3d3f608ceea699.png"
+    },
+    {
+      "text": "苹果小猫_来啦",
+      "url": "https://i0.hdslb.com/bfs/garb/926e2e0565eb453cf07ef065462b755d72bcdc61.png"
+    },
+    {
+      "text": "苹果小猫_睡啦",
+      "url": "https://i0.hdslb.com/bfs/garb/33e6624cf7b43d59f88df7ea165b29666923b184.png"
+    },
+    {
+      "text": "苹果小猫_嗯嗯",
+      "url": "https://i0.hdslb.com/bfs/garb/51a23d547a66a5edc6726b1dd43dfda8ef3dafa8.png"
+    },
+    {
+      "text": "苹果小猫_小猫",
+      "url": "https://i0.hdslb.com/bfs/garb/c2531b565833c69c421d7ae0fb45f43612e34d52.png"
+    },
+    {
+      "text": "苹果小猫_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/9a5a5fb4cb06d363f944d936e89ea5eab15d5f97.png"
+    },
+    {
+      "text": "苹果小猫_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/8a3a3851f0cce007879222e9204378c2e309da01.png"
+    },
+    {
+      "text": "苹果小猫_Hi",
+      "url": "https://i0.hdslb.com/bfs/garb/e3149f4430428706c14cb3be64188d625f431f62.png"
+    },
+    {
+      "text": "苹果小猫_苹果小猫",
+      "url": "https://i0.hdslb.com/bfs/garb/d10e34d0685f83244b9fe6a292b16a29b2b6e3cd.png"
+    },
+    {
+      "text": "苹果小猫_购物",
+      "url": "https://i0.hdslb.com/bfs/garb/8cb37341332cedb6b1e7637b1e24565fc3224818.png"
+    },
+    {
+      "text": "苹果小猫_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/bb001a58bc08b57f76fd75d458db7065d312a1b9.png"
+    },
+    {
+      "text": "苹果小猫_苹果",
+      "url": "https://i0.hdslb.com/bfs/garb/12a185a3e7c3dcd6654e23d947fcea805152596c.png"
+    },
+    {
+      "text": "苹果小猫_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/8089aa20832a540409aa81618d6aebabfb21836f.png"
+    },
+    {
+      "text": "苹果小猫_咖啡",
+      "url": "https://i0.hdslb.com/bfs/garb/a63e64459e7eeb6f0586d6cf91fb8a00b51babbb.png"
+    }
+  ]
+}
