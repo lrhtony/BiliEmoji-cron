@@ -1,0 +1,68 @@
+{
+  "id": 9926,
+  "text": "小猫乐队",
+  "icon": "https://i0.hdslb.com/bfs/garb/6c6a2aada871854234d75b476f5a2e839b2883d7.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "小猫乐队_听歌",
+      "url": "https://i0.hdslb.com/bfs/garb/be08ea3f31bff444a6b44828636330a8daf5444a.png"
+    },
+    {
+      "text": "小猫乐队_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/dc0b45d1b4fc5f363d8a454f828b98a1e629024f.png"
+    },
+    {
+      "text": "小猫乐队_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/e8dbfe9df1d601b4741d941eda08b6aa1e409be5.png"
+    },
+    {
+      "text": "小猫乐队_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/5e9b06c44c8a0d97dc360a817339b0f7728e1f6e.png"
+    },
+    {
+      "text": "小猫乐队_打鼓",
+      "url": "https://i0.hdslb.com/bfs/garb/d7809138f2f8a7c3a406dbaccf0a8e6623e5d08e.png"
+    },
+    {
+      "text": "小猫乐队_路过",
+      "url": "https://i0.hdslb.com/bfs/garb/5dd2308aa6345c384c74a55511eb5ab12b308540.png"
+    },
+    {
+      "text": "小猫乐队_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/7b4e6d25e9411b4b52ac4de019e4864a7114fd2e.png"
+    },
+    {
+      "text": "小猫乐队_摔跤",
+      "url": "https://i0.hdslb.com/bfs/garb/32a8505db462e706ac894c04bcf3dc8c16613ddf.png"
+    },
+    {
+      "text": "小猫乐队_棒",
+      "url": "https://i0.hdslb.com/bfs/garb/e0c8aff97fb7e172acf50e9770c35917de91cd1e.png"
+    },
+    {
+      "text": "小猫乐队_干饭",
+      "url": "https://i0.hdslb.com/bfs/garb/b71bacbc90dcff39d5dd1b354acecd0d574b3be0.png"
+    },
+    {
+      "text": "小猫乐队_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/a515ef7e7ce6451db2a9df186f0628bba7772593.png"
+    },
+    {
+      "text": "小猫乐队_耍酷",
+      "url": "https://i0.hdslb.com/bfs/garb/b4e963ffb4b06bd624760a45662a31a4df48b6b1.png"
+    },
+    {
+      "text": "小猫乐队_胜利",
+      "url": "https://i0.hdslb.com/bfs/garb/a4ead79d6d935a8fe0a9e0cbdcb466cffd53bb1d.png"
+    },
+    {
+      "text": "小猫乐队_心扑通扑通",
+      "url": "https://i0.hdslb.com/bfs/garb/d8419e262476ad892497a2077d9ba440bd867c71.png"
+    },
+    {
+      "text": "小猫乐队_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/061461f9f0365b64af973fc88b6e1b593da86b8a.png"
+    }
+  ]
+}
