@@ -1,0 +1,68 @@
+{
+  "id": 9942,
+  "text": "酸柚粥",
+  "icon": "https://i0.hdslb.com/bfs/garb/f6018192040eceec8cc92b48609ca8c7409973d3.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "酸柚粥_幸福",
+      "url": "https://i0.hdslb.com/bfs/garb/2167ab0d2e851ec9e645b650cdeedb2246db31ed.png"
+    },
+    {
+      "text": "酸柚粥_苹什么",
+      "url": "https://i0.hdslb.com/bfs/garb/eb8ccad7bc9edf2b07e36adaad32c64f7d32a996.png"
+    },
+    {
+      "text": "酸柚粥_完蛋",
+      "url": "https://i0.hdslb.com/bfs/garb/72ad6a490fdeff184116e18448bafb5429b07929.png"
+    },
+    {
+      "text": "酸柚粥_心心",
+      "url": "https://i0.hdslb.com/bfs/garb/9aa82ee9868cfcf3e2e41a0a7e3412bb1ec9d691.png"
+    },
+    {
+      "text": "酸柚粥_呜呜",
+      "url": "https://i0.hdslb.com/bfs/garb/61fcf0cbe6ab0ee15a959f13f20fc7a40decfa74.png"
+    },
+    {
+      "text": "酸柚粥_力竭",
+      "url": "https://i0.hdslb.com/bfs/garb/b96ec8090759b10f6e9f9dc5508377690ceb7313.png"
+    },
+    {
+      "text": "酸柚粥_在干嘛",
+      "url": "https://i0.hdslb.com/bfs/garb/28dce78380fd2925d3e6328ef518f8d74eefb4c3.png"
+    },
+    {
+      "text": "酸柚粥_哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/27915e15ae7d260baf1f1357706f430f9e534f94.png"
+    },
+    {
+      "text": "酸柚粥_耶",
+      "url": "https://i0.hdslb.com/bfs/garb/7a3127ac7fcae0ef72d3d035efa2078af8098716.png"
+    },
+    {
+      "text": "酸柚粥_躺",
+      "url": "https://i0.hdslb.com/bfs/garb/cd26c5443454204815bad1f5a438d7566fb96b3c.png"
+    },
+    {
+      "text": "酸柚粥_捏捏",
+      "url": "https://i0.hdslb.com/bfs/garb/ec881ace060f193d32b7b55097c0f04bce00693b.png"
+    },
+    {
+      "text": "酸柚粥_嚼嚼",
+      "url": "https://i0.hdslb.com/bfs/garb/360acc0563ef72ac97af62ed4f2bc26798785a6f.png"
+    },
+    {
+      "text": "酸柚粥_幽怨",
+      "url": "https://i0.hdslb.com/bfs/garb/062e69c4b5426c11d578ebedd79e868c0259e9aa.png"
+    },
+    {
+      "text": "酸柚粥_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/7feb1b8b837f7632cee6058d959e3bf0ebb4739e.png"
+    },
+    {
+      "text": "酸柚粥_舔舔",
+      "url": "https://i0.hdslb.com/bfs/garb/7199f7b3ece66d732ef8f7d2eadbf27848ad061b.png"
+    }
+  ]
+}
