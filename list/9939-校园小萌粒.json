@@ -1,0 +1,68 @@
+{
+  "id": 9939,
+  "text": "校园小萌粒",
+  "icon": "https://i0.hdslb.com/bfs/garb/8a7bc2be5ce30dfe6c8b6e154499d7f820c7d458.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "校园小萌粒_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/cd291da3923cfc3879116b626752f52986275afe.png"
+    },
+    {
+      "text": "校园小萌粒_陶醉",
+      "url": "https://i0.hdslb.com/bfs/garb/a7cbd279ccd9edf8023e153033e653b2a1ed0ab7.png"
+    },
+    {
+      "text": "校园小萌粒_晕",
+      "url": "https://i0.hdslb.com/bfs/garb/a4638dde399d8a4fbd1d34185ce5eb869ec77444.png"
+    },
+    {
+      "text": "校园小萌粒_学习中",
+      "url": "https://i0.hdslb.com/bfs/garb/a4071bf77d351f0adfdc791156060d7d6f125425.png"
+    },
+    {
+      "text": "校园小萌粒_不好意思",
+      "url": "https://i0.hdslb.com/bfs/garb/3ceec26dd072b43af9bec6291eac94b48d978a61.png"
+    },
+    {
+      "text": "校园小萌粒_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/b38c275b63419b2f0300fafba130166b0fd5425f.png"
+    },
+    {
+      "text": "校园小萌粒_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/ba895e29a02e158e6a5d2bf96cd509e8912dac6c.png"
+    },
+    {
+      "text": "校园小萌粒_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/880b0d225a7083a527fe9360ba70ab543c7cd361.png"
+    },
+    {
+      "text": "校园小萌粒_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/7973d106f57d47b34aa47395b431ad348be799e4.png"
+    },
+    {
+      "text": "校园小萌粒_谢谢老板",
+      "url": "https://i0.hdslb.com/bfs/garb/5258135f0efc23cdec66ab419760b210b73ce8bc.png"
+    },
+    {
+      "text": "校园小萌粒_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/a12958d4056bc5e2e305365736cb25074679adbb.png"
+    },
+    {
+      "text": "校园小萌粒_吃早餐",
+      "url": "https://i0.hdslb.com/bfs/garb/90b511c7a71fba6bce7f42a86b08498cf16201d2.png"
+    },
+    {
+      "text": "校园小萌粒_放学",
+      "url": "https://i0.hdslb.com/bfs/garb/49f14b9662f0858008068110c4103e8788cb8bde.png"
+    },
+    {
+      "text": "校园小萌粒_带电话",
+      "url": "https://i0.hdslb.com/bfs/garb/97261734feab42418260375cc90d2531d52cc60f.png"
+    },
+    {
+      "text": "校园小萌粒_发呆",
+      "url": "https://i0.hdslb.com/bfs/garb/df30262687ec6b60e0046a5e492764db1ec4f2a0.png"
+    }
+  ]
+}
