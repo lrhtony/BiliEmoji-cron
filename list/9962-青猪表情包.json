@@ -1,0 +1,88 @@
+{
+  "id": 9962,
+  "text": "青猪表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/00767b02c2a9fa178e8d7731f45587eb22629579.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "青猪表情包_兔女郎",
+      "url": "https://i0.hdslb.com/bfs/garb/e8704f5db07fa71999425357ad32819b3a1aa86b.png"
+    },
+    {
+      "text": "青猪表情包_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/65c2318f4e7d7e94404e4b489b6fe4fd3d41e8f9.png"
+    },
+    {
+      "text": "青猪表情包_hi",
+      "url": "https://i0.hdslb.com/bfs/garb/0a68ff9045124ae9535af73e710caba867e543d7.png"
+    },
+    {
+      "text": "青猪表情包_好差劲",
+      "url": "https://i0.hdslb.com/bfs/garb/affb82c684ada07c5ef70dbe08bc6f149bcdf836.png"
+    },
+    {
+      "text": "青猪表情包_担心",
+      "url": "https://i0.hdslb.com/bfs/garb/6dcd869e40c9cbc20c70830a8383962774a67dc3.png"
+    },
+    {
+      "text": "青猪表情包_威胁",
+      "url": "https://i0.hdslb.com/bfs/garb/b7ffcc3a44cd8537a5c6105491d0e1340cca65ba.png"
+    },
+    {
+      "text": "青猪表情包_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/e4dbe3f4ab402bfefa10825849d49640756480e2.png"
+    },
+    {
+      "text": "青猪表情包_你小子",
+      "url": "https://i0.hdslb.com/bfs/garb/8bdee09772bb60fe590bbeea29eb600c95515b50.png"
+    },
+    {
+      "text": "青猪表情包_想干嘛",
+      "url": "https://i0.hdslb.com/bfs/garb/8390318aa0fe6fac8fb215c2ece24ede3dca8abe.png"
+    },
+    {
+      "text": "青猪表情包_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/730458b669497a32245e31060e37f3484d89a069.png"
+    },
+    {
+      "text": "青猪表情包_喝一口吗",
+      "url": "https://i0.hdslb.com/bfs/garb/d0316a24fa3d99eb6447a58f8363027cb163557f.png"
+    },
+    {
+      "text": "青猪表情包_快来哄我",
+      "url": "https://i0.hdslb.com/bfs/garb/9655f866e664d5f5e10e434658abb71238917d77.png"
+    },
+    {
+      "text": "青猪表情包_欸？",
+      "url": "https://i0.hdslb.com/bfs/garb/0824d43e14eb6e19956e4b78552f4aea61095886.png"
+    },
+    {
+      "text": "青猪表情包_抱抱猫猫",
+      "url": "https://i0.hdslb.com/bfs/garb/e25c7e6401bc8511d2c23936186e08d2ed2edf44.png"
+    },
+    {
+      "text": "青猪表情包_骗人的吧",
+      "url": "https://i0.hdslb.com/bfs/garb/8eb0001af90a01ac65379e2229b76f0cbf08a955.png"
+    },
+    {
+      "text": "青猪表情包_从实招来",
+      "url": "https://i0.hdslb.com/bfs/garb/eef0a0124303c925cc373bd54575597bfdfc5124.png"
+    },
+    {
+      "text": "青猪表情包_认真",
+      "url": "https://i0.hdslb.com/bfs/garb/353feaaac3bb9a0b00c215642a00c7cd04c8bb1f.png"
+    },
+    {
+      "text": "青猪表情包_捏捏脸",
+      "url": "https://i0.hdslb.com/bfs/garb/8e771f14f39629c1ebddc3cd1d6f9b1d7dad6f20.png"
+    },
+    {
+      "text": "青猪表情包_挨打",
+      "url": "https://i0.hdslb.com/bfs/garb/94f5674f113b0607dc67e35e70aef8a14c1b7f78.png"
+    },
+    {
+      "text": "青猪表情包_打脸",
+      "url": "https://i0.hdslb.com/bfs/garb/1f409549fde2dca5ab51fd47a81e0648b1bce553.png"
+    }
+  ]
+}
