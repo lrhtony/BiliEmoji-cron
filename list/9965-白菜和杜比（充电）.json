@@ -1,0 +1,88 @@
+{
+  "id": 9965,
+  "text": "白菜和杜比（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/dfb0d9f273bc36d6dc23a58088d7c4771095dd5f.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_485191154_狗头",
+      "url": "https://i0.hdslb.com/bfs/garb/3f1763497b1700f38a4ad27ff6189841521b6386.png"
+    },
+    {
+      "text": "UPOWER_485191154_啊",
+      "url": "https://i0.hdslb.com/bfs/garb/6846508569c7b21b2b3c23c181918d717200cfc3.png"
+    },
+    {
+      "text": "UPOWER_485191154_翻白眼",
+      "url": "https://i0.hdslb.com/bfs/garb/c13d33983e8afd07f2926dca32ad200c38558b64.png"
+    },
+    {
+      "text": "UPOWER_485191154_哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/8b6597ead29eef2b58fc2e861d494afb22dcc267.png"
+    },
+    {
+      "text": "UPOWER_485191154_吃",
+      "url": "https://i0.hdslb.com/bfs/garb/c7a48916cc6257b5bbeb5a661eb594ed906f948a.png"
+    },
+    {
+      "text": "UPOWER_485191154_汗",
+      "url": "https://i0.hdslb.com/bfs/garb/0f71346d49d9a242ee0835a0f1754b600c83ec7e.png"
+    },
+    {
+      "text": "UPOWER_485191154_ok",
+      "url": "https://i0.hdslb.com/bfs/garb/0521580c05546757400f9eb005a05e3c99e8fb3c.png"
+    },
+    {
+      "text": "UPOWER_485191154_嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/e319a7b667b075f64b6ab88ce91fc0772fd67ca4.png"
+    },
+    {
+      "text": "UPOWER_485191154_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/8947029e974510582fe93ca8b6bcd96d39190999.png"
+    },
+    {
+      "text": "UPOWER_485191154_可怜",
+      "url": "https://i0.hdslb.com/bfs/garb/606ac703cb9518c5ca898c295dd62b34a2a05884.png"
+    },
+    {
+      "text": "UPOWER_485191154_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/c97ca85ae33dc275418d2aa829f288c31ded4572.png"
+    },
+    {
+      "text": "UPOWER_485191154_困",
+      "url": "https://i0.hdslb.com/bfs/garb/8e354ff958dc03d3429b40d35bcd9de408a7a9cb.png"
+    },
+    {
+      "text": "UPOWER_485191154_嗯嗯",
+      "url": "https://i0.hdslb.com/bfs/garb/2c11e41d6ae763fb98ecef7d4ae5797e0b5bedf4.png"
+    },
+    {
+      "text": "UPOWER_485191154_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/198a240db11eed0b2d654ad69843be6790e00f75.png"
+    },
+    {
+      "text": "UPOWER_485191154_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/40a5524040db156fa3e568aaf17c71fe0c6ecdcd.png"
+    },
+    {
+      "text": "UPOWER_485191154_谢谢",
+      "url": "https://i0.hdslb.com/bfs/garb/79a45bd624343fabcfc93467361696691d0bf4c3.png"
+    },
+    {
+      "text": "UPOWER_485191154_给钱",
+      "url": "https://i0.hdslb.com/bfs/garb/e6b529c80d2432cedad5d345668330728de2e61f.png"
+    },
+    {
+      "text": "UPOWER_485191154_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/84e2a603a12617e479f8a372b736c8cf93e23cf7.png"
+    },
+    {
+      "text": "UPOWER_485191154_吐口水",
+      "url": "https://i0.hdslb.com/bfs/garb/ce97a26b2e268935ecbf6abc9aa0c565375a5932.png"
+    },
+    {
+      "text": "UPOWER_485191154_开枪",
+      "url": "https://i0.hdslb.com/bfs/garb/13da56f884449e28ea58fa99d5faa7dc17551ece.png"
+    }
+  ]
+}
