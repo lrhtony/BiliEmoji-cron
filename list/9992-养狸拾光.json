@@ -1,0 +1,88 @@
+{
+  "id": 9992,
+  "text": "养狸拾光",
+  "icon": "https://i0.hdslb.com/bfs/garb/dd8aa19628c04e65b30b1bddffaf0d865f623cf7.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "养狸拾光_标记",
+      "url": "https://i0.hdslb.com/bfs/garb/168c1fbb76c31dec50409687409e9bcb250a849f.png"
+    },
+    {
+      "text": "养狸拾光_吃手手",
+      "url": "https://i0.hdslb.com/bfs/garb/2084ac889b7e7297c8920fe82e93406cf648e52c.png"
+    },
+    {
+      "text": "养狸拾光_聪明",
+      "url": "https://i0.hdslb.com/bfs/garb/ce7af13c478e92966ced6d75d36cfa3263217d69.png"
+    },
+    {
+      "text": "养狸拾光_蛋糕",
+      "url": "https://i0.hdslb.com/bfs/garb/ac3e3879b0e783ab3ac305c7a254b45151d4722f.png"
+    },
+    {
+      "text": "养狸拾光_汗流浃背",
+      "url": "https://i0.hdslb.com/bfs/garb/6fb7b3f94e759e92f3c58fc8b649367b265c1cd2.png"
+    },
+    {
+      "text": "养狸拾光_记仇",
+      "url": "https://i0.hdslb.com/bfs/garb/bb4353d78513dc953b4a17c0ef02f8a11bfdb375.png"
+    },
+    {
+      "text": "养狸拾光_加载中",
+      "url": "https://i0.hdslb.com/bfs/garb/121014677d45cbac8c4a89a5cb23c588e3e99577.png"
+    },
+    {
+      "text": "养狸拾光_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/02f6f00431e92e77a417c90fe158d3aff97e9f7c.png"
+    },
+    {
+      "text": "养狸拾光_挠头",
+      "url": "https://i0.hdslb.com/bfs/garb/58ba75965f81351f7b62bf7285a874888102ce3e.png"
+    },
+    {
+      "text": "养狸拾光_苹果",
+      "url": "https://i0.hdslb.com/bfs/garb/69f7aeeeebf931b22d13936fc06b8dabfaf51ff8.png"
+    },
+    {
+      "text": "养狸拾光_亲",
+      "url": "https://i0.hdslb.com/bfs/garb/0defd976f9febc028f93ffa39c84bce0ab6c6189.png"
+    },
+    {
+      "text": "养狸拾光_食指",
+      "url": "https://i0.hdslb.com/bfs/garb/53e2b05f1066be24c852f6604515790a7e6d2077.png"
+    },
+    {
+      "text": "养狸拾光_使坏",
+      "url": "https://i0.hdslb.com/bfs/garb/5a3afe1cbe5fa5056f7697cc34285d9666f68d41.png"
+    },
+    {
+      "text": "养狸拾光_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/5e3543fe8bd479a8918be6190f52965d6bdf90a8.png"
+    },
+    {
+      "text": "养狸拾光_思考考",
+      "url": "https://i0.hdslb.com/bfs/garb/b6ebaa0e65b0adf457d06dd3d156b6e3486f24fe.png"
+    },
+    {
+      "text": "养狸拾光_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/428c0a21bd00b4cfd5e69b88674d0314cbc19038.png"
+    },
+    {
+      "text": "养狸拾光_小狗",
+      "url": "https://i0.hdslb.com/bfs/garb/49432910964bace05eda533cc8fb52f452485f00.png"
+    },
+    {
+      "text": "养狸拾光_眼药水",
+      "url": "https://i0.hdslb.com/bfs/garb/bee41cb7a7dbd16b9d3887b1bc78d367e2aba95f.png"
+    },
+    {
+      "text": "养狸拾光_纸片人",
+      "url": "https://i0.hdslb.com/bfs/garb/8922eb5c60fd530fb559f1eb2bcbf585da45cee5.png"
+    },
+    {
+      "text": "养狸拾光_坐地哭",
+      "url": "https://i0.hdslb.com/bfs/garb/47f08934ae1c499116965ebfebf832facdb1a67e.png"
+    }
+  ]
+}
