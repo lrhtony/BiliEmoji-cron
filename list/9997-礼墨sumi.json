@@ -1,0 +1,108 @@
+{
+  "id": 9997,
+  "text": "礼墨sumi",
+  "icon": "https://i0.hdslb.com/bfs/garb/6cb0e993283e09c13cbb57c15433ac8f6279be1a.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "礼墨sumi_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/660e8605927c1e0587a3899944376c6aa4fca954.png"
+    },
+    {
+      "text": "礼墨sumi_这个喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/0e76d3cda5b1ef82bfa3cd2bb1d7bdfc57d4d292.png"
+    },
+    {
+      "text": "礼墨sumi_对的对的",
+      "url": "https://i0.hdslb.com/bfs/garb/349591ec599f84e0e2fa503ddf8d061f2a5092ac.png"
+    },
+    {
+      "text": "礼墨sumi_不对不对",
+      "url": "https://i0.hdslb.com/bfs/garb/10e80928910672a19d66ce01c2271d8810d10bde.png"
+    },
+    {
+      "text": "礼墨sumi_给心心",
+      "url": "https://i0.hdslb.com/bfs/garb/9077b746d52ee4ad5453608f25ec8b9abbaf0017.png"
+    },
+    {
+      "text": "礼墨sumi_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/8a29fb9d64c0466ddee74cf9ccfc0311a15d99bd.png"
+    },
+    {
+      "text": "礼墨sumi_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/360044a71d0bab38dabfb18c76fa3f6e0b1e0689.png"
+    },
+    {
+      "text": "礼墨sumi_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/4c282e7d33e585c29fc110d45062253b60a93913.png"
+    },
+    {
+      "text": "礼墨sumi_Boom",
+      "url": "https://i0.hdslb.com/bfs/garb/b21302cd67d9391424e111391a0c144075a5adfc.png"
+    },
+    {
+      "text": "礼墨sumi_摊手",
+      "url": "https://i0.hdslb.com/bfs/garb/445d0533f76b641fcc7ee6661d17a0e7c201109f.png"
+    },
+    {
+      "text": "礼墨sumi_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/46a10978da001c263b05bc5a7608c1747bbfa821.png"
+    },
+    {
+      "text": "礼墨sumi_宕机中",
+      "url": "https://i0.hdslb.com/bfs/garb/10bd3e7c6a9aa6f66689e2a87d53077cd85d15ba.png"
+    },
+    {
+      "text": "礼墨sumi_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/8f6674089e371a5aa3f92659a6696192e2099bcd.png"
+    },
+    {
+      "text": "礼墨sumi_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/1576fe6015dfeeb106dd8e067e4e8442caf2e82a.png"
+    },
+    {
+      "text": "礼墨sumi_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/d083e5fb6043d29aff04e3b7248ec9d458f21291.png"
+    },
+    {
+      "text": "礼墨sumi_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/57e92408214d03c5ee092b733c579057ec6d9da7.png"
+    },
+    {
+      "text": "礼墨sumi_晕晕",
+      "url": "https://i0.hdslb.com/bfs/garb/403e6f96c6d60f029d6450751a1a24964778b62c.png"
+    },
+    {
+      "text": "礼墨sumi_墨镜",
+      "url": "https://i0.hdslb.com/bfs/garb/71787c36e61bc8839ad447f288aa2728ca43ed53.png"
+    },
+    {
+      "text": "礼墨sumi_捏脸",
+      "url": "https://i0.hdslb.com/bfs/garb/71dd60e9a23f8405f48665d8c1c38bf59a5749b0.png"
+    },
+    {
+      "text": "礼墨sumi_记仇",
+      "url": "https://i0.hdslb.com/bfs/garb/de1e7cd519bd40d787b59f74383b063627d8b9d5.png"
+    },
+    {
+      "text": "礼墨sumi_对不起",
+      "url": "https://i0.hdslb.com/bfs/garb/51d3ca88d05706d1f1757de7a5aa4311bcdfa4a9.png"
+    },
+    {
+      "text": "礼墨sumi_流汗紧张",
+      "url": "https://i0.hdslb.com/bfs/garb/257596bff527389b006b04b1801bf34ad0c43efe.png"
+    },
+    {
+      "text": "礼墨sumi_誓死效忠",
+      "url": "https://i0.hdslb.com/bfs/garb/c10b84bb29e4f0b41420f9410f75e1904e2fdbec.png"
+    },
+    {
+      "text": "礼墨sumi_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/c92399a334f38124c50b4cd415dc1bc9e3a24a01.png"
+    },
+    {
+      "text": "礼墨sumi_平静",
+      "url": "https://i0.hdslb.com/bfs/garb/02fd1b9dda597e1bd567cb0e996277d913e8cd1a.png"
+    }
+  ]
+}
