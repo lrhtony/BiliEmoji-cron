@@ -1,64 +1,64 @@
 {
   "id": 7895,
   "text": "学姐圆（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/2a437f7c0c18794396585aaf7704564cbd143c1d.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/a76e7578409010d9260bb2e98e9dc19111d0182c.png",
   "resource_type": 0,
   "emote": [
     {
-      "text": "UPOWER_30502823_抱大腿",
-      "url": "https://i0.hdslb.com/bfs/garb/f61a11c71db7ae8657d2f4879e790c3b22cc0df5.png"
+      "text": "UPOWER_30502823_学姐灵光",
+      "url": "https://i0.hdslb.com/bfs/garb/dd2592b380bc903be9b4ff9c4327cc5f64592349.png"
     },
     {
-      "text": "UPOWER_30502823_大头",
-      "url": "https://i0.hdslb.com/bfs/garb/f457b0664699821ad4db4c279c8a237a3215fe9e.png"
+      "text": "UPOWER_30502823_学姐上工",
+      "url": "https://i0.hdslb.com/bfs/garb/f76fc798e9e374feac707b1c6ab7f31a061c739f.png"
     },
     {
-      "text": "UPOWER_30502823_一键三连",
-      "url": "https://i0.hdslb.com/bfs/garb/7062dcee77d6b6caf2327f43edd569076a339df7.png"
+      "text": "UPOWER_30502823_学姐喝茶",
+      "url": "https://i0.hdslb.com/bfs/garb/e8af9a391fcbd509b5a97a80c9d887934c0a80f0.png"
     },
     {
-      "text": "UPOWER_30502823_点赞",
-      "url": "https://i0.hdslb.com/bfs/garb/fa29aa2e293ba1a4c6224c5eff1cad08ef37cdb0.png"
+      "text": "UPOWER_30502823_学姐口水",
+      "url": "https://i0.hdslb.com/bfs/garb/c3e46acfb32f71bea23452284f09c87e78ef27ab.png"
     },
     {
-      "text": "UPOWER_30502823_泪目",
-      "url": "https://i0.hdslb.com/bfs/garb/7ce7a8d3dec543c8c659f49bf6f722da8f038270.png"
+      "text": "UPOWER_30502823_学姐满分",
+      "url": "https://i0.hdslb.com/bfs/garb/9d77a923ab2cd680052fe14c56023dd182a466dd.png"
     },
     {
-      "text": "UPOWER_30502823_wink眼",
-      "url": "https://i0.hdslb.com/bfs/garb/e37c6428693817dd03130245963d93559966f4f5.png"
+      "text": "UPOWER_30502823_学姐疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/e31235cdd5f8893ed118e1be520a8b76c30d512c.png"
     },
     {
-      "text": "UPOWER_30502823_打call",
-      "url": "https://i0.hdslb.com/bfs/garb/665c90872c230655c1cdb33b2f0f0f28da5e40ad.png"
+      "text": "UPOWER_30502823_学姐喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/f9ffdc96dc62a03f801dee0060907172a050338b.png"
     },
     {
-      "text": "UPOWER_30502823_大哭",
-      "url": "https://i0.hdslb.com/bfs/garb/9a4325af0ed605e23d28f3ac5055cf674de6b153.png"
+      "text": "UPOWER_30502823_学姐戳戳",
+      "url": "https://i0.hdslb.com/bfs/garb/4a5d5476b3bdbfa4aaf6a511171676e16a434109.png"
     },
     {
-      "text": "UPOWER_30502823_摸头",
-      "url": "https://i0.hdslb.com/bfs/garb/7efb219d98fb1bef561c57c1140892b4710d3901.png"
+      "text": "UPOWER_30502823_学姐自责",
+      "url": "https://i0.hdslb.com/bfs/garb/bd71359fa2a30c9d681c2962fa1fff85fcc253d3.png"
     },
     {
-      "text": "UPOWER_30502823_生日快乐",
-      "url": "https://i0.hdslb.com/bfs/garb/2bef7c6e8fe7d353504fff6c813bbd75d1c7982c.png"
+      "text": "UPOWER_30502823_学姐震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/41983b6941b2a626a11d6d0f30af0dcc3a52c6b1.png"
     },
     {
-      "text": "UPOWER_30502823_帅气",
-      "url": "https://i0.hdslb.com/bfs/garb/62e964beb9bfa5160614c2697ffb2f02c023ffa5.png"
+      "text": "UPOWER_30502823_学姐点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/529a5eef09703bb3fd4d7784286125fa4f6eccfc.png"
     },
     {
-      "text": "UPOWER_30502823_亲亲",
-      "url": "https://i0.hdslb.com/bfs/garb/4d04cac0c989efdd52c58d136d00a7073701b13e.png"
+      "text": "UPOWER_30502823_学姐端详",
+      "url": "https://i0.hdslb.com/bfs/garb/ff4e6cee027893d001c5eba8fb6ccea964265622.png"
     },
     {
-      "text": "UPOWER_30502823_祝福上岸",
-      "url": "https://i0.hdslb.com/bfs/garb/8a466b86bcd0ffbfb79db2e5bdd942207fc1807a.png"
+      "text": "UPOWER_30502823_学姐鼓掌",
+      "url": "https://i0.hdslb.com/bfs/garb/8a79dfecedf22f12eaed9607c288965f503947fc.png"
     },
     {
-      "text": "UPOWER_30502823_左心",
-      "url": "https://i0.hdslb.com/bfs/garb/b67e24c62ff0e09b615a75f7e5c22f5197ff11dc.png"
+      "text": "UPOWER_30502823_学姐羡慕",
+      "url": "https://i0.hdslb.com/bfs/garb/a43034eaadea350d01a16fe4a494330292ea5cc5.png"
     },
     {
       "text": "UPOWER_30502823_逆天",
@@ -69,28 +69,28 @@
       "url": "https://i0.hdslb.com/bfs/garb/5cf2a4a9450b7bdcd9d742663ffe6190cc22c5a4.png"
     },
     {
-      "text": "UPOWER_30502823_抱抱",
-      "url": "https://i0.hdslb.com/bfs/garb/4489201252e484625fc23fab5f0b58b455fbb6bc.png"
+      "text": "UPOWER_30502823_学姐手机",
+      "url": "https://i0.hdslb.com/bfs/garb/4196f92bc50b252c453fa04ed7b86e52a3ee5819.png"
     },
     {
-      "text": "UPOWER_30502823_爆炸",
-      "url": "https://i0.hdslb.com/bfs/garb/e3feb4d375db006f9b50fc55d030cebd490e9ec6.png"
+      "text": "UPOWER_30502823_学姐墨镜",
+      "url": "https://i0.hdslb.com/bfs/garb/83cc14435bf17cfe7736e5ebcb2268456edaa7af.png"
     },
     {
-      "text": "UPOWER_30502823_学姐思考",
-      "url": "https://i0.hdslb.com/bfs/garb/05b7e476cf00c6a3050ca2ca4e20037c07d93f8d.png"
+      "text": "UPOWER_30502823_学姐落泪",
+      "url": "https://i0.hdslb.com/bfs/garb/cecbce2160643e04769f5cb1f3eab1b0b072165c.png"
     },
     {
-      "text": "UPOWER_30502823_学姐爱心",
-      "url": "https://i0.hdslb.com/bfs/garb/003e338aaf5fa5472724ba338a78cfba1314f573.png"
+      "text": "UPOWER_30502823_学姐挥棒",
+      "url": "https://i0.hdslb.com/bfs/garb/c200fd0c836a71c28ef0816280f2d11e8d78d610.png"
     },
     {
       "text": "UPOWER_30502823_学姐探头",
       "url": "https://i0.hdslb.com/bfs/garb/966220bfa1cdfaec05c27eebb0930a3032dcce36.png"
     },
     {
-      "text": "UPOWER_30502823_学姐右心",
-      "url": "https://i0.hdslb.com/bfs/garb/9ff37957cee9b572b49cebeb4dec8ea773f45222.png"
+      "text": "UPOWER_30502823_学姐生气",
+      "url": "https://i0.hdslb.com/bfs/garb/2319c01c56a6d2baa42c47456766e4a344c833c5.png"
     }
   ]
 }
