@@ -1,12 +1,12 @@
 {
   "id": 6972,
   "text": "酥壳Sarika（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/34bd037e0ed8339403752e0bc459c600b3280eab.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/254fa9248893f415c1889eec3010d2f1b0ffbc8a.png",
   "resource_type": 0,
   "emote": [
     {
       "text": "UPOWER_44062985_妈妈",
-      "url": "https://i0.hdslb.com/bfs/garb/6a1254b9c7e5834043fef724557806fd0961818a.png"
+      "url": "https://i0.hdslb.com/bfs/garb/65d2813929f592639fbd276672addda9bf1b9c60.png"
     },
     {
       "text": "UPOWER_44062985_偷笑",
@@ -26,15 +26,15 @@
     },
     {
       "text": "UPOWER_44062985_难过",
-      "url": "https://i0.hdslb.com/bfs/garb/93035fe012d84a683894cd3b347e5b9df1d97fec.png"
+      "url": "https://i0.hdslb.com/bfs/garb/8a081d82da85a06c4cd5f16f4a1c809a22c9ea6a.png"
     },
     {
       "text": "UPOWER_44062985_让我看看",
-      "url": "https://i0.hdslb.com/bfs/garb/5bd1f2efd0a0836850322eb61c8f18a11390f528.png"
+      "url": "https://i0.hdslb.com/bfs/garb/f2761bc85dbcc79ae537468509f95fabb467e20a.png"
     },
     {
       "text": "UPOWER_44062985_才没有",
-      "url": "https://i0.hdslb.com/bfs/garb/cd5bcc51ca7dbdd2bec3caa0d35f68c96dcb393c.png"
+      "url": "https://i0.hdslb.com/bfs/garb/3a6a56df3449ff44cb611dd811b208524a8b3d2c.png"
     },
     {
       "text": "UPOWER_44062985_suki",
@@ -58,7 +58,7 @@
     },
     {
       "text": "UPOWER_44062985_摸摸头",
-      "url": "https://i0.hdslb.com/bfs/garb/a3365acc81737f1033c5d9edd0b4f0363208c34e.png"
+      "url": "https://i0.hdslb.com/bfs/garb/198ddcd2f5d6f062a7641f7cf04d714f74e2d5ee.png"
     },
     {
       "text": "UPOWER_44062985_太棒了",
@@ -70,11 +70,11 @@
     },
     {
       "text": "UPOWER_44062985_偷看",
-      "url": "https://i0.hdslb.com/bfs/garb/237809eea665a124196d6404ca8bbc95cf568462.png"
+      "url": "https://i0.hdslb.com/bfs/garb/b143c5af195859bbefd74b8889413f56ad5c8aab.png"
     },
     {
       "text": "UPOWER_44062985_好吃",
-      "url": "https://i0.hdslb.com/bfs/garb/fa439824e306038922f6cf716af9383bb316c812.png"
+      "url": "https://i0.hdslb.com/bfs/garb/cb893f80de366835b2ff54e367ebc81c655e9627.png"
     },
     {
       "text": "UPOWER_44062985_好耶",
@@ -83,6 +83,58 @@
     {
       "text": "UPOWER_44062985_加油鸭",
       "url": "https://i0.hdslb.com/bfs/garb/b1d917b2e5ce45c78b81334f574d98a597d0c0b3.png"
+    },
+    {
+      "text": "UPOWER_44062985_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/78f00d537e766df19cd00a14fc00a3be1f848daa.png"
+    },
+    {
+      "text": "UPOWER_44062985_墨镜",
+      "url": "https://i0.hdslb.com/bfs/garb/82652fd4e3355435581188a6f268551e341e6c34.png"
+    },
+    {
+      "text": "UPOWER_44062985_对手指",
+      "url": "https://i0.hdslb.com/bfs/garb/6384d1572dd2fc1d06acd20c4ca6f5aef569bfe2.png"
+    },
+    {
+      "text": "UPOWER_44062985_好运喷雾",
+      "url": "https://i0.hdslb.com/bfs/garb/8a57305e8596e453e2fe884ed1896261d7fe9abf.png"
+    },
+    {
+      "text": "UPOWER_44062985_敲木鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/2573e418dbcd9999013e98e08d9e4a5514b311a8.png"
+    },
+    {
+      "text": "UPOWER_44062985_心碎",
+      "url": "https://i0.hdslb.com/bfs/garb/855487a6ee9e02a46bafe2bd480aa58d30f7d58f.png"
+    },
+    {
+      "text": "UPOWER_44062985_小丑",
+      "url": "https://i0.hdslb.com/bfs/garb/bb0d13ca211a3fdd762e392684172e10e0bfdacc.png"
+    },
+    {
+      "text": "UPOWER_44062985_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/3db88a94d22d266ca3440e8421ac390c79bbaeee.png"
+    },
+    {
+      "text": "UPOWER_44062985_看手机",
+      "url": "https://i0.hdslb.com/bfs/garb/96211c7ca618acd5420338b52be9f8f3adfb1dcd.png"
+    },
+    {
+      "text": "UPOWER_44062985_桀桀桀",
+      "url": "https://i0.hdslb.com/bfs/garb/369385ce282119c4cbac4165c0142638e0d4f152.png"
+    },
+    {
+      "text": "UPOWER_44062985_坏女人",
+      "url": "https://i0.hdslb.com/bfs/garb/38439b944309690f10d1fa8663b8de98b911d128.png"
+    },
+    {
+      "text": "UPOWER_44062985_给花花",
+      "url": "https://i0.hdslb.com/bfs/garb/69d1365b75025ea886ce243c6fb2cd72e75fdc02.png"
+    },
+    {
+      "text": "UPOWER_44062985_敲脑壳",
+      "url": "https://i0.hdslb.com/bfs/garb/c19dfd29edb5e85ddf5a13e4a2473e5feca6840f.png"
     }
   ]
 }
