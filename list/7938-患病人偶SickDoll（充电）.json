@@ -1,7 +1,7 @@
 {
   "id": 7938,
   "text": "患病人偶SickDoll（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/104e6d866722084225504ce3ea814d19b31f47e6.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/a30f53d6edd0af329ac9a797a2646610478e506a.png",
   "resource_type": 0,
   "emote": [
     {
@@ -39,6 +39,14 @@
     {
       "text": "UPOWER_350793395_充电",
       "url": "https://i0.hdslb.com/bfs/garb/8c2f109964b36999fb6f5f5eef56b06a59886214.png"
+    },
+    {
+      "text": "UPOWER_350793395_托腮",
+      "url": "https://i0.hdslb.com/bfs/garb/63a1f14d7fb1c0547aedb6bebd28d8e2800a837d.png"
+    },
+    {
+      "text": "UPOWER_350793395_略略略",
+      "url": "https://i0.hdslb.com/bfs/garb/492cb6164622b00151900e4654127521d0355641.png"
     }
   ]
 }
