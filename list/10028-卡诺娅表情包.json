@@ -1,0 +1,108 @@
+{
+  "id": 10028,
+  "text": "卡诺娅表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/3799bcffdadb214e91a20e9d18cdafdb5a341f96.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "卡诺娅表情包_哎嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/ede6393fa1cbe2245af3165c9ae44751a5fcbc29.png"
+    },
+    {
+      "text": "卡诺娅表情包_神了",
+      "url": "https://i0.hdslb.com/bfs/garb/fd7440f4d397bf203109f9ad735a4e0d664dd894.png"
+    },
+    {
+      "text": "卡诺娅表情包_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/850c25c43b5359fcab76513e3c375851082a5544.png"
+    },
+    {
+      "text": "卡诺娅表情包_呜呜",
+      "url": "https://i0.hdslb.com/bfs/garb/c9aff92e00403474b31e21ead1fb6949a6b424a6.png"
+    },
+    {
+      "text": "卡诺娅表情包_彩虹",
+      "url": "https://i0.hdslb.com/bfs/garb/b781dfc34a92907202c4dec5cbf7460527f30361.png"
+    },
+    {
+      "text": "卡诺娅表情包_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/3081195ec73cd5887085927972fce0f01b901ae0.png"
+    },
+    {
+      "text": "卡诺娅表情包_比心1",
+      "url": "https://i0.hdslb.com/bfs/garb/183ab9bb6c61fe82442ecac0dbfd6869e409f79c.png"
+    },
+    {
+      "text": "卡诺娅表情包_比心2",
+      "url": "https://i0.hdslb.com/bfs/garb/0324e1fecdcd7d655dd5ff8a534eb3f546ac657f.png"
+    },
+    {
+      "text": "卡诺娅表情包_神魔玩意",
+      "url": "https://i0.hdslb.com/bfs/garb/847b37858db8681bd3bc05b5f2d2c6a04576eb41.png"
+    },
+    {
+      "text": "卡诺娅表情包_？？？",
+      "url": "https://i0.hdslb.com/bfs/garb/c42ebcd80e24fadc4df0b39d9ac2f91153d67f4b.png"
+    },
+    {
+      "text": "卡诺娅表情包_惊了",
+      "url": "https://i0.hdslb.com/bfs/garb/e1b2c50ed511e2ffbdbc322565bfd74c3cc540da.png"
+    },
+    {
+      "text": "卡诺娅表情包_你豪",
+      "url": "https://i0.hdslb.com/bfs/garb/d4d96cc7a1d82fe2fdfb634e54c4e9894ed84a06.png"
+    },
+    {
+      "text": "卡诺娅表情包_功德加1",
+      "url": "https://i0.hdslb.com/bfs/garb/57ebd7a95c0cf4281d0544814497a4b1c764ac7f.png"
+    },
+    {
+      "text": "卡诺娅表情包_爆了",
+      "url": "https://i0.hdslb.com/bfs/garb/756a5bd379b949abc4dc087720d52a40ab0ba181.png"
+    },
+    {
+      "text": "卡诺娅表情包_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/5719693dfae058e7474e131200e93e00f271300c.png"
+    },
+    {
+      "text": "卡诺娅表情包_擦汗",
+      "url": "https://i0.hdslb.com/bfs/garb/2a2ad68da37fdaee545fcea0f9a354f4f3e47337.png"
+    },
+    {
+      "text": "卡诺娅表情包_龙脑过载",
+      "url": "https://i0.hdslb.com/bfs/garb/286a14a8243f654fc269e8e4be38ce87386449d9.png"
+    },
+    {
+      "text": "卡诺娅表情包_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/eb2240a1ce8b9a3989df21132afce6db852ba6d5.png"
+    },
+    {
+      "text": "卡诺娅表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/a73a37f42f1d070973f6c929eee63e80d93e3e30.png"
+    },
+    {
+      "text": "卡诺娅表情包_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/3063f47c465afab68e806afe24095a39d56c4e1c.png"
+    },
+    {
+      "text": "卡诺娅表情包_开香槟咯",
+      "url": "https://i0.hdslb.com/bfs/garb/7841e06c69e94abb2072e9f11d51ee261fc221e5.png"
+    },
+    {
+      "text": "卡诺娅表情包_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/a4a8e95827d270d5d25d20f62fbde304651ebed6.png"
+    },
+    {
+      "text": "卡诺娅表情包_支持",
+      "url": "https://i0.hdslb.com/bfs/garb/15a35e759767b2de1c26153bde2e8bab2e937e1f.png"
+    },
+    {
+      "text": "卡诺娅表情包_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/8070d4cbe1d82e5fdf2901ac702180d5bfcad3e3.png"
+    },
+    {
+      "text": "卡诺娅表情包_一直盯着你",
+      "url": "https://i0.hdslb.com/bfs/garb/262ddb7dd9ca3683616091cb388a39dc35c01ca6.png"
+    }
+  ]
+}
