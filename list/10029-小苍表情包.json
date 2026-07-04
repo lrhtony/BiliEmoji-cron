@@ -1,0 +1,68 @@
+{
+  "id": 10029,
+  "text": "小苍表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/bccceda88fa81a3bdae8630b1eb3dd82971c669d.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "小苍表情包_喜欢你",
+      "url": "https://i0.hdslb.com/bfs/garb/8abdf703134b46d5e2efe901fb00fe8bad11472b.png"
+    },
+    {
+      "text": "小苍表情包_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/8ff4e78676814ae0b037c8f065ef4f3243a9d64f.png"
+    },
+    {
+      "text": "小苍表情包_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/12ac15b17a93ee30a96b7f71cc6b62a1839de191.png"
+    },
+    {
+      "text": "小苍表情包_禁止",
+      "url": "https://i0.hdslb.com/bfs/garb/ecc18ea7be806589dd2ce1175b8547a005a0b600.png"
+    },
+    {
+      "text": "小苍表情包_三连",
+      "url": "https://i0.hdslb.com/bfs/garb/16d4a12de851ec792507caf816d85fe880ec418d.png"
+    },
+    {
+      "text": "小苍表情包_允许",
+      "url": "https://i0.hdslb.com/bfs/garb/d4ab2204dd2788159f7ba0833921e3e644cff3cb.png"
+    },
+    {
+      "text": "小苍表情包_认识一下",
+      "url": "https://i0.hdslb.com/bfs/garb/ddd4ddb6a05c768b3f4330e7267cf448a5073d1a.png"
+    },
+    {
+      "text": "小苍表情包_命苦",
+      "url": "https://i0.hdslb.com/bfs/garb/7ed4d27ff0dcdc66a01bc0ffbfad4c501b9b9299.png"
+    },
+    {
+      "text": "小苍表情包_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/97c62ba1b7da4e4331a2d49ec2455c7cdb4d0dcd.png"
+    },
+    {
+      "text": "小苍表情包_得劲",
+      "url": "https://i0.hdslb.com/bfs/garb/338076778f8840d389b232bc94be6777787d935e.png"
+    },
+    {
+      "text": "小苍表情包_敲打",
+      "url": "https://i0.hdslb.com/bfs/garb/a016158fd42636cad7727089fdbdf94e799dd3c5.png"
+    },
+    {
+      "text": "小苍表情包_吓",
+      "url": "https://i0.hdslb.com/bfs/garb/5c043f9a065dbc6a1abd4b97a9f439274971e160.png"
+    },
+    {
+      "text": "小苍表情包_不开心",
+      "url": "https://i0.hdslb.com/bfs/garb/79ff393a8d13526ea6c76c17c1ee40dcb4a1338d.png"
+    },
+    {
+      "text": "小苍表情包_喂我",
+      "url": "https://i0.hdslb.com/bfs/garb/f2db5708cd983794a2dd778bc27264d8587a16f1.png"
+    },
+    {
+      "text": "小苍表情包_欢迎光临",
+      "url": "https://i0.hdslb.com/bfs/garb/b0db90dce294d3b8cd9b9c01c3a563fc36dc9c38.png"
+    }
+  ]
+}
