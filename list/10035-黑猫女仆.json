@@ -1,0 +1,68 @@
+{
+  "id": 10035,
+  "text": "黑猫女仆",
+  "icon": "https://i0.hdslb.com/bfs/garb/6eeb93b334af1b35ccd483643ed333dce64735ee.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "黑猫女仆_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/7d0b00980c44321f3f4fb11c237f661deb7a5639.png"
+    },
+    {
+      "text": "黑猫女仆_对",
+      "url": "https://i0.hdslb.com/bfs/garb/aad3e9690a399653284974f7e3c1ed46cbc3e9a0.png"
+    },
+    {
+      "text": "黑猫女仆_发呆",
+      "url": "https://i0.hdslb.com/bfs/garb/f0dd0a6fb9a19dd8840bc783c807de33ed5676ce.png"
+    },
+    {
+      "text": "黑猫女仆_盯...",
+      "url": "https://i0.hdslb.com/bfs/garb/d7e1283924cc39ede4745e97d35cfd5a93331f8c.png"
+    },
+    {
+      "text": "黑猫女仆_错",
+      "url": "https://i0.hdslb.com/bfs/garb/6ae4f286316b53d4d122dc409ab37a18aba757eb.png"
+    },
+    {
+      "text": "黑猫女仆_晕",
+      "url": "https://i0.hdslb.com/bfs/garb/2224e2f0a6a7933b85b5d05982791524b1df3e12.png"
+    },
+    {
+      "text": "黑猫女仆_唔...",
+      "url": "https://i0.hdslb.com/bfs/garb/8c1126406470619d3f0a8a2e1c0aae4b4708f52a.png"
+    },
+    {
+      "text": "黑猫女仆_跑走",
+      "url": "https://i0.hdslb.com/bfs/garb/2ea8f6336acfd189571fe194dc2616ea0ee58c4d.png"
+    },
+    {
+      "text": "黑猫女仆_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/1c1ef1d8cba375efb25c1afaa919d10ae5a6bf41.png"
+    },
+    {
+      "text": "黑猫女仆_茶杯猫",
+      "url": "https://i0.hdslb.com/bfs/garb/e5ef3247d403b7d87d6a210f0cc98a8b90418664.png"
+    },
+    {
+      "text": "黑猫女仆_失落",
+      "url": "https://i0.hdslb.com/bfs/garb/5476a3797db5bb20d495510333df202cf3f87d12.png"
+    },
+    {
+      "text": "黑猫女仆_开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/c048bdb71dc1d7e98f1474bb2601ce0e5c85e06b.png"
+    },
+    {
+      "text": "黑猫女仆_兴奋",
+      "url": "https://i0.hdslb.com/bfs/garb/ea3032fc958264bb519270c2ef927ea0487723ef.png"
+    },
+    {
+      "text": "黑猫女仆_打针",
+      "url": "https://i0.hdslb.com/bfs/garb/780fc105cfcceb29dfec02fcea19d056783dcab4.png"
+    },
+    {
+      "text": "黑猫女仆_瘫",
+      "url": "https://i0.hdslb.com/bfs/garb/f022c25ee75b759ddabe3081b50e22637d4432b4.png"
+    }
+  ]
+}

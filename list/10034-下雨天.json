@@ -1,0 +1,68 @@
+{
+  "id": 10034,
+  "text": "下雨天",
+  "icon": "https://i0.hdslb.com/bfs/garb/caac3b5efbb1910c802ee3329c1ce2f2c34f1440.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "下雨天_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/20cec202cddb03c8861f8f82940ee018f161a57b.png"
+    },
+    {
+      "text": "下雨天_哈喽",
+      "url": "https://i0.hdslb.com/bfs/garb/062977890b104a928c63869306f403ba070afab2.png"
+    },
+    {
+      "text": "下雨天_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/bcd623f366042ef00c0a8aba7c09177ad1ad4677.png"
+    },
+    {
+      "text": "下雨天_心碎",
+      "url": "https://i0.hdslb.com/bfs/garb/e1f3f5c6529ffc16491037d7b785bf09c20b6040.png"
+    },
+    {
+      "text": "下雨天_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/c9c9c483b7690b6abe420af9bd45b822540b1ef7.png"
+    },
+    {
+      "text": "下雨天_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/a44b015f56204eda93b007783c6d8364a1006f6d.png"
+    },
+    {
+      "text": "下雨天_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/642cf08ff6a7e6d213e711fd621fc379b9f965ba.png"
+    },
+    {
+      "text": "下雨天_跳舞",
+      "url": "https://i0.hdslb.com/bfs/garb/02e02f2e8dd180135b9ca259afce345b13d7779f.png"
+    },
+    {
+      "text": "下雨天_早呀",
+      "url": "https://i0.hdslb.com/bfs/garb/073854ba88277d3c89a504f56860eab02dd7cc1e.png"
+    },
+    {
+      "text": "下雨天_懵",
+      "url": "https://i0.hdslb.com/bfs/garb/65e80e9cadfcd0e625d28e8ff495c1e4625e728d.png"
+    },
+    {
+      "text": "下雨天_骄傲",
+      "url": "https://i0.hdslb.com/bfs/garb/1ef3f6afc414d8d9149722cebeab34b204004905.png"
+    },
+    {
+      "text": "下雨天_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/dcc3b30eb7482eb47301fc8bd584e1b1d6300a96.png"
+    },
+    {
+      "text": "下雨天_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/80572f2abf5b767f966cc92fca63cc59248617d3.png"
+    },
+    {
+      "text": "下雨天_发怒",
+      "url": "https://i0.hdslb.com/bfs/garb/cb0e15add6e78df9df104f4f48feb8e8a49c1006.png"
+    },
+    {
+      "text": "下雨天_没眼看",
+      "url": "https://i0.hdslb.com/bfs/garb/cf8711aa1d271c0e5c023577e395a2cd6b2822b1.png"
+    }
+  ]
+}
