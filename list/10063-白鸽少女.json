@@ -1,0 +1,68 @@
+{
+  "id": 10063,
+  "text": "白鸽少女",
+  "icon": "https://i0.hdslb.com/bfs/garb/2223372dff1a1252d7f0471ff03ab363551049d9.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "白鸽少女_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/28d3960d39de483eebbe67e9406541cd3264a758.png"
+    },
+    {
+      "text": "白鸽少女_心动",
+      "url": "https://i0.hdslb.com/bfs/garb/59b8b2c791718ea4a54084e29743cf0ae823772d.png"
+    },
+    {
+      "text": "白鸽少女_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/cbb36b4ace1bf974205dae465a0eb5d174ac1df5.png"
+    },
+    {
+      "text": "白鸽少女_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/ce0db34fdec20d53c6755c0b7398e8f02a79b2cb.png"
+    },
+    {
+      "text": "白鸽少女_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/7adc57cdb9bb835b2fb1717dac1916c4ae4eca79.png"
+    },
+    {
+      "text": "白鸽少女_天使",
+      "url": "https://i0.hdslb.com/bfs/garb/c721855681e305f61cea13915bdeea2d776877f0.png"
+    },
+    {
+      "text": "白鸽少女_呆滞",
+      "url": "https://i0.hdslb.com/bfs/garb/255364b64a3cc050c1ff2fcb6b7ffb6b8a044085.png"
+    },
+    {
+      "text": "白鸽少女_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/19d4524f111d71ff09e13e09db1ed53cda03d938.png"
+    },
+    {
+      "text": "白鸽少女_唱歌",
+      "url": "https://i0.hdslb.com/bfs/garb/6139887afff6610fa4684be2162b8f7bdcab963f.png"
+    },
+    {
+      "text": "白鸽少女_哀",
+      "url": "https://i0.hdslb.com/bfs/garb/63b449b61b81e18e77f17cefe4e1fd0c39f3fe0b.png"
+    },
+    {
+      "text": "白鸽少女_鸟都不鸟",
+      "url": "https://i0.hdslb.com/bfs/garb/c5666f91d7b4344f490a296338ae82d1ad376593.png"
+    },
+    {
+      "text": "白鸽少女_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/6473527d6a491b3fc026d3e47afdf9e310257843.png"
+    },
+    {
+      "text": "白鸽少女_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/49903218d1177a394c1ce70dcccd0d533ccf0c7b.png"
+    },
+    {
+      "text": "白鸽少女_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/8cac5a3bcc77e00f4c2414d31a099603f25b60ee.png"
+    },
+    {
+      "text": "白鸽少女_惊吓",
+      "url": "https://i0.hdslb.com/bfs/garb/fc958c12db7fdbef104b61463892605d20bc73e7.png"
+    }
+  ]
+}

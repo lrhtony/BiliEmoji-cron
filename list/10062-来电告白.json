@@ -1,0 +1,68 @@
+{
+  "id": 10062,
+  "text": "来电告白",
+  "icon": "https://i0.hdslb.com/bfs/garb/4b7ff7f74bae6189c9fa28c0ea28d384ed07912c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "来电告白_溜了溜了",
+      "url": "https://i0.hdslb.com/bfs/garb/6ecf8d3ba70f657e576d62be994c69693d3455d8.png"
+    },
+    {
+      "text": "来电告白_爱神上线",
+      "url": "https://i0.hdslb.com/bfs/garb/266671f724fbb81ec2bf48d7f4671497b4e2be27.png"
+    },
+    {
+      "text": "来电告白_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/5f2c7fbdcdc274d91009c2f31642dadb016118b7.png"
+    },
+    {
+      "text": "来电告白_出发",
+      "url": "https://i0.hdslb.com/bfs/garb/66094a98126aba0297dfce31e48b541a4507ec1a.png"
+    },
+    {
+      "text": "来电告白_干饭",
+      "url": "https://i0.hdslb.com/bfs/garb/5b838ded59a021a3da70f9cc4b9f80f10c366503.png"
+    },
+    {
+      "text": "来电告白_只吃一勺",
+      "url": "https://i0.hdslb.com/bfs/garb/843ecdd329724248036ef2555601a49547e3b933.png"
+    },
+    {
+      "text": "来电告白_起床",
+      "url": "https://i0.hdslb.com/bfs/garb/6ea5cc4772b46d07c979ba47028d1679c2be77e9.png"
+    },
+    {
+      "text": "来电告白_吃了吗",
+      "url": "https://i0.hdslb.com/bfs/garb/2c1734721bc0fe79ae5510460f8d77f9b99ebd7a.png"
+    },
+    {
+      "text": "来电告白_一起去玩",
+      "url": "https://i0.hdslb.com/bfs/garb/299b018fa72b3884e4ea294aed25a545e4ceb167.png"
+    },
+    {
+      "text": "来电告白_多喝水",
+      "url": "https://i0.hdslb.com/bfs/garb/b66297dc71d9c13709a7131388f6779208f9aca5.png"
+    },
+    {
+      "text": "来电告白_时间到",
+      "url": "https://i0.hdslb.com/bfs/garb/ccb2722975cc73fe7375529ebf729a0362e9c780.png"
+    },
+    {
+      "text": "来电告白_生日快乐",
+      "url": "https://i0.hdslb.com/bfs/garb/073629f2161a7d8df70fddb0d15f8575bd76843c.png"
+    },
+    {
+      "text": "来电告白_谁最美丽",
+      "url": "https://i0.hdslb.com/bfs/garb/0cd31605eb5b37b4b99b94e04ff67bdcbd3513a5.png"
+    },
+    {
+      "text": "来电告白_来颗糖",
+      "url": "https://i0.hdslb.com/bfs/garb/802cd6d5a152b44fb485cfd8c380e0d75a9eeb49.png"
+    },
+    {
+      "text": "来电告白_你没事吧",
+      "url": "https://i0.hdslb.com/bfs/garb/dcde90198ee5766aad8d80b48aa2eb2fe93c6049.png"
+    }
+  ]
+}
