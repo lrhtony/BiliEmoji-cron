@@ -1,0 +1,28 @@
+{
+  "id": 10068,
+  "text": "不死斩剑圣（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/bdedc75f3ed767a0e625c5d5732443b0f0f0b531.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_51325330_横推诺",
+      "url": "https://i0.hdslb.com/bfs/garb/0cf56029a7b1dc8467e6acd17c1577bcea9411d2.png"
+    },
+    {
+      "text": "UPOWER_51325330_天选时刻",
+      "url": "https://i0.hdslb.com/bfs/garb/c399e2e264ce8bcc498843c1df7a2fc28ded444a.png"
+    },
+    {
+      "text": "UPOWER_51325330_toast",
+      "url": "https://i0.hdslb.com/bfs/garb/b1b26a5a743db291541015fde82cc37662892d88.png"
+    },
+    {
+      "text": "UPOWER_51325330_臭啊",
+      "url": "https://i0.hdslb.com/bfs/garb/3eae3ab31fe6171e7ca777803f486a7f6c7caa47.png"
+    },
+    {
+      "text": "UPOWER_51325330_wind",
+      "url": "https://i0.hdslb.com/bfs/garb/b49383d5a94ee51c1477e1195df81e4d22fe3cd5.png"
+    }
+  ]
+}
