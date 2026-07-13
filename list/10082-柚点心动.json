@@ -1,0 +1,88 @@
+{
+  "id": 10082,
+  "text": "柚点心动",
+  "icon": "https://i0.hdslb.com/bfs/garb/7833763ecd5e702eefc7bfb04e2c0c49536db3aa.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "柚点心动_咬耳朵",
+      "url": "https://i0.hdslb.com/bfs/garb/7b85e3d58a6ec88d74cacad7a4936584f324b0fd.png"
+    },
+    {
+      "text": "柚点心动_我是小丑",
+      "url": "https://i0.hdslb.com/bfs/garb/e219b8a3c37f9ff80bbebf9173278aef105fbe8e.png"
+    },
+    {
+      "text": "柚点心动_肘击",
+      "url": "https://i0.hdslb.com/bfs/garb/ed63df604f5f2db0984656bbf6c5ff5e99a7bd52.png"
+    },
+    {
+      "text": "柚点心动_指指点点",
+      "url": "https://i0.hdslb.com/bfs/garb/d412445694975b29198f18cef471a9574a674673.png"
+    },
+    {
+      "text": "柚点心动_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/402de4d4690caeab27e3d5697cfed2f94f23b81d.png"
+    },
+    {
+      "text": "柚点心动_要抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/3667b94db9ab4539e2d3cad0755b44796023bc2a.png"
+    },
+    {
+      "text": "柚点心动_喵有点鼠",
+      "url": "https://i0.hdslb.com/bfs/garb/5462b49411f07d24dbee9f25904a106f9d4d216e.png"
+    },
+    {
+      "text": "柚点心动_那咋了",
+      "url": "https://i0.hdslb.com/bfs/garb/be6f71695f6448708659ba6230d34b1203bc580c.png"
+    },
+    {
+      "text": "柚点心动_记小本本",
+      "url": "https://i0.hdslb.com/bfs/garb/485d1ac47e45465e7a844f149c56b3f41a0248b9.png"
+    },
+    {
+      "text": "柚点心动_已老实",
+      "url": "https://i0.hdslb.com/bfs/garb/dc4bdaa1ae6ba13743142e2ca61f405bb6be6333.png"
+    },
+    {
+      "text": "柚点心动_该控制你了",
+      "url": "https://i0.hdslb.com/bfs/garb/86054d5db31eeb0196a1afc94cc2617f68963e56.png"
+    },
+    {
+      "text": "柚点心动_呜呜呜",
+      "url": "https://i0.hdslb.com/bfs/garb/7d33f389da1aeca073aac6bd58cec43672f5a016.png"
+    },
+    {
+      "text": "柚点心动_kiss",
+      "url": "https://i0.hdslb.com/bfs/garb/10a2fdd749235ffa9201742ad892a5b2e228c21d.png"
+    },
+    {
+      "text": "柚点心动_就要瑟瑟",
+      "url": "https://i0.hdslb.com/bfs/garb/eb6797fed2962f058476ec31c03e3170389e9162.png"
+    },
+    {
+      "text": "柚点心动_我爱加班",
+      "url": "https://i0.hdslb.com/bfs/garb/49da35433d5917447aa33979d086cd7285fc9c78.png"
+    },
+    {
+      "text": "柚点心动_小猫哈气",
+      "url": "https://i0.hdslb.com/bfs/garb/f4fe86f20f6fab970d8817cd8b1759e899c5c0d1.png"
+    },
+    {
+      "text": "柚点心动_emo了",
+      "url": "https://i0.hdslb.com/bfs/garb/d33012f9ae91994361bf8bb72bd14aafb67db51f.png"
+    },
+    {
+      "text": "柚点心动_达咩瑟瑟",
+      "url": "https://i0.hdslb.com/bfs/garb/c9c5fb81b62ed23cd3bcb498777ca8cd4f7f6abd.png"
+    },
+    {
+      "text": "柚点心动_嘲笑",
+      "url": "https://i0.hdslb.com/bfs/garb/86426c2cfe30bf96c03077e9dfc657a1d2f1d2b9.png"
+    },
+    {
+      "text": "柚点心动_急了",
+      "url": "https://i0.hdslb.com/bfs/garb/d59b660c55180d7920e42b0b0e605332319bb784.png"
+    }
+  ]
+}

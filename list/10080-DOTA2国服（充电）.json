@@ -1,0 +1,48 @@
+{
+  "id": 10080,
+  "text": "DOTA2国服（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/86282e8026a37b7e98d052bad80a2cb4c1961ece.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_296732_裂开",
+      "url": "https://i0.hdslb.com/bfs/garb/703d7af8050d0ad8e4c6e476404cbcf5f16f73e8.png"
+    },
+    {
+      "text": "UPOWER_296732_麻了",
+      "url": "https://i0.hdslb.com/bfs/garb/3462af5100670324d990485a5827e2f38a3b53cd.png"
+    },
+    {
+      "text": "UPOWER_296732_我佛了",
+      "url": "https://i0.hdslb.com/bfs/garb/603d12b8764aaa472a33fcd87e9a9f040ebd007c.png"
+    },
+    {
+      "text": "UPOWER_296732_哈",
+      "url": "https://i0.hdslb.com/bfs/garb/2c22042dcedb3e05945e71cafa2c2b8ee030b401.png"
+    },
+    {
+      "text": "UPOWER_296732_队友呢",
+      "url": "https://i0.hdslb.com/bfs/garb/ac618ac41ca6bd3b47f507224165e7541e605fa8.png"
+    },
+    {
+      "text": "UPOWER_296732_摆一下",
+      "url": "https://i0.hdslb.com/bfs/garb/e3eb4799da0674cb779974294ac6c46a2bb503bd.png"
+    },
+    {
+      "text": "UPOWER_296732_来一把",
+      "url": "https://i0.hdslb.com/bfs/garb/fee181306032d2ce2d3a54540efcfaa8dfef2943.png"
+    },
+    {
+      "text": "UPOWER_296732_最后亿把",
+      "url": "https://i0.hdslb.com/bfs/garb/fb449c6a74a51577b5ed04975de103a91efed78d.png"
+    },
+    {
+      "text": "UPOWER_296732_还活着",
+      "url": "https://i0.hdslb.com/bfs/garb/6a59ad936e3970eba655fbe80f39c32ffca339b9.png"
+    },
+    {
+      "text": "UPOWER_296732_好累累",
+      "url": "https://i0.hdslb.com/bfs/garb/2640494a59716f2ec09199bfc181c083c8e4d7fd.png"
+    }
+  ]
+}
