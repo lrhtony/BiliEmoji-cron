@@ -1,7 +1,7 @@
 {
   "id": 9539,
   "text": "文和乱想（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/fa992f168e3ad6bdd78804856ef3ad7477f2b946.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/e544bcc1d725dd59b4ca4725864b9fe0ba8b86f5.png",
   "resource_type": 0,
   "emote": [
     {
@@ -31,6 +31,74 @@
     {
       "text": "UPOWER_7435096_我错了",
       "url": "https://i0.hdslb.com/bfs/garb/2a66c8a5d3be6764206a6af1f4dc08d365a32ca1.png"
+    },
+    {
+      "text": "UPOWER_7435096_白夜生气",
+      "url": "https://i0.hdslb.com/bfs/garb/d22a1a6e1a448fdafd12c945a23f8d5f93b785a4.png"
+    },
+    {
+      "text": "UPOWER_7435096_白夜睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/9eae19ebcbaa68219dfa738c81d1d96696b3fb86.png"
+    },
+    {
+      "text": "UPOWER_7435096_白夜疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/ede971f14282a3e015391b018420ba715fc2c6cf.png"
+    },
+    {
+      "text": "UPOWER_7435096_白夜震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/ebc9b1461a16b869db0fd1ca25191116ea931a4e.png"
+    },
+    {
+      "text": "UPOWER_7435096_百花媚眼",
+      "url": "https://i0.hdslb.com/bfs/garb/01c5270f2d97960ff5d7332591a2f24843bc5a76.png"
+    },
+    {
+      "text": "UPOWER_7435096_百花生气",
+      "url": "https://i0.hdslb.com/bfs/garb/ed4e25179590beb86425aa472adf0592668d9840.png"
+    },
+    {
+      "text": "UPOWER_7435096_百花思考",
+      "url": "https://i0.hdslb.com/bfs/garb/c1e20dec17323fb53bb8dd01d0c9d9b4878884d5.png"
+    },
+    {
+      "text": "UPOWER_7435096_百花震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/634ff33680d02739fa0923e31f8f8e0c4359dc94.png"
+    },
+    {
+      "text": "UPOWER_7435096_墨天无语",
+      "url": "https://i0.hdslb.com/bfs/garb/9813de1ce313222c83bb5e60e3ff140ccf74c6bf.png"
+    },
+    {
+      "text": "UPOWER_7435096_墨天捂头",
+      "url": "https://i0.hdslb.com/bfs/garb/9ce1f0856a4d8971779d759d3a49d7b4d8bbd141.png"
+    },
+    {
+      "text": "UPOWER_7435096_墨天激动",
+      "url": "https://i0.hdslb.com/bfs/garb/7b60553e41850dadff7b7821125fd2be9ab57ecd.png"
+    },
+    {
+      "text": "UPOWER_7435096_墨天疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/e147e19dac19ebfbbf8a00864a8dd7940dcc9317.png"
+    },
+    {
+      "text": "UPOWER_7435096_铸币紫月",
+      "url": "https://i0.hdslb.com/bfs/garb/9cd0101c550d6ce050e7e1a1017c89344b27064f.png"
+    },
+    {
+      "text": "UPOWER_7435096_紫月害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/0e9254f2fffc4752a65cb384c58c5fb107dca6fc.png"
+    },
+    {
+      "text": "UPOWER_7435096_紫月生气",
+      "url": "https://i0.hdslb.com/bfs/garb/fb21331f9902bdb1b063b6cbaef8af80b63bd5e7.png"
+    },
+    {
+      "text": "UPOWER_7435096_紫月激动",
+      "url": "https://i0.hdslb.com/bfs/garb/8dd6be81bbb15fb769842cf82a4587765be5731c.png"
+    },
+    {
+      "text": "UPOWER_7435096_紫月无语",
+      "url": "https://i0.hdslb.com/bfs/garb/2d936077ea5876894c5249402cec01e5420b2113.png"
     }
   ]
 }
