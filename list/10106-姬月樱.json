@@ -1,0 +1,108 @@
+{
+  "id": 10106,
+  "text": "姬月樱",
+  "icon": "https://i0.hdslb.com/bfs/garb/7f0adb1e414891ad22f5459db5f76ca32e59d8bc.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "姬月樱_Hi",
+      "url": "https://i0.hdslb.com/bfs/garb/e2bc8f573bdccec2eb28d16fe095024fbcd386c1.png"
+    },
+    {
+      "text": "姬月樱_亮晶晶",
+      "url": "https://i0.hdslb.com/bfs/garb/3a7fe8a89dcffa3f898b087285821a2632fc1fe5.png"
+    },
+    {
+      "text": "姬月樱_耍帅",
+      "url": "https://i0.hdslb.com/bfs/garb/a890b8bd8abdfeb7a1719aaf83eb99c918278f41.png"
+    },
+    {
+      "text": "姬月樱_欺负人",
+      "url": "https://i0.hdslb.com/bfs/garb/17615edd699e3c87b6cf3af0864cbf28c24aaa2d.png"
+    },
+    {
+      "text": "姬月樱_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/352f00f259935c19e747f7791a46d701e26064c8.png"
+    },
+    {
+      "text": "姬月樱_真棒",
+      "url": "https://i0.hdslb.com/bfs/garb/f884cd7d0d8eefe21d899050fe1d331210d3f0ae.png"
+    },
+    {
+      "text": "姬月樱_没绷住",
+      "url": "https://i0.hdslb.com/bfs/garb/2c3d8985709e023c1cc9fb12a4ad6b20953132cb.png"
+    },
+    {
+      "text": "姬月樱_阿巴阿巴",
+      "url": "https://i0.hdslb.com/bfs/garb/5de0bce13327bfe68f04735c4dbbd356277ffd77.png"
+    },
+    {
+      "text": "姬月樱_给心心",
+      "url": "https://i0.hdslb.com/bfs/garb/7fd48084004c8506eca23b6d07bfcb3121d78012.png"
+    },
+    {
+      "text": "姬月樱_樱司令",
+      "url": "https://i0.hdslb.com/bfs/garb/792cdd3de4b8ca98be68d5ff7e5e90138ba360b4.png"
+    },
+    {
+      "text": "姬月樱_老人手机",
+      "url": "https://i0.hdslb.com/bfs/garb/3042f7556494b5664cc2583ec83582cec647919f.png"
+    },
+    {
+      "text": "姬月樱_喜欢喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/8472a1fdb7a51285cb2eb48f2e2ad4208092e20a.png"
+    },
+    {
+      "text": "姬月樱_溜了溜了",
+      "url": "https://i0.hdslb.com/bfs/garb/141278cf0fd58935093a8d27d96699e52625a517.png"
+    },
+    {
+      "text": "姬月樱_燃尽了",
+      "url": "https://i0.hdslb.com/bfs/garb/4d29e40b84e5aff8289d58b77eba58dee8417972.png"
+    },
+    {
+      "text": "姬月樱_冲鸭",
+      "url": "https://i0.hdslb.com/bfs/garb/d0588c0cb97cb00891cad99ae210dc22ddb79b43.png"
+    },
+    {
+      "text": "姬月樱_鬼鬼祟祟",
+      "url": "https://i0.hdslb.com/bfs/garb/5618162d78f6c58e942fcb4db275c431093cedb6.png"
+    },
+    {
+      "text": "姬月樱_思烤宇宙",
+      "url": "https://i0.hdslb.com/bfs/garb/cc0afeb81a12aa0ee285244ab6aff75753fe30cb.png"
+    },
+    {
+      "text": "姬月樱_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/82a68077a0e1a114155687c1b3a1cf2f234eb460.png"
+    },
+    {
+      "text": "姬月樱_完全懂了",
+      "url": "https://i0.hdslb.com/bfs/garb/e04d99648c3ad303325e9b16681c7836aad9899a.png"
+    },
+    {
+      "text": "姬月樱_不是哥们",
+      "url": "https://i0.hdslb.com/bfs/garb/b01d6f3e91f211c104ad927b60206c912ef39a1d.png"
+    },
+    {
+      "text": "姬月樱_我看到你了",
+      "url": "https://i0.hdslb.com/bfs/garb/0a4c6b95ab7277299d60dcd38fbaefa7be297cc2.png"
+    },
+    {
+      "text": "姬月樱_弱小可怜",
+      "url": "https://i0.hdslb.com/bfs/garb/2d1b811923dbac99c5544bd1753186a7854c4456.png"
+    },
+    {
+      "text": "姬月樱_香蕉樱",
+      "url": "https://i0.hdslb.com/bfs/garb/5d73979a09277c413e6c07697fbddd74394ace5b.png"
+    },
+    {
+      "text": "姬月樱_卡其脱离太",
+      "url": "https://i0.hdslb.com/bfs/garb/f1af81709a769ceaefd652480098941a4ce5ec38.png"
+    },
+    {
+      "text": "姬月樱_呼呼大睡",
+      "url": "https://i0.hdslb.com/bfs/garb/29f4c8fe0543a85fcd911ffadc5e3beb52723704.png"
+    }
+  ]
+}
