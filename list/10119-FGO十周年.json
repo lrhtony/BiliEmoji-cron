@@ -1,0 +1,108 @@
+{
+  "id": 10119,
+  "text": "FGO十周年",
+  "icon": "https://i0.hdslb.com/bfs/garb/250b4afc223fab021cd4daa3f83e825fb268d467.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "FGO十周年_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/e1345a5eca69ea6a115992dca1619720fb892a8d.png"
+    },
+    {
+      "text": "FGO十周年_阅",
+      "url": "https://i0.hdslb.com/bfs/garb/40ac2eaabb0cdc2c592a4a2d8b7dc228369d24f7.png"
+    },
+    {
+      "text": "FGO十周年_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/963861f51cdca9ee94610da32bc81763b0d972ff.png"
+    },
+    {
+      "text": "FGO十周年_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/faba12df8e98c5f1da93279b2d46c0fd3ae791e2.png"
+    },
+    {
+      "text": "FGO十周年_飞踢",
+      "url": "https://i0.hdslb.com/bfs/garb/55d6ed8798b8d146eafe16a79b39447bfad5a589.png"
+    },
+    {
+      "text": "FGO十周年_错误",
+      "url": "https://i0.hdslb.com/bfs/garb/ffc62ffdd0059a7a32a8da649dcfe93390eb7d03.png"
+    },
+    {
+      "text": "FGO十周年_正确",
+      "url": "https://i0.hdslb.com/bfs/garb/0e984ef01ee67bfd3ae558d006dbfcd117fa2737.png"
+    },
+    {
+      "text": "FGO十周年_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/f4cb0e737edf33abf6225c211088a567afa025bc.png"
+    },
+    {
+      "text": "FGO十周年_脸红",
+      "url": "https://i0.hdslb.com/bfs/garb/b64d3da528880789be22b0795bcea8057edcdaae.png"
+    },
+    {
+      "text": "FGO十周年_头疼",
+      "url": "https://i0.hdslb.com/bfs/garb/07c544e44a51e5c1bb73b5d6682239ae38724bff.png"
+    },
+    {
+      "text": "FGO十周年_满足",
+      "url": "https://i0.hdslb.com/bfs/garb/1724fe0f2b777ef904aecb7463ac8bd64e8c2ce5.png"
+    },
+    {
+      "text": "FGO十周年_做饭",
+      "url": "https://i0.hdslb.com/bfs/garb/3034dfa856f5dc6ae8c808683aa4bbc662da76d7.png"
+    },
+    {
+      "text": "FGO十周年_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/3948d73c9eecf5eb1a1c44d04a4e6b8977fa5f00.png"
+    },
+    {
+      "text": "FGO十周年_勾肩搭背",
+      "url": "https://i0.hdslb.com/bfs/garb/53377e5fa2f97a3108445e61674938fb2376f51d.png"
+    },
+    {
+      "text": "FGO十周年_哈气",
+      "url": "https://i0.hdslb.com/bfs/garb/46844d19df97653f9c9aebaa0377152d8b92139a.png"
+    },
+    {
+      "text": "FGO十周年_懒",
+      "url": "https://i0.hdslb.com/bfs/garb/0537f417e3df19e76ac51811031c408783675eb4.png"
+    },
+    {
+      "text": "FGO十周年_啧啧",
+      "url": "https://i0.hdslb.com/bfs/garb/6c64ef54eba9765a52e84f263ff8f18d1fd37067.png"
+    },
+    {
+      "text": "FGO十周年_破防",
+      "url": "https://i0.hdslb.com/bfs/garb/c8e19d8009ead95b771c142ef8a2eff959e1ab70.png"
+    },
+    {
+      "text": "FGO十周年_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/3e36db52beeb1d35f69b770a7a26a5a2792e0409.png"
+    },
+    {
+      "text": "FGO十周年_？",
+      "url": "https://i0.hdslb.com/bfs/garb/b79baaae30003aad02ba4c65f2c14dac4a2c1a3f.png"
+    },
+    {
+      "text": "FGO十周年_哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/dc21895c52deb0bed407d7cb1a38ca762f86a3ec.png"
+    },
+    {
+      "text": "FGO十周年_加料",
+      "url": "https://i0.hdslb.com/bfs/garb/66b1f230a97f760efd41aaf961bcd206ccc614f4.png"
+    },
+    {
+      "text": "FGO十周年_加班",
+      "url": "https://i0.hdslb.com/bfs/garb/23c3a0783eb09ff0de89e5fdc65a82147f23646e.png"
+    },
+    {
+      "text": "FGO十周年_伟大",
+      "url": "https://i0.hdslb.com/bfs/garb/2da2399a9a83a05b3e13f5684c5ef90c2da49458.png"
+    },
+    {
+      "text": "FGO十周年_闭嘴",
+      "url": "https://i0.hdslb.com/bfs/garb/21d4f8218b1ed65356a52c41f3ada4a367bf96a1.png"
+    }
+  ]
+}
