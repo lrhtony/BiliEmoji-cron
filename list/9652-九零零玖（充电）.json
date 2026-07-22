@@ -1,12 +1,24 @@
 {
   "id": 9652,
   "text": "九零零玖（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/f8466b0a8654bc32438329779a28ba0fcdc1aaa9.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/88609ff70db371500ee24d19da4e6f7038b859f8.png",
   "resource_type": 0,
   "emote": [
     {
       "text": "UPOWER_3546578998528363_这么强",
       "url": "https://i0.hdslb.com/bfs/garb/fe50257908517726c252728e951ff1c8cfa59fb4.png"
+    },
+    {
+      "text": "UPOWER_3546578998528363_干嘛",
+      "url": "https://i0.hdslb.com/bfs/garb/a647e99f889477c3f0cdf373bae3c0873b133911.png"
+    },
+    {
+      "text": "UPOWER_3546578998528363_燃尽了",
+      "url": "https://i0.hdslb.com/bfs/garb/a33bcccdd9cc66e97709e4553c0d43d91d38255e.png"
+    },
+    {
+      "text": "UPOWER_3546578998528363_嘘",
+      "url": "https://i0.hdslb.com/bfs/garb/a733ed93073504fdb2562c9d18de869920f64119.png"
     }
   ]
 }
