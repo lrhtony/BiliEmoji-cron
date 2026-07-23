@@ -1,0 +1,68 @@
+{
+  "id": 10129,
+  "text": "梦亦思君",
+  "icon": "https://i0.hdslb.com/bfs/garb/71425c298df396fb97972b6760dd73aeeae19af0.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "梦亦思君_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/081bafc2913826216e8acd38f843135124d12ca5.png"
+    },
+    {
+      "text": "梦亦思君_阿巴阿巴",
+      "url": "https://i0.hdslb.com/bfs/garb/26a61e3f0df47f7777c8f97337ab5ec9232a8f52.png"
+    },
+    {
+      "text": "梦亦思君_带带",
+      "url": "https://i0.hdslb.com/bfs/garb/4c08d5f2d361f951e74232b15d72168d4e0af757.png"
+    },
+    {
+      "text": "梦亦思君_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/279eb00f9d1b954178dafe012e441cd1ecee1c54.png"
+    },
+    {
+      "text": "梦亦思君_捏",
+      "url": "https://i0.hdslb.com/bfs/garb/c6e0ae03b0f5fbee692fe6f17cd8e4beae7960fa.png"
+    },
+    {
+      "text": "梦亦思君_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/2563189bf1fc699308bc0ae7aa04f44557bbd375.png"
+    },
+    {
+      "text": "梦亦思君_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/a6c17897c9f57716dd087ab602a3936104f002a6.png"
+    },
+    {
+      "text": "梦亦思君_长脑子了",
+      "url": "https://i0.hdslb.com/bfs/garb/120063ad91d11c9f59f5c8f5b5f408478a112fbd.png"
+    },
+    {
+      "text": "梦亦思君_你做什么的",
+      "url": "https://i0.hdslb.com/bfs/garb/c9011a2cf079a936efe5fe2a487acf61e8f241c9.png"
+    },
+    {
+      "text": "梦亦思君_燃起来",
+      "url": "https://i0.hdslb.com/bfs/garb/0dc3ea5cb60d47d1359cc1565d81777374d2c20f.png"
+    },
+    {
+      "text": "梦亦思君_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/da1a5540ded894ec30ca808bdfc5b5897a00e83d.png"
+    },
+    {
+      "text": "梦亦思君_别动",
+      "url": "https://i0.hdslb.com/bfs/garb/306c0738a191548bfaf9f9a43a2d923952497b14.png"
+    },
+    {
+      "text": "梦亦思君_掉进陷阱了",
+      "url": "https://i0.hdslb.com/bfs/garb/03861a52c603e642dcfeae73e4f21c7fe0819a06.png"
+    },
+    {
+      "text": "梦亦思君_啃",
+      "url": "https://i0.hdslb.com/bfs/garb/4c4ea0d9ecb54f77b97611dcd5fe928c4684faf9.png"
+    },
+    {
+      "text": "梦亦思君_咬",
+      "url": "https://i0.hdslb.com/bfs/garb/55edf65bbc6fea5d5aab6b03ad17452c0ee6af58.png"
+    }
+  ]
+}
