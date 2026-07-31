@@ -1,0 +1,24 @@
+{
+  "id": 10153,
+  "text": "OUTPUTstudio（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/61607e699fc5cc6e05cb7973c320668084f263e9.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_1632176683_错",
+      "url": "https://i0.hdslb.com/bfs/garb/71780e09860ef9e9f16e7d154a85f103b27818cb.png"
+    },
+    {
+      "text": "UPOWER_1632176683_对",
+      "url": "https://i0.hdslb.com/bfs/garb/fe4514f75f0393b35abcdaf1fa57cd42d0b6539e.png"
+    },
+    {
+      "text": "UPOWER_1632176683_别急",
+      "url": "https://i0.hdslb.com/bfs/garb/13825e6cc3838072bebb1b0d12d5412762b39f22.png"
+    },
+    {
+      "text": "UPOWER_1632176683_所以呢",
+      "url": "https://i0.hdslb.com/bfs/garb/ef3cab105204261e11cb033c9a21bd9652171ba6.png"
+    }
+  ]
+}
