@@ -1,0 +1,24 @@
+{
+  "id": 10184,
+  "text": "沙漠之雕重生版（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/225d19883c51f5993124ffdeb6e2ba7888d3ce19.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_284916531_加班",
+      "url": "https://i0.hdslb.com/bfs/garb/3665dd28f601f9a6afa38097c842f8fcaca96ec0.png"
+    },
+    {
+      "text": "UPOWER_284916531_ok",
+      "url": "https://i0.hdslb.com/bfs/garb/72fc32fbced93dbb420e8c6b890e775c7c6445ad.png"
+    },
+    {
+      "text": "UPOWER_284916531_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/0f852c388916af8a2f6178d26cfa3bfe55272d4f.png"
+    },
+    {
+      "text": "UPOWER_284916531_拜拜",
+      "url": "https://i0.hdslb.com/bfs/garb/06563bb82f9a768aa3f37cdd3ddbef1063a904e3.png"
+    }
+  ]
+}
