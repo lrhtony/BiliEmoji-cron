@@ -1,7 +1,7 @@
 {
   "id": 7182,
   "text": "雪狐桑（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/05a6b1ec6c43bdd76997bc0c2d850776be49a843.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/ce9df935aa8fe6fc70bca0448171b12aebc1adee.png",
   "resource_type": 0,
   "emote": [
     {
@@ -27,6 +27,26 @@
     {
       "text": "UPOWER_477792_晚安",
       "url": "https://i0.hdslb.com/bfs/garb/29e4b10d737d31ae7882c073b4a0603f8cbccf62.png"
+    },
+    {
+      "text": "UPOWER_477792_略略略",
+      "url": "https://i0.hdslb.com/bfs/garb/36783244f1483e221582a4ebe4fd52047980f4fa.png"
+    },
+    {
+      "text": "UPOWER_477792_小fafa",
+      "url": "https://i0.hdslb.com/bfs/garb/343d1c7e2068aa92dffd2754c9bed3c585581684.png"
+    },
+    {
+      "text": "UPOWER_477792_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/6b7d7b80a72b3ae018ab7e52b36faea26b4fb7ea.png"
+    },
+    {
+      "text": "UPOWER_477792_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/32511f5a79e46d02b352941caa46c66bf97d449b.png"
+    },
+    {
+      "text": "UPOWER_477792_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/7bdb6b87094af461d606a225e8faf0a4c237980f.png"
     }
   ]
 }
