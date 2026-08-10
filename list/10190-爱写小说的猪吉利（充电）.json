@@ -1,0 +1,24 @@
+{
+  "id": 10190,
+  "text": "爱写小说的猪吉利（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/0c56394d874a19306ee5f52f68c25b9108fd6bc0.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_436699977_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/b4635d6c5d6c04d3722d3af86944c759622eb9b3.png"
+    },
+    {
+      "text": "UPOWER_436699977_大叫",
+      "url": "https://i0.hdslb.com/bfs/garb/e09dbc3beb070e1cd1fe7429990386dc940ee252.png"
+    },
+    {
+      "text": "UPOWER_436699977_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/9b493f33d81d68d38a912c00e023e56254477fca.png"
+    },
+    {
+      "text": "UPOWER_436699977_出现",
+      "url": "https://i0.hdslb.com/bfs/garb/b404fc11075a0638598c8daf0943eb3738f4a21e.png"
+    }
+  ]
+}
