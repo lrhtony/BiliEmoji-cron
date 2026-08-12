@@ -1,0 +1,88 @@
+{
+  "id": 10195,
+  "text": "Virtus",
+  "icon": "https://i0.hdslb.com/bfs/garb/item/8660da6cd42161617dc82301f2b3edef9c30d5e7.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "Virtus_go",
+      "url": "https://i0.hdslb.com/bfs/garb/item/a2331064bcca9487c321e055a3e413f5a0ba8535.png"
+    },
+    {
+      "text": "Virtus_no",
+      "url": "https://i0.hdslb.com/bfs/garb/item/5844a851bb2e8fd1807fd1fcffcab348e96f5ed2.png"
+    },
+    {
+      "text": "Virtus_ok",
+      "url": "https://i0.hdslb.com/bfs/garb/item/aa85bdcea4f161c45837a8c65d565820ac36354c.png"
+    },
+    {
+      "text": "Virtus_VIRTUSGO",
+      "url": "https://i0.hdslb.com/bfs/garb/item/8df85cc48278ba568945dbbe2448a947032cfc78.png"
+    },
+    {
+      "text": "Virtus_VIRTUS",
+      "url": "https://i0.hdslb.com/bfs/garb/item/13650ab93c7fcaa93eb2fa244f800f74caf5bf5d.png"
+    },
+    {
+      "text": "Virtus_抱头",
+      "url": "https://i0.hdslb.com/bfs/garb/item/50af5b0f2cda984b4378769949aefabaa6f0bad5.png"
+    },
+    {
+      "text": "Virtus_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/item/859f1401cdf33da53066c23279352b3471ba4082.png"
+    },
+    {
+      "text": "Virtus_低头",
+      "url": "https://i0.hdslb.com/bfs/garb/item/95f210f4a9b31712ffd81de6c676295b6e76f139.png"
+    },
+    {
+      "text": "Virtus_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/item/052d8a9489d7997868119aa9b6634c057122d478.png"
+    },
+    {
+      "text": "Virtus_高冷",
+      "url": "https://i0.hdslb.com/bfs/garb/item/95f1eeacd0165524e4626105d79bc3e76bdaf41f.png"
+    },
+    {
+      "text": "Virtus_鼓掌",
+      "url": "https://i0.hdslb.com/bfs/garb/item/536f65f0b42a2e54b5b763c20e4ffbea9a787ab2.png"
+    },
+    {
+      "text": "Virtus_决斗",
+      "url": "https://i0.hdslb.com/bfs/garb/item/d34087d06f9b1e4164b7cf5563d2642bcf62a41a.png"
+    },
+    {
+      "text": "Virtus_看到没",
+      "url": "https://i0.hdslb.com/bfs/garb/item/468ba7fdaa0303b4ea09ea0b280cd10f86b9f981.png"
+    },
+    {
+      "text": "Virtus_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/item/f667b9e696ad77d9f10c60fe0226fb4237a922bc.png"
+    },
+    {
+      "text": "Virtus_来啊",
+      "url": "https://i0.hdslb.com/bfs/garb/item/88fe26f0492358f08e0cad150df9ae25d52ed03e.png"
+    },
+    {
+      "text": "Virtus_眯眼",
+      "url": "https://i0.hdslb.com/bfs/garb/item/cdfb6ac3f592fc490d35d68d66f8bc1d0f38afa7.png"
+    },
+    {
+      "text": "Virtus_凝视",
+      "url": "https://i0.hdslb.com/bfs/garb/item/164755b6fee5ce1686695424013d01c72f6eadc1.png"
+    },
+    {
+      "text": "Virtus_起飞",
+      "url": "https://i0.hdslb.com/bfs/garb/item/2e9455ef44d789e3257c15571fd2f847bc59cc47.png"
+    },
+    {
+      "text": "Virtus_摊手",
+      "url": "https://i0.hdslb.com/bfs/garb/item/e42c71fccd516ba8efa149c60c45f50cdd51a063.png"
+    },
+    {
+      "text": "Virtus_自信",
+      "url": "https://i0.hdslb.com/bfs/garb/item/c64d65689dbdd0c7505d2b4e168a50b4548fac61.png"
+    }
+  ]
+}
