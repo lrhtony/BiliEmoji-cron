@@ -1,0 +1,68 @@
+{
+  "id": 10220,
+  "text": "秋天小可爱",
+  "icon": "https://i0.hdslb.com/bfs/garb/419fb55bac42d34719ae337050ea71df4cf64b03.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "秋天小可爱_崇拜",
+      "url": "https://i0.hdslb.com/bfs/garb/826503b8b68aadedc171e150436b85461c7640ae.png"
+    },
+    {
+      "text": "秋天小可爱_偷笑",
+      "url": "https://i0.hdslb.com/bfs/garb/bb445dc95d7927e540deaa78b2c2f56f3655d7ee.png"
+    },
+    {
+      "text": "秋天小可爱_吃东西",
+      "url": "https://i0.hdslb.com/bfs/garb/7b7c41a25375da4ac85e3da64f43023881b20647.png"
+    },
+    {
+      "text": "秋天小可爱_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/65a662070cae137dfda5807d78272b0e4b281fdf.png"
+    },
+    {
+      "text": "秋天小可爱_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/1be7e83f74655c1a3378f93206bb900a84f5302b.png"
+    },
+    {
+      "text": "秋天小可爱_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/72380fe780b059585130fd132161b401809b6428.png"
+    },
+    {
+      "text": "秋天小可爱_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/f4df2f9fbb10aef93e1a127172e20a232929c0bd.png"
+    },
+    {
+      "text": "秋天小可爱_弹琴",
+      "url": "https://i0.hdslb.com/bfs/garb/ef1567ab76127b43f0f4b43eff73130b5ed2ab59.png"
+    },
+    {
+      "text": "秋天小可爱_来财",
+      "url": "https://i0.hdslb.com/bfs/garb/9610de7c251c8abcbba1b2319607681004a27efc.png"
+    },
+    {
+      "text": "秋天小可爱_耶",
+      "url": "https://i0.hdslb.com/bfs/garb/5d09215e52aeb5be6aaa55b91efaac98123a6c61.png"
+    },
+    {
+      "text": "秋天小可爱_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/87d9f07fee7356579dffbab7bc67461783c47f19.png"
+    },
+    {
+      "text": "秋天小可爱_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/b000fcd7d31bcb17e12e188ba9132e9983525385.png"
+    },
+    {
+      "text": "秋天小可爱_跳舞",
+      "url": "https://i0.hdslb.com/bfs/garb/3746675b0e5d08ff719cdf47f452036307cf2c51.png"
+    },
+    {
+      "text": "秋天小可爱_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/cc566e1bca2abe040195928f36dbae013aee3df1.png"
+    },
+    {
+      "text": "秋天小可爱_通过",
+      "url": "https://i0.hdslb.com/bfs/garb/2240f424d90d8b7b90e568302fde67a8b37a1dec.png"
+    }
+  ]
+}
