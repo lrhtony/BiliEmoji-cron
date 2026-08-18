@@ -1,0 +1,68 @@
+{
+  "id": 10221,
+  "text": "小怪兽扑克",
+  "icon": "https://i0.hdslb.com/bfs/garb/00bce55b5be6eeba61097e19df477452d5cdd0a6.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "小怪兽扑克_黑桃A",
+      "url": "https://i0.hdslb.com/bfs/garb/e83ee706d3743ca6aefd2eed6f05523dddf6ef68.png"
+    },
+    {
+      "text": "小怪兽扑克_红桃2",
+      "url": "https://i0.hdslb.com/bfs/garb/f1ac74d09a6240260d820c4411f01644ff3097f2.png"
+    },
+    {
+      "text": "小怪兽扑克_方块3",
+      "url": "https://i0.hdslb.com/bfs/garb/d11c1426f08ddcbec3c636600e9aecbf17d5ae66.png"
+    },
+    {
+      "text": "小怪兽扑克_梅花4",
+      "url": "https://i0.hdslb.com/bfs/garb/cba2f31d13099d64321200b0f872808f260e6c18.png"
+    },
+    {
+      "text": "小怪兽扑克_方块5",
+      "url": "https://i0.hdslb.com/bfs/garb/3fce44a628cb53733fe319391b65171f1c688b90.png"
+    },
+    {
+      "text": "小怪兽扑克_梅花6",
+      "url": "https://i0.hdslb.com/bfs/garb/76b80277977f5ddcda60b30c0032269b1d49c196.png"
+    },
+    {
+      "text": "小怪兽扑克_梅花7",
+      "url": "https://i0.hdslb.com/bfs/garb/336aec7fa601e581129e0bd40f922f93c903684a.png"
+    },
+    {
+      "text": "小怪兽扑克_黑桃8",
+      "url": "https://i0.hdslb.com/bfs/garb/9ca06bda3cd5927390d901ef9dba3e9d315623df.png"
+    },
+    {
+      "text": "小怪兽扑克_红桃9",
+      "url": "https://i0.hdslb.com/bfs/garb/c03d600a32f4714c5a4453c10164f14fcb0784f8.png"
+    },
+    {
+      "text": "小怪兽扑克_红桃10",
+      "url": "https://i0.hdslb.com/bfs/garb/97afa2b5c0a4fbc50249d49fbd5d2b0f7cf20644.png"
+    },
+    {
+      "text": "小怪兽扑克_方块J",
+      "url": "https://i0.hdslb.com/bfs/garb/5706693967c619b143779870f9235df77f18b4d2.png"
+    },
+    {
+      "text": "小怪兽扑克_红桃Q",
+      "url": "https://i0.hdslb.com/bfs/garb/b7e05a130249b4a2fa15bc755ed5b23f65317276.png"
+    },
+    {
+      "text": "小怪兽扑克_黑桃K",
+      "url": "https://i0.hdslb.com/bfs/garb/f2d9e8d27561310293e6b98d14842a9353d4a46a.png"
+    },
+    {
+      "text": "小怪兽扑克_小鬼",
+      "url": "https://i0.hdslb.com/bfs/garb/97809103392f6ac09366937a0a1023b445b8ab60.png"
+    },
+    {
+      "text": "小怪兽扑克_大鬼",
+      "url": "https://i0.hdslb.com/bfs/garb/217abf257fa56284e35ef3ef12a848da4d91d585.png"
+    }
+  ]
+}
