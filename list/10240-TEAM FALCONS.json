@@ -1,0 +1,88 @@
+{
+  "id": 10240,
+  "text": "TEAM FALCONS",
+  "icon": "https://i0.hdslb.com/bfs/garb/d9d6dc1e84bd499f176b29f60b70928f69fb188f.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "TEAM FALCONS_YEAH",
+      "url": "https://i0.hdslb.com/bfs/garb/1da4fc0c70ad3e0760f012b2c157660d3bc544fd.png"
+    },
+    {
+      "text": "TEAM FALCONS_出征",
+      "url": "https://i0.hdslb.com/bfs/garb/8a58bddc3cc5ee5a312b4653a8b27e7b4c245ed0.png"
+    },
+    {
+      "text": "TEAM FALCONS_出发喽",
+      "url": "https://i0.hdslb.com/bfs/garb/c2415a899f42da5375d610e5e263b68d95445fcf.png"
+    },
+    {
+      "text": "TEAM FALCONS_不同意",
+      "url": "https://i0.hdslb.com/bfs/garb/e610dac7cf403b7c92aae1f708e89c652958e1b3.png"
+    },
+    {
+      "text": "TEAM FALCONS_举手",
+      "url": "https://i0.hdslb.com/bfs/garb/760faae79a8125136b68d6a9c27c114a3c1b6998.png"
+    },
+    {
+      "text": "TEAM FALCONS_疲惫",
+      "url": "https://i0.hdslb.com/bfs/garb/485de77f3f532e6644434146932f14f7f04453df.png"
+    },
+    {
+      "text": "TEAM FALCONS_认真",
+      "url": "https://i0.hdslb.com/bfs/garb/f391bf98f4429af8713739fe5af0a123d782ed47.png"
+    },
+    {
+      "text": "TEAM FALCONS_自信",
+      "url": "https://i0.hdslb.com/bfs/garb/e9336f1f67925d9e5b853cc2367ab7fe9dc10664.png"
+    },
+    {
+      "text": "TEAM FALCONS_吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/faf142c101c674f7c5eeafdc53c73769be4855ee.png"
+    },
+    {
+      "text": "TEAM FALCONS_咋办呢",
+      "url": "https://i0.hdslb.com/bfs/garb/3542bc038fcc566e4b53c7d09d4f0a05a8bcbc23.png"
+    },
+    {
+      "text": "TEAM FALCONS_听不见",
+      "url": "https://i0.hdslb.com/bfs/garb/b11c4ce6fa625def25cadbc50dbccbcfa3509bd8.png"
+    },
+    {
+      "text": "TEAM FALCONS_无敌",
+      "url": "https://i0.hdslb.com/bfs/garb/8dfa32d702090fcdd26bcab0d3e21c0bf5ef0171.png"
+    },
+    {
+      "text": "TEAM FALCONS_挠头",
+      "url": "https://i0.hdslb.com/bfs/garb/9be36594d1e304cdce8c5ea327276ce16fd95176.png"
+    },
+    {
+      "text": "TEAM FALCONS_孩圣",
+      "url": "https://i0.hdslb.com/bfs/garb/75910bf220d8a9da4b8fce2bb2fdf52613b88f05.png"
+    },
+    {
+      "text": "TEAM FALCONS_捧杯",
+      "url": "https://i0.hdslb.com/bfs/garb/b8790cd94a812143083de1e4bf53a0e3b1ffe821.png"
+    },
+    {
+      "text": "TEAM FALCONS_嗨嗨嗨",
+      "url": "https://i0.hdslb.com/bfs/garb/67dcf628dd195932fd667321cdbbe31402909594.png"
+    },
+    {
+      "text": "TEAM FALCONS_哭了",
+      "url": "https://i0.hdslb.com/bfs/garb/e7555be8875979b4d6711a40632691c044ce5e6c.png"
+    },
+    {
+      "text": "TEAM FALCONS_来了",
+      "url": "https://i0.hdslb.com/bfs/garb/91a9f4d25cf0e57c3155db4a6ee0eecbedb18621.png"
+    },
+    {
+      "text": "TEAM FALCONS_嘻嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/ea31398c9fbdd8d488dd3c12c7f3b1a1020a66e4.png"
+    },
+    {
+      "text": "TEAM FALCONS_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/cad7293faa7d8523ddbad29342b86138d5962cfe.png"
+    }
+  ]
+}
