@@ -1,0 +1,28 @@
+{
+  "id": 10243,
+  "text": "锅包柔柔（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/98d7976c27fa4467f25282c9a69b088cf097fec4.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_281774964_红温",
+      "url": "https://i0.hdslb.com/bfs/garb/a891f8f6854a93ad099756ad1c40ac7e757b71d5.png"
+    },
+    {
+      "text": "UPOWER_281774964_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/df15155e6cd7b9ba908a284ac1afa0eb81bddb57.png"
+    },
+    {
+      "text": "UPOWER_281774964_烧起来了",
+      "url": "https://i0.hdslb.com/bfs/garb/ba47d900261be90061b640044653edbbb29619d6.png"
+    },
+    {
+      "text": "UPOWER_281774964_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/ca18e2f00555133b4a20d4e2c68ced3e8fdab693.png"
+    },
+    {
+      "text": "UPOWER_281774964_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/497dd2f19c51d7c1d0ec8f561857f1a953b19edd.png"
+    }
+  ]
+}
