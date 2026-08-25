@@ -1,0 +1,48 @@
+{
+  "id": 10262,
+  "text": "逆风笑（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/b643499a8134041dbee9d1406f177544373f91c5.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_2019740_笑死大牙",
+      "url": "https://i0.hdslb.com/bfs/garb/2cfdec75c6ac2fe8703a84b8f724399c4ae721fd.png"
+    },
+    {
+      "text": "UPOWER_2019740_森气",
+      "url": "https://i0.hdslb.com/bfs/garb/bb47c5d8cef510acfacb97b6552d3efa1f0fbef7.png"
+    },
+    {
+      "text": "UPOWER_2019740_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/7a828ef3e09523d97d5770cb8fc7b42921e4150d.png"
+    },
+    {
+      "text": "UPOWER_2019740_降压药",
+      "url": "https://i0.hdslb.com/bfs/garb/a3061f7715ff4756dee8050622250aa1e9dda230.png"
+    },
+    {
+      "text": "UPOWER_2019740_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/838282894007e6ee2d2d659fb9d5c49a7aceb302.png"
+    },
+    {
+      "text": "UPOWER_2019740_喝茶",
+      "url": "https://i0.hdslb.com/bfs/garb/67e981551212ba58496cec14396e551cbcc1429d.png"
+    },
+    {
+      "text": "UPOWER_2019740_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/52d8bdc38c31ab35ef652a736d8ab646d60f88e0.png"
+    },
+    {
+      "text": "UPOWER_2019740_啊这",
+      "url": "https://i0.hdslb.com/bfs/garb/f670a0e666ea4116cc79169bcd4c03cfad0ee794.png"
+    },
+    {
+      "text": "UPOWER_2019740_感动",
+      "url": "https://i0.hdslb.com/bfs/garb/3f229c9d7c9932d54be0427d74729c9dc778cb54.png"
+    },
+    {
+      "text": "UPOWER_2019740_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/82cee521f9b50d95bc3003bba220929509982bd8.png"
+    }
+  ]
+}
