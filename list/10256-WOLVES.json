@@ -1,0 +1,88 @@
+{
+  "id": 10256,
+  "text": "WOLVES",
+  "icon": "https://i0.hdslb.com/bfs/garb/c750a12721a62f7af4e85117c5224f53d7a6a8a0.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "WOLVES_GO！！",
+      "url": "https://i0.hdslb.com/bfs/garb/de249384f42ea4827e59c3336306feaa06e73249.png"
+    },
+    {
+      "text": "WOLVES_yeah",
+      "url": "https://i0.hdslb.com/bfs/garb/4f8ce62edafb733475e3d7e45265bec230435f43.png"
+    },
+    {
+      "text": "WOLVES_仰望",
+      "url": "https://i0.hdslb.com/bfs/garb/308a56095ed593a9f27a5a617430079102554bba.png"
+    },
+    {
+      "text": "WOLVES_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/d7dbdbf9c79ed545f15ccff20428290535c5ee78.png"
+    },
+    {
+      "text": "WOLVES_冷漠",
+      "url": "https://i0.hdslb.com/bfs/garb/4c553883cd503b800de1e22b1bce13d6d8cac5cb.png"
+    },
+    {
+      "text": "WOLVES_发呆",
+      "url": "https://i0.hdslb.com/bfs/garb/85eee9e117070102e6ebca4d79be8f7cd37c5181.png"
+    },
+    {
+      "text": "WOLVES_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/774ab41e06b309ff524a7ea720d736a790782080.png"
+    },
+    {
+      "text": "WOLVES_忧郁",
+      "url": "https://i0.hdslb.com/bfs/garb/6f5852c63e7d993a4604b70a8c92671df36d55f2.png"
+    },
+    {
+      "text": "WOLVES_懒散",
+      "url": "https://i0.hdslb.com/bfs/garb/2f408b77ab25537f9cfe94e122e0cca275833d19.png"
+    },
+    {
+      "text": "WOLVES_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/48621ea402821da56d206718e991440acbdda403.png"
+    },
+    {
+      "text": "WOLVES_我全都要",
+      "url": "https://i0.hdslb.com/bfs/garb/4b5d01dc4d3225bc7427f9da7c4f33ef1697f054.png"
+    },
+    {
+      "text": "WOLVES_注视",
+      "url": "https://i0.hdslb.com/bfs/garb/731e224c0f2c8dceb7043c390b410f9170a4d5df.png"
+    },
+    {
+      "text": "WOLVES_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/a734430b9f5d84c1dfd660f4c09d7973fd430e3b.png"
+    },
+    {
+      "text": "WOLVES_玩手机",
+      "url": "https://i0.hdslb.com/bfs/garb/80db5adf75463ee931f32e4c410ebb362c926178.png"
+    },
+    {
+      "text": "WOLVES_斜眼看",
+      "url": "https://i0.hdslb.com/bfs/garb/60289e732f4ba79d399a733940c18497748bce4f.png"
+    },
+    {
+      "text": "WOLVES_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/e04b9e49fbee99aaee2c421926152cad5be13576.png"
+    },
+    {
+      "text": "WOLVES_认真",
+      "url": "https://i0.hdslb.com/bfs/garb/cdcc2267a2b6afb5788f526c9ba3a5aa622759cf.png"
+    },
+    {
+      "text": "WOLVES_霸气",
+      "url": "https://i0.hdslb.com/bfs/garb/0e8718106c60aa8e138c0169fe01d153a5be55f5.png"
+    },
+    {
+      "text": "WOLVES_自信",
+      "url": "https://i0.hdslb.com/bfs/garb/c93332c091c55fbec6053cc4776c8cb118c9e13f.png"
+    },
+    {
+      "text": "WOLVES_赢！",
+      "url": "https://i0.hdslb.com/bfs/garb/1bfee370234b7829bf15b775d0d3ac3edaae02fd.png"
+    }
+  ]
+}
