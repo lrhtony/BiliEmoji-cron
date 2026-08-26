@@ -1,0 +1,32 @@
+{
+  "id": 10265,
+  "text": "蒋苍笙（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/e173f2881d81a5ef7c2b0ea1781bee6e5869ef9c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_277065_嗨起来",
+      "url": "https://i0.hdslb.com/bfs/garb/66bf7b40419a8c8dc4be4b4d908027aeb7da3d92.png"
+    },
+    {
+      "text": "UPOWER_277065_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/feb122f9f0eae83c13f8b94b9cf813f07035baa7.png"
+    },
+    {
+      "text": "UPOWER_277065_闪亮登场",
+      "url": "https://i0.hdslb.com/bfs/garb/936a3b1bd8a84f641dabf5292559e9f8eb79ca0a.png"
+    },
+    {
+      "text": "UPOWER_277065_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/6d1e3c86f062953fa3d157768af25d9cf1395956.png"
+    },
+    {
+      "text": "UPOWER_277065_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/5be62aee7af997c0955f43eea7019559b9b066f4.png"
+    },
+    {
+      "text": "UPOWER_277065_悄悄话",
+      "url": "https://i0.hdslb.com/bfs/garb/eac96daf96bb6302ce9490a484eee597fdfa789b.png"
+    }
+  ]
+}
