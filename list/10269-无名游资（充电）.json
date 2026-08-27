@@ -1,0 +1,68 @@
+{
+  "id": 10269,
+  "text": "无名游资（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/aa7996a088dcb846e5e9dd8bd93f904f9f99063c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_564756022_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/70300cd8d1989c35dc959e7223ca4ba7799baa5e.png"
+    },
+    {
+      "text": "UPOWER_564756022_你坏",
+      "url": "https://i0.hdslb.com/bfs/garb/0db507a67458314f7cd970dfffe5a45965a135a6.png"
+    },
+    {
+      "text": "UPOWER_564756022_追高",
+      "url": "https://i0.hdslb.com/bfs/garb/b841dfae9e7fe2fbd59ad8c17cc79014980ed396.png"
+    },
+    {
+      "text": "UPOWER_564756022_被套了吧",
+      "url": "https://i0.hdslb.com/bfs/garb/0d8e400826e0d318a018aec57e37e57209418af8.png"
+    },
+    {
+      "text": "UPOWER_564756022_第一",
+      "url": "https://i0.hdslb.com/bfs/garb/709fee828eb63d6f78e9a593f5a365c13633b30d.png"
+    },
+    {
+      "text": "UPOWER_564756022_催眠",
+      "url": "https://i0.hdslb.com/bfs/garb/e8f8911bdd30935ecdb5aafd1ab7922f7a55219a.png"
+    },
+    {
+      "text": "UPOWER_564756022_威胁",
+      "url": "https://i0.hdslb.com/bfs/garb/6f5d9c770be1b23ece34b22ec985ca4e5c4741ce.png"
+    },
+    {
+      "text": "UPOWER_564756022_回本",
+      "url": "https://i0.hdslb.com/bfs/garb/6f7fb1d56749dcb97bcaf25eb54aecfe82bf4c27.png"
+    },
+    {
+      "text": "UPOWER_564756022_没钱了",
+      "url": "https://i0.hdslb.com/bfs/garb/bbcfe817f2c57b5ab928e93c7ffbee0e747ea24c.png"
+    },
+    {
+      "text": "UPOWER_564756022_沉稳",
+      "url": "https://i0.hdslb.com/bfs/garb/ed65d61a364fec7c768c8129293903d8880d2887.png"
+    },
+    {
+      "text": "UPOWER_564756022_补仓",
+      "url": "https://i0.hdslb.com/bfs/garb/f38f92f36af6127c353189e3465d9926be2b62c4.png"
+    },
+    {
+      "text": "UPOWER_564756022_梗塞",
+      "url": "https://i0.hdslb.com/bfs/garb/67b08b847f834802762fd3a25032229a04cc545d.png"
+    },
+    {
+      "text": "UPOWER_564756022_厉害",
+      "url": "https://i0.hdslb.com/bfs/garb/a0e4ca7b9d45b68c7db92d93045a764fcf8c196e.png"
+    },
+    {
+      "text": "UPOWER_564756022_马内",
+      "url": "https://i0.hdslb.com/bfs/garb/4ad87d87b00c80015b1d9be8650ee8548763879d.png"
+    },
+    {
+      "text": "UPOWER_564756022_秘密",
+      "url": "https://i0.hdslb.com/bfs/garb/88bb27b7a3bbd7081f9902ce9b452f710826264d.png"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 10267,
+  "text": "KARMINE",
+  "icon": "https://i0.hdslb.com/bfs/garb/2297191b9b6365490092612284afb91057b5241e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "KARMINE_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/9f37599e127f55f18ded729c35d82c78eef1b2d2.png"
+    },
+    {
+      "text": "KARMINE_嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/9a6ec5f6e09e2dbccbd7028ee285384da25f417c.png"
+    },
+    {
+      "text": "KARMINE_享受",
+      "url": "https://i0.hdslb.com/bfs/garb/c5aa60299f96623489a1a191cbdad58d20714fa8.png"
+    },
+    {
+      "text": "KARMINE_嘘",
+      "url": "https://i0.hdslb.com/bfs/garb/5a73def920dfffe8b30d8cc01eec8c1677e43d90.png"
+    },
+    {
+      "text": "KARMINE_回头看",
+      "url": "https://i0.hdslb.com/bfs/garb/1a0cf96fecf503c73da1363640138cd12ec450f6.png"
+    },
+    {
+      "text": "KARMINE_高傲",
+      "url": "https://i0.hdslb.com/bfs/garb/237fc3ca25bad8d6e7b16f251a76debc2d292610.png"
+    },
+    {
+      "text": "KARMINE_扶眼镜",
+      "url": "https://i0.hdslb.com/bfs/garb/45b840aa26ce3d3e3d68698514bf7b4bc9d45bbb.png"
+    },
+    {
+      "text": "KARMINE_忧郁",
+      "url": "https://i0.hdslb.com/bfs/garb/c61585eea67cda7d25a0d2a5184f62c695d7f720.png"
+    },
+    {
+      "text": "KARMINE_招手",
+      "url": "https://i0.hdslb.com/bfs/garb/6b7904db70e09139a3e6a6307864c0cc995276d7.png"
+    },
+    {
+      "text": "KARMINE_撇嘴",
+      "url": "https://i0.hdslb.com/bfs/garb/1c87d0ef247c3fb9f2f0fc918fa9f6acf4d769d4.png"
+    },
+    {
+      "text": "KARMINE_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/d045e574bdcc85311521036866b49b0f03bb0eff.png"
+    },
+    {
+      "text": "KARMINE_微笑",
+      "url": "https://i0.hdslb.com/bfs/garb/ff6b2b025a0f399657809eeb1e9b6e42f85a2037.png"
+    },
+    {
+      "text": "KARMINE_自信",
+      "url": "https://i0.hdslb.com/bfs/garb/1cfb8bc0af575bf6dcd447d95d059768b9f09c13.png"
+    },
+    {
+      "text": "KARMINE_看我",
+      "url": "https://i0.hdslb.com/bfs/garb/ef04c686a74f98844f3c8768c9685b77cb0951dd.png"
+    },
+    {
+      "text": "KARMINE_来吧",
+      "url": "https://i0.hdslb.com/bfs/garb/7ff000851699f8c4e7de2ac896671919d24d66fe.png"
+    },
+    {
+      "text": "KARMINE_迷茫",
+      "url": "https://i0.hdslb.com/bfs/garb/4fc699a62d88fa6b2b098d827c0fd443d67f30f8.png"
+    },
+    {
+      "text": "KARMINE_放松",
+      "url": "https://i0.hdslb.com/bfs/garb/13f9b9fa76a1931d7b7c799a7cd4aef1831a071f.png"
+    },
+    {
+      "text": "KARMINE_显摆",
+      "url": "https://i0.hdslb.com/bfs/garb/83d2872fa03791cf84c034af37b7a865c599919e.png"
+    },
+    {
+      "text": "KARMINE_赢",
+      "url": "https://i0.hdslb.com/bfs/garb/430486ea60eed9f46a2931f6ca5776a9805c2536.png"
+    },
+    {
+      "text": "KARMINE_fight",
+      "url": "https://i0.hdslb.com/bfs/garb/01dc6f05316fb4f0fcbfa821760c11d12c3f860a.png"
+    }
+  ]
+}
