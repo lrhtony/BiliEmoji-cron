@@ -1,0 +1,88 @@
+{
+  "id": 10270,
+  "text": "WF",
+  "icon": "https://i0.hdslb.com/bfs/garb/aa68e65337293529f748943e13e26f4060e096ec.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "WF_熬夜",
+      "url": "https://i0.hdslb.com/bfs/garb/2a563cc00763284bcac03dbb3281fbead2cf370f.png"
+    },
+    {
+      "text": "WF_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/620d27cce079cdb700986d740ca4c22a48d68d8f.png"
+    },
+    {
+      "text": "WF_拒绝",
+      "url": "https://i0.hdslb.com/bfs/garb/97e614dfa0146287cc2aae7afcb4d6acfafff79b.png"
+    },
+    {
+      "text": "WF_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/3d6318a4394696b980fff6ebac92a5b738d57041.png"
+    },
+    {
+      "text": "WF_同意",
+      "url": "https://i0.hdslb.com/bfs/garb/d434c9ca8f12aa005b8a1919cd8abcb81c20b63f.png"
+    },
+    {
+      "text": "WF_尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/5c3af11092e3f58ec1f9661d2c9b3c1a9db6e3aa.png"
+    },
+    {
+      "text": "WF_惊吓",
+      "url": "https://i0.hdslb.com/bfs/garb/29d0e6c8b4e6b88363410e5fa366144a0bc0edb8.png"
+    },
+    {
+      "text": "WF_哭泣",
+      "url": "https://i0.hdslb.com/bfs/garb/f684eaed8d8a84eb1fc9ad1a75d985c558b1f333.png"
+    },
+    {
+      "text": "WF_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/f0f3b4cf2c110d5d555ddc96ebac028a1e8faf64.png"
+    },
+    {
+      "text": "WF_忍住不哭",
+      "url": "https://i0.hdslb.com/bfs/garb/6c53762d1756ffa4786ba4b41da4fe0129e35291.png"
+    },
+    {
+      "text": "WF_可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/d29bf9cdd48cbaf3378c352d84003180b9a91fe6.png"
+    },
+    {
+      "text": "WF_宇宙",
+      "url": "https://i0.hdslb.com/bfs/garb/f5d42f449716abc542ab0307a4c125e918b4f154.png"
+    },
+    {
+      "text": "WF_右击掌",
+      "url": "https://i0.hdslb.com/bfs/garb/0bb1c75efeb9a25d9b4e540d624b09bba9885b8e.png"
+    },
+    {
+      "text": "WF_左击掌",
+      "url": "https://i0.hdslb.com/bfs/garb/d242ed194d69a23653f17e767c2fc76308d13f4c.png"
+    },
+    {
+      "text": "WF_犹豫",
+      "url": "https://i0.hdslb.com/bfs/garb/71bc734a9b6419979b9ca3a8116ed1f5253e0109.png"
+    },
+    {
+      "text": "WF_异议",
+      "url": "https://i0.hdslb.com/bfs/garb/f2997d9203a60ec6a9bd424a67cde06f15d18647.png"
+    },
+    {
+      "text": "WF_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/140681450f0dc3e8f0c1c7e38b518848e06c538f.png"
+    },
+    {
+      "text": "WF_玩手机",
+      "url": "https://i0.hdslb.com/bfs/garb/5516f0eb7cf1e5c15b7fd639e2fd19ea117605bd.png"
+    },
+    {
+      "text": "WF_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/8fa0cebfcf4f9e4254880c21329780c741198f61.png"
+    },
+    {
+      "text": "WF_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/8b2bd399bcce958706b7d7b623dc4d969ed94086.png"
+    }
+  ]
+}
