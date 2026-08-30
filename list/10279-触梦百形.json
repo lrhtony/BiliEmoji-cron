@@ -1,0 +1,88 @@
+{
+  "id": 10279,
+  "text": "触梦百形",
+  "icon": "https://i0.hdslb.com/bfs/garb/14c5d1445ac9e8148f938c12907a88864c64f03c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "触梦百形_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/b584f1c9b471f93e58c52cd07db66924d7d42072.png"
+    },
+    {
+      "text": "触梦百形_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/915e3ef90503e2f85b88590ca48cbb1f508e426e.png"
+    },
+    {
+      "text": "触梦百形_蠕动",
+      "url": "https://i0.hdslb.com/bfs/garb/4281c15a82e6c84a98bdb997d7744cd934745dde.png"
+    },
+    {
+      "text": "触梦百形_真棒",
+      "url": "https://i0.hdslb.com/bfs/garb/9dbd948decd76434e4f6ff831755cb311d3bc8c0.png"
+    },
+    {
+      "text": "触梦百形_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/540cc2e2648c9f41aab5916f064df442b3fb62e3.png"
+    },
+    {
+      "text": "触梦百形_饿饿",
+      "url": "https://i0.hdslb.com/bfs/garb/06dee4eeb4df2b11b326057069f1d6341649dbc4.png"
+    },
+    {
+      "text": "触梦百形_单推",
+      "url": "https://i0.hdslb.com/bfs/garb/304b044b620ff9f0be3ec53cbbffb4849f5305ac.png"
+    },
+    {
+      "text": "触梦百形_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/f85ef2d117f08263b6966d28a3943afa84dd0a25.png"
+    },
+    {
+      "text": "触梦百形_讨厌",
+      "url": "https://i0.hdslb.com/bfs/garb/2eff12c4ee1b1c7bc592451ef2fd35c6054d0fea.png"
+    },
+    {
+      "text": "触梦百形_嫌弃",
+      "url": "https://i0.hdslb.com/bfs/garb/503cc77d868d63d61d3f3a311e2b47ea059661d8.png"
+    },
+    {
+      "text": "触梦百形_再见",
+      "url": "https://i0.hdslb.com/bfs/garb/fc6b1c3c9e2c2ebe2bc1c1603210aa0002d0567a.png"
+    },
+    {
+      "text": "触梦百形_鞠躬",
+      "url": "https://i0.hdslb.com/bfs/garb/7236fbf6e195978cb001aed428b8ce1dde7ca671.png"
+    },
+    {
+      "text": "触梦百形_投降",
+      "url": "https://i0.hdslb.com/bfs/garb/7a2c3264f3b8573bc1b9f9d7b5ce405f758e1e5e.png"
+    },
+    {
+      "text": "触梦百形_欧耶",
+      "url": "https://i0.hdslb.com/bfs/garb/b3ff75a53bb26323204d9a6c33dcc550444dc176.png"
+    },
+    {
+      "text": "触梦百形_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/62c64b71e7b93d6201254bd1e37c94f8aff7ebf2.png"
+    },
+    {
+      "text": "触梦百形_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/85b6713cab01642ad6e9add61f6ed50bd9a7959e.png"
+    },
+    {
+      "text": "触梦百形_嘲讽",
+      "url": "https://i0.hdslb.com/bfs/garb/5a5cba4a8199e5c4253c5c808d5cc1ee39136a92.png"
+    },
+    {
+      "text": "触梦百形_臭臭",
+      "url": "https://i0.hdslb.com/bfs/garb/646058c0ecd31bd00e953b69ce1c67285fc6b526.png"
+    },
+    {
+      "text": "触梦百形_玩去",
+      "url": "https://i0.hdslb.com/bfs/garb/3f39b394a7e918d04d7f3b06723ac9c8a196b055.png"
+    },
+    {
+      "text": "触梦百形_哭了",
+      "url": "https://i0.hdslb.com/bfs/garb/d3424d1adee1c7f1b95e6f8811eaa360cdabbd39.png"
+    }
+  ]
+}
