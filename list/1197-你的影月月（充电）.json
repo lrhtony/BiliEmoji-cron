@@ -1,7 +1,7 @@
 {
   "id": 1197,
   "text": "你的影月月（充电）",
-  "icon": "https://i0.hdslb.com/bfs/garb/7c1f29515d2c30af44b8479792ee26622343807a.png",
+  "icon": "https://i0.hdslb.com/bfs/garb/31b6cee9e5086f1fc2887482d589113fd7af6c5e.png",
   "resource_type": 0,
   "emote": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "text": "UPOWER_431073645_摸摸头",
-      "url": "https://i0.hdslb.com/bfs/garb/da4c48cb4b64cdd4ecfa9ddecaa38815f4c568a0.png"
+      "url": "https://i0.hdslb.com/bfs/garb/f8cedfdd47b052c0d4ddbfca66d17cc6afbfc429.png"
     },
     {
       "text": "UPOWER_431073645_打滚撒娇",
@@ -83,6 +83,78 @@
     {
       "text": "UPOWER_431073645_错字",
       "url": "https://i0.hdslb.com/bfs/garb/88e25d7d0472629c046ffed72c7c2948bb5c68b9.png"
+    },
+    {
+      "text": "UPOWER_431073645_QAQ",
+      "url": "https://i0.hdslb.com/bfs/garb/3f1206825041c3f360811469b8dba67f517e366e.png"
+    },
+    {
+      "text": "UPOWER_431073645_嘟嘟月",
+      "url": "https://i0.hdslb.com/bfs/garb/8d0b2145763e6716d3727f7ac08059673192a524.png"
+    },
+    {
+      "text": "UPOWER_431073645_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/aedb0a8f7b28ad9575f5e7baab7ac5793cd1d5fc.png"
+    },
+    {
+      "text": "UPOWER_431073645_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/be26b58261087a4682cb5576c8a2f6e8b8c458c4.png"
+    },
+    {
+      "text": "UPOWER_431073645_吃惊",
+      "url": "https://i0.hdslb.com/bfs/garb/b9a71f3d52d37991dbdd14fc897b24565b6feb9a.png"
+    },
+    {
+      "text": "UPOWER_431073645_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/341c98afba2b1cae963b28f8a159943791dd184b.png"
+    },
+    {
+      "text": "UPOWER_431073645_啃啃啃",
+      "url": "https://i0.hdslb.com/bfs/garb/caa26052481affa3c5bcd2b76b3f7b79c8358da3.png"
+    },
+    {
+      "text": "UPOWER_431073645_阿巴阿巴",
+      "url": "https://i0.hdslb.com/bfs/garb/3b99dcf0cdd006a8fe50844424de567310a28ec4.png"
+    },
+    {
+      "text": "UPOWER_431073645_略略略",
+      "url": "https://i0.hdslb.com/bfs/garb/448a5431ef779060e41e89750c5f746a2fcbae82.png"
+    },
+    {
+      "text": "UPOWER_431073645_停止思考",
+      "url": "https://i0.hdslb.com/bfs/garb/d333683db8ef99b3302ee0e450d4b44c7924363c.png"
+    },
+    {
+      "text": "UPOWER_431073645_撒泼打滚",
+      "url": "https://i0.hdslb.com/bfs/garb/1ccd0049da7331f5dd5de549381dc0ad13b713d4.png"
+    },
+    {
+      "text": "UPOWER_431073645_三连",
+      "url": "https://i0.hdslb.com/bfs/garb/5fb751f70def67e87b73dfa5a85fa3ad55bcf917.png"
+    },
+    {
+      "text": "UPOWER_431073645_令人窒息",
+      "url": "https://i0.hdslb.com/bfs/garb/59e154b2ab85b7c337b2ed9ee45e35256c197808.png"
+    },
+    {
+      "text": "UPOWER_431073645_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/84d261135216f10ce503172dcaac98250b06efa0.png"
+    },
+    {
+      "text": "UPOWER_431073645_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/d0c197fb441405db08f71b84040444b7df151065.png"
+    },
+    {
+      "text": "UPOWER_431073645_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/defc8f5b3a502e8c143f6744df860217950a8a64.png"
+    },
+    {
+      "text": "UPOWER_431073645_猫猫祟祟",
+      "url": "https://i0.hdslb.com/bfs/garb/b1135e6e5d534112cc3a355dce0f19989621cf15.png"
+    },
+    {
+      "text": "UPOWER_431073645_灵魂出窍",
+      "url": "https://i0.hdslb.com/bfs/garb/18803f5291cbb47cbcc69a04d64b9a4f0818222c.png"
     }
   ]
 }
