@@ -1,0 +1,28 @@
+{
+  "id": 10281,
+  "text": "为爱做铃（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/8c28ac00fb5d76c45d309dd2e3ddb85b165178a3.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_3707032232266679_工作中",
+      "url": "https://i0.hdslb.com/bfs/garb/6660c852e3b0a55844d905bf8f6e49024da926fe.png"
+    },
+    {
+      "text": "UPOWER_3707032232266679_好耶",
+      "url": "https://i0.hdslb.com/bfs/garb/6657a4c5c44391f5e8bea517f5849a51a9de7bd5.png"
+    },
+    {
+      "text": "UPOWER_3707032232266679_保密",
+      "url": "https://i0.hdslb.com/bfs/garb/533be5c83aec39abf4ede4396a7e8130fc052cdb.png"
+    },
+    {
+      "text": "UPOWER_3707032232266679_催更",
+      "url": "https://i0.hdslb.com/bfs/garb/e7fc8f2d9cd368980a7ac23bd4f286d73ad356c1.png"
+    },
+    {
+      "text": "UPOWER_3707032232266679_一键三连",
+      "url": "https://i0.hdslb.com/bfs/garb/6eaa7074a66867a1772e3f4b25759ff7f263b556.png"
+    }
+  ]
+}
