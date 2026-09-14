@@ -1,0 +1,68 @@
+{
+  "id": 10310,
+  "text": "豪猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/7c56aefba1830a908a35f68c0594c6deeee6804f.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "豪猫_面具",
+      "url": "https://i0.hdslb.com/bfs/garb/672242c0bafbd65b5bae1c3b66b304e2b23393ef.png"
+    },
+    {
+      "text": "豪猫_豪",
+      "url": "https://i0.hdslb.com/bfs/garb/d5a2d7042d1b2ad3dd5f0026be63a90bc877679d.png"
+    },
+    {
+      "text": "豪猫_西格玛豪猫",
+      "url": "https://i0.hdslb.com/bfs/garb/707bbd290e08302e1b1fe520b2bf2a637e4123a8.png"
+    },
+    {
+      "text": "豪猫_傻笑",
+      "url": "https://i0.hdslb.com/bfs/garb/27c565f2c36536125f5be780e3fc0078abd13fd5.png"
+    },
+    {
+      "text": "豪猫_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/ad2db33eb6758641dc01ea80ff1de7b07e136d9f.png"
+    },
+    {
+      "text": "豪猫_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/86c79cca2eb8bdb8331f682766e4deb17c73eaa5.png"
+    },
+    {
+      "text": "豪猫_瘫",
+      "url": "https://i0.hdslb.com/bfs/garb/24b161485aa88cd874035850d99a452ab7f3eca6.png"
+    },
+    {
+      "text": "豪猫_挠",
+      "url": "https://i0.hdslb.com/bfs/garb/5822ebba15ae178182f2e413eaffeeb7a70226f6.png"
+    },
+    {
+      "text": "豪猫_伤心",
+      "url": "https://i0.hdslb.com/bfs/garb/344a0a00720b324642aa64a7406cf6c654dbf038.png"
+    },
+    {
+      "text": "豪猫_咽气",
+      "url": "https://i0.hdslb.com/bfs/garb/2c5b020818ff72f9fae44ab8e23c7652a9101ac5.png"
+    },
+    {
+      "text": "豪猫_oi",
+      "url": "https://i0.hdslb.com/bfs/garb/b502020e0b9f4c506c03214c19b7357c5ba8f3d4.png"
+    },
+    {
+      "text": "豪猫_给我",
+      "url": "https://i0.hdslb.com/bfs/garb/d11f7461ea7d48d4722a481caa4b50fb9ad9af33.png"
+    },
+    {
+      "text": "豪猫_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/3191c3d19a5f59d2d3c03b0acbafd6007022534f.png"
+    },
+    {
+      "text": "豪猫_棒",
+      "url": "https://i0.hdslb.com/bfs/garb/2f571f311dc9e3a9858e08c5b39ffeff3aeb050e.png"
+    },
+    {
+      "text": "豪猫_遗憾离场",
+      "url": "https://i0.hdslb.com/bfs/garb/e6c6ee1702993b5ac6c2a4755c89ac9cba74ac11.png"
+    }
+  ]
+}
