@@ -1,0 +1,128 @@
+{
+  "id": 10342,
+  "text": "卡拉彼丘沐春表情包",
+  "icon": "https://i0.hdslb.com/bfs/emote/850055fb7c4b1bf2bcef33b13f9655b215d9d420.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "卡拉彼丘_冲刺",
+      "url": "https://i0.hdslb.com/bfs/emote/b42f68f31b7cb8c4c0c12ac73f6f757a473cb9c5.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/c65cb5ccb9757f259cc4dce6039bf2f7907edbc1.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/ad244aefbcafcb3be809adfd4b633c4650c901b5.webp"
+    },
+    {
+      "text": "卡拉彼丘_太好了",
+      "url": "https://i0.hdslb.com/bfs/emote/8f3ed0999872f93a53e635d3c216e05386328a91.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/db621d80f55c33cdf5bb6ebad93286570e3f5d26.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/ca7a312590ac27b8f33c10c4ef730a8a2a32c726.webp"
+    },
+    {
+      "text": "卡拉彼丘_晕",
+      "url": "https://i0.hdslb.com/bfs/emote/ce610e471b2293d5b7a02074e13eddf1ab401cb9.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/4d08e75d9e651f54980e04fdf4b4390cb2a180e2.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/33f82e92cc02ec32cd7ed6916f123feb0074e6d9.webp"
+    },
+    {
+      "text": "卡拉彼丘_奇怪",
+      "url": "https://i0.hdslb.com/bfs/emote/9a48ff87ba8c6e8fa15b36c940d4f009e31f30ef.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/7cb30b3b9157f802327bb338c4e99be2318010bf.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/be861832dfcb5c5560752c89b528d2fe024dd8c1.webp"
+    },
+    {
+      "text": "卡拉彼丘_守望之眼",
+      "url": "https://i0.hdslb.com/bfs/emote/42cb37bb2f739c5370eefd30ab7a8863adebe378.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/382230947fb141979e34aaee0a2a65a4cd27c561.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/16417dc3137f574787e02d63698128265d51565f.webp"
+    },
+    {
+      "text": "卡拉彼丘_狙谁呢",
+      "url": "https://i0.hdslb.com/bfs/emote/8086dd4b8f69ee8a880fb55c9fa8e164ccfb8cae.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/49d364cd5fed53ed7c0f9a8720a852264673dea4.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/a3ae2eec399d143db47569a402fe15b4e1ca5a11.webp"
+    },
+    {
+      "text": "卡拉彼丘_比芯",
+      "url": "https://i0.hdslb.com/bfs/emote/181ee62510701dcf3296074863968200815aa1b4.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/64036586643a22bfcee0d27671674051a6a06971.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/45e23ff7e36d9d53c4f6402567792d2edca5aaf2.webp"
+    },
+    {
+      "text": "卡拉彼丘_呜哇",
+      "url": "https://i0.hdslb.com/bfs/emote/80ed86e2f40bb004dc7561e1829f00a20744c0f7.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/9327f0e0bfe76fdede94544372dfa1c3f302065e.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/84c495fe69e6b94f969d48b02be5da1b946241fe.webp"
+    },
+    {
+      "text": "卡拉彼丘_弱小无助",
+      "url": "https://i0.hdslb.com/bfs/emote/33a700ca640bdacb204f7ec28db708ceb1d7b9f2.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/a3c11d56aaa8da16171adec47aa93d9211ee710e.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/d2426f1c08e459d2c52aa5c8b390dea7e72c9e5a.webp"
+    },
+    {
+      "text": "卡拉彼丘_发现你了",
+      "url": "https://i0.hdslb.com/bfs/emote/b84c0589dc58ca558dbbececedb495ddc1a76391.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/90507102ce694c2c5d0967680db43b6272a8aae0.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/32a98244ab47697d3c6731e8f7837b96ec6aa19d.webp"
+    },
+    {
+      "text": "卡拉彼丘_哈哈",
+      "url": "https://i0.hdslb.com/bfs/emote/850055fb7c4b1bf2bcef33b13f9655b215d9d420.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/159f5115af8f0b35182a0df115f973149e275d45.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/8d92b278fa972f7dd66c7b02186c1aa29d473f15.webp"
+    },
+    {
+      "text": "卡拉彼丘_疲惫",
+      "url": "https://i0.hdslb.com/bfs/emote/72b913046c3f698c59f85ff67f8467133569d434.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/f6eeaa79c11929e139f09935272d472718d06466.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/f74aa021b5988c7c0f7ab8bb6e895b59fae087e3.webp"
+    },
+    {
+      "text": "卡拉彼丘_如我所料",
+      "url": "https://i0.hdslb.com/bfs/emote/ada9cc07be75aa4266251287e620899c6a95ce56.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/fd22b7c743d90bcea63f3c10221d019ff3837cad.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/1dd06b950033fd0026917c3574737add18602844.webp"
+    },
+    {
+      "text": "卡拉彼丘_求求了",
+      "url": "https://i0.hdslb.com/bfs/emote/84bede15261dfe88a9bdc28ee3fbd533a879020f.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/5b9a2f0429b8b68713f7fc5ad29de2db41cd6e4a.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/519be53cfd8fef4281c23a89624ae021840dd35d.webp"
+    },
+    {
+      "text": "卡拉彼丘_亮瞎了",
+      "url": "https://i0.hdslb.com/bfs/emote/c33f669c92a11139d56b8ec0d179b14f91fb53b3.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/47fb9fa5a9532b6ee338f32ab3854a10df83573c.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/ca38e4e2ad309e8e8732062e1fef3fe8f2e84cec.webp"
+    },
+    {
+      "text": "卡拉彼丘_噗",
+      "url": "https://i0.hdslb.com/bfs/emote/6fc70fd8d6d4c29cb5787ccc587932774383e2cc.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/67d386f5f2de4c224576e80d753bf72c3e55ebcd.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/fef57d3de86650e6a07d70aaa749ea0d4db7e6b1.webp"
+    },
+    {
+      "text": "卡拉彼丘_害怕",
+      "url": "https://i0.hdslb.com/bfs/emote/abf43d1868ce677cb9f25acd04441aeced70f23f.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/cb5dd401e4b4fabc51064c301243ac41f00c459c.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/e563a393f030aca8827d196516603f510fd734d7.webp"
+    },
+    {
+      "text": "卡拉彼丘_吵死了",
+      "url": "https://i0.hdslb.com/bfs/emote/697fc269f546d3ee5ef23bc0be8d98a9f3048648.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/11659400a940c15a307a54a18d7292fecec3c213.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/bd0f5abd90d4fa37771ebb76a0a17018e399311c.webp"
+    },
+    {
+      "text": "卡拉彼丘_啧",
+      "url": "https://i0.hdslb.com/bfs/emote/1a6f983eaaa5361f4547642a0f8f6d37360a3ef3.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/e43ae9576f4619e13976052b7724060b298e0389.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/7141420f2ecbd195718c1b41401216ca19460944.webp"
+    },
+    {
+      "text": "卡拉彼丘_boom",
+      "url": "https://i0.hdslb.com/bfs/emote/11348361101b261d308c2fb1b48a6913e56e0b04.png",
+      "gif_url": "https://i0.hdslb.com/bfs/emote/01ceac7f49dbe94ca06194c528453f7a947d19a6.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/emote/0cff4ab16598b8fd323809eb1f1bfeb4910c6952.webp"
+    }
+  ]
+}
