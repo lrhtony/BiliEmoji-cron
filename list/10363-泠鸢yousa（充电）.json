@@ -1,0 +1,48 @@
+{
+  "id": 10363,
+  "text": "泠鸢yousa（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/505c7bf089f2180763a89c47cc89b7cbcb1fc1a4.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_282994_对",
+      "url": "https://i0.hdslb.com/bfs/garb/ae95868a02ae0cc193f7f76cabd9a1e3d74a1530.png"
+    },
+    {
+      "text": "UPOWER_282994_错",
+      "url": "https://i0.hdslb.com/bfs/garb/f469ed3391693691fc3bc988103796a9374cb247.png"
+    },
+    {
+      "text": "UPOWER_282994_敬礼",
+      "url": "https://i0.hdslb.com/bfs/garb/c00b3672ae23c5107cf5dc3e75e4c92316d38b84.png"
+    },
+    {
+      "text": "UPOWER_282994_想看演出",
+      "url": "https://i0.hdslb.com/bfs/garb/16d8d4fcff3649ec27d60072faa2367183178073.png"
+    },
+    {
+      "text": "UPOWER_282994_应援",
+      "url": "https://i0.hdslb.com/bfs/garb/efc62a963ae866d9011a8aa2c6d61b782830a2f2.png"
+    },
+    {
+      "text": "UPOWER_282994_酷",
+      "url": "https://i0.hdslb.com/bfs/garb/21a94ce940d9772621eacec3df1eada1f28d402f.png"
+    },
+    {
+      "text": "UPOWER_282994_爆笑",
+      "url": "https://i0.hdslb.com/bfs/garb/e19a8228569dee98310aed7e67493738c39bbe61.png"
+    },
+    {
+      "text": "UPOWER_282994_略略略",
+      "url": "https://i0.hdslb.com/bfs/garb/eea7b3e03587a440006a5acdf54a48b64bbbc0e4.png"
+    },
+    {
+      "text": "UPOWER_282994_耗尽",
+      "url": "https://i0.hdslb.com/bfs/garb/d5d9bb189a1f4a869ef5e34164cff752965ffc84.png"
+    },
+    {
+      "text": "UPOWER_282994_超大声",
+      "url": "https://i0.hdslb.com/bfs/garb/2939265db36297847a736682f1c6dc02b14d3168.png"
+    }
+  ]
+}
