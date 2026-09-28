@@ -1,0 +1,68 @@
+{
+  "id": 10367,
+  "text": "希娅声界",
+  "icon": "https://i0.hdslb.com/bfs/garb/79b4b379c35aade90f342f4e43239db2d1ae0a3c.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "希娅声界_学习",
+      "url": "https://i0.hdslb.com/bfs/garb/0f87673c29793b2c48671baec1f65c67e648183c.png"
+    },
+    {
+      "text": "希娅声界_办公",
+      "url": "https://i0.hdslb.com/bfs/garb/39e7c1b92e493999d62723b90447d688e9042550.png"
+    },
+    {
+      "text": "希娅声界_喝水",
+      "url": "https://i0.hdslb.com/bfs/garb/c5084fdbdcad7dba2443395914078568a42d6e15.png"
+    },
+    {
+      "text": "希娅声界_吃饭",
+      "url": "https://i0.hdslb.com/bfs/garb/ff3b3563060d71d5baaf2d55dd4fe3e498e5f45e.png"
+    },
+    {
+      "text": "希娅声界_休息",
+      "url": "https://i0.hdslb.com/bfs/garb/ce2dcd6861e55210bf890bab6a2ae99cfb8de8b8.png"
+    },
+    {
+      "text": "希娅声界_娱乐",
+      "url": "https://i0.hdslb.com/bfs/garb/edd50103ff079a4b1112a98e90c18a648a09bebb.png"
+    },
+    {
+      "text": "希娅声界_抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/c352dc13b55d1f187ea19ce80240464a931c6cfc.png"
+    },
+    {
+      "text": "希娅声界_辛苦啦",
+      "url": "https://i0.hdslb.com/bfs/garb/4c1816988a460e10a1176d84f5af5a7ed9b1f3f2.png"
+    },
+    {
+      "text": "希娅声界_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/5154177c2339860ebe06b6e9ddeb43f00d8f7d98.png"
+    },
+    {
+      "text": "希娅声界_修行",
+      "url": "https://i0.hdslb.com/bfs/garb/f307101073e1035f700f10f218932dcb0a7377f7.png"
+    },
+    {
+      "text": "希娅声界_赶路",
+      "url": "https://i0.hdslb.com/bfs/garb/c0965003f6499b63726e7023db899a56a8226fb0.png"
+    },
+    {
+      "text": "希娅声界_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/ad32de2e5ae004aa315ddd35579fb31400a6ac08.png"
+    },
+    {
+      "text": "希娅声界_弹唱",
+      "url": "https://i0.hdslb.com/bfs/garb/be022c808b27227661e6094f96a0b2c4e16dd356.png"
+    },
+    {
+      "text": "希娅声界_逛超市",
+      "url": "https://i0.hdslb.com/bfs/garb/87d75eea0da8ba00620f01d95006ac1b644e938f.png"
+    },
+    {
+      "text": "希娅声界_感谢",
+      "url": "https://i0.hdslb.com/bfs/garb/432c039bb3b4e87bdc626ec209fc138f0fb5c549.png"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 10364,
+  "text": "拾陆shluu（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/0fdcfbfdb28570e2b4196bb533a7edbc57d19a23.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_3706994087168682_你好",
+      "url": "https://i0.hdslb.com/bfs/garb/aacfd124dc3ef9617ae9a7569abf18e331929174.png"
+    },
+    {
+      "text": "UPOWER_3706994087168682_啾咪",
+      "url": "https://i0.hdslb.com/bfs/garb/533d50f273ca1b7cc5c024646f0800d118ae03b9.png"
+    },
+    {
+      "text": "UPOWER_3706994087168682_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/dceb7101830b543ce0ded38f763f825980995185.png"
+    },
+    {
+      "text": "UPOWER_3706994087168682_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/bb95d4b14c17fe71139be33d08dff0e84a7f4ead.png"
+    },
+    {
+      "text": "UPOWER_3706994087168682_困了",
+      "url": "https://i0.hdslb.com/bfs/garb/29d1b10321a65a802e7d99d24464703a42e46374.png"
+    },
+    {
+      "text": "UPOWER_3706994087168682_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/e52a52afddf8ad7fd6d23ae7539e9a02f953c045.png"
+    },
+    {
+      "text": "UPOWER_3706994087168682_委屈巴巴",
+      "url": "https://i0.hdslb.com/bfs/garb/1f3cb39a425efeb0c5300de7c57631fa57cfbac2.png"
+    },
+    {
+      "text": "UPOWER_3706994087168682_要抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/af695589e3b89309b35e2e39221ec961b5d38087.png"
+    }
+  ]
+}
