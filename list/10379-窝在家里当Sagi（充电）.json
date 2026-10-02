@@ -1,0 +1,48 @@
+{
+  "id": 10379,
+  "text": "窝在家里当Sagi（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/91550b1bab69c8c173fc6e2e6ec943e303eecb2e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_18018364_打call",
+      "url": "https://i0.hdslb.com/bfs/garb/9eeb360953f084dd8cc6f9f0acfbe1ccc6508021.png"
+    },
+    {
+      "text": "UPOWER_18018364_emm",
+      "url": "https://i0.hdslb.com/bfs/garb/7e0ce7664fabfafdc2ec3429a03c3c9c974bdcff.png"
+    },
+    {
+      "text": "UPOWER_18018364_抱大腿",
+      "url": "https://i0.hdslb.com/bfs/garb/4490eae6d8f50417d64bcfdeb94c9b09d93b8d2c.png"
+    },
+    {
+      "text": "UPOWER_18018364_亲亲",
+      "url": "https://i0.hdslb.com/bfs/garb/6b14b509ce77c9ba1f3ddfca42b5550cefbd38e8.png"
+    },
+    {
+      "text": "UPOWER_18018364_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/6eba43e8920d85a5fb2115137c6c76cb1bc4ec0d.png"
+    },
+    {
+      "text": "UPOWER_18018364_不可以瑟",
+      "url": "https://i0.hdslb.com/bfs/garb/b48490ba227a65514f54625b826302e4467441ff.png"
+    },
+    {
+      "text": "UPOWER_18018364_叉出去",
+      "url": "https://i0.hdslb.com/bfs/garb/d0c417d06e3c28f2e56e30675b7e158bba6b2c6a.png"
+    },
+    {
+      "text": "UPOWER_18018364_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/299ae22ec0a104c4d191b04dcc52ce2c54a93540.png"
+    },
+    {
+      "text": "UPOWER_18018364_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/2fc4948ebba76f52dd5fc3decc0170944f36e615.png"
+    },
+    {
+      "text": "UPOWER_18018364_摸摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/71a7fe7e4ed7b6bc464f41d44df25a70003ce660.png"
+    }
+  ]
+}
