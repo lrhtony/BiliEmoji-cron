@@ -1,0 +1,68 @@
+{
+  "id": 10386,
+  "text": "萌萌小熊猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/02ba0c6076bd64cdd574c8a4648ff4ad36cdc372.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "萌萌小熊猫_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/313f710aaa1968bca4920474c250808496225be4.png"
+    },
+    {
+      "text": "萌萌小熊猫_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/76dedfc8b5f8ba5b6dcbf5b4a5339457fd226c14.png"
+    },
+    {
+      "text": "萌萌小熊猫_流口水",
+      "url": "https://i0.hdslb.com/bfs/garb/6dd9f89b20d044917c45a8b5870342317530c168.png"
+    },
+    {
+      "text": "萌萌小熊猫_拳击",
+      "url": "https://i0.hdslb.com/bfs/garb/e4aa22e19aae39da2a7443b22cf58a9ab42fc895.png"
+    },
+    {
+      "text": "萌萌小熊猫_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/5f4a854614fd407c52d8117cdd555b907ce66f2d.png"
+    },
+    {
+      "text": "萌萌小熊猫_自己画画",
+      "url": "https://i0.hdslb.com/bfs/garb/b84c74b1c3c694581f5d2061fdd8181301a00426.png"
+    },
+    {
+      "text": "萌萌小熊猫_感动",
+      "url": "https://i0.hdslb.com/bfs/garb/cf8bbde59b9de91a99c60f1a25624b73143fd267.png"
+    },
+    {
+      "text": "萌萌小熊猫_流泪",
+      "url": "https://i0.hdslb.com/bfs/garb/564ebbb9dcfdb3f2b5f36211a0c52d886dced9e7.png"
+    },
+    {
+      "text": "萌萌小熊猫_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/8ab0cca2d9be83d056e3943ca83472ed54cf5ae0.png"
+    },
+    {
+      "text": "萌萌小熊猫_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/a78decc966dee1ed7795791dad87ee295a9a4a4b.png"
+    },
+    {
+      "text": "萌萌小熊猫_阴险",
+      "url": "https://i0.hdslb.com/bfs/garb/fd0dd642adf37b3967677b5e7b93a074e2ebe741.png"
+    },
+    {
+      "text": "萌萌小熊猫_牛马",
+      "url": "https://i0.hdslb.com/bfs/garb/840167db0360ed5f5bd6b3878779d558356cbac4.png"
+    },
+    {
+      "text": "萌萌小熊猫_写轮眼",
+      "url": "https://i0.hdslb.com/bfs/garb/2d4a04ba72694479ccf990f1b5f0eedd5bd339ef.png"
+    },
+    {
+      "text": "萌萌小熊猫_凌乱",
+      "url": "https://i0.hdslb.com/bfs/garb/c49bed4adf92954e6ef8ccd1ea4c53c756721b33.png"
+    },
+    {
+      "text": "萌萌小熊猫_拍照",
+      "url": "https://i0.hdslb.com/bfs/garb/67c29ba2b138081bb8e674c3701141a97c715f5b.png"
+    }
+  ]
+}
