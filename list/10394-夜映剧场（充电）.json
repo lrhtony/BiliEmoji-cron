@@ -1,0 +1,40 @@
+{
+  "id": 10394,
+  "text": "夜映剧场（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/b118c91f60a2e0ae05ea514a6df23a9b498d1699.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_286732809_保命要紧",
+      "url": "https://i0.hdslb.com/bfs/garb/a3980c985574b104f53efcf5a7de2cda14936602.png"
+    },
+    {
+      "text": "UPOWER_286732809_我超厉害",
+      "url": "https://i0.hdslb.com/bfs/garb/68b93fb138206a6e15796903be03c079641c29de.png"
+    },
+    {
+      "text": "UPOWER_286732809_我要抱抱",
+      "url": "https://i0.hdslb.com/bfs/garb/d2174f830842708a0beb438e59eb6f6aee2a76a6.png"
+    },
+    {
+      "text": "UPOWER_286732809_我想浪",
+      "url": "https://i0.hdslb.com/bfs/garb/1c6d29d4e2352781f95a9681ad7697db2dc1e3ef.png"
+    },
+    {
+      "text": "UPOWER_286732809_吃醋",
+      "url": "https://i0.hdslb.com/bfs/garb/fa18ee57df461e6d8f357dcc796cbf64e8dcc143.png"
+    },
+    {
+      "text": "UPOWER_286732809_跟我走",
+      "url": "https://i0.hdslb.com/bfs/garb/9311d9aaeb0d7644e71a1dcd4569b2bc4ed6b751.png"
+    },
+    {
+      "text": "UPOWER_286732809_别闹",
+      "url": "https://i0.hdslb.com/bfs/garb/1db0845779b885311e9d2b9892e0cab8f5759a8c.png"
+    },
+    {
+      "text": "UPOWER_286732809_给你剥",
+      "url": "https://i0.hdslb.com/bfs/garb/c3fb7f77db454b659055fcaaf1be827eadcc070d.png"
+    }
+  ]
+}
