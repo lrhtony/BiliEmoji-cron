@@ -1,0 +1,32 @@
+{
+  "id": 10399,
+  "text": "毛豆猫补饭版（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/405fe61c853eab3860c035233c919634d934effd.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_324583689_不吃这套",
+      "url": "https://i0.hdslb.com/bfs/garb/22e85fe1d6206830c384ff8dc670067007750e10.png"
+    },
+    {
+      "text": "UPOWER_324583689_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/8869faa7ff57dee47983e9ea8a365b1f1d3d604d.png"
+    },
+    {
+      "text": "UPOWER_324583689_打你",
+      "url": "https://i0.hdslb.com/bfs/garb/049e65a3a33c22c05970628e8628bd956100bbe3.png"
+    },
+    {
+      "text": "UPOWER_324583689_偷抹眼泪",
+      "url": "https://i0.hdslb.com/bfs/garb/01d5bd6764ce710e890d21a189a5eb0c0eef1d2c.png"
+    },
+    {
+      "text": "UPOWER_324583689_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/3ae835e3bfea6583382f904eb8049d3c9fb898cf.png"
+    },
+    {
+      "text": "UPOWER_324583689_混蛋",
+      "url": "https://i0.hdslb.com/bfs/garb/db507fe2b18cdfa0aff408e4f192c73d8f33cb61.png"
+    }
+  ]
+}
