@@ -2,5 +2,91 @@
   "id": 450,
   "text": "SpaceMan",
   "icon": "https://i0.hdslb.com/bfs/emote/27d3dca71b2058b15ac9339ecee06860894ca036.png",
-  "resource_type": 0
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "SpaceMan_抱富",
+      "url": "https://i0.hdslb.com/bfs/emote/27d3dca71b2058b15ac9339ecee06860894ca036.png"
+    },
+    {
+      "text": "SpaceMan_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/emote/31e9390ec0b20e0c907b0a4deae5d202e312df29.png"
+    },
+    {
+      "text": "SpaceMan_充能",
+      "url": "https://i0.hdslb.com/bfs/emote/5a8265b85153ce616118ea796cd149be38c003dd.png"
+    },
+    {
+      "text": "SpaceMan_打call-42",
+      "url": "https://i0.hdslb.com/bfs/emote/5bcf76ec5370d8f4d8af71552b611cd328325ad7.png"
+    },
+    {
+      "text": "SpaceMan_中意你-43",
+      "url": "https://i0.hdslb.com/bfs/emote/c899bda768d8526f9420cb76c2c8cb2cd9e6f274.png"
+    },
+    {
+      "text": "SpaceMan_拜托",
+      "url": "https://i0.hdslb.com/bfs/emote/d0db033a91d7dfde69873f9e847084617c277f1f.png"
+    },
+    {
+      "text": "SpaceMan_大哭",
+      "url": "https://i0.hdslb.com/bfs/emote/66f6a2afeb4bf96f0928994fb5d15363dfdf4fa1.png"
+    },
+    {
+      "text": "SpaceMan_得意",
+      "url": "https://i0.hdslb.com/bfs/emote/aa7b3c8e9db3b2f3b56ceac6bfd92e7a7d646e1d.png"
+    },
+    {
+      "text": "SpaceMan_封嘴",
+      "url": "https://i0.hdslb.com/bfs/emote/a3511c56052b00785e5c9eb68235afaec80a9b60.png"
+    },
+    {
+      "text": "SpaceMan_假笑",
+      "url": "https://i0.hdslb.com/bfs/emote/2d871525f70ccec7e448f1a6eec4debba4ae17b6.png"
+    },
+    {
+      "text": "SpaceMan_流汗",
+      "url": "https://i0.hdslb.com/bfs/emote/93e7ef2b49fbc5fa0a1a2423b2ceac3e5fcc510d.png"
+    },
+    {
+      "text": "SpaceMan_偷看",
+      "url": "https://i0.hdslb.com/bfs/emote/86802cb5f8f3b5e702b0ccec0c620e9c2ddfa1bc.png"
+    },
+    {
+      "text": "SpaceMan_挖鼻孔",
+      "url": "https://i0.hdslb.com/bfs/emote/f4d355284eb8b55c3d441f23a8ce7831c12a58f5.png"
+    },
+    {
+      "text": "SpaceMan_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/ef9cdad7f08f9921bb119e4898619732f584b71d.png"
+    },
+    {
+      "text": "SpaceMan_喜欢",
+      "url": "https://i0.hdslb.com/bfs/emote/290734541fe7a614af4befd5cb5c208287b984cd.png"
+    },
+    {
+      "text": "SpaceMan_疑问",
+      "url": "https://i0.hdslb.com/bfs/emote/b59ab68ae5ec411a5e76df94a407abce575f96d8.png"
+    },
+    {
+      "text": "SpaceMan_赞",
+      "url": "https://i0.hdslb.com/bfs/emote/d72e7c3b3ef7c424639700883899004b29627bb3.png"
+    },
+    {
+      "text": "SpaceMan_震惊",
+      "url": "https://i0.hdslb.com/bfs/emote/a7eedb80f522f550e21da72d3df88e9fb6db272f.png"
+    },
+    {
+      "text": "SpaceMan_仔细看",
+      "url": "https://i0.hdslb.com/bfs/emote/de1bffa81dfc3faf50c6d336c3257d62e4c51bd2.png"
+    },
+    {
+      "text": "SpaceMan_No",
+      "url": "https://i0.hdslb.com/bfs/emote/f0a7017acef86ced405d61e721435ecad9540db2.png"
+    },
+    {
+      "text": "SpaceMan_Ok",
+      "url": "https://i0.hdslb.com/bfs/emote/8cbd5cc167a412d7adb21ed39b8316bec4007ca0.png"
+    }
+  ]
 }

@@ -2,5 +2,91 @@
   "id": 460,
   "text": "Bonjour Girl",
   "icon": "https://i0.hdslb.com/bfs/emote/49bddb0ae7e5e4d40f8c9c8adb9cb4dd1e2460e2.png",
-  "resource_type": 0
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "Bonjour Girl_抱富",
+      "url": "https://i0.hdslb.com/bfs/emote/49bddb0ae7e5e4d40f8c9c8adb9cb4dd1e2460e2.png"
+    },
+    {
+      "text": "Bonjour Girl_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/emote/d5814d6e81c8ec0952f58e3ab8a5d8f1c77cd3e4.png"
+    },
+    {
+      "text": "Bonjour Girl_充能",
+      "url": "https://i0.hdslb.com/bfs/emote/ca27a7edd676c74c2b9c98cbd1622aff4d790240.png"
+    },
+    {
+      "text": "Bonjour Girl_打call-48",
+      "url": "https://i0.hdslb.com/bfs/emote/399abe857a95f50bddc03eb5d4060ca5132c8f82.png"
+    },
+    {
+      "text": "Bonjour Girl_中意你-49",
+      "url": "https://i0.hdslb.com/bfs/emote/cbda3e086dc6d8777e69bcaee6747146780643cb.png"
+    },
+    {
+      "text": "Bonjour Girl_拜托",
+      "url": "https://i0.hdslb.com/bfs/emote/0dcbd0d60d708879af33f677b24882482ba65e29.png"
+    },
+    {
+      "text": "Bonjour Girl_大哭",
+      "url": "https://i0.hdslb.com/bfs/emote/f55116d11a89067baa03a909469f114dfbeee716.png"
+    },
+    {
+      "text": "Bonjour Girl_得意",
+      "url": "https://i0.hdslb.com/bfs/emote/4539109abbfef93b4488ae39ce2556bee9a83221.png"
+    },
+    {
+      "text": "Bonjour Girl_封嘴",
+      "url": "https://i0.hdslb.com/bfs/emote/08affa5b5f442b44172ce6ddf9a87ffbd964d22c.png"
+    },
+    {
+      "text": "Bonjour Girl_假笑",
+      "url": "https://i0.hdslb.com/bfs/emote/a5a82ce8f40c057d6521d55048826a96c68f616e.png"
+    },
+    {
+      "text": "Bonjour Girl_流汗",
+      "url": "https://i0.hdslb.com/bfs/emote/3e6b4877356e067e96fb07b282baabff3f5d9577.png"
+    },
+    {
+      "text": "Bonjour Girl_偷看",
+      "url": "https://i0.hdslb.com/bfs/emote/e4a500471b74e00afbc9abbff83782b693b8fc6a.png"
+    },
+    {
+      "text": "Bonjour Girl_挖鼻孔",
+      "url": "https://i0.hdslb.com/bfs/emote/9047b83a63cafd6a0ef044e3bdee11d341a83607.png"
+    },
+    {
+      "text": "Bonjour Girl_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/13b837949e3853fe9bf7a91e764c6736a50fb848.png"
+    },
+    {
+      "text": "Bonjour Girl_喜欢",
+      "url": "https://i0.hdslb.com/bfs/emote/d4fdf9634443df18f17e2ab4bca8d69d94445e31.png"
+    },
+    {
+      "text": "Bonjour Girl_疑问",
+      "url": "https://i0.hdslb.com/bfs/emote/8247663234c8b6a8915e390128e51282e5260d44.png"
+    },
+    {
+      "text": "Bonjour Girl_赞",
+      "url": "https://i0.hdslb.com/bfs/emote/c34a4faa388989457fb3327b654d45b9ac833fa9.png"
+    },
+    {
+      "text": "Bonjour Girl_震惊",
+      "url": "https://i0.hdslb.com/bfs/emote/62b78edbebcf4da11a0172009da2196bb4ed58c5.png"
+    },
+    {
+      "text": "Bonjour Girl_仔细看",
+      "url": "https://i0.hdslb.com/bfs/emote/1eedc26373277fbcaa98157e015881bfbeda2088.png"
+    },
+    {
+      "text": "Bonjour Girl_No",
+      "url": "https://i0.hdslb.com/bfs/emote/67859f7a8124fbed87121fab5e2781358b89e925.png"
+    },
+    {
+      "text": "Bonjour Girl_Ok",
+      "url": "https://i0.hdslb.com/bfs/emote/c31f0988ef28e2b3926f5e7dfa34a9f4cc42a6fa.png"
+    }
+  ]
 }

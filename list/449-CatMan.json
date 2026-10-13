@@ -2,5 +2,91 @@
   "id": 449,
   "text": "CatMan",
   "icon": "https://i0.hdslb.com/bfs/emote/9fb9b74c4b1498e8f87c4750a85f82cd28171ccf.png",
-  "resource_type": 0
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "CatMan_抱富",
+      "url": "https://i0.hdslb.com/bfs/emote/9fb9b74c4b1498e8f87c4750a85f82cd28171ccf.png"
+    },
+    {
+      "text": "CatMan_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/emote/d8bf46c6e0c79d6cdab7518baa083ca166a43912.png"
+    },
+    {
+      "text": "CatMan_充能",
+      "url": "https://i0.hdslb.com/bfs/emote/0694f05856ea8c38c089b965150a49119bc18e81.png"
+    },
+    {
+      "text": "CatMan_打call-40",
+      "url": "https://i0.hdslb.com/bfs/emote/59304fc6118378b322bcff844e4443547b3a06d2.png"
+    },
+    {
+      "text": "CatMan_中意你-41",
+      "url": "https://i0.hdslb.com/bfs/emote/16145304ae05812f754138011c04a98f3b3ea053.png"
+    },
+    {
+      "text": "CatMan_拜托",
+      "url": "https://i0.hdslb.com/bfs/emote/ad0d7a4d0d89573c2a0d63d54e28c5d352ef836b.png"
+    },
+    {
+      "text": "CatMan_大哭",
+      "url": "https://i0.hdslb.com/bfs/emote/faf262c4f5ae89170703f18e9e67c5fa1fbf9922.png"
+    },
+    {
+      "text": "CatMan_得意",
+      "url": "https://i0.hdslb.com/bfs/emote/73235e50664706ed203ef70b404b9128eabd75d1.png"
+    },
+    {
+      "text": "CatMan_封嘴",
+      "url": "https://i0.hdslb.com/bfs/emote/d701a8d79e850a8579e349a10f180f9360b6d3b7.png"
+    },
+    {
+      "text": "CatMan_假笑",
+      "url": "https://i0.hdslb.com/bfs/emote/c6334c303ef14c00e3927ab8f6094f802a7700dd.png"
+    },
+    {
+      "text": "CatMan_流汗",
+      "url": "https://i0.hdslb.com/bfs/emote/44fa8196270a67d9585592ae059290fe1e80cbf1.png"
+    },
+    {
+      "text": "CatMan_偷看",
+      "url": "https://i0.hdslb.com/bfs/emote/75523dc550b47332864dddb904044e182746ac33.png"
+    },
+    {
+      "text": "CatMan_挖鼻孔",
+      "url": "https://i0.hdslb.com/bfs/emote/b12bf00a480a0cc98e3365be7c960b821e1b991c.png"
+    },
+    {
+      "text": "CatMan_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/951e8fbc441dff4e59d86c3b2e1ea53a9cb6f697.png"
+    },
+    {
+      "text": "CatMan_喜欢",
+      "url": "https://i0.hdslb.com/bfs/emote/a1f27f62c8ee76acf55b59fb0d5b47dcbba3b273.png"
+    },
+    {
+      "text": "CatMan_疑问",
+      "url": "https://i0.hdslb.com/bfs/emote/43a11f0d248bd8c6b651663a7bc9f5947bdff2f2.png"
+    },
+    {
+      "text": "CatMan_赞",
+      "url": "https://i0.hdslb.com/bfs/emote/33ff3e28ba5679bd2e55d6d518fa0dff93efca79.png"
+    },
+    {
+      "text": "CatMan_震惊",
+      "url": "https://i0.hdslb.com/bfs/emote/1dc93a2e391c837e030c59b5fa6bf36a4f2e7c25.png"
+    },
+    {
+      "text": "CatMan_仔细看",
+      "url": "https://i0.hdslb.com/bfs/emote/f363f546d173b2d229bdb02f2068098ffe85335f.png"
+    },
+    {
+      "text": "CatMan_No",
+      "url": "https://i0.hdslb.com/bfs/emote/3d6e20fcf50a34ee44b8bdcdcf5d4e57a4a7f6aa.png"
+    },
+    {
+      "text": "CatMan_Ok",
+      "url": "https://i0.hdslb.com/bfs/emote/a7fcc294066e9851f298c0990d00979a63ac0403.png"
+    }
+  ]
 }

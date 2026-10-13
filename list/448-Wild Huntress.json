@@ -2,5 +2,91 @@
   "id": 448,
   "text": "Wild Huntress",
   "icon": "https://i0.hdslb.com/bfs/emote/1b6945ad6aba15b47038d8626ed8224d3713f7f9.png",
-  "resource_type": 0
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "Wild Huntress_抱富",
+      "url": "https://i0.hdslb.com/bfs/emote/1b6945ad6aba15b47038d8626ed8224d3713f7f9.png"
+    },
+    {
+      "text": "Wild Huntress_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/emote/28acab3f780fe0016ead0e51b492f74f3445ebfb.png"
+    },
+    {
+      "text": "Wild Huntress_充能",
+      "url": "https://i0.hdslb.com/bfs/emote/3d0dd3dff116e595de181a2b6fcb7daa27ec050b.png"
+    },
+    {
+      "text": "Wild Huntress_打call-38",
+      "url": "https://i0.hdslb.com/bfs/emote/a27eee8f08b9684e8280a6a035a2c983027c0cdb.png"
+    },
+    {
+      "text": "Wild Huntress_中意你-39",
+      "url": "https://i0.hdslb.com/bfs/emote/d956f0ebf502a3b4467ec4fcd967a7e24884b2ed.png"
+    },
+    {
+      "text": "Wild Huntress_拜托",
+      "url": "https://i0.hdslb.com/bfs/emote/f6e675b27928f6e44e2e1ec95b73ed578e145ad2.png"
+    },
+    {
+      "text": "Wild Huntress_大哭",
+      "url": "https://i0.hdslb.com/bfs/emote/ba58479ec17aedaa31e88dda3736ed1ea06b316e.png"
+    },
+    {
+      "text": "Wild Huntress_得意",
+      "url": "https://i0.hdslb.com/bfs/emote/b75455fb81171e8d095eb4f1ddfc65dc23de9c5d.png"
+    },
+    {
+      "text": "Wild Huntress_封嘴",
+      "url": "https://i0.hdslb.com/bfs/emote/9eb3dead97f8f43f6a4d9708cb6cb8ca96b2c6a8.png"
+    },
+    {
+      "text": "Wild Huntress_假笑",
+      "url": "https://i0.hdslb.com/bfs/emote/95cbe295d9eb6c1987f35409eddcbdd807e8601d.png"
+    },
+    {
+      "text": "Wild Huntress_流汗",
+      "url": "https://i0.hdslb.com/bfs/emote/d2a245482dcd2b60e7cf712be502d65a92247407.png"
+    },
+    {
+      "text": "Wild Huntress_偷看",
+      "url": "https://i0.hdslb.com/bfs/emote/3e314a072c16b73e8a41903fd5c77d2c2c15c04a.png"
+    },
+    {
+      "text": "Wild Huntress_挖鼻孔",
+      "url": "https://i0.hdslb.com/bfs/emote/e3debb59ca7113522504f7e1ed748822700d141b.png"
+    },
+    {
+      "text": "Wild Huntress_无语",
+      "url": "https://i0.hdslb.com/bfs/emote/a7f7a98ff23daa2a275ad1123da0bfdbf64eb9cc.png"
+    },
+    {
+      "text": "Wild Huntress_喜欢",
+      "url": "https://i0.hdslb.com/bfs/emote/c476dfad81fe337270e0c11508a662b8cbf5d578.png"
+    },
+    {
+      "text": "Wild Huntress_疑问",
+      "url": "https://i0.hdslb.com/bfs/emote/1d872dcb356e369368b78a646884cc21c50faa87.png"
+    },
+    {
+      "text": "Wild Huntress_赞",
+      "url": "https://i0.hdslb.com/bfs/emote/bbfae2a9471201e24d452c8db928a8d22f0151a1.png"
+    },
+    {
+      "text": "Wild Huntress_震惊",
+      "url": "https://i0.hdslb.com/bfs/emote/f26b8038c51ae6f1aaf504d7a1d3cca5935d7542.png"
+    },
+    {
+      "text": "Wild Huntress_仔细看",
+      "url": "https://i0.hdslb.com/bfs/emote/9f4c2834389f646d0dfcafb3172743a57d8e6c17.png"
+    },
+    {
+      "text": "Wild Huntress_No",
+      "url": "https://i0.hdslb.com/bfs/emote/89f8201958780a2adea98350cb1fb64b950460f0.png"
+    },
+    {
+      "text": "Wild Huntress_Ok",
+      "url": "https://i0.hdslb.com/bfs/emote/1038de07b89e048c3f01783e5ace540e8d867016.png"
+    }
+  ]
 }
