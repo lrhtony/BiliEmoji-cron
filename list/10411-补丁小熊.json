@@ -1,0 +1,68 @@
+{
+  "id": 10411,
+  "text": "补丁小熊",
+  "icon": "https://i0.hdslb.com/bfs/garb/793214f0939c6b04aba17d9dc46b33c7e07574ff.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "补丁小熊_感情好",
+      "url": "https://i0.hdslb.com/bfs/garb/1eed63793d56828f7c1c293b794aad3c9b85fdd2.png"
+    },
+    {
+      "text": "补丁小熊_我喜欢你",
+      "url": "https://i0.hdslb.com/bfs/garb/3ea8dfb8a14887d7405e2aa80ce0398df7f85084.png"
+    },
+    {
+      "text": "补丁小熊_我也是",
+      "url": "https://i0.hdslb.com/bfs/garb/f44196a167c1464d084b61168bac26fbc56b53d3.png"
+    },
+    {
+      "text": "补丁小熊_小熊",
+      "url": "https://i0.hdslb.com/bfs/garb/21872ddde9e887efaf5afe025c273d241a636245.png"
+    },
+    {
+      "text": "补丁小熊_牵手",
+      "url": "https://i0.hdslb.com/bfs/garb/af1296658d1995856c19f4e833f4bec46f312d0d.png"
+    },
+    {
+      "text": "补丁小熊_想你",
+      "url": "https://i0.hdslb.com/bfs/garb/0352761c412d8a058ff225ff0f400b0b4ddb57ae.png"
+    },
+    {
+      "text": "补丁小熊_你很好",
+      "url": "https://i0.hdslb.com/bfs/garb/5459e2c294e20d1bc0a2f3c2b440bfbfe55d66fc.png"
+    },
+    {
+      "text": "补丁小熊_一起前进",
+      "url": "https://i0.hdslb.com/bfs/garb/7b4fa859ea9865f5913e3540dcaa359a41e82cbc.png"
+    },
+    {
+      "text": "补丁小熊_一起加油",
+      "url": "https://i0.hdslb.com/bfs/garb/1b19e0bc4f2d185a0bf8f02440484b4422bc55bb.png"
+    },
+    {
+      "text": "补丁小熊_礼物",
+      "url": "https://i0.hdslb.com/bfs/garb/699130e3f2b2a79198740e47e0d8ec86abbee7a4.png"
+    },
+    {
+      "text": "补丁小熊_花",
+      "url": "https://i0.hdslb.com/bfs/garb/2f40f090f3edc9a6604a75b3415ec2f6d928adf1.png"
+    },
+    {
+      "text": "补丁小熊_说话",
+      "url": "https://i0.hdslb.com/bfs/garb/6357a36ed3407d6ded65e23c244ba4a9e7ab4c01.png"
+    },
+    {
+      "text": "补丁小熊_I",
+      "url": "https://i0.hdslb.com/bfs/garb/0ad0f5f2a823d525bd96618ecc498ff722cec07a.png"
+    },
+    {
+      "text": "补丁小熊_love",
+      "url": "https://i0.hdslb.com/bfs/garb/57a738cb214771644a220393f644f013358cfa6c.png"
+    },
+    {
+      "text": "补丁小熊_U",
+      "url": "https://i0.hdslb.com/bfs/garb/c3328d49e8b89bda4116fb6e867ce4d47df2164a.png"
+    }
+  ]
+}

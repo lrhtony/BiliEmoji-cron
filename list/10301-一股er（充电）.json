@@ -1,0 +1,60 @@
+{
+  "id": 10301,
+  "text": "一股er（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/2d51c4096081b2a43b84a831cef040c25916c8fc.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_212153_骑牛喵",
+      "url": "https://i0.hdslb.com/bfs/garb/041770a1dc634c9a6c1498b4a55c441f91310949.png"
+    },
+    {
+      "text": "UPOWER_212153_跌倒了喵",
+      "url": "https://i0.hdslb.com/bfs/garb/f99c2ce66a3c702574781babbaee2cbd3d930861.png"
+    },
+    {
+      "text": "UPOWER_212153_关注喵",
+      "url": "https://i0.hdslb.com/bfs/garb/99edfed36566bac7440bd0f3c11393943f47f704.png"
+    },
+    {
+      "text": "UPOWER_212153_收藏喵",
+      "url": "https://i0.hdslb.com/bfs/garb/b72c9764021cef92d4145555971ab152b2bab37e.png"
+    },
+    {
+      "text": "UPOWER_212153_睡觉喵",
+      "url": "https://i0.hdslb.com/bfs/garb/2988cb0a39136a9a7e6366f9a482a10661d3aa37.png"
+    },
+    {
+      "text": "UPOWER_212153_线团喵",
+      "url": "https://i0.hdslb.com/bfs/garb/ba333d672ad2e6c082fea803eeaf11c54170d2cf.png"
+    },
+    {
+      "text": "UPOWER_212153_睡觉喵喵",
+      "url": "https://i0.hdslb.com/bfs/garb/0022592e41f95635a544de0edb459d3cf1c8c3ce.png"
+    },
+    {
+      "text": "UPOWER_212153_点赞喵",
+      "url": "https://i0.hdslb.com/bfs/garb/b357a04e28cc7369026b4432bc09c807c6d097ae.png"
+    },
+    {
+      "text": "UPOWER_212153_起飞了喵",
+      "url": "https://i0.hdslb.com/bfs/garb/81465b99bea00cce7d415155c2a5ec15b0b5514c.png"
+    },
+    {
+      "text": "UPOWER_212153_投币喵",
+      "url": "https://i0.hdslb.com/bfs/garb/ed6d6eadc7794d6d06cbc0b134318b70b7d99bb2.png"
+    },
+    {
+      "text": "UPOWER_212153_后悔喵",
+      "url": "https://i0.hdslb.com/bfs/garb/a0b7abc58f4a1081eb447160ec6bc75cf3473d00.png"
+    },
+    {
+      "text": "UPOWER_212153_不赖",
+      "url": "https://i0.hdslb.com/bfs/garb/320943e2afaf95858aef785647b78c464241f1ea.png"
+    },
+    {
+      "text": "UPOWER_212153_好人喵",
+      "url": "https://i0.hdslb.com/bfs/garb/23743b3fc902205634f4de18b53739f6bc83c66d.png"
+    }
+  ]
+}
