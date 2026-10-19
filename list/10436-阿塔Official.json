@@ -1,0 +1,88 @@
+{
+  "id": 10436,
+  "text": "阿塔Official",
+  "icon": "https://i0.hdslb.com/bfs/garb/cb0a89ac08cd9e34e4b8f8053efee0a261d9ffa2.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "阿塔Official_赞",
+      "url": "https://i0.hdslb.com/bfs/garb/76abd83d5bed28c848fd8e3b4e228c4ce12b52fc.png"
+    },
+    {
+      "text": "阿塔Official_獭塔",
+      "url": "https://i0.hdslb.com/bfs/garb/7790c988decb1dbdc41cc736a39d0141ccbf8c1b.png"
+    },
+    {
+      "text": "阿塔Official_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/67d556bfcb38b993eba8323460a4d0e5da350b6c.png"
+    },
+    {
+      "text": "阿塔Official_打游戏",
+      "url": "https://i0.hdslb.com/bfs/garb/78178027c53d57248c7667ef7e646c46f95b967b.png"
+    },
+    {
+      "text": "阿塔Official_不许玩",
+      "url": "https://i0.hdslb.com/bfs/garb/558d719584c77ec400542ffdc80d858458e2b0f1.png"
+    },
+    {
+      "text": "阿塔Official_早上好",
+      "url": "https://i0.hdslb.com/bfs/garb/89429c9e0ad5fa6bcda769547de97a64f40ec17b.png"
+    },
+    {
+      "text": "阿塔Official_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/ad6c3e6d29c0dfce3fcec1764340435aec56d38d.png"
+    },
+    {
+      "text": "阿塔Official_呀米",
+      "url": "https://i0.hdslb.com/bfs/garb/48f5457c2b986f79b2b410b4073e8b7db29ba04d.png"
+    },
+    {
+      "text": "阿塔Official_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/b89dea1c3193d7b54d7780aa0c7f44d8b12b4fdd.png"
+    },
+    {
+      "text": "阿塔Official_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/8a22e0855849dbebc545191d492a4f07c655bf57.png"
+    },
+    {
+      "text": "阿塔Official_果咩",
+      "url": "https://i0.hdslb.com/bfs/garb/f3d9bea9a822fe7cc4faea6a0c81acaac76f8f33.png"
+    },
+    {
+      "text": "阿塔Official_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/62e9ae71399e6bc92439e80d4f481165249146f5.png"
+    },
+    {
+      "text": "阿塔Official_宕机",
+      "url": "https://i0.hdslb.com/bfs/garb/23333f6cdcb4008148d3932f5dd577b68e90ae2a.png"
+    },
+    {
+      "text": "阿塔Official_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/9558be620803a2518200eb41bb8f7e5270f3055a.png"
+    },
+    {
+      "text": "阿塔Official_STOP",
+      "url": "https://i0.hdslb.com/bfs/garb/44e7fb716a1de4be09f5e609d71337c471eefb53.png"
+    },
+    {
+      "text": "阿塔Official_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/5e60d11f965f9e0b80a45f8f9b9eddf726cc1d47.png"
+    },
+    {
+      "text": "阿塔Official_惊慌",
+      "url": "https://i0.hdslb.com/bfs/garb/1d9448b9ca14aae0f67e93d00baa2bad4dadbc7e.png"
+    },
+    {
+      "text": "阿塔Official_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/e97aa617dcd71337cd3a451a4ae128939eeea973.png"
+    },
+    {
+      "text": "阿塔Official_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/a9b8961c676a79da97944ba12a91d98c02341320.png"
+    },
+    {
+      "text": "阿塔Official_摸头",
+      "url": "https://i0.hdslb.com/bfs/garb/772eb3509f9e060aec1652ff780d0134577c7496.png"
+    }
+  ]
+}
