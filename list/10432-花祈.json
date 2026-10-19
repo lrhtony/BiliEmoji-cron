@@ -1,0 +1,68 @@
+{
+  "id": 10432,
+  "text": "花祈",
+  "icon": "https://i0.hdslb.com/bfs/garb/22d82dfe67b374e899880baf2eb864f98664f564.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "花祈_wink",
+      "url": "https://i0.hdslb.com/bfs/garb/10968e456955454bcf961e10e5ed9888048a705c.png"
+    },
+    {
+      "text": "花祈_抱歉",
+      "url": "https://i0.hdslb.com/bfs/garb/b6d8df24127244e945d3d7159031c4f04fb796e6.png"
+    },
+    {
+      "text": "花祈_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/08853c7d0716b4ffef1043fb2c58b9364427791f.png"
+    },
+    {
+      "text": "花祈_察觉",
+      "url": "https://i0.hdslb.com/bfs/garb/ce2559f7ba94ec3d368dbe617f0d4a9260600c18.png"
+    },
+    {
+      "text": "花祈_调皮",
+      "url": "https://i0.hdslb.com/bfs/garb/880badc2ed378e510bc5ab4d878cf73f41802a21.png"
+    },
+    {
+      "text": "花祈_烦躁",
+      "url": "https://i0.hdslb.com/bfs/garb/025d24fb79754f76c28848918b162e1a844e8c1c.png"
+    },
+    {
+      "text": "花祈_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/2fc48e0f4fe76f351aef7ee5601c4b5251e2d11c.png"
+    },
+    {
+      "text": "花祈_回眸",
+      "url": "https://i0.hdslb.com/bfs/garb/2477fe912fbcf7ff7bdd77f8912791c45b7513e8.png"
+    },
+    {
+      "text": "花祈_记笔记",
+      "url": "https://i0.hdslb.com/bfs/garb/e2c6439635c85068d6062e6f3d5ae32c14bf1c4c.png"
+    },
+    {
+      "text": "花祈_疲惫",
+      "url": "https://i0.hdslb.com/bfs/garb/51931175b32505a37cdcf2925b2ca6da23561739.png"
+    },
+    {
+      "text": "花祈_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/6108b9283dbf0bf2d2df38bff946a89b2ce03aa8.png"
+    },
+    {
+      "text": "花祈_偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/1e35e59b27250ca0583da64d55c5d4752c3b7fff.png"
+    },
+    {
+      "text": "花祈_突然出现",
+      "url": "https://i0.hdslb.com/bfs/garb/7b370765a870d02a4cf7051d8406dd06dd61cc7c.png"
+    },
+    {
+      "text": "花祈_委屈",
+      "url": "https://i0.hdslb.com/bfs/garb/f474d78e86a56711bf296291703b7a7a1b75eefb.png"
+    },
+    {
+      "text": "花祈_自由",
+      "url": "https://i0.hdslb.com/bfs/garb/8da486f4b12c0cd1c81eb09fba16356e9d6f220c.png"
+    }
+  ]
+}
