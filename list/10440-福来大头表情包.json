@@ -1,0 +1,44 @@
+{
+  "id": 10440,
+  "text": "福来大头表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/fa7b19a8ff5aa4747196d9ea6813ec38f3ab3c98.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "福来大头表情包_晕眩",
+      "url": "https://i0.hdslb.com/bfs/garb/cf546daff06d8be209145a69c714c1e50c18f986.png"
+    },
+    {
+      "text": "福来大头表情包_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/96fa8bb08f3c9baaa2689f9e0c15e297fbc9ac91.png"
+    },
+    {
+      "text": "福来大头表情包_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/4cdd350bd28355392cd15516fc36a09fdb2981d9.png"
+    },
+    {
+      "text": "福来大头表情包_戳手",
+      "url": "https://i0.hdslb.com/bfs/garb/bbd62d00f53fbc03a46a97d2d34464bacb5c41c1.png"
+    },
+    {
+      "text": "福来大头表情包_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/e1cdfd9b332148e307559164353552a8f2f03c8a.png"
+    },
+    {
+      "text": "福来大头表情包_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/5df3ff35fbaa6675a08040719de85bdf9c0a37d8.png"
+    },
+    {
+      "text": "福来大头表情包_问号",
+      "url": "https://i0.hdslb.com/bfs/garb/cc3458774490ad69bbda79416769f521dd5e9327.png"
+    },
+    {
+      "text": "福来大头表情包_难过",
+      "url": "https://i0.hdslb.com/bfs/garb/9ad5487ceb660b21815f124fe687235bb62e9080.png"
+    },
+    {
+      "text": "福来大头表情包_汗颜",
+      "url": "https://i0.hdslb.com/bfs/garb/30a5195de8c200ac9b6c025005f753226f59d2a0.png"
+    }
+  ]
+}
