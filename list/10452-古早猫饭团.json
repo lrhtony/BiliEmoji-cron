@@ -1,0 +1,68 @@
+{
+  "id": 10452,
+  "text": "古早猫饭团",
+  "icon": "https://i0.hdslb.com/bfs/garb/428ef2bddf6de877ea05337c1c7a0d710f891805.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "古早猫饭团_害羞",
+      "url": "https://i0.hdslb.com/bfs/garb/2dd22895722b23e04dc3e466ec3089735d0d9232.png"
+    },
+    {
+      "text": "古早猫饭团_开动",
+      "url": "https://i0.hdslb.com/bfs/garb/e979b95c0601cefe0a121864d0ac053418c69744.png"
+    },
+    {
+      "text": "古早猫饭团_幸福",
+      "url": "https://i0.hdslb.com/bfs/garb/eff33e99a246f57b9eac6cd42f0f49da07527d48.png"
+    },
+    {
+      "text": "古早猫饭团_晕晕",
+      "url": "https://i0.hdslb.com/bfs/garb/aaa811b0941b4af2f0421150f3d97f60f4b77cc9.png"
+    },
+    {
+      "text": "古早猫饭团_呜",
+      "url": "https://i0.hdslb.com/bfs/garb/426cfb534c9bce126d9827b3935238a931b16d33.png"
+    },
+    {
+      "text": "古早猫饭团_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/9a8437d63ad4aacba89da84072a0875672611726.png"
+    },
+    {
+      "text": "古早猫饭团_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/7f3fdbd03a4168b69b216346750d7a39f8fed436.png"
+    },
+    {
+      "text": "古早猫饭团_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/e84579de07d3170dc93af3f0eee265231ea89458.png"
+    },
+    {
+      "text": "古早猫饭团_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/2815285d892ae9a81d640e15fce31ac6f54a0d38.png"
+    },
+    {
+      "text": "古早猫饭团_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/bf0eff0f47551423bbfa3c54ded4d75ffaa6ef5a.png"
+    },
+    {
+      "text": "古早猫饭团_惬意",
+      "url": "https://i0.hdslb.com/bfs/garb/875cb4e6246cca21dcfb5ac1a6e249e34eea1e4a.png"
+    },
+    {
+      "text": "古早猫饭团_猫饭团",
+      "url": "https://i0.hdslb.com/bfs/garb/45cf66af3e69814755a6ec4efc79e7dbebbe0ff9.png"
+    },
+    {
+      "text": "古早猫饭团_咖喱猫饭团",
+      "url": "https://i0.hdslb.com/bfs/garb/b62c824c42de0535713ef449e358945508338fc1.png"
+    },
+    {
+      "text": "古早猫饭团_音符",
+      "url": "https://i0.hdslb.com/bfs/garb/d026782ffb9bf09cad1c6e23d9e736b5765857ca.png"
+    },
+    {
+      "text": "古早猫饭团_小猫爪",
+      "url": "https://i0.hdslb.com/bfs/garb/cdd5cafa7d40ae7f8e3c846962455910188f12fa.png"
+    }
+  ]
+}
