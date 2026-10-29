@@ -1,0 +1,68 @@
+{
+  "id": 10479,
+  "text": "天使小白猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/15a804f1f8c487f77cd21442dc644f271e56e81d.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "天使小白猫_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/d13c8d3a067032876cc2ee288788d4b4f953f022.png"
+    },
+    {
+      "text": "天使小白猫_保佑",
+      "url": "https://i0.hdslb.com/bfs/garb/55f1ae973d0fe26b19aff54d56813c4e40c4a2ab.png"
+    },
+    {
+      "text": "天使小白猫_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/dd503078c7b760a5c5ac93f0b185b3be2dad2871.png"
+    },
+    {
+      "text": "天使小白猫_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/b193c9797ababa52df689dd58ec1e0123581aab5.png"
+    },
+    {
+      "text": "天使小白猫_555",
+      "url": "https://i0.hdslb.com/bfs/garb/d08b03faf4418907bd634a3369fb79bcd8082ecf.png"
+    },
+    {
+      "text": "天使小白猫_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/d73fbcd280a022d8950b30d9693aabceb0af4749.png"
+    },
+    {
+      "text": "天使小白猫_魔法",
+      "url": "https://i0.hdslb.com/bfs/garb/b879ced62aa779e0484164b5e94f0afdc057e459.png"
+    },
+    {
+      "text": "天使小白猫_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/fcc75b9cef2a1ef82fd3d7bae98e82630f62a160.png"
+    },
+    {
+      "text": "天使小白猫_微笑",
+      "url": "https://i0.hdslb.com/bfs/garb/ec85a5392d9cd82e88d543b3c90f3dfa86f12a57.png"
+    },
+    {
+      "text": "天使小白猫_害怕",
+      "url": "https://i0.hdslb.com/bfs/garb/667faf7d500ed823f11f9baaa76d01c86070423a.png"
+    },
+    {
+      "text": "天使小白猫_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/0d8bf85dce4f370a42960fc62eff51c3c8ea1815.png"
+    },
+    {
+      "text": "天使小白猫_大哭",
+      "url": "https://i0.hdslb.com/bfs/garb/27c8d3c3c32a28646bc65266a43f0072c90b46c6.png"
+    },
+    {
+      "text": "天使小白猫_眼镜",
+      "url": "https://i0.hdslb.com/bfs/garb/bb301d3436d9842a94f7147a6a47db09a2f83175.png"
+    },
+    {
+      "text": "天使小白猫_红温",
+      "url": "https://i0.hdslb.com/bfs/garb/2274b67818446cfe4feac8bb9afeabd1553b47c6.png"
+    },
+    {
+      "text": "天使小白猫_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/633a898f41c5665e465a7256f998493d4bdf3f41.png"
+    }
+  ]
+}
