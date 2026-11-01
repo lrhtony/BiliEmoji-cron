@@ -1,0 +1,98 @@
+{
+  "id": 10497,
+  "text": "奶油动态表情",
+  "icon": "https://i0.hdslb.com/bfs/garb/6596f15c37896e54bca8ec505e0e8d581c784310.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "奶油动态表情_哈哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/9ee1a9fdf2f4c13fcab304a2d19d09302d2dceb0.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/ee681d96778816a3cdc25ad53a1471599e7514c4.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/3a95b08ea4b590b8b3d3e88920356ec3ae636113.webp"
+    },
+    {
+      "text": "奶油动态表情_不愧是我",
+      "url": "https://i0.hdslb.com/bfs/garb/c737ec6a00ecfee8d24a161e32b369d85406018c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/695c8f20d96f5b8db4d28f4ad4329ee8c46ffda7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/169282a348c853933cb5b2f73533f3764edf7ab8.webp"
+    },
+    {
+      "text": "奶油动态表情_亲",
+      "url": "https://i0.hdslb.com/bfs/garb/8b6b2c10c76af3e32eafce09de47c0940c3274e8.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/4d45d5ad9ee75615f75844212563682d2c1db253.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/4eaff2e65823ea02a311be5e3e01a0e3bff7dd3a.webp"
+    },
+    {
+      "text": "奶油动态表情_偷看",
+      "url": "https://i0.hdslb.com/bfs/garb/a984e543427d17525db10bab8688995483f9367d.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/9aa9366124e977020a3a37bd9c2c0898b135aeec.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/466b1284e5bb7671c11c538a39b3daeef89c8eb0.webp"
+    },
+    {
+      "text": "奶油动态表情_冲刺",
+      "url": "https://i0.hdslb.com/bfs/garb/595c8bd19c94c8acefb4474feb58a256025c454e.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/f6e61443a079473e7bca00f0c1e87628b6dde371.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/68f160efe84acd5e5d5ec69865d7ddb12d0b47d3.webp"
+    },
+    {
+      "text": "奶油动态表情_凑",
+      "url": "https://i0.hdslb.com/bfs/garb/f937b8d720ce3d77358e7a49d6d88fdd519b3d61.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/e73168e9a3bb6746fc4e04b05b12e187aae6c2a7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/1f00b33caa00b1ae16c2039b4a0657a61abafb69.webp"
+    },
+    {
+      "text": "奶油动态表情_别这么说",
+      "url": "https://i0.hdslb.com/bfs/garb/f8a5a46629ec2bb299cddc577987bb9601e4e2dc.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/88b83da54f2d3ee23a92e6ed5f81d5a212216a4b.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/486ee05ce03b667ded1c64eb61ce41934966d336.webp"
+    },
+    {
+      "text": "奶油动态表情_大狗叫",
+      "url": "https://i0.hdslb.com/bfs/garb/92665d32a92b6f94ad0ac8bf9ba44c338e72ffbb.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/a8081a119a621c50d33ccf5ccc1574e16f73c69f.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/4ae1be2902f5a602f6b34865fdaf352e41920eb0.webp"
+    },
+    {
+      "text": "奶油动态表情_搬石",
+      "url": "https://i0.hdslb.com/bfs/garb/86e3cd3887d10285eadedd4dc7de0e988f95cd2c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/2f589dbd9a388de476c5a59dde1a5a56b435bef3.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/216d233abbfff1720e1ad39d63f64efc6aadb822.webp"
+    },
+    {
+      "text": "奶油动态表情_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/c8d03d4547801ff9297690a49f7703ef14ac5ccf.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/0cbde20e96c5398a10eb8b5bc9ec4fc78ddc1ff0.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/eee380ed484eba20d20f27d95197e693bc27bfc3.webp"
+    },
+    {
+      "text": "奶油动态表情_锻炼时间",
+      "url": "https://i0.hdslb.com/bfs/garb/cbf7ae07078212bd8c674cda276b8ba34ec1561c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/2a9ca9589838f37d01dc751f4d5fa07cb25bcf6d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/2497bcbdd262fac36dda9670858fa0a31c1d9b24.webp"
+    },
+    {
+      "text": "奶油动态表情_看",
+      "url": "https://i0.hdslb.com/bfs/garb/4b265c7e7485641b4c7a9a9f070914d161b2b7e6.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/95bca65f3efa80ed38194472e4a22b31ca91b191.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/7be0c28b88fa95dc6143c7fe24a4f67c86b7c631.webp"
+    },
+    {
+      "text": "奶油动态表情_趴",
+      "url": "https://i0.hdslb.com/bfs/garb/b0d856dda344d84a3f888ece2d06896bd034f4b9.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/200cc22895b0da98c702a6f90d52983cdb6daec7.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/84f423472fcb5eaf4899b7dce42565c41876f9dc.webp"
+    },
+    {
+      "text": "奶油动态表情_这不神圣吗",
+      "url": "https://i0.hdslb.com/bfs/garb/97485cdcbede76c58c429ab7450268a0a15ca14f.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/e381461f6c58da407dd0d6bba9aaabe78e9f054e.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/671fd16ab394fdd3c8ea8bacd8ce6f0dbfbce756.webp"
+    },
+    {
+      "text": "奶油动态表情_错了喵",
+      "url": "https://i0.hdslb.com/bfs/garb/bfbef119c06706978c3d3d90a3f9907b44ebd110.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/90f28481580abbd1a50c881fefa130b7c57f964d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/ed79f9bd2286fb12a5846878b922452d9750ea21.webp"
+    }
+  ]
+}
