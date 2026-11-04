@@ -1,0 +1,40 @@
+{
+  "id": 10510,
+  "text": "霁乐毅（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/65aecdec5b99129a1d506abfa87ce3049ad7b866.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_3493264680291002_爱你",
+      "url": "https://i0.hdslb.com/bfs/garb/ce28b97e8c98fb2f4558e4d89f4282f5f6dec59e.png"
+    },
+    {
+      "text": "UPOWER_3493264680291002_哈哈",
+      "url": "https://i0.hdslb.com/bfs/garb/5ed36466cdcc1cce2b01ff4d5311145d397d44dc.png"
+    },
+    {
+      "text": "UPOWER_3493264680291002_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/f471a462c64ab55a57be31387a32074bcb4ea9d7.png"
+    },
+    {
+      "text": "UPOWER_3493264680291002_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/7226309fc8503df1879aa1d71f7b5ca647b618bd.png"
+    },
+    {
+      "text": "UPOWER_3493264680291002_快夸我",
+      "url": "https://i0.hdslb.com/bfs/garb/14080ab38dbb713d1a6f33fdb4864fc72b68d125.png"
+    },
+    {
+      "text": "UPOWER_3493264680291002_太棒了",
+      "url": "https://i0.hdslb.com/bfs/garb/fc29374c6e1cfd544b5719aeb243d161de897fbf.png"
+    },
+    {
+      "text": "UPOWER_3493264680291002_好可爱",
+      "url": "https://i0.hdslb.com/bfs/garb/0890b611315ac29519d42eb0e5b505876458e157.png"
+    },
+    {
+      "text": "UPOWER_3493264680291002_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/1d1d7018df1af7612f6fdb39fe352ba0d5dec685.png"
+    }
+  ]
+}
