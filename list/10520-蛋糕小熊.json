@@ -1,0 +1,68 @@
+{
+  "id": 10520,
+  "text": "蛋糕小熊",
+  "icon": "https://i0.hdslb.com/bfs/garb/8f09a648de02e6ecfcbb922f6e4869a0097767d1.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "蛋糕小熊_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/b9af03caa98382c7b9b6d354ec27912c9ad8db25.png"
+    },
+    {
+      "text": "蛋糕小熊_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/9c2debc8168411173adeec9a88a453e479895ae7.png"
+    },
+    {
+      "text": "蛋糕小熊_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/8f20b00df653ac6e9c074c03b3d54a7c69c6710b.png"
+    },
+    {
+      "text": "蛋糕小熊_欢呼",
+      "url": "https://i0.hdslb.com/bfs/garb/204964ec785336cfe3029fe218518ae0b973ed3b.png"
+    },
+    {
+      "text": "蛋糕小熊_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/7fb3d56fcea3eb9f1519af75ae8f08f2e4d62728.png"
+    },
+    {
+      "text": "蛋糕小熊_爱心",
+      "url": "https://i0.hdslb.com/bfs/garb/34e8eb99701005241901f62ac29f9f3f50782ae9.png"
+    },
+    {
+      "text": "蛋糕小熊_做饭",
+      "url": "https://i0.hdslb.com/bfs/garb/03304396aa48f088e6247a8e03d6e19eff068fe4.png"
+    },
+    {
+      "text": "蛋糕小熊_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/1aa33d45fa04f4aac4b3627323dbe56916973af8.png"
+    },
+    {
+      "text": "蛋糕小熊_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/fd3736e51b56ec4122da741314e7f1341ba7c8fb.png"
+    },
+    {
+      "text": "蛋糕小熊_沮丧",
+      "url": "https://i0.hdslb.com/bfs/garb/e9c08c5d9b21ab32312271faab3734348fbc919f.png"
+    },
+    {
+      "text": "蛋糕小熊_打电话",
+      "url": "https://i0.hdslb.com/bfs/garb/02b6984cba88a0bd62037c4349887877cefbf418.png"
+    },
+    {
+      "text": "蛋糕小熊_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/1cad8b6653fa111e5e890c4a030a663a160e24f9.png"
+    },
+    {
+      "text": "蛋糕小熊_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/ae61813c2c1a626987aab8e781ec2c3a7e8965cb.png"
+    },
+    {
+      "text": "蛋糕小熊_叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/931f71df7a8950e668984dc2ae0a0b4af6ba1ce3.png"
+    },
+    {
+      "text": "蛋糕小熊_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/e5f1d6de49a7c134970fd4ffa2f07bf49aaf84a9.png"
+    }
+  ]
+}

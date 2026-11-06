@@ -1,0 +1,68 @@
+{
+  "id": 10525,
+  "text": "长腿小星星",
+  "icon": "https://i0.hdslb.com/bfs/garb/2e469fba4388e0af8a6be7305872c1e87f50dffa.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "长腿小星星_欢呼",
+      "url": "https://i0.hdslb.com/bfs/garb/59a5efc03410cb0e2f060ba0c382ad6cbdf9fd83.png"
+    },
+    {
+      "text": "长腿小星星_跳舞",
+      "url": "https://i0.hdslb.com/bfs/garb/99f7f872b711f00884abfcfa34fbfa3c8ca5ca3a.png"
+    },
+    {
+      "text": "长腿小星星_献花",
+      "url": "https://i0.hdslb.com/bfs/garb/363d5cdee9d15d802c6e8069605727fc3ef1aa17.png"
+    },
+    {
+      "text": "长腿小星星_来了",
+      "url": "https://i0.hdslb.com/bfs/garb/bbc4e46823ba28074f674b738a1153afe204c07f.png"
+    },
+    {
+      "text": "长腿小星星_流星",
+      "url": "https://i0.hdslb.com/bfs/garb/7bee2265320c8b54063a4a5cde5a00ce26ae1387.png"
+    },
+    {
+      "text": "长腿小星星_朋友",
+      "url": "https://i0.hdslb.com/bfs/garb/21a10a20d390e50dbef061848dec1e08ee52b697.png"
+    },
+    {
+      "text": "长腿小星星_哇",
+      "url": "https://i0.hdslb.com/bfs/garb/9dfc1eb47496f714321c80a2a916d61d428fea6d.png"
+    },
+    {
+      "text": "长腿小星星_秋千",
+      "url": "https://i0.hdslb.com/bfs/garb/27d49da08c7c2ef2fbac078ce4f836c8c98793e3.png"
+    },
+    {
+      "text": "长腿小星星_坐下",
+      "url": "https://i0.hdslb.com/bfs/garb/b015e8cea41183f8d6753452259b77d49da07ccc.png"
+    },
+    {
+      "text": "长腿小星星_站",
+      "url": "https://i0.hdslb.com/bfs/garb/9cd162b8d856d5fd33a474c837e56e6d6479aa43.png"
+    },
+    {
+      "text": "长腿小星星_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/d1865050f4b519d2973f33a06a00ba9c45341ac9.png"
+    },
+    {
+      "text": "长腿小星星_开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/d7b20054bf5c86fd87bf37953b0538f2e8859db2.png"
+    },
+    {
+      "text": "长腿小星星_开星",
+      "url": "https://i0.hdslb.com/bfs/garb/d6c08ad540a5ba6f569ea5336fb79a0e1fe7c729.png"
+    },
+    {
+      "text": "长腿小星星_伤星",
+      "url": "https://i0.hdslb.com/bfs/garb/43259b70420a1efd48eee4288fdfeb3d83ce026f.png"
+    },
+    {
+      "text": "长腿小星星_跑了",
+      "url": "https://i0.hdslb.com/bfs/garb/615095c89b4655465c3ed4b0dc0e3581f262876f.png"
+    }
+  ]
+}
