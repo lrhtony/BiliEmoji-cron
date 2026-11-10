@@ -5,6 +5,10 @@
   "resource_type": 0,
   "emote": [
     {
+      "text": "UPOWER_13470007_拉个大电",
+      "url": "https://i0.hdslb.com/bfs/garb/dd8e46dc014d096928276f8cef08d88b8dd17820.png"
+    },
+    {
       "text": "UPOWER_13470007_拉个电",
       "url": "https://i0.hdslb.com/bfs/garb/dd8e46dc014d096928276f8cef08d88b8dd17820.png"
     },
@@ -45,8 +49,12 @@
       "url": "https://i0.hdslb.com/bfs/garb/c070ba7c3dcdff4bd609755cc73340923c1ec477.png"
     },
     {
-      "text": "UPOWER_13470007_渔夫皮",
-      "url": "https://i0.hdslb.com/bfs/garb/c34974d525e9f7c00de7819203a45521d0389694.png"
+      "text": "UPOWER_13470007_吃瓜",
+      "url": "https://i0.hdslb.com/bfs/garb/042d34ad90353300de578e108e8886b99c1c0cdb.png"
+    },
+    {
+      "text": "UPOWER_13470007_有想法",
+      "url": "https://i0.hdslb.com/bfs/garb/f3f3bc406e2b7a88fafa2b19440c79687caf47d7.png"
     },
     {
       "text": "UPOWER_13470007_就是你",
@@ -57,32 +65,36 @@
       "url": "https://i0.hdslb.com/bfs/garb/042d34ad90353300de578e108e8886b99c1c0cdb.png"
     },
     {
-      "text": "UPOWER_13470007_想法皮",
-      "url": "https://i0.hdslb.com/bfs/garb/f3f3bc406e2b7a88fafa2b19440c79687caf47d7.png"
-    },
-    {
       "text": "UPOWER_13470007_打派吗",
       "url": "https://i0.hdslb.com/bfs/garb/6049d62161b7ec9e72a36e3c1059a571e3fd7776.png"
-    },
-    {
-      "text": "UPOWER_13470007_不屑",
-      "url": "https://i0.hdslb.com/bfs/garb/4528abdf79d2a15c9bb9e821e6ca2a519fb210b2.png"
     },
     {
       "text": "UPOWER_13470007_饥饿",
       "url": "https://i0.hdslb.com/bfs/garb/0bd9c364dd1aa21e44f5a9e910b9d1430a479cdc.png"
     },
     {
-      "text": "UPOWER_13470007_真香",
-      "url": "https://i0.hdslb.com/bfs/garb/46c13f919960b980d618239d6360ad7546c8e942.png"
-    },
-    {
-      "text": "UPOWER_13470007_耶",
-      "url": "https://i0.hdslb.com/bfs/garb/9b864143b23da2ff60ce5eeda6d9517f3318661a.png"
-    },
-    {
       "text": "UPOWER_13470007_让我看看",
       "url": "https://i0.hdslb.com/bfs/garb/b836302307d548210203723abfc996f3e2297159.png"
+    },
+    {
+      "text": "UPOWER_13470007_爱你哟",
+      "url": "https://i0.hdslb.com/bfs/garb/538f89b769d922979358949c76b057e2bc0b177f.png"
+    },
+    {
+      "text": "UPOWER_13470007_下饭",
+      "url": "https://i0.hdslb.com/bfs/garb/28f8d14cfaf4d96d6d008ed4728a36c6cabe37df.png"
+    },
+    {
+      "text": "UPOWER_13470007_魅惑皮",
+      "url": "https://i0.hdslb.com/bfs/garb/d014327b6edbcd5e41bb8d2c9be75a89e653f48a.png"
+    },
+    {
+      "text": "UPOWER_13470007_找人弄你",
+      "url": "https://i0.hdslb.com/bfs/garb/18da9329d16e88beccd58917bef6139495436854.png"
+    },
+    {
+      "text": "UPOWER_13470007_你不服",
+      "url": "https://i0.hdslb.com/bfs/garb/76bea3d693e8e5dc619105426ba50d561a1d8243.png"
     }
   ]
 }
