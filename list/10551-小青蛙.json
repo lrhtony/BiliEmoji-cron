@@ -1,0 +1,68 @@
+{
+  "id": 10551,
+  "text": "小青蛙",
+  "icon": "https://i0.hdslb.com/bfs/garb/b5396c48989d5db24f472172f890d8b73c2fea2e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "小青蛙_喜欢",
+      "url": "https://i0.hdslb.com/bfs/garb/468fb20a8cacd001a199f6cea74f2a87d80e95c5.png"
+    },
+    {
+      "text": "小青蛙_急",
+      "url": "https://i0.hdslb.com/bfs/garb/46a7f70a0406ed112192bb8dd2d9519c7667a754.png"
+    },
+    {
+      "text": "小青蛙_美味",
+      "url": "https://i0.hdslb.com/bfs/garb/da313400eb62d3d363dff977339bcc318e79c9ea.png"
+    },
+    {
+      "text": "小青蛙_孤寡",
+      "url": "https://i0.hdslb.com/bfs/garb/f41b0f77e7e7d009f950e8df66d0f201d6453d47.png"
+    },
+    {
+      "text": "小青蛙_可惜",
+      "url": "https://i0.hdslb.com/bfs/garb/06a9c7de72cc774f0bd0244d1d980aac9cc2294f.png"
+    },
+    {
+      "text": "小青蛙_兴奋",
+      "url": "https://i0.hdslb.com/bfs/garb/9f60b1870b305d4cf84413b37947bec264b6c33e.png"
+    },
+    {
+      "text": "小青蛙_流口水",
+      "url": "https://i0.hdslb.com/bfs/garb/d2de2cf7d4608d8c124dea75a59e7633d0a93b6c.png"
+    },
+    {
+      "text": "小青蛙_苦脸",
+      "url": "https://i0.hdslb.com/bfs/garb/2d9bea9feecd6e75131d31e16d03d8126ecae18e.png"
+    },
+    {
+      "text": "小青蛙_火",
+      "url": "https://i0.hdslb.com/bfs/garb/713e44a746f8d81870b0f31d133566cbee807c8c.png"
+    },
+    {
+      "text": "小青蛙_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/f2ad95d72d02e719d277ab989461ce04aad7819d.png"
+    },
+    {
+      "text": "小青蛙_嘻嘻",
+      "url": "https://i0.hdslb.com/bfs/garb/91e195102a13a7919976ec2c79753215e55f5388.png"
+    },
+    {
+      "text": "小青蛙_飞吻",
+      "url": "https://i0.hdslb.com/bfs/garb/e5eead124d732d6ceb586df27d051c6af3c65aa0.png"
+    },
+    {
+      "text": "小青蛙_盯",
+      "url": "https://i0.hdslb.com/bfs/garb/7ecffc19fbadf633d47e4acbfae9c21058a8de01.png"
+    },
+    {
+      "text": "小青蛙_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/d0d6899a1bedd7a817b52017fac0770531310030.png"
+    },
+    {
+      "text": "小青蛙_举手",
+      "url": "https://i0.hdslb.com/bfs/garb/59240962b7a06c2dacb4362f461db92df63ac0dc.png"
+    }
+  ]
+}

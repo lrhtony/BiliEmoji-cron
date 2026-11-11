@@ -1,0 +1,48 @@
+{
+  "id": 10550,
+  "text": "小鱼陪拉片（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/25fe50cba5435d725483910e486f581f88ac93b3.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_84706708_抱鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/534f818a0a794b70f10daa55a81618d1695c70cd.png"
+    },
+    {
+      "text": "UPOWER_84706708_大笑",
+      "url": "https://i0.hdslb.com/bfs/garb/e2a4e757885f3d54c4e1b797347f90213845f347.png"
+    },
+    {
+      "text": "UPOWER_84706708_干饭",
+      "url": "https://i0.hdslb.com/bfs/garb/6424e648f7a246c6c0781b2279b41daaebfc25a0.png"
+    },
+    {
+      "text": "UPOWER_84706708_催更",
+      "url": "https://i0.hdslb.com/bfs/garb/e366402fd73d1012f9a77794a3e343819e047ce5.png"
+    },
+    {
+      "text": "UPOWER_84706708_不屑",
+      "url": "https://i0.hdslb.com/bfs/garb/821ced14309b84e45b130c818fb881c3a26e7822.png"
+    },
+    {
+      "text": "UPOWER_84706708_我来了",
+      "url": "https://i0.hdslb.com/bfs/garb/bfec9d222468a0130fd82e4d919ae5605d1a4a22.png"
+    },
+    {
+      "text": "UPOWER_84706708_没看够",
+      "url": "https://i0.hdslb.com/bfs/garb/f551f0989d80580a09f108f616325c9d1433cf1b.png"
+    },
+    {
+      "text": "UPOWER_84706708_摸鱼",
+      "url": "https://i0.hdslb.com/bfs/garb/98c3effc5e1f13f39057eba55bb32ccf71e32163.png"
+    },
+    {
+      "text": "UPOWER_84706708_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/894cf28198bddf686e54463a63fe85a8ce5ef6e6.png"
+    },
+    {
+      "text": "UPOWER_84706708_想看",
+      "url": "https://i0.hdslb.com/bfs/garb/3c338de234632fdac9c8f9c0245f9381ca08f1e6.png"
+    }
+  ]
+}
