@@ -1,0 +1,88 @@
+{
+  "id": 10562,
+  "text": "魔法研究所",
+  "icon": "https://i0.hdslb.com/bfs/garb/0be84f4ed36ec48a3785616975465d4b7773428f.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "魔法研究所_伸手",
+      "url": "https://i0.hdslb.com/bfs/garb/c1df7729f531f7b1d1f6bbf5a87deeb3f60ee734.png"
+    },
+    {
+      "text": "魔法研究所_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/8fb2ccc1e9077cec582754bfce31ea0378181cd8.png"
+    },
+    {
+      "text": "魔法研究所_吓哭",
+      "url": "https://i0.hdslb.com/bfs/garb/65957f088bde8a29bb63cb0aadc3de2e3e4426b0.png"
+    },
+    {
+      "text": "魔法研究所_加载中",
+      "url": "https://i0.hdslb.com/bfs/garb/0ab447efade18a3005e7288a9bc77bdb5f7ca135.png"
+    },
+    {
+      "text": "魔法研究所_好刀",
+      "url": "https://i0.hdslb.com/bfs/garb/cf3a4555e091edb57b36d78a3184342b73f8e3cd.png"
+    },
+    {
+      "text": "魔法研究所_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/42171805f5c01c997759abfc40875140571ea34e.png"
+    },
+    {
+      "text": "魔法研究所_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/d1738de819cac7126a17adaef488aaf74dd6ef13.png"
+    },
+    {
+      "text": "魔法研究所_呆滞",
+      "url": "https://i0.hdslb.com/bfs/garb/b556139e2ee98f38f97dcd39049962691f873a57.png"
+    },
+    {
+      "text": "魔法研究所_送花",
+      "url": "https://i0.hdslb.com/bfs/garb/bfc3cc47a3df301e03394af01347a5b347e7ba46.png"
+    },
+    {
+      "text": "魔法研究所_坏笑",
+      "url": "https://i0.hdslb.com/bfs/garb/7ba64840e9fdd861754d75ef0e1d77e964e6cf3d.png"
+    },
+    {
+      "text": "魔法研究所_对的",
+      "url": "https://i0.hdslb.com/bfs/garb/da423af5c7adcbdc513d89c1f3f55b75e626f8c7.png"
+    },
+    {
+      "text": "魔法研究所_偷吃",
+      "url": "https://i0.hdslb.com/bfs/garb/5ca7a61bde6323782be9adb64b908c07fcac04d2.png"
+    },
+    {
+      "text": "魔法研究所_准备开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/60149661c6010509de890cbbedd1e73abcd30c0b.png"
+    },
+    {
+      "text": "魔法研究所_在肝了",
+      "url": "https://i0.hdslb.com/bfs/garb/e3461246e153c3a3e9442501ec1df544bc1b9055.png"
+    },
+    {
+      "text": "魔法研究所_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/1047be669eaf9b83ebb2c309541a10777c556dac.png"
+    },
+    {
+      "text": "魔法研究所_天使",
+      "url": "https://i0.hdslb.com/bfs/garb/cfecaf455d9be2c2ee01a83a9b079c22c4fa1511.png"
+    },
+    {
+      "text": "魔法研究所_恶魔",
+      "url": "https://i0.hdslb.com/bfs/garb/46897b944bae8f5d1ea17ce238af3af8a3db8864.png"
+    },
+    {
+      "text": "魔法研究所_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/c02b39774ecbd61a7ad29ef538aaef9f8554a29d.png"
+    },
+    {
+      "text": "魔法研究所_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/e1581fcaaec6defed88dac18a34c3e0da03da84f.png"
+    },
+    {
+      "text": "魔法研究所_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/f8a20818b4e01ef8c1f0589c7b41aa45ecaa1424.png"
+    }
+  ]
+}
