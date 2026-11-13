@@ -1,0 +1,88 @@
+{
+  "id": 10567,
+  "text": "BLGBin（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/3aba8fd047ffb54f7ca790ad84e8b360badeed3f.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_325315550_谢谢",
+      "url": "https://i0.hdslb.com/bfs/garb/c37b2e8c3fb6bd91cbb2f4662d60965f54acb69f.png"
+    },
+    {
+      "text": "UPOWER_325315550_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/9bc5a66bea2c383ba59964e40750798f04cd1d61.png"
+    },
+    {
+      "text": "UPOWER_325315550_哭哭",
+      "url": "https://i0.hdslb.com/bfs/garb/330f44e9184bd3238ecec2d86c203413db5e85fd.png"
+    },
+    {
+      "text": "UPOWER_325315550_自信",
+      "url": "https://i0.hdslb.com/bfs/garb/6ac9f9a90b380873addee86c2cb86a2fe4c5b50e.png"
+    },
+    {
+      "text": "UPOWER_325315550_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/a85cd675ef5924d291563db7b2772c9754bd5859.png"
+    },
+    {
+      "text": "UPOWER_325315550_冒头",
+      "url": "https://i0.hdslb.com/bfs/garb/38f924d838e19d3d5a3f9b8367a1a6ed4a13d272.png"
+    },
+    {
+      "text": "UPOWER_325315550_正确举牌",
+      "url": "https://i0.hdslb.com/bfs/garb/dc951ca4dd56dd5e0d64408878ec69afb37d4740.png"
+    },
+    {
+      "text": "UPOWER_325315550_错误举牌",
+      "url": "https://i0.hdslb.com/bfs/garb/d75cfed4f54bcbc9aa94cb0cf584bbab20924eb9.png"
+    },
+    {
+      "text": "UPOWER_325315550_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/d50b711d90f77e3ba04ac7b765f1bf6c1a7be63c.png"
+    },
+    {
+      "text": "UPOWER_325315550_相信",
+      "url": "https://i0.hdslb.com/bfs/garb/5c631f6a705247af23be779e81eec499a4035c8a.png"
+    },
+    {
+      "text": "UPOWER_325315550_伟大",
+      "url": "https://i0.hdslb.com/bfs/garb/786eb74f7072192010efaef3e594009da57c79d2.png"
+    },
+    {
+      "text": "UPOWER_325315550_严肃",
+      "url": "https://i0.hdslb.com/bfs/garb/da7adcd4c5097a454694248b4c2387e8edd94a52.png"
+    },
+    {
+      "text": "UPOWER_325315550_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/ef7605dcad9d887988a596c3a0431dc41a95e016.png"
+    },
+    {
+      "text": "UPOWER_325315550_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/393c28e6a203cd3e7154979ac0c88bdbddde1fc9.png"
+    },
+    {
+      "text": "UPOWER_325315550_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/fffe97de39326dd5f4ad5683ddea2c419d73275a.png"
+    },
+    {
+      "text": "UPOWER_325315550_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/62565e493dfc46ada20978d3af4c8916920a6228.png"
+    },
+    {
+      "text": "UPOWER_325315550_思索",
+      "url": "https://i0.hdslb.com/bfs/garb/97ceb33ae6be30ec709492c7baebce7b2091db6e.png"
+    },
+    {
+      "text": "UPOWER_325315550_交给我吧",
+      "url": "https://i0.hdslb.com/bfs/garb/985c3905bbe9b922c8dbd8db1ca9492b5c4693f4.png"
+    },
+    {
+      "text": "UPOWER_325315550_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/e61589c8c742f6773d680c80a3fb512a94a51f92.png"
+    },
+    {
+      "text": "UPOWER_325315550_哇啊啊",
+      "url": "https://i0.hdslb.com/bfs/garb/e540799843ffca61d0a2b1e887a35bf1ca2fe5e7.png"
+    }
+  ]
+}

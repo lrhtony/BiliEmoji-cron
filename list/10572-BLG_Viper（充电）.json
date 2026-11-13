@@ -1,0 +1,88 @@
+{
+  "id": 10572,
+  "text": "BLG_Viper（充电）",
+  "icon": "https://i0.hdslb.com/bfs/garb/617635bad3b6146cf9a2630ec2051b7569ce53f0.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "UPOWER_3690988432263598_震惊",
+      "url": "https://i0.hdslb.com/bfs/garb/ebda9c025cb0de4bb3312ea828917e31e1565c3f.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_捧花",
+      "url": "https://i0.hdslb.com/bfs/garb/74fbf94fd4583eb0cf2138bfbf806cd95b7f9172.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_比耶",
+      "url": "https://i0.hdslb.com/bfs/garb/5cb69eab2e28da2b3280dc5b83605de1b86f4f5a.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_emm",
+      "url": "https://i0.hdslb.com/bfs/garb/2ead3ef3f7881bd1116b1edf5d9649ba5150dfa8.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/5d2a84e4656b96114bdacd612a186488ee21575d.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_OK",
+      "url": "https://i0.hdslb.com/bfs/garb/b748cc4f8ca6ddfea9ecdc34d841aa22c4b23dc1.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/3fe81bb75258714e20ca0a9e53d71a177fc753db.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/7bdcebb35978983ccafc7b23b833af148a3cd52b.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_谢谢",
+      "url": "https://i0.hdslb.com/bfs/garb/753feee648a261877cd8dd201ef6d092f4805ae7.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_冒头",
+      "url": "https://i0.hdslb.com/bfs/garb/135dffdc554316730bd8467ba1f1d9015132d61d.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/c0711f82dac4068c093e8016d6a7c09ad1cbb151.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_亲亲",
+      "url": "https://i0.hdslb.com/bfs/garb/b147e293a05c8f4e99294e7f51916ee127150291.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_在吗",
+      "url": "https://i0.hdslb.com/bfs/garb/33e28f0633ff6a8bf01e48c6e8d420f77651d7e5.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/63ec7be4551d7965432bd4f2857d5d099213b033.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_正确",
+      "url": "https://i0.hdslb.com/bfs/garb/0ed46e95c2acae7daa76d1b1c374974dce784bde.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_错误",
+      "url": "https://i0.hdslb.com/bfs/garb/75cd15776bfe19081f1a80559c28959b34b5c2c0.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/e5a0c6f06bf9f84aa1d42af2187446dfe8b44148.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_交给我了",
+      "url": "https://i0.hdslb.com/bfs/garb/9be9fa774f3049cf6d4c92aca081d3a2c379c8ea.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_我吗",
+      "url": "https://i0.hdslb.com/bfs/garb/973bbc9cf7ae87f973160a2dab36308d610c4491.png"
+    },
+    {
+      "text": "UPOWER_3690988432263598_祈祷",
+      "url": "https://i0.hdslb.com/bfs/garb/5023b45d9478751b062f55bd889e16859339fd3a.png"
+    }
+  ]
+}
