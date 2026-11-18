@@ -1,0 +1,44 @@
+{
+  "id": 10595,
+  "text": "小姐姐殿下表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/4723bb5ee39f6f0dc60d0df98caa886fd16495bb.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "小姐姐殿下表情包_行礼",
+      "url": "https://i0.hdslb.com/bfs/garb/009b0b8a1108c1ce14dc2d766bcb53ef40ff83f5.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/770595ee9fe2def3decd68ce2df9d985e883fe2f.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/67e592e5b71b4e953e21bbd94bc56aa58ec28789.webp"
+    },
+    {
+      "text": "小姐姐殿下表情包_撒花瓣",
+      "url": "https://i0.hdslb.com/bfs/garb/d0f9d9863801294ee04be47ba16089d26751f662.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/357947cab8c753503ac5854a68b06fe43176cb1d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/64fb9113a95848bde9dcfda9ad872bbd1d0ad2be.webp"
+    },
+    {
+      "text": "小姐姐殿下表情包_记下来",
+      "url": "https://i0.hdslb.com/bfs/garb/2e716b640902685d245d342a3ddb58ef0367fadb.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/08ecc2e2d0a4be90bf7345ffddfddc7cc8b5b783.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/13bcb552da55d3c9a1fbb5ca8cd2c3305a3dac3c.webp"
+    },
+    {
+      "text": "小姐姐殿下表情包_加冕",
+      "url": "https://i0.hdslb.com/bfs/garb/ca134fe79b3519a3df24e1d89860bb41ab8c7a5b.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/530eb37d03850e74594302a91c12f28547f38593.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/8e7d3a0a12c7dba61423468f80728e3c31a26be4.webp"
+    },
+    {
+      "text": "小姐姐殿下表情包_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/4bfb884ccb088fd2ec1a822630ad00df2761a06b.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/b6634c7feae2ad3143f6c9940f39ae1e58bb673f.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/cb54f6f836f27b85331ec80d4d82fef98c86a8b1.webp"
+    },
+    {
+      "text": "小姐姐殿下表情包_耍帅",
+      "url": "https://i0.hdslb.com/bfs/garb/9ca48994bbfa06bbeebd5e13fb45d41e9cc98b99.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/cb07b8802d39f466a8fa8989d5622de1f5625621.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/7ba7501dfc347303ed04677a7945eb51820f410a.webp"
+    }
+  ]
+}

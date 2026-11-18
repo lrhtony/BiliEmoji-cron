@@ -1,0 +1,32 @@
+{
+  "id": 10593,
+  "text": "海盗22",
+  "icon": "https://i0.hdslb.com/bfs/garb/cc563707a30d6d6263e1fe2cfd04f1e1b34ee6fa.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "海盗22_暗中观察",
+      "url": "https://i0.hdslb.com/bfs/garb/fd3df51a22d729d4ba186f50b642b6b583062dfd.png"
+    },
+    {
+      "text": "海盗22_灵光一闪",
+      "url": "https://i0.hdslb.com/bfs/garb/f52bec910b75b2c0c226bdaa68fd4c445ee51cca.png"
+    },
+    {
+      "text": "海盗22_开摆",
+      "url": "https://i0.hdslb.com/bfs/garb/1abbbacdb69a3d48296e71fe07006d981e2f461c.png"
+    },
+    {
+      "text": "海盗22_有被冒犯",
+      "url": "https://i0.hdslb.com/bfs/garb/3935e45d39bc193539e0b271d99e2a0632d68162.png"
+    },
+    {
+      "text": "海盗22_晕船了",
+      "url": "https://i0.hdslb.com/bfs/garb/bf988cd4e89011aadbcf93aeceee177b45713f91.png"
+    },
+    {
+      "text": "海盗22_干杯",
+      "url": "https://i0.hdslb.com/bfs/garb/b1c3429f818c7430d0de4345fc313a2cfb1a9542.png"
+    }
+  ]
+}
