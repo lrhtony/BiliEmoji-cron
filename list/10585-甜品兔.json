@@ -1,0 +1,68 @@
+{
+  "id": 10585,
+  "text": "甜品兔",
+  "icon": "https://i0.hdslb.com/bfs/garb/4b9645a7da1994ed06bae502f355058b31d27e4d.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "甜品兔_刀",
+      "url": "https://i0.hdslb.com/bfs/garb/b1c4ff05e662f30a6fa60099a488bf54c22b8a9d.png"
+    },
+    {
+      "text": "甜品兔_叉",
+      "url": "https://i0.hdslb.com/bfs/garb/1b1604a5c64ee4af3513e027030f829d2913caa4.png"
+    },
+    {
+      "text": "甜品兔_蛋糕",
+      "url": "https://i0.hdslb.com/bfs/garb/7caf63d1c7e3a69e01f398ab48cf004b6a043e4c.png"
+    },
+    {
+      "text": "甜品兔_开心",
+      "url": "https://i0.hdslb.com/bfs/garb/72f18905e9ea43b8ca03bd94325b9c51f2ba9f3c.png"
+    },
+    {
+      "text": "甜品兔_哭",
+      "url": "https://i0.hdslb.com/bfs/garb/b286b70d6f8b32cbddab0181318176009eba9655.png"
+    },
+    {
+      "text": "甜品兔_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/7e2787a5af2f5855afb3516f46a793a9f8fa9266.png"
+    },
+    {
+      "text": "甜品兔_摇头",
+      "url": "https://i0.hdslb.com/bfs/garb/794918ea39d698bac52e1b95a45eaf6d81a3bbd8.png"
+    },
+    {
+      "text": "甜品兔_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/caa4ff4512732fca5d9aaf5cf3e9a256249a6f7c.png"
+    },
+    {
+      "text": "甜品兔_霉",
+      "url": "https://i0.hdslb.com/bfs/garb/6b6f55a6e9ab06e4fb22e473996a11194a5933ca.png"
+    },
+    {
+      "text": "甜品兔_流汗",
+      "url": "https://i0.hdslb.com/bfs/garb/99775d8834d8e5339183489ff50b7313b63ca13a.png"
+    },
+    {
+      "text": "甜品兔_星星",
+      "url": "https://i0.hdslb.com/bfs/garb/25eac3bb9e1aa8de30a9fa15ab51b7b733b0c3fc.png"
+    },
+    {
+      "text": "甜品兔_怒",
+      "url": "https://i0.hdslb.com/bfs/garb/eb5e6080fb95b62cfa95e9902afd0a052da4b6fa.png"
+    },
+    {
+      "text": "甜品兔_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/ed4f90af45fdf6b510d826029b1b5594e028bf91.png"
+    },
+    {
+      "text": "甜品兔_失落",
+      "url": "https://i0.hdslb.com/bfs/garb/1856209796196efc99244d2d94142f32dd875bfe.png"
+    },
+    {
+      "text": "甜品兔_草莓",
+      "url": "https://i0.hdslb.com/bfs/garb/f0e08748e73284ea59d7f74afee2b290d0595022.png"
+    }
+  ]
+}
