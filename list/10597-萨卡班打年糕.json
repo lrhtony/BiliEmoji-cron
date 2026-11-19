@@ -1,0 +1,68 @@
+{
+  "id": 10597,
+  "text": "萨卡班打年糕",
+  "icon": "https://i0.hdslb.com/bfs/garb/42170560c307ef20c3e419a0b33270fde995be4e.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "萨卡班打年糕_拉年糕",
+      "url": "https://i0.hdslb.com/bfs/garb/b1cd9372e718e07edf87209dc1964d56169ae131.png"
+    },
+    {
+      "text": "萨卡班打年糕_拿锤子",
+      "url": "https://i0.hdslb.com/bfs/garb/2c213fa05da2d0c8d50d51a4e9956ce5d5d0412a.png"
+    },
+    {
+      "text": "萨卡班打年糕_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/fcb608c651a791d86ae67c07bc2d42951589c694.png"
+    },
+    {
+      "text": "萨卡班打年糕_咬",
+      "url": "https://i0.hdslb.com/bfs/garb/f09987be3c29aad47a4c0d4fc5847687930af4b2.png"
+    },
+    {
+      "text": "萨卡班打年糕_吃",
+      "url": "https://i0.hdslb.com/bfs/garb/060b7e8c2a6c1a82b00c91d31716d02f5dfe5f74.png"
+    },
+    {
+      "text": "萨卡班打年糕_面团",
+      "url": "https://i0.hdslb.com/bfs/garb/e6f846dfdb9bba656b8e0186713e2f61aebbc0df.png"
+    },
+    {
+      "text": "萨卡班打年糕_锤子",
+      "url": "https://i0.hdslb.com/bfs/garb/7946b7f59fc9082346ef3b818e60cc0a4883802c.png"
+    },
+    {
+      "text": "萨卡班打年糕_打年糕1",
+      "url": "https://i0.hdslb.com/bfs/garb/88552b1b9ac6b77599233b97e0cc2eb450ed9f3c.png"
+    },
+    {
+      "text": "萨卡班打年糕_打年糕2",
+      "url": "https://i0.hdslb.com/bfs/garb/fcf881e1535807739c7e91261e2b3e9a9fd3d818.png"
+    },
+    {
+      "text": "萨卡班打年糕_瘫",
+      "url": "https://i0.hdslb.com/bfs/garb/9f7d626fd0e8b047c0afaf28dfb9f2812fb03ec9.png"
+    },
+    {
+      "text": "萨卡班打年糕_对不起",
+      "url": "https://i0.hdslb.com/bfs/garb/6b0979008ed11b9a7004ce824e56ab0021fd519f.png"
+    },
+    {
+      "text": "萨卡班打年糕_嗨1",
+      "url": "https://i0.hdslb.com/bfs/garb/36bfc0812ae6e0e236b8a8f2a6b16c2649dec064.png"
+    },
+    {
+      "text": "萨卡班打年糕_嗨2",
+      "url": "https://i0.hdslb.com/bfs/garb/fe44035b7ee598161c2c2fca180078eb484ef586.png"
+    },
+    {
+      "text": "萨卡班打年糕_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/79baf6dbac2f07a36ba65bcfa77facc17366ef9c.png"
+    },
+    {
+      "text": "萨卡班打年糕_Bye",
+      "url": "https://i0.hdslb.com/bfs/garb/5b3e400de7fe799234d6ac8760f05bd8cdacc1a7.png"
+    }
+  ]
+}
