@@ -1,0 +1,128 @@
+{
+  "id": 10603,
+  "text": "纸嫁衣动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/69cc340b212139a13493e24186ab6aa077a54871.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "纸嫁衣动态表情包_来了",
+      "url": "https://i0.hdslb.com/bfs/garb/1bb7c82d22308112b00da2939603c5708f05153d.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/380e3b251974af6eb4d8cb843044e57345fb1f8b.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/2c56781eca0406d6c4b13c78776635e649290d39.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_邀请",
+      "url": "https://i0.hdslb.com/bfs/garb/39ea8a33fc849c34effc3b767b12aa861d86adcf.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/61d60f744f3c21b3fa45de2515993565b5f7d5ef.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/2f03e70f886b5e0374336beee4e7c2361a838ea2.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_正直",
+      "url": "https://i0.hdslb.com/bfs/garb/2769bbf2eba58736cac715cb941970ae7806c137.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/be23712aa6d00c6c4ace758c9e0326706f448dca.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/8d48edebecb11a5295a3a88179b484d04380898c.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_比心左",
+      "url": "https://i0.hdslb.com/bfs/garb/f369dd0b29a97ceb3946dcfa635b962b00701380.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/c22068102b61e0b5f3f0b4715ec9063cba712ad6.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/341eaf55cba02299a9d43447401b7da2994c15da.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_比心右",
+      "url": "https://i0.hdslb.com/bfs/garb/29fe1ee23a544c8061c397edcb9498355a7f904e.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/2947b292984a35932d6efdc488a00d8581ff9c81.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/af64fb50b0096f5f8ca70a601c6c7c6dd0e3c7b2.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_yes",
+      "url": "https://i0.hdslb.com/bfs/garb/8cd18f9948585ba13129d3a01c57af73ba190098.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/2fd96dbb00d9d83653200a621d602f09e8c4a483.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/fc648114ea457538dbf8b114af4dca437b3f1831.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_no",
+      "url": "https://i0.hdslb.com/bfs/garb/99849bb818996fb45d05b82943c6a4a9561a55aa.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/de36c4bb137cd6d09874a16b1bae9af4924796f2.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/b611f997646c7bb1a613bc9ba6a14c6644f5d62c.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_疑问",
+      "url": "https://i0.hdslb.com/bfs/garb/e7f30891ab169b2bb8c69788990ffa474984f8ae.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/4d2579a064e4b96d959dcc74e9668d39aeaa58f6.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/d841e0af48ed6632c2a37c16a7efa89fd018486b.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_学习",
+      "url": "https://i0.hdslb.com/bfs/garb/175d9e484ab35661efee1056a32424205b988ceb.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/4712e27035914aa87978f8e0c1ef41b464dcfb6d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/c40c19b7b5b36cbbb7e6e5dba81ca6935c6cbca1.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_mvp",
+      "url": "https://i0.hdslb.com/bfs/garb/a417841b9d9c512a372ef7d4d44ca99ebb11aa60.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/dcca3ad549c5ae57c4925db0308af304ceaa50cf.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/add91f8efdf726810c25f8c8bb2005ccd03443e9.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/0b8ae59f2358b7df950311930b600191cde4c84b.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/00b8da6783b78e7ae708aa791b5546e508257e95.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/42cccccc6300c9ea12e8fdb3f700d48d4af77c98.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_亮证",
+      "url": "https://i0.hdslb.com/bfs/garb/4e35e863796076782fd454ee341f6aa496442c82.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/ee787ce1fe15689ee57fce08276192afd48b2726.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/bcd1687194a2c361ffb9204b885cbf5a4717230c.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_满血复活",
+      "url": "https://i0.hdslb.com/bfs/garb/d914d460186a3b7b206ee211826dbf0339cf372b.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/bc4ebda6b5c1da101b3110cd268693ca84eda783.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/b5ac00e13fecca2fb38fc5ad40adf01f93ae1c91.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/0332caf961513d579c165f6bd5655f2e38599e74.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/4ac84fb2f82e8889d5dde39e8e074af871326d63.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/cc1c170f75e3913c664b2202b7255ad4c543c5de.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/75ba79f723e43797c2f68066f3faff93a3e3c072.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/fef23455f3bbd2016a96b0d092971b212d79de0d.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/34ec11ecd2d196030f7acc9b3c9166c444d596bf.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_打",
+      "url": "https://i0.hdslb.com/bfs/garb/95cea3afacf3fe817341ce620c49c4699698b762.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/3ed6149f9fa2243216b4ca6a38aab038d2d77dba.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/19ead43d0374aa317e1fc532ef3b5a8f1029170d.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_惊",
+      "url": "https://i0.hdslb.com/bfs/garb/50a40aa6c5560c614f41ae071a6a2df72c5904e4.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/9b1a831bc23a978c04b0af72d74cc900820297b3.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/5f563719ee4a41eab07caf57740086320f35f840.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_嘘",
+      "url": "https://i0.hdslb.com/bfs/garb/8f06e5881da1093388c175e0a1ef17cc1bea8426.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/46d1237b885430c5f2bff32f16eeb4e2a3c995cd.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/f9ad0898d9f9a95a712b8741866bad5355667444.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_OUT",
+      "url": "https://i0.hdslb.com/bfs/garb/e5cfdaca0ef390c65389aba63440e0ddcae5ed83.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/f7046bfa4e45136d8df236e5c9832700fbb6c639.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/c71d2b5068171d9264fe0749be626f98bd822f46.webp"
+    },
+    {
+      "text": "纸嫁衣动态表情包_等",
+      "url": "https://i0.hdslb.com/bfs/garb/cea7d52168734b0d8a7ef6c24034cc60edaf2a2b.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/d8753c0394564fca1431eb8b529df58a3cfd6e56.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/ee3d1c842310154f6af448a5dc1935cc381417b5.webp"
+    }
+  ]
+}
