@@ -1,0 +1,68 @@
+{
+  "id": 10613,
+  "text": "鼠鼠滑雪大冒险",
+  "icon": "https://i0.hdslb.com/bfs/garb/8260bbb1c93d9db59afed75658340988bc37dfa8.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "鼠鼠滑雪大冒险_生气",
+      "url": "https://i0.hdslb.com/bfs/garb/3722af280080f8721abe55285f2370bc5f48bf0c.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_高兴",
+      "url": "https://i0.hdslb.com/bfs/garb/53efee0a0548dde545724d23f99a6155af3a3d6a.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/dccebec071801992156d7562b84650dda6dce786.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_开饭",
+      "url": "https://i0.hdslb.com/bfs/garb/4944579811a812fc5f16cfe97efd52c40d6555a0.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_无语",
+      "url": "https://i0.hdslb.com/bfs/garb/caab084df7b8281579ef05caa6453dfee2bf4053.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_忧郁",
+      "url": "https://i0.hdslb.com/bfs/garb/21ec66ec3761274276468a87d28ef3358aa76f73.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_yes",
+      "url": "https://i0.hdslb.com/bfs/garb/bae8aa9adf0e1ee68ad92c4cc16f773a2800af33.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_no",
+      "url": "https://i0.hdslb.com/bfs/garb/a006af9134435e645c5f9f61a93a7dd7928c3401.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_惊讶",
+      "url": "https://i0.hdslb.com/bfs/garb/b5fdb15b4aca448c48f70a0a5ac5b045c6ff5248.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_爆哭",
+      "url": "https://i0.hdslb.com/bfs/garb/626a3e37042c8d91843fdf79124e6187137fa99c.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_okk",
+      "url": "https://i0.hdslb.com/bfs/garb/15ecf0e2468d7151404b047157a5ae7ca285de92.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/7b56154448a1580ef6ee67130925d70a38563094.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_加油",
+      "url": "https://i0.hdslb.com/bfs/garb/918dc6fdcb466985a8368c22d3997d9dfaff69fa.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_卖萌",
+      "url": "https://i0.hdslb.com/bfs/garb/fdbde1617041a2966e82a74a2df17a4de56ba4e4.png"
+    },
+    {
+      "text": "鼠鼠滑雪大冒险_贴贴",
+      "url": "https://i0.hdslb.com/bfs/garb/d0d633b49db9c6a87c23a7b7086f9b2dbc567921.png"
+    }
+  ]
+}
