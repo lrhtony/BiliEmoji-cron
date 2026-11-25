@@ -1,0 +1,68 @@
+{
+  "id": 10619,
+  "text": "流星小黑猫",
+  "icon": "https://i0.hdslb.com/bfs/garb/19664edd35dbca42f2962c8d81a404bbe5ad0f3b.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "流星小黑猫_飞过",
+      "url": "https://i0.hdslb.com/bfs/garb/1eda8f8b28f46405faa3cef81a127f1cbb30df23.png"
+    },
+    {
+      "text": "流星小黑猫_接住",
+      "url": "https://i0.hdslb.com/bfs/garb/6904d4a08407eefbfc2a67b78c2222d061092bd1.png"
+    },
+    {
+      "text": "流星小黑猫_拍照",
+      "url": "https://i0.hdslb.com/bfs/garb/621397d8102fe3a535b5beaabf0ae9470af0291b.png"
+    },
+    {
+      "text": "流星小黑猫_祈祷",
+      "url": "https://i0.hdslb.com/bfs/garb/2c37a22a990bd7885ea8c97bdb213323d164e4e5.png"
+    },
+    {
+      "text": "流星小黑猫_占卜",
+      "url": "https://i0.hdslb.com/bfs/garb/a340540359453e82656afec9c42de0f95fa2e51f.png"
+    },
+    {
+      "text": "流星小黑猫_晚安",
+      "url": "https://i0.hdslb.com/bfs/garb/ebb6af9e82ee2974bcb2d34e9f538600ffba8a8c.png"
+    },
+    {
+      "text": "流星小黑猫_早",
+      "url": "https://i0.hdslb.com/bfs/garb/619fc116c4c49bd9536f5c84a75a25b75db1b20c.png"
+    },
+    {
+      "text": "流星小黑猫_记录",
+      "url": "https://i0.hdslb.com/bfs/garb/cba2eed327b770fc6a551f62d6c51dc86c389e42.png"
+    },
+    {
+      "text": "流星小黑猫_礼物袋",
+      "url": "https://i0.hdslb.com/bfs/garb/66ff12db66a0418f10b9e1540411970913cd06ad.png"
+    },
+    {
+      "text": "流星小黑猫_装入",
+      "url": "https://i0.hdslb.com/bfs/garb/e9cf20d384b85d83fd9a220f85620ce11b9f045f.png"
+    },
+    {
+      "text": "流星小黑猫_一杯猫",
+      "url": "https://i0.hdslb.com/bfs/garb/513e846a786805e3891933117f8fd2614c149741.png"
+    },
+    {
+      "text": "流星小黑猫_探头",
+      "url": "https://i0.hdslb.com/bfs/garb/6095865bf45a88259fc3782f0183c97db196d11d.png"
+    },
+    {
+      "text": "流星小黑猫_出发",
+      "url": "https://i0.hdslb.com/bfs/garb/aa0fafc6d7f59c91a00e7e6bee13fa4a598eb049.png"
+    },
+    {
+      "text": "流星小黑猫_水中影",
+      "url": "https://i0.hdslb.com/bfs/garb/89bc7b7211c57d0f63a48fb9165d15874eda03fe.png"
+    },
+    {
+      "text": "流星小黑猫_望远镜",
+      "url": "https://i0.hdslb.com/bfs/garb/42a942bd2c16b9f3e3cb4ab7e1007dd32f5a0de6.png"
+    }
+  ]
+}

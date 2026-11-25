@@ -1,0 +1,98 @@
+{
+  "id": 10620,
+  "text": "蜘蛛侠动态表情包",
+  "icon": "https://i0.hdslb.com/bfs/garb/76e700f9bffb6edcc505036693d478d518d64ab9.png",
+  "resource_type": 1,
+  "emote": [
+    {
+      "text": "蜘蛛侠动态表情包_警告",
+      "url": "https://i0.hdslb.com/bfs/garb/97d99b87352df2ed7df09db48d7b214728d8c848.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/ce7f1882ce7d8a8069737f3c89a299063f7574f6.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/d4f274c014621690bd8b947c17dcc42e92ca31bd.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_发射",
+      "url": "https://i0.hdslb.com/bfs/garb/96cc8d0b99b19ea4450bc73ef218995f730fa722.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/66a2e6f1beab689a3f891ddae47629ef0adb866a.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/884b75b48d03d9eeb7abec9d04f6b6e5243d3737.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_碎碎念",
+      "url": "https://i0.hdslb.com/bfs/garb/63a5e7f5400095a24df5c61c934f93c8f4566700.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/b995bcb3e1c302f450bd9c6e8de3f9e55e326662.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/6f5eb9e471e86bcde23b6d5ac0d01c7e661d9d1d.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_投币",
+      "url": "https://i0.hdslb.com/bfs/garb/6c986fc49c1009f28f1223ca66be3c6d4a1f2bca.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/e1012a7b552222d8731a3b3a724bf45d84d2d6a8.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/00672b140d3605892c37b3d2e2620e004837163a.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_蜘蛛网",
+      "url": "https://i0.hdslb.com/bfs/garb/d0978332d17243f26a203eb1abdfa3064c7de99c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/8c3b6597db61ffadeb7066d17548e542f36d163f.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/175f9035090a76b5168eeb3a4e1adf5f8f5b4fa1.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_蜘蛛侠",
+      "url": "https://i0.hdslb.com/bfs/garb/07bc2bda62ac41c1da7e18e72edb90a5e9423034.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/b4a6571d5342d5f467a56921003b0ff0636fe2c1.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/2e4129b4f7ad26d0749b2be8fa509a0aa9254153.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_我来了",
+      "url": "https://i0.hdslb.com/bfs/garb/ca7d3fc23218686378da4bb1b6ce37faeb6fbb9c.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/7c122b9c5425444afb823aed2345e79756796710.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/428610b0e7897ef593c87d670cfbc19e620ecb64.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_飞",
+      "url": "https://i0.hdslb.com/bfs/garb/646a828b70c6297bea807bff5fc9eed81e157421.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/d156afc076a3d1ca8a6c95b46e287d13f83cd9d6.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/559f4fe680329ad8bb05d38bf6c1d28ced3022e9.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_叹气",
+      "url": "https://i0.hdslb.com/bfs/garb/1c9a4381a48fd206fb58dedacb3ca5c5ddb5b603.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/8e7efd67e8d716366c67f47b4d4483adf8eb1717.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/47c1ac5abc1ecd0bdd90bebd62432c816712d623.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_点赞",
+      "url": "https://i0.hdslb.com/bfs/garb/3e8e515642974e11f3ba9f371c8c048c9b9c9477.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/54c25be4eb806bae6561b8365499dd3216768894.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/1ec54d7ed41aa60d947c6236d2697a05b8384279.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_掉血",
+      "url": "https://i0.hdslb.com/bfs/garb/216762b30506e6dfe20ceb04f1f795fe402619c6.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/d32de6043352e63cd40715e9a5083813650320d3.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/3403c671d5a4fd24805e5e125a0deba8eeb757eb.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_跑跑",
+      "url": "https://i0.hdslb.com/bfs/garb/c0331a6129a5452b5a68c490460ece4e88149108.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/9d7e0d47579e7d968bbbc2fb7af69eb112b71b94.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/d241322d4f5578baa88394545439ccfe04d2c988.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/9754a01bfe0f02969bdc6ba89876eec1a8f08150.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/58a2a07fb49e679f234f9991392fbe4f022b574f.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/afda0950c26fdb534d4436103285cf502c335e6d.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_嘿嘿",
+      "url": "https://i0.hdslb.com/bfs/garb/d490a189b9cef3885c357f3df9b4c1d8d18065f8.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/1184b2f7d1d6f3d8daf42b98e15b2c31318d8dd9.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/09c883cd6e4e5ced233f3d97e62cd8d1af39afa4.webp"
+    },
+    {
+      "text": "蜘蛛侠动态表情包_火大",
+      "url": "https://i0.hdslb.com/bfs/garb/28974ea4e06c7bad5d0617ac9f3ced80a9689d06.png",
+      "gif_url": "https://i0.hdslb.com/bfs/garb/8da532fbcef2eaa9c74463d309d4e42b96cfdba1.gif",
+      "webp_url": "https://i0.hdslb.com/bfs/garb/d2e577accd6fa06233d3c4689ef3cc27a73ff6ab.webp"
+    }
+  ]
+}
