@@ -1,0 +1,108 @@
+{
+  "id": 10623,
+  "text": "星沃·闲暇时光",
+  "icon": "https://i0.hdslb.com/bfs/garb/1f1cc4669401eeb624bb4731199cdce010d820fa.png",
+  "resource_type": 0,
+  "emote": [
+    {
+      "text": "星沃·闲暇时光_呜呜",
+      "url": "https://i0.hdslb.com/bfs/garb/b191f34a5de3b32138d1e107ba3a069a0b05933a.png"
+    },
+    {
+      "text": "星沃·闲暇时光_哼",
+      "url": "https://i0.hdslb.com/bfs/garb/6a72ca11d3e131e708ed0329ba82951e6e7dafa6.png"
+    },
+    {
+      "text": "星沃·闲暇时光_听不见",
+      "url": "https://i0.hdslb.com/bfs/garb/592467926f9e286516639d67fb427b4b0bb06f20.png"
+    },
+    {
+      "text": "星沃·闲暇时光_害怕",
+      "url": "https://i0.hdslb.com/bfs/garb/5604bfb56f5a5a542cd177bbd6d549958ede9065.png"
+    },
+    {
+      "text": "星沃·闲暇时光_唱歌",
+      "url": "https://i0.hdslb.com/bfs/garb/9e001b680fd5f6636a0f2447922c9a557a4de6db.png"
+    },
+    {
+      "text": "星沃·闲暇时光_对不起",
+      "url": "https://i0.hdslb.com/bfs/garb/ebaa05a9273200b9b12bd57c4efbfac0c2ca751b.png"
+    },
+    {
+      "text": "星沃·闲暇时光_尴尬",
+      "url": "https://i0.hdslb.com/bfs/garb/d0559e226781e429c1ecf50881c780ac6882d0c9.png"
+    },
+    {
+      "text": "星沃·闲暇时光_小事一桩",
+      "url": "https://i0.hdslb.com/bfs/garb/7b2b62b9d9ef33d05132456836422a0e7f028b46.png"
+    },
+    {
+      "text": "星沃·闲暇时光_干饭",
+      "url": "https://i0.hdslb.com/bfs/garb/4563025f8d596f29d28b7132fb90de9ceaf8d1c7.png"
+    },
+    {
+      "text": "星沃·闲暇时光_得意",
+      "url": "https://i0.hdslb.com/bfs/garb/cc7bac800cf15c378d3975e607856d64145e3c12.png"
+    },
+    {
+      "text": "星沃·闲暇时光_给你",
+      "url": "https://i0.hdslb.com/bfs/garb/aff6946d105d0dca6eeff1dc7c341dd358048278.png"
+    },
+    {
+      "text": "星沃·闲暇时光_睡觉",
+      "url": "https://i0.hdslb.com/bfs/garb/aae30ff38017156f87f6b1755aef3066ff6f42e8.png"
+    },
+    {
+      "text": "星沃·闲暇时光_惊吓",
+      "url": "https://i0.hdslb.com/bfs/garb/94eb441979913f65c37a4a7463c8484048e6e43e.png"
+    },
+    {
+      "text": "星沃·闲暇时光_比耶",
+      "url": "https://i0.hdslb.com/bfs/garb/01ff2dc1201f819052cebc8372e45d00130c8ff4.png"
+    },
+    {
+      "text": "星沃·闲暇时光_期待",
+      "url": "https://i0.hdslb.com/bfs/garb/45d76e878b253f7526360c91bc248f077d51d094.png"
+    },
+    {
+      "text": "星沃·闲暇时光_要摸摸",
+      "url": "https://i0.hdslb.com/bfs/garb/413652da461eecebaeab9d36f4b409ef71222189.png"
+    },
+    {
+      "text": "星沃·闲暇时光_疑惑",
+      "url": "https://i0.hdslb.com/bfs/garb/8f7a46338b91c76a6e72d549ecc4d2cb02342a42.png"
+    },
+    {
+      "text": "星沃·闲暇时光_烦诶",
+      "url": "https://i0.hdslb.com/bfs/garb/c520165ecf7a8cb7a3e59171593e5b8030aef278.png"
+    },
+    {
+      "text": "星沃·闲暇时光_看戏",
+      "url": "https://i0.hdslb.com/bfs/garb/ef50561356bcf0999383b4e875566ea55f0023ee.png"
+    },
+    {
+      "text": "星沃·闲暇时光_表白",
+      "url": "https://i0.hdslb.com/bfs/garb/849750c7feb6a007c6659cd5cb9a5a3492853897.png"
+    },
+    {
+      "text": "星沃·闲暇时光_来啦",
+      "url": "https://i0.hdslb.com/bfs/garb/a7442f5257e7c6feca5b98aa2fcfa1704162949c.png"
+    },
+    {
+      "text": "星沃·闲暇时光_比心",
+      "url": "https://i0.hdslb.com/bfs/garb/d36d91bf9331d44bb5f630ae2ff50195abb64947.png"
+    },
+    {
+      "text": "星沃·闲暇时光_自信",
+      "url": "https://i0.hdslb.com/bfs/garb/f92ce96e2ff170b2561cb1061c0e0f72f4dd2bc5.png"
+    },
+    {
+      "text": "星沃·闲暇时光_打招呼",
+      "url": "https://i0.hdslb.com/bfs/garb/7772407592462f7baef23a28a003ce4af017e640.png"
+    },
+    {
+      "text": "星沃·闲暇时光_思考",
+      "url": "https://i0.hdslb.com/bfs/garb/299ebe86f5fe67a116c34c0b7e82b0902671695a.png"
+    }
+  ]
+}
